@@ -4,6 +4,8 @@
 
 线上地址：<https://zenghui1898.github.io/kol-archive/>
 
+推送到 `main` 后，GitHub Actions 会把仓库根目录部署到 GitHub Pages。
+
 ## 如何新增一位 KOL
 
 1. 在仓库根目录放入 `<slug>/` 文件夹，其中包含：
