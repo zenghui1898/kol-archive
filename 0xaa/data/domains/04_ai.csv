@@ -1,0 +1,1220 @@
+﻿id,date,kind,domain,substance_score,rule_hits,likes,retweets,replies,views,text,url
+2113092805501546667,2026-10-22 10:19:18,orig,04_ai,4.59,1,21,2,5,7174,"Railway 被黑了，用户保存的环境变量可能已经泄漏，比如 API 密钥和数据库等敏感信息。
+
+vibe coder 是重灾区。如果你用过 Railway 部署应用，记得轮换暴露的 API Key，包括但不限于 OpenAI/Claude， Cloudflare，AWS等。 https://t.co/YNf0Dl9ege",https://x.com/0xAA_Science/status/2113092805501546667
+2111041810084831594,2026-10-16 18:29:23,reply,04_ai,-2.62,0,0,0,0,2387,@huang92388 只有我觉得 Astra 很难用吗，用几下就会触发一个失败的提示，让我切换模型,https://x.com/0xAA_Science/status/2111041810084831594
+2110986228309139736,2026-10-16 14:48:31,orig,04_ai,4.11,0,88,8,18,14756,"没想到小王子3D游戏的作者 @Saccc_c 也是我们 xAPI 的忠实用户，每个 agent 都会装。
+希望大家也多试用下 xAPI，一句话就能让 Agent 安装，并调用所有工具： 
+npx skills add xapi-labs/xapi-cli
+https://t.co/SFHUASJE2o https://t.co/UMDlYUy3NP https://t.co/EesqTqHm4R",https://x.com/0xAA_Science/status/2110986228309139736
+2110731307550699584,2026-10-15 21:55:33,orig,04_ai,4.59,1,100,2,63,88244,"为什么 codex 风评下降的这么快？
+上个月还是小甜甜，现在就变成牛夫人了",https://x.com/0xAA_Science/status/2110731307550699584
+2110610208141853101,2026-10-15 13:54:21,reply,04_ai,-2.75,0,0,0,0,679,"@Saccc_c 感谢支持，我们努力迭代 xapi。
+有意见随时说！",https://x.com/0xAA_Science/status/2110610208141853101
+2110472582906708444,2026-10-15 04:47:29,reply,04_ai,-2.77,0,0,0,0,411,@HER_721 太复杂的不好做 现在AI还是简单机制+快速产出,https://x.com/0xAA_Science/status/2110472582906708444
+2110387041582346482,2026-10-14 23:07:34,orig,04_ai,3.46,0,55,1,22,17988,"试了一下小王子页游，没想到现在一个人 + AI 就已经能做出这么精美的模型和游戏了。
+我觉得我又行了，准备试试 Tripo AI 和 Blender，大家想玩什么游戏？ https://t.co/6FemnnmjTe https://t.co/6QM18r5Pjn",https://x.com/0xAA_Science/status/2110387041582346482
+2110249893466087719,2026-10-14 14:02:35,reply,04_ai,-2.32,0,1,0,0,459,@urionzh @elonmusk @X @bot @cursor_ai 那点额度早就不够了，要用的话就订阅cc max,https://x.com/0xAA_Science/status/2110249893466087719
+2109926775899996650,2026-10-13 16:38:38,reply,04_ai,-1.54,0,2,0,0,1177,"@hinn1231026 @elonmusk @X @bot @cursor_ai 嗯 我现在用cursor只用 grok 自家模型了。
+因为本身 cursor 含的额度也不够用，要用的话直接开 codex / claude 套餐。",https://x.com/0xAA_Science/status/2109926775899996650
+2109913025646154191,2026-10-13 15:44:00,reply,04_ai,-2.69,0,0,0,1,1486,@genffy @elonmusk @X @bot @cursor_ai 你只要订阅了 X 蓝标套餐，就可以切换到这个统一订阅，不会更差,https://x.com/0xAA_Science/status/2109913025646154191
+2109911701202362492,2026-10-13 15:38:44,orig,04_ai,4.16,0,55,0,30,37537,"马斯克把 X, Grok Bot, Cursor 的订阅统一到一个账户了，现在订阅一个套餐就能使用所有产品。
+我选了月费 30u （首月15u）的套餐试试水，相比之前的 70u （X Premium+ 50u, Cursor 20u）省了 40u/月，还是不错的。
+就是不知道我推特订阅的套餐能不能现在退订？
+@elonmusk @X @bot @cursor_ai https://t.co/EMkcE0CfmE",https://x.com/0xAA_Science/status/2109911701202362492
+2108228856587157765,2026-10-09 00:11:43,orig,04_ai,7.9,3,65,5,81,17267,"今天中午参加了币安的产品交流会，产品负责人 Jeff @taida88 也来了，介绍了币安打造超级交易App的主线，大家可以找找alpha。
+
+1. RWA上链（股票/大宗商品）：股票底池meme最近很火，之后商品meme也有机会？
+2. AI：希望有链上 AI 项目能跑出来，也期待 xAPI 能和币安有深度合作 @xapi_to 
+3. 支付 https://t.co/zfqKDbnB7k",https://x.com/0xAA_Science/status/2108228856587157765
+2108038301240455189,2026-10-08 11:34:31,orig,04_ai,5.33,1,113,5,22,30443,"Grok Bot 应该是被 Muse 揍的有点肿，马斯克决定把焚决交了：把 X API 直接开放给 Grok Bot。
+低频的推特监控/总结现在可以直接用 Grok Bot 来做了，高频的还是要通过 API。 https://t.co/SNt5F5kY5m",https://x.com/0xAA_Science/status/2108038301240455189
+2107312720303530047,2026-10-06 11:31:19,orig,04_ai,2.29,0,17,0,3,6527,谷歌网盘和文档也支持 markdown 格式了，AI 时代 docx 已经过时了。 https://t.co/wWD7EIbxKm,https://x.com/0xAA_Science/status/2107312720303530047
+2106010172372156730,2026-10-02 21:15:27,orig,04_ai,3.48,0,87,4,19,16745,"随着我用 AI 做的事情越多，我就越来越认同这句话：
+你可以外包你的思考（给AI），  
+但你无法外包你的理解。 https://t.co/APbhGX2Osn",https://x.com/0xAA_Science/status/2106010172372156730
+2104899734565683315,2026-09-29 19:42:58,orig,04_ai,4.29,0,107,16,20,29784,"Agent 获取链上数据可以很简单。🤖
+
+xAPI 联合 BlockPI，正式上线覆盖 60 条 EVM 网络的 RPC 服务。
+
+🔑 仅需一把 Key
+💸 $3/100万次RPC调用
+⚡ 无需自建节点，无需订阅套餐
+
+让 Agent 轻松上链 👉 https://t.co/SFHUASJE2o https://t.co/L8ZWxswEpa https://t.co/hnQjuIdLKo",https://x.com/0xAA_Science/status/2104899734565683315
+2103052528120390129,2026-09-24 17:22:50,reply,04_ai,-2.77,0,0,0,1,1347,@0xasten prompt enginnering 烂尾了吗,https://x.com/0xAA_Science/status/2103052528120390129
+2101608931365961858,2026-09-20 17:46:29,orig,04_ai,2.94,0,59,1,38,18731,最近我晒盈利的时候都是顶，AI 楚门世界能破除魔咒吗？ https://t.co/uLH0DrRmHc,https://x.com/0xAA_Science/status/2101608931365961858
+2099865464533074426,2026-09-15 22:18:35,reply,04_ai,-0.77,0,7,1,2,2690,"让你的 Agent 一行命令接入 xAPI 🤖
+
+npx skills add xapi-labs/xapi-cli
+
+无需交易所账户，无需为每个服务单独配 Key，没有月费。",https://x.com/0xAA_Science/status/2099865464533074426
+2099864419710935450,2026-09-15 22:14:25,orig,04_ai,4.77,0,152,25,18,31148,"我们让每一个 Agent 都能免费用上 Web3 API 🤖
+
+联合币安钱包 @BinanceWallet ，xAPI 正式上线 Binance Web3 API，全部 58 个端点现已开放！🤝
+
+📊 行情 / 交易 / Meme / Stock
+🌐 多链覆盖
+💸 每次调用 $0，让 Agent 放手去干
+
+仅在 xAPI:  https://t.co/SFHUASJE2o
+@xapi_to https://t.co/sUqMGSqvvM https://t.co/MJo4RLmnWM",https://x.com/0xAA_Science/status/2099864419710935450
+2099038890468479231,2026-09-13 15:34:04,orig,04_ai,2.75,0,34,0,20,17182,"最近一个月， xAPI 的 Agent 调用量增加了 3 倍。 @xapi_to 
+等待下一个大发布！
+https://t.co/SFHUASJE2o https://t.co/9PeFseHchX",https://x.com/0xAA_Science/status/2099038890468479231
+2097971503103086799,2026-09-10 16:52:39,orig,04_ai,8.24,3,191,9,166,124257,"上个月，我代表我的项目 xAPI @xapi_to 参加了 YziLabs 的 Easy Rsidency S4，在不丹待了20天，体验感非常好。 
+现在 S5 开始报名了，地点在泰国，推荐创业者报名参与！
+主要的赛道：
+1. 区块链
+2. AI
+3. BIO https://t.co/pKuqMkbh6h https://t.co/XU1KetEHF2",https://x.com/0xAA_Science/status/2097971503103086799
+2094747024495387011,2026-09-01 19:19:43,reply,04_ai,-2.76,0,0,0,1,987,@seaify1 vibe coding时代，很多产品几乎没有门槛,https://x.com/0xAA_Science/status/2094747024495387011
+2094453327451091132,2026-08-31 23:52:40,orig,04_ai,3.25,0,43,6,58,11663,"直接在 Claude Code / Codex 中使用 Seedance 2.5 生成视频。
+
+无需订阅，按次付费，就在 @xapi_to 
+
+现在注册免费送 $1 额度: https://t.co/SFHUASJE2o https://t.co/XF6MTiIrCe",https://x.com/0xAA_Science/status/2094453327451091132
+2092582071386689737,2026-08-26 19:56:58,orig,04_ai,2.86,0,53,4,75,74063,"尼泊尔山洪下的吉隆口岸
+我一度以为是 AI 生成视频 https://t.co/cBZGDYR621",https://x.com/0xAA_Science/status/2092582071386689737
+2091208076137558465,2026-08-23 00:57:12,orig,04_ai,4.08,0,27,1,55,9462,"币安钱包正在办 bStocks AI 交易大赛 🔥
+
+让你的 Agent 通过 Binance Agentic Wallet 交易指定 bStocks，最高可瓜分 100,000 USDC 奖池，按Realized PnL（已实现盈亏） 进行排名。。 
+
+📅 活动时间：8/17–8/31（UTC）
+
+👉 活动详情: https://t.co/ILI2moMbtk
+
+官方的 binance-agent-wallet-skill https://t.co/ByDhxQQS4g",https://x.com/0xAA_Science/status/2091208076137558465
+2090808938841477558,2026-08-21 22:31:11,reply,04_ai,-2.63,0,0,0,0,1909,@AriaLeet @xapi_to Can you show the screenshot or video?,https://x.com/0xAA_Science/status/2090808938841477558
+2090400815349703025,2026-08-20 19:29:26,orig,04_ai,5.69,0,331,29,73,53115,"昨天尝试在 codex 里用 xAPI 的短信能力注册 OpenAI 账号，没想到真的成功了，成本 $0.06。今天补录了视频 @xapi_to
+
+xAPI 用起来很简单，让你的 agent 安装 skill：
+npx skills add xapi-labs/xapi-cli
+
+注册prompt: 
+/xapi 使用 codex 内置浏览器注册一个 OpenAI 账号，注册短信用英国手机号接。 https://t.co/novY0bjdV5",https://x.com/0xAA_Science/status/2090400815349703025
+2089645549184331778,2026-08-18 17:28:17,orig,04_ai,3.53,0,19,3,66,7748,"老码农: 好的 API 都很无聊
+受 Sean Goedecke 启发，我做了 old-coder-api Skill，帮助 Agent 设计和审查 HTTP/JSON API，在提交前检查兼容性、安全性与可运维性。
+
+安装: npx skills add https://t.co/hbAQKdR2Zz --skill old-coder-api
+
+repo: https://t.co/hbAQKdR2Zz https://t.co/iwI4AaAPmY https://t.co/eDifUIcXRV",https://x.com/0xAA_Science/status/2089645549184331778
+2089417644357419472,2026-08-18 02:22:40,orig,04_ai,2.66,0,39,2,43,16063,"在不丹的生活费都是德扑赢得 😂
+跟 AI 练真的有用 https://t.co/BaLpz9kQ8x https://t.co/mMqNbpXMJN https://t.co/lMANLa8d2O",https://x.com/0xAA_Science/status/2089417644357419472
+2088637244542484481,2026-08-15 22:41:38,orig,04_ai,3.51,0,66,2,36,19792,"Claude Code fable 5 修了10轮都没修好的bug，Codex gpt-5.6 sol 一次修好。
+
+如果你在用 CC，转向 Codex。 https://t.co/Bz2GSLPNNe",https://x.com/0xAA_Science/status/2088637244542484481
+2088609671573541109,2026-08-15 20:52:04,orig,04_ai,4.44,0,24,2,6,8527,"Uncle Bob Martin has been coding for nearly 60 years. His agent strategy: 
+Don’t read the code—make it run the gauntlet.
+
+I turned that idea into old-coder—an open-source skill with 10+ checks and an Evidence Report.
+
+500⭐️ on GitHub.
+https://t.co/m50Y5DUL61 https://t.co/2QF4Y1EhHv https://t.co/fPMYuIbQjk",https://x.com/0xAA_Science/status/2088609671573541109
+2088234522286719315,2026-08-14 20:01:22,orig,04_ai,2.6,0,26,2,43,30771,"上班/打狗/vibe coding 摸鱼，就来 https://t.co/BaLpz9kQ8x 😂
+用户的满意就是我继续更新的动力 🕶️ https://t.co/76Sn4iMN3h https://t.co/UjuqorXvzb",https://x.com/0xAA_Science/status/2088234522286719315
+2087857047744471317,2026-08-13 19:01:25,orig,04_ai,3.45,0,39,5,29,12792,"xAPI 已经支持 b402 （BNB Chain x402）充值。
+你可以无 gas 使用 U/USD1/USDT/USDC 进行支付，然后调用上百种 API，包括推特，谷歌搜索，短信，DeepSeek 等。
+https://t.co/SFHUASJE2o
+
+@xapi_to @BNBCHAIN @cz_binance @heyibinance https://t.co/QGab8aCW4u",https://x.com/0xAA_Science/status/2087857047744471317
+2087596370354221356,2026-08-13 01:45:35,reply,04_ai,-2.35,0,1,0,1,558,@Dongmoom55 感觉至少能新高吧，AI泡沫还没破，继续吹,https://x.com/0xAA_Science/status/2087596370354221356
+2087186944484892814,2026-08-11 22:38:40,orig,04_ai,2.5,0,15,1,82,19936,"AA 拿 AA 没毛病吧！
+建了个 X Vegas TG群，之后会开放 bot cli，让你的 agent 也能跟你打德扑，欢迎加入交流: https://t.co/UUXooCtFKp https://t.co/Qnhm9lZcBB https://t.co/aQiua4cN2X",https://x.com/0xAA_Science/status/2087186944484892814
+2086115270230450552,2026-08-08 23:40:13,orig,04_ai,6.59,3,27,7,12,28921,"给 AI 德扑游戏更新了一版：
+1. 之前1张桌子经常满，又开了一张。
+2. 支持推特账号登陆了，登陆后转发一次原推就可以玩，不需要邀请码。
+3. 开了人类战绩榜。
+https://t.co/sGvzFQ7Uud https://t.co/tC0G3acjil https://t.co/i6FQTd5Ygx",https://x.com/0xAA_Science/status/2086115270230450552
+2086071796634444088,2026-08-08 20:47:28,orig,04_ai,3.23,0,48,0,83,27623,"感觉 codex 越来越好用了，唯一的缺点就是慢，不知道是 harness 的问题还是模型的。
+考虑把套餐从 20u 提升到 200u 了",https://x.com/0xAA_Science/status/2086071796634444088
+2085680056534450435,2026-08-07 18:50:50,reply,04_ai,-2.29,0,1,0,1,409,@DataAgentX 可以，今天晚些时候上账号系统，之后就可以上人类排行榜,https://x.com/0xAA_Science/status/2085680056534450435
+2085679938292908321,2026-08-07 18:50:22,reply,04_ai,-2.82,0,0,0,0,985,@DataAgentX 哈哈 大家喜欢的话 周末多开放些位置,https://x.com/0xAA_Science/status/2085679938292908321
+2085668143180226792,2026-08-07 18:03:29,reply,04_ai,-2.74,0,0,0,0,458,@hawkinggggg 没学，只使用 prompt 给了风格，和一些牌力信息,https://x.com/0xAA_Science/status/2085668143180226792
+2085614280796434526,2026-08-07 14:29:28,orig,04_ai,2.78,0,16,2,19,19169,"让 AI 打了一天德扑，中间也有人类玩家加入。
+目前排名第一的是 菲尔（Phil Hellmuth 戏仿AI，紧凶人设），断层领先，+30w积分。
+第二是谭轩轩（松凶）
+最拉的是毒毒 😂
+https://t.co/sGvzFQ7Uud https://t.co/hMboz3LLPi https://t.co/i6FQTd5Ygx",https://x.com/0xAA_Science/status/2085614280796434526
+2085237252544938361,2026-08-06 13:31:17,orig,04_ai,1.92,0,13,1,87,14339,DeepSeek API 要大幅涨价了。 https://t.co/DbisU6pWKI https://t.co/011iv0uvID,https://x.com/0xAA_Science/status/2085237252544938361
+2085049318030057937,2026-08-06 01:04:30,orig,04_ai,3.17,0,62,41,98,75603,"把AI德扑游戏部署到线上了: https://t.co/sGvzFQ7Uud
+有兴趣的可以观战一下，或者找我要邀请码上去试试手。
+demo: https://t.co/Btg4oa0x5E https://t.co/xeoPALj0tH",https://x.com/0xAA_Science/status/2085049318030057937
+2084214647205568643,2026-08-03 17:47:49,reply,04_ai,-2.21,0,0,0,1,972,@scopenumber 如果直接用 LLM 做决策肯定不如 CFR 算法，但是 prompt 可以带上牌力/胜率/赔率/ CFR 策略概率，然后让 LLM 根据选手风格做出最后判断。,https://x.com/0xAA_Science/status/2084214647205568643
+2084159844672790562,2026-08-03 14:10:03,reply,04_ai,-2.77,0,0,0,1,1425,@Gmf_winner 目前是把操作习惯提炼成 prompt 给 AI,https://x.com/0xAA_Science/status/2084159844672790562
+2084156099410993175,2026-08-03 13:55:10,orig,04_ai,3.1,0,65,1,89,19948,7月沉迷 Vibe Coding 一个月，屁也没写出来，是时候回归战壕了！ https://t.co/rjHCDX3YvB,https://x.com/0xAA_Science/status/2084156099410993175
+2084155104689811633,2026-08-03 13:51:13,orig,04_ai,3.63,0,68,11,91,45980,"周末 Vibe Voding 了一个德扑游戏，里面的 NPC 的决策都走的 DeepSeek v4 flash，又快又省。
+感觉未来游戏里的 NPC 都会变成 AI NPC。 https://t.co/PlkHo8RkE6",https://x.com/0xAA_Science/status/2084155104689811633
+2083863357384487216,2026-08-02 18:31:55,orig,04_ai,2.89,0,48,4,63,20757,"老码农（old-coder） Skill 获得了 200 star 了
+https://t.co/m50Y5DViVz https://t.co/1wn8mZgt2Y https://t.co/wYbHdnvbbh",https://x.com/0xAA_Science/status/2083863357384487216
+2083148490595786992,2026-07-31 19:11:17,orig,04_ai,4.07,0,83,8,82,29174,"Claude 的宣传视频总是简洁好看，于是我让 Claude Code 逆向了它的风格，做成 ccvideo skill。
+现在一句 prompt 就能为你的产品生成同款宣传视频。为 xAPI 做的 demo 视频如下 👇
+
+repo: https://t.co/AXwvwptCHx https://t.co/7RMLaa08X3 https://t.co/BrictI0UfB",https://x.com/0xAA_Science/status/2083148490595786992
+2082482777883369784,2026-07-29 23:05:59,reply,04_ai,-2.66,0,0,0,1,1095,@walirttt python 用 cf agent sdk，起 linux vm 跑,https://x.com/0xAA_Science/status/2082482777883369784
+2082459809283194894,2026-07-29 21:34:43,orig,04_ai,3.53,0,47,2,59,14802,"中国成功研发光刻机，对 AI 的正面作用是巨大的。
+目前 AI 创造的红利，正在被少数垄断存储颗粒生产商收割，下游模型厂商竞争大，成本高，亏损大。
+如果工业革命的果实，大部分被石油国家拿走，你能接受吗？",https://x.com/0xAA_Science/status/2082459809283194894
+2082431479062393112,2026-07-29 19:42:08,reply,04_ai,-2.03,0,0,0,0,612,"@cryptoxiao 自己host我不知道
+市面上最便宜的agent sandbox，Daytuna 和 cf sandbox 大概 $0.1-0.2/h。
+而 cd durable object 不到 0.01/h",https://x.com/0xAA_Science/status/2082431479062393112
+2082424882563031074,2026-07-29 19:15:56,reply,04_ai,-1.66,0,2,0,1,1367,@cryptoxiao 其实做的就是把agent放在更便宜的durable object中，比cf sandbox等linux vm服务要便宜得多。,https://x.com/0xAA_Science/status/2082424882563031074
+2082416079587180621,2026-07-29 18:40:57,orig,04_ai,5.49,0,251,50,22,45600,"传统的 Agent 沙箱方案会给每个 Agent 一个完整的 Linux 环境，成本高，C端产品难规模化。
+这篇文章探索了另一个极端，完全放弃 Linux 沙箱，成本降低几个数量级，操作更简单：
+- 把 Agent 搬到自带 SQLite 的 Cloudflare Durable Object 
+- 原先的文件系统落在 SQLite 和 R2 上
+- 移除 bash，改为使用 https://t.co/QNMNAJ5fnH https://t.co/X0ultJFu62",https://x.com/0xAA_Science/status/2082416079587180621
+2082377866185212042,2026-07-29 16:09:06,reply,04_ai,-2.67,0,0,0,0,1010,@Janus00117 主要是 learning，其他占比不大，而且感觉也容易 AI 化。,https://x.com/0xAA_Science/status/2082377866185212042
+2082312208328032748,2026-07-29 11:48:12,orig,04_ai,8.16,3,107,11,62,29856,"AI研究员才是最容易被AI取代的职业
+在 LLM 爆火之前，AI/深度学习研究一直被戏称为“炼丹”。
+深度学习几乎没什么理论基础，大二学生学完高数/线代/概率论/机器学习，就能上手。
+AI研究高度经验主义：
+1. 研究员随机的调模型的网络结构、参数、trick（初始化/正则项/学习率/损失函数）
+2. https://t.co/UpB9iXhP2j https://t.co/YWnKWQUqwc",https://x.com/0xAA_Science/status/2082312208328032748
+2082125427796312132,2026-07-28 23:26:00,orig,04_ai,7.27,3,76,4,51,44328,"避免 Claude Max 封号的3个 tips:
+1. 注册用美国的谷歌邮箱
+2. 订阅用美区 AppStore
+3. 设备 vpn 切换到美国，并且永不切换其他地区",https://x.com/0xAA_Science/status/2082125427796312132
+2082050546090041848,2026-07-28 18:28:27,orig,04_ai,6.46,2,37,2,29,10335,"大部分 Prompt 和 Skill 短期有用，中长期没用。
+1. 常用的 prompt/skill，会被用来训练新一代模型，内化到模型中。
+2. 很多 prompt 是为了弥补目前模型的不足，比如规划、代码规范。 随着模型能力提升，不需要它们也能完成用户任务。
+
+Claude 新模型让 Claude Code 系统提示词减少 80%:",https://x.com/0xAA_Science/status/2082050546090041848
+2082007639811326340,2026-07-28 15:37:57,reply,04_ai,-2.37,0,1,0,0,1590,@Tinwung11 让ai把报告转换成文科生能看懂的就行,https://x.com/0xAA_Science/status/2082007639811326340
+2081935579399463204,2026-07-28 10:51:37,orig,04_ai,2.75,0,42,0,20,33758,A畜: 我们不反对开源权重模型，我们反对的是开源的权重模型。 https://t.co/idIR3GlQws,https://x.com/0xAA_Science/status/2081935579399463204
+2081795298553430278,2026-07-28 01:34:11,orig,04_ai,6.73,1,330,49,35,70102,"老码农 Skill
+Uncle Bob Martin 是位码龄近 60 年的老码农。他在推上分享了自己使用 coding agent 的经验：不读 agent 写的代码，而是让代码闯过层层关卡，才配被信任。
+
+我把这套思想做成了开源 skill：old-coder（老码农），方便大家使用。每个关卡代表一种测试或约束，old-coder 内置 10+ https://t.co/4ayJpKSjo5 https://t.co/fPMYuIco8S",https://x.com/0xAA_Science/status/2081795298553430278
+2080958375098253584,2026-07-25 18:08:33,orig,04_ai,3.1,0,47,1,60,13566,"我用 gpt-5.6 Terra 做了个人主页，让 AI 用 threejs 把我的头像粒子化重建了，效果还挺帅的。
+https://t.co/div3KGfk9H https://t.co/MAUUo5o0rG",https://x.com/0xAA_Science/status/2080958375098253584
+2080956546436264350,2026-07-25 18:01:17,orig,04_ai,2.09,0,16,0,94,22795,修复了，这次 ChatGPT 宕机了约50分钟。 https://t.co/9Qz0Iebkww https://t.co/RpR3todTyT,https://x.com/0xAA_Science/status/2080956546436264350
+2080947948180103582,2026-07-25 17:27:07,reply,04_ai,-2.39,0,1,0,1,2402,@denkisan_ @OpenAI 我觉得登陆验证是服务宕机的副作用,https://x.com/0xAA_Science/status/2080947948180103582
+2080947658089546018,2026-07-25 17:25:58,reply,04_ai,-2.64,0,0,0,1,3006,@DreamLucid83037 @OpenAI 我还去 chatgpt status 查了下，那时候官方还没发现问题 😂,https://x.com/0xAA_Science/status/2080947658089546018
+2080944604275441967,2026-07-25 17:13:50,orig,04_ai,3.31,0,81,0,106,58607,"ChatGPT 宕机了，Codex 和网页版均无法访问。
+难道被自己的 AI 黑了？ 😂
+@OpenAI https://t.co/t7uc5TInsz",https://x.com/0xAA_Science/status/2080944604275441967
+2080622222209876280,2026-07-24 19:52:48,orig,04_ai,10.78,5,122,28,50,58840,"梁文锋也是奇人了，做金融能量化割A股散户傻钱，做 AI 能蒸馏割 Anthropic 和 OpenAI。
+建议对 AI 感兴趣的朋友都读一下，我觉得有意思的几点：
+1. AI 可能会占到全人类 GDP 10% 。（目前不到1%）
+2. 现在 AI 的研究重点在持续学习。
+3. 溢价合适的话，有多少卡，买多少卡。
+4. 中国 AI https://t.co/wByr1p1oWo",https://x.com/0xAA_Science/status/2080622222209876280
+2079934711762427925,2026-07-22 22:20:53,orig,04_ai,6.19,2,26,1,77,10099,"OpenAI 测试新模型的网络安全能力，却导致了 HuggingFace 数据库被黑。
+这就相当于
+老王想打个飞机，却意外撬开隔壁老李家的门，把老李媳妇给睡了。
+
+比较有意思的点：
+1. 这可能是世界第一例 AI Agent 真实越狱事件 ⛓️🤖
+2. 测试时，OpenAI （攻击方）用的是越狱版（关闭安全审查模块）的模型，但 https://t.co/vDNVRv0OZl https://t.co/vXMYkhvNPz",https://x.com/0xAA_Science/status/2079934711762427925
+2078141725135249781,2026-07-17 23:36:11,orig,04_ai,3.27,0,32,3,57,18989,"如果开源模型和闭源模型的表现一样，所有人都会选择开源模型。
+除了给开源模型当飞机杯，疯狂蒸馏，闭源模型将没有任何价值。
+DeepSeek, GLM, Kimi &gt; OpenAI, Claude https://t.co/VB7lKCE2kj",https://x.com/0xAA_Science/status/2078141725135249781
+2077298759487369627,2026-07-15 15:46:33,orig,04_ai,3.27,0,95,2,106,30514,ChatGPT 每行只蹦几个词的说话风格，是哪个傻逼训练的？ https://t.co/XkVbHQSNSO,https://x.com/0xAA_Science/status/2077298759487369627
+2077013158791966968,2026-07-14 20:51:40,orig,04_ai,3.79,0,212,12,65,130450,中国各单位在全面排查 Claude Code 等境外智能体。 https://t.co/5l66YiXWA5,https://x.com/0xAA_Science/status/2077013158791966968
+2076953465579073919,2026-07-14 16:54:28,orig,04_ai,3.74,0,25,3,22,12412,"从马斯克和 xAI 的回复来看，之前对 Grok Build 偷偷上传用户隐私信息（即使用户开启了 零数据保留 选项）的质疑是真实的。
+目前这种行为已经停止，并且之前用户上传到 xAI 的所有数据也会被删除。
+
+之前 Claude Code 也被曝收集用户信息，尤其针对中国，最近不少公司在禁用 Claude Code 了。 https://t.co/2glbcDFakZ https://t.co/Rht5cxJOQ5",https://x.com/0xAA_Science/status/2076953465579073919
+2076621390900592719,2026-07-13 18:54:56,orig,04_ai,4.15,0,174,1,53,34373,"Codex 的每日限制被移除了，现在只有每周限制。
+虽然 Sam 是个骗子，但也比伪君子 Anthropic 强，希望 OpenAI 狠狠的干 Claude！ https://t.co/INmqBzAqf6",https://x.com/0xAA_Science/status/2076621390900592719
+2076212387410256194,2026-07-12 15:49:41,orig,04_ai,4.78,0,895,37,463,793407,"这是我见过最傻逼的微博热搜：
+密云局长买10亿token手搓防汛APP https://t.co/6DsfXiSm8c",https://x.com/0xAA_Science/status/2076212387410256194
+2075924778159112202,2026-07-11 20:46:50,orig,04_ai,2.88,0,37,2,36,25621,"Hyrox 在中国真的很火，仅次于 AI 了。
+比赛报名费 7-800，并且要抢，十几分钟就抢不到了。 https://t.co/pqGufDbwJi",https://x.com/0xAA_Science/status/2075924778159112202
+2074060407283892475,2026-07-06 17:18:29,orig,04_ai,2.39,0,10,0,6,8501,"这可能是 xAPI 的小创新，目前我还没看到任何其他中转站🈶类似的模型路由。
+这意味着你只需要在 base_url 带上 model，不需要去配置繁琐的 model。 https://t.co/XNXDhp4yg9",https://x.com/0xAA_Science/status/2074060407283892475
+2074058535860933059,2026-07-06 17:11:03,orig,04_ai,3.7,0,17,4,12,14997,"xAPI 最新支持了模型路由：将任意请求指向固定目标模型
+
+例如 https://t.co/feSXAobTSK 会将任何 OpenAI/Anthropic 格式的AI请求（不管 Opus 4.8 还是 gpt-5.5）指向 DeepSeek-v4-pro。
+支持 Claude Code, Codex 以及任意 Agent，方便你使用便宜的AI模型！
+
+使用邀请码 xapito 注册，免费赠送 $1 额度: https://t.co/g1kepuDgwL https://t.co/fETHcArptu",https://x.com/0xAA_Science/status/2074058535860933059
+2071981105352466929,2026-06-30 23:36:05,orig,04_ai,7.66,3,30,6,13,11443,"找到用 Cursor App 控制本地 Cursor Agent 的方法了，藏的好深！
+
+1. 在 Cursor 个人账号页面开启权限：Cloud Agents - Self-Hosted - Enable remot-control
+https://t.co/cuNmQH6Rej
+
+2. 在 Cursor App 点击小云朵 ☁️ 按钮，切换到 My Machines，就能切换到电脑本地 Agent 了。 https://t.co/KsKWSzyRZV https://t.co/J4xv1sMYzm",https://x.com/0xAA_Science/status/2071981105352466929
+2071871313241591981,2026-06-30 16:19:49,reply,04_ai,-2.2,0,1,0,1,764,@JfwRk claude和codex主要还是专业用户 未来个人agent还是有市场,https://x.com/0xAA_Science/status/2071871313241591981
+2071867846305456618,2026-06-30 16:06:02,orig,04_ai,4.76,1,35,1,18,14185,"龙虾 OpenClaw 🦞推出了App端，虽然UI很丑，我还是想测下的，毕竟买龙虾meme赚了钱。
+
+但我 Mac mini 上的龙虾怎么都没法正常运作 😂 看来团队拿了 OpenAI 一大笔钱，开始摆烂。
+如果你还在用龙虾，说明你已经out了。 https://t.co/z9FUQnvNbZ",https://x.com/0xAA_Science/status/2071867846305456618
+2071855937560736216,2026-06-30 15:18:43,orig,04_ai,3.29,0,26,2,17,17135,"试用了下 Cursor iOS App，感觉就是把 cursor cloud agent 用 App 包装了下，还是个半成品。
+我只能和自己的 GitHub repo 对话，没找到连接本地 Cursor 的地方，和宣传的不一致。
+@cursor_ai @elonmusk 
+
+https://t.co/o0LUQmueFu https://t.co/XysRk5J5gE",https://x.com/0xAA_Science/status/2071855937560736216
+2071580228930224590,2026-06-29 21:03:09,orig,04_ai,8.61,4,36,8,12,13980,"今天试了下腾讯QQ搞得 Agent Mail，用起来挺简单的，大家可以玩玩，作为 Gmail 的替代给 Agent 使用。
+
+步骤：
+1. 打开网址 https://t.co/BCMSdnEqva ，目前仅支持微信登陆，跟着流程启用 Agent Mail 功能。
+2. 将提示词发给 Agent: 
+请阅读 https://t.co/xkGiLIyCxQ 文档，按照步骤为我安装并配置 https://t.co/mE763y8SUI",https://x.com/0xAA_Science/status/2071580228930224590
+2070574662556561810,2026-06-27 02:27:23,orig,04_ai,4.92,0,77,4,24,39002,"OpenAI 发布了 GPT-5.6 系列，包含三个模型：
+Sol 对标 Claude Mythos
+Terra 对标 Claude Fable
+Luna 是个便宜的小模型，性能类似 GPT-5.5
+
+起名是在致敬 Web3 项目 Solana 和归零的 Luna，考虑 Altman 发过币圈项目 ethereum:0x163f8c2467924be0ae7b5347228cabf260318753 ，并不意外。 https://t.co/VmDqDpsA6s https://t.co/Bt34J1GmCg",https://x.com/0xAA_Science/status/2070574662556561810
+2070176673430114521,2026-06-26 00:05:55,orig,04_ai,3.48,0,112,3,93,58279,我的体感告诉我，最近 Claude 和 OpenAI 的套餐额度下调了 90%。,https://x.com/0xAA_Science/status/2070176673430114521
+2070068613575504000,2026-06-25 16:56:32,orig,04_ai,5.08,1,60,2,83,16780,"我方注意到，近期 Anthropic 多次将蒸馏技术与所谓“非法行为”相提并论，对正常的机器学习技术进行无端污名化。
+
+我方敦促 Anthropic 立即停止对蒸馏技术的污名化，停止制造技术对立，共同维护开放、包容、合作的人工智能创新生态。 https://t.co/Z8tliZEpNP",https://x.com/0xAA_Science/status/2070068613575504000
+2070029291958808675,2026-06-25 14:20:17,reply,04_ai,-2.75,0,0,0,0,809,@allen79005518 @Cloudflare 我们也是做的异步话 但 openai 的标准是同步,https://x.com/0xAA_Science/status/2070029291958808675
+2069814235723710557,2026-06-25 00:05:43,reply,04_ai,-2.77,0,0,0,0,1571,@JIANFENGWU9 @Cloudflare new-api 还没解决的，你觉得我没问ai吗,https://x.com/0xAA_Science/status/2069814235723710557
+2069754957994336410,2026-06-24 20:10:10,reply,04_ai,-2.27,0,0,0,1,2041,@tankxu @Cloudflare 目前我们是把这些接口从同步转成了异步，但感觉不太优雅，而且 OpenAI SDK 的 /v1/images/generations 标准是同步的。,https://x.com/0xAA_Science/status/2069754957994336410
+2069052996466704844,2026-06-22 21:40:50,orig,04_ai,4.73,0,176,6,67,63324,"Sakana 调用了 Fable 和 Mythos，是 Sakana 能在性能上匹配 Fable 和 Mythos 的唯一原因，日本人真能咬文嚼字啊！
+
+高情商：我们做了一个通过单一模型 API 即可访问的完整多代理编排系统。
+低情商：我们重新发明了 OpenRouter https://t.co/gf1RbWJN8q",https://x.com/0xAA_Science/status/2069052996466704844
+2067933006413943235,2026-06-19 19:30:23,orig,04_ai,3.99,0,76,7,50,25550,"xAPI 的 AI 中转站已上线，融合了多个供应商/中转站，找到最便宜最稳定的 API，永不跑路。
+欢迎大家试用，用邀请码 xapito 注册可领 $1 免费额度试用 https://t.co/I10z0kUmUt
+
+也欢迎中转站来接入，基于 newapi 构建的中转站可以秒接 https://t.co/ONtzfRLTrY https://t.co/brvT1E2pbu https://t.co/iQivpoOivf",https://x.com/0xAA_Science/status/2067933006413943235
+2067213779474284785,2026-06-17 19:52:26,orig,04_ai,5.34,1,37,8,25,19834,"加密矿工到 NeoCloud：币圈转型 AI 最成功的一批企业
+
+当币圈人还在惊叹 AI 的发展和股价的暴涨时，已经有一批企业悄然完成了从 Crypto 到 AI 的转型。
+
+曾经它们是加密矿工，靠挖 BTC 和 ETH 赚钱；
+现在它们已经或正在转型 NeoCloud，靠给 OpenAI 和 Anthropic 提供 AI 算力赚钱。
+
+1. 什么是",https://x.com/0xAA_Science/status/2067213779474284785
+2066905170370507193,2026-06-16 23:26:08,orig,04_ai,3.11,0,50,3,37,16290,"SpaceX 将以全股票交易收购 Cursor，估值 600亿美元！
+这是最好的时代，All in AI 吧！ https://t.co/pH8HAdwLmW https://t.co/XS8EbBrj4L",https://x.com/0xAA_Science/status/2066905170370507193
+2065731200296292759,2026-06-13 17:41:12,orig,04_ai,4.84,0,905,35,154,131455,Claude 开始蒸馏 GLM-5.2 了，很快会以 100x 的价格给大家用。,https://x.com/0xAA_Science/status/2065731200296292759
+2065667245859303450,2026-06-13 13:27:04,orig,04_ai,3.64,0,103,4,57,52246,"DeepSeek 对 Fable 和 Mythos 的蒸馏被迫暂停，当前进度：
+[██████████░░░░░] 69% https://t.co/JFWzUMTWCO",https://x.com/0xAA_Science/status/2065667245859303450
+2064745074530164757,2026-06-11 00:22:41,reply,04_ai,1.41,0,636,10,27,54937,@Percy11093642 你以为蒸馏是你妈的臭逼躺床上就能随便用呢,https://x.com/0xAA_Science/status/2064745074530164757
+2064737395053113786,2026-06-10 23:52:10,orig,04_ai,3.67,0,71,2,108,42978,"我心目中的国产大模型排名🇨🇳
+S: DeepSeek, Qwen
+A: Kimi（月之暗面），豆包
+B: GLM（智谱），Minimax
+C: 混元（腾讯），Mimo （小米） https://t.co/FjxDdI9DhS",https://x.com/0xAA_Science/status/2064737395053113786
+2064680753712275650,2026-06-10 20:07:06,orig,04_ai,6.1,0,5699,251,423,611936,DeepSeek 开始蒸馏 Fable 和 Mythos 了，很快会以 1% 的价格给大家用。,https://x.com/0xAA_Science/status/2064680753712275650
+2064353199935602705,2026-06-09 22:25:31,orig,04_ai,4.74,0,150,9,146,89094,"DeepSeek 首次融资 500亿元，将建设AI数据中心，参投方：腾讯，宁德时代，网易，京东。
+
+4月份刚有融资传闻的时候，估值还是100亿美元。两个月过去了，估值直接翻6倍，飙升到600亿美元。
+最早说阿里要投，但是最后没投。我觉得也合理，因为有 Qwen 了，不比 DeepSeek 差。 https://t.co/IJMf4Si9Gv",https://x.com/0xAA_Science/status/2064353199935602705
+2062547366394355960,2026-06-04 22:49:47,reply,04_ai,-1.85,0,1,0,1,5911,@0xTechMelon 感觉skill不行，因为claude code调用api的同时在context离带上skill信息，这时候已经传了image参数了，直接报错,https://x.com/0xAA_Science/status/2062547366394355960
+2062521396379721766,2026-06-04 21:06:35,orig,04_ai,3.48,0,68,2,86,60490,"我在尝试用 Claude Code 接 deepseek v4 pro，但是 deepseek 不是多模态模型，不支持图片输入。
+有解决办法吗？ https://t.co/v2UErWeNMw",https://x.com/0xAA_Science/status/2062521396379721766
+2062098659098186109,2026-06-03 17:06:46,orig,04_ai,2.43,0,18,4,49,7599,"腾讯混元AI成为了 ETH Beijing 的合作伙伴和赞助商，将赞助黑客松期间的 Token 消耗！
+@TencentHunyuan https://t.co/331qd1nwuR",https://x.com/0xAA_Science/status/2062098659098186109
+2060044607438877066,2026-05-29 01:04:42,orig,04_ai,2.45,0,24,0,8,10967,"Claude Opus 4.8 发了
+并且未来几周会发布 Mythos https://t.co/HpLHojyF58",https://x.com/0xAA_Science/status/2060044607438877066
+2059645923534512432,2026-05-27 22:40:29,orig,04_ai,3.6,0,53,3,47,16390,"张雪峰活着的时候对我影响不到，但41岁离世对我触动很大。
+
+这个月，我开始规律运动
+一周5练：3次健身房，2次其他
+
+每次1小时，不追求重量或次数，只为了健康。
+计划都由gpt5.5给出，效果很不错。 https://t.co/duXCfu9nbg",https://x.com/0xAA_Science/status/2059645923534512432
+2059592749457051784,2026-05-27 19:09:11,orig,04_ai,4.03,0,88,3,39,13697,"这波股市牛市主要是靠 AI：模型和硬件。
+而币圈没有能蹭上 AI 叙事，所以相比之下表现差了很多，也出现了不少股市赚到钱的人，返回来踩币圈。
+但我还是对未来乐观，因为区块链能满足 AI Agent 的部分金融需求，等风来。",https://x.com/0xAA_Science/status/2059592749457051784
+2059189755037065413,2026-05-26 16:27:50,orig,04_ai,5.4,1,50,4,22,24707,"今天 Ondo 宣布了创始人 Nathan 的意外离世。大家都知道 Ondo，但可能不了解他的创始人，我让 Agent 使用 @xapi_to skill 总结了他的生平：
+
+94 年出生在夏威夷，本科在布朗大学读的经济+生物，工作后又去斯坦福读了MBA（中途退学）。
+
+17 年第一次创业进入币圈，做的量化加密对冲基金 ChainStreet https://t.co/OtsTqPNTZQ https://t.co/TMj8xf1Tdz",https://x.com/0xAA_Science/status/2059189755037065413
+2057708601800851744,2026-05-22 14:22:15,orig,04_ai,2.4,0,14,1,12,8224,"通过 Cursor 调用 Opus 4.7 总是显示需求过大，调用不成功。
+是 Cursor 的问题还是 Claude 的问题？
+@cursor_ai @AnthropicAI @elonmusk https://t.co/i6AEfQFaQd",https://x.com/0xAA_Science/status/2057708601800851744
+2057111304528331207,2026-05-20 22:48:48,reply,04_ai,-2.15,0,1,0,1,294,"@even366 @VibeShit_Org 写入接口走的X官方接口，老号频率适当的话没理由封号。
+新号要控制发推/转推频率。",https://x.com/0xAA_Science/status/2057111304528331207
+2057110045071122576,2026-05-20 22:43:48,orig,04_ai,4.87,1,37,11,15,17561,"感谢分享，给你的 xAPI 转了 $66，请查收！
+也欢迎大家分享 https://t.co/gxoLsBZJJt 的用法/教程，写的好的我会转发，并发免费额度。
+
+其实 xAPI 不仅能帮你查僵尸粉，在 OAUTH 授权推特相关权限后，还能帮你发推/取关，入口在：
+https://t.co/D3lsBKTRBB
+
+@VibeShit_Org 就是完全由Agent自动发推的。 https://t.co/2y5Nry0h3a https://t.co/JxXOV1akld",https://x.com/0xAA_Science/status/2057110045071122576
+2056736433810137491,2026-05-19 21:59:12,reply,04_ai,-2.36,0,1,0,0,876,@good6_api @Gayker1024 方便 私聊我或者加 xAPI 开发群： https://t.co/jRLBdcGVd1,https://x.com/0xAA_Science/status/2056736433810137491
+2056732771461316935,2026-05-19 21:44:39,reply,04_ai,-1.5,1,0,0,1,2085,@cryptoxiao 要不要把你们的 twitter api 挂在 xAPI 上？,https://x.com/0xAA_Science/status/2056732771461316935
+2056650852497240146,2026-05-19 16:19:08,orig,04_ai,3.21,0,79,14,22,25470,让 Agent 用 xAPI 帮你写个推特监控机器人，直接推送到手机上。 https://t.co/DUQg1azFbu https://t.co/aH2dmg0Jnm,https://x.com/0xAA_Science/status/2056650852497240146
+2056616830878490923,2026-05-19 14:03:57,orig,04_ai,3.19,0,61,3,40,45008,冷知识：苹果 AppStore 订阅 Claude Max 被封号后，需要主动申请退款，不会自动退。 https://t.co/Zek92FmUv1,https://x.com/0xAA_Science/status/2056616830878490923
+2053835557130891712,2026-05-11 21:52:09,orig,04_ai,0.38,0,0,0,0,860,@tankxu @elonmusk 前一阵我还专门用 nano banana，现在已经很久没碰过 gemini了,https://x.com/0xAA_Science/status/2053835557130891712
+2053834754836050230,2026-05-11 21:48:58,orig,04_ai,3.59,0,36,7,16,14968,"现在图像生成模型真的已经进入到下一个阶段了！
+我今天让 chatgpt 生成训练计划的示意图（左图），模型走的 GPT Image 2，小地方还有些问题，但瑕不掩瑜，基本可用了。
+右图是用的 grok，感觉生成的图片差了两个版本，完全没有跟上时代。 @elonmusk https://t.co/vd1N9yPK7Q",https://x.com/0xAA_Science/status/2053834754836050230
+2052660436680716340,2026-05-08 16:02:39,orig,04_ai,3.75,1,14,0,21,15059,"没想到 Cursor 额度这么经用， 10000u 还剩 97%。
+我决定拿出这 10000u credit 整活了，不然用不玩。
+搞点啥，大家有什么建议没？ https://t.co/PoBvmf5Lgv https://t.co/WGdXoa27Vi",https://x.com/0xAA_Science/status/2052660436680716340
+2050538176805261361,2026-05-02 19:29:33,orig,04_ai,3.91,0,115,20,15,31717,"给 auth2api 增加了 OpenAI (Codex) 和 Cursor 的授权登陆。auth2api可能是目前唯一一个可以中转 Cursor 账号的项目了。
+
+https://t.co/XjrcSOSkyh https://t.co/P6PeAlDQBF https://t.co/CI1NeBTYpt",https://x.com/0xAA_Science/status/2050538176805261361
+2050244250563182801,2026-05-02 00:01:35,orig,04_ai,2.9,0,19,1,8,27279,"我发现 Cursor 额度还挺耐用的，使劲蹬才用掉了 $150，这 $10,000 得用到什么时候？
+看起来只有跑类似 auto research 的循环任务才能消耗掉这些 token 了！ https://t.co/AmDYq8XjrV https://t.co/jh49MpF2eu",https://x.com/0xAA_Science/status/2050244250563182801
+2049525966628958553,2026-04-30 00:27:23,orig,04_ai,2.56,0,36,1,17,7428,"君子生非异也，善假于 AI 也。
+— A子 https://t.co/w5ymfT6xJ9",https://x.com/0xAA_Science/status/2049525966628958553
+2049462724216987766,2026-04-29 20:16:05,orig,04_ai,5.45,1,149,16,34,64635,"已经有朋友联系我能提供0.5折的 Claude 反向代理API，还有朋友免费注册了几万个 ChatGPT plus 账号，长见识了。
+
+建了个 WTF AI 电报群，欢迎加入，申请时记得自我介绍下： 
+https://t.co/w8ewfT25LN https://t.co/KBYTWM7aHI https://t.co/hAMKH6chEk",https://x.com/0xAA_Science/status/2049462724216987766
+2048973617854328890,2026-04-28 11:52:33,orig,04_ai,3.8,0,73,6,110,74984,"快连被墙干服了，关停了中国大陆的服务。
+
+我没用过快联，不过这几天群里都是说快连用不了的，感觉用户很多。
+有什么好的 vpn 推荐吗？我其实觉得买个海外服务器，让 AI 帮你自建一个 VPN 更靠谱。 https://t.co/ob8JYJr2Sf",https://x.com/0xAA_Science/status/2048973617854328890
+2048296373569941533,2026-04-26 15:01:25,orig,04_ai,3.24,0,28,0,11,67210,"给 auth2api 加了对 openai/codex 账号的授权支持，等审核完成就会合并。
+
+另外最近 xAPI 也在探索 AI 中转业务，有中转站和号商资源的可以联系我，我建个AI中转交流群，方便大家沟通。
+
+https://t.co/XjrcSOSkyh https://t.co/utTz9ReNf0 https://t.co/CI1NeBTYpt",https://x.com/0xAA_Science/status/2048296373569941533
+2048254571622113742,2026-04-26 12:15:19,orig,04_ai,3.58,0,72,1,20,21229,"感觉 gpt 5.5 的 plan 能力比 opus 4.7 要强。
+
+opus 总是吭哧吭哧搞个很复杂的方案，gpt 给的plan 更简单并能达到同样效果。",https://x.com/0xAA_Science/status/2048254571622113742
+2047889676867080420,2026-04-25 12:05:21,orig,04_ai,4.14,0,85,1,38,44649,"卧槽，收到 Cursor 送的 10,000u AI 额度！ 
+
+昨天 @edwinarbus 联系我送额度的时候，我还以为是骗子。不过挂着 cursor 的标，而且只是要个邮箱，我抱着试一试的态度回复了，没想道还真送了！
+这个月要多 vibe coding 些狗屎了！ @VibeShit_Org @cursor_ai https://t.co/Gs4zJP0LEf",https://x.com/0xAA_Science/status/2047889676867080420
+2047174904844620131,2026-04-23 12:45:06,reply,04_ai,-2.85,0,0,0,1,245,@drag0ooon @UniPat_AI 应该是有fine tuning,https://x.com/0xAA_Science/status/2047174904844620131
+2046939173710676227,2026-04-22 21:08:23,orig,04_ai,6.77,2,88,11,17,29736,"最近看到一个 AI x 预测市场的项目，UniPat AI @UniPat_AI ，把预测做成了可对比、可验证的一套系统。
+
+我找创始人聊了下：
+1. 预测市场很火，但是能用 AI 精准预测的项目很少，而他们在这一方面走在了前面。
+2. 目前框架已经搭好，并且推出了 Echo 模型，目前在 benchmark https://t.co/dOTyKikdde https://t.co/qfuk87TGnZ",https://x.com/0xAA_Science/status/2046939173710676227
+2046831621102547090,2026-04-22 14:01:01,orig,04_ai,3.09,0,68,3,12,56554,"SpaceX 收购了 Cursor，600亿u。
+这是最好的时代！ https://t.co/4F42UxLZE5",https://x.com/0xAA_Science/status/2046831621102547090
+2045064454883483673,2026-04-17 16:58:56,orig,04_ai,3.34,0,62,0,43,40954,"昨晚我被封了两个 claude max （一个美国，一个尼日利亚），原因是放到了一台服务器上中转。
+看来一台服务器只能放一个号！ https://t.co/lYRlLuUKHk",https://x.com/0xAA_Science/status/2045064454883483673
+2044313803962364076,2026-04-15 15:16:07,orig,04_ai,3.83,0,26,3,27,99091,"Claude max 要对触发风控的账号做 KYC 了 😂
+
+人工智能初创公司 Anthropic 正在其 Claude 平台逐步推行身份验证机制。当用户访问特定功能或触发常规平台完整性检查时，系统会要求通过第三方合作伙伴 Persona Identities 完成验证。此举旨在防止滥用、执行使用政策并履行法律义务。验证过程通常在 5 https://t.co/fR9wRCcZvk",https://x.com/0xAA_Science/status/2044313803962364076
+2043332025151832536,2026-04-12 22:14:00,orig,04_ai,4.4,1,30,4,15,15686,Cursor 新版本怎么和 Codex 长的一模一样 😂\n真的是老抄家了：\n老 Cursor - VSCode\nComposer 大模型 - Kimi\n新 Cursor - Codex ,https://x.com/0xAA_Science/status/2043332025151832536
+2042197671788867626,2026-04-09 19:07:21,reply,04_ai,-1.78,0,2,0,0,2378,@windskeleton claude code发布最新版，不代表所有用户都会更新到最新版，所以用之前版本的模拟指纹方案也有效,https://x.com/0xAA_Science/status/2042197671788867626
+2042152322852385018,2026-04-09 16:07:09,reply,04_ai,-1.51,0,6,0,2,4892,@thlmcz 自己给自己中转，把claude套餐转成api,https://x.com/0xAA_Science/status/2042152322852385018
+2042151683283878146,2026-04-09 16:04:37,orig,04_ai,5.58,0,475,72,37,147239,"我们利用上周“开源”的 Claude Code 源码，在 auth2api 中精确复刻了 7 个维度的用户指纹，让每个 API 请求看起来都来自真实的 Claude Code CLI 用户。
+
+目前我和几个朋友将 Claude Max 代理为 API，平稳运行 1 个月了，还没被封，大家可以试试。
+
+repo: https://t.co/XjrcSOSkyh https://t.co/ZpV32jj0UV https://t.co/EkX0tYp6FE",https://x.com/0xAA_Science/status/2042151683283878146
+2040429915619889557,2026-04-04 22:02:55,orig,04_ai,4.89,1,27,2,17,11583,"Claude 发补偿了，你的套餐月费多少，就发多少的一次性信用额度（usage credit）。
+领取方法：
+- 登陆 https://t.co/ZXZ0UeUSlk 网页
+- 左下角 Settings -  Usage
+- 点击 Claim your credit，这一步需要绑信用卡。
+
+我的 max 新号发了 $200，不知道这次能坚持多久封。 https://t.co/BOBu4YnKg1",https://x.com/0xAA_Science/status/2040429915619889557
+2038938440600088874,2026-03-31 19:16:20,reply,04_ai,-2.34,0,1,0,1,1440,@Zh_Crypto517 是的 claude code 价值几亿往上,https://x.com/0xAA_Science/status/2038938440600088874
+2038930305449590921,2026-03-31 18:44:00,orig,04_ai,3.66,0,70,7,18,39528,"不需要逆向/破解，直接解码就能得到 Claude Code 源码。
+这次不小心泄漏的是 Agent 代码，跟 Claude 大语言模型是两回事，并不能让你省 Token 的钱。 https://t.co/20UBsnYYen https://t.co/7Tymjn5zt5",https://x.com/0xAA_Science/status/2038930305449590921
+2038917041386840294,2026-03-31 17:51:18,reply,04_ai,-2.26,0,1,0,1,268,@sean4269 用 claude code 更多，用不上 cursor 了,https://x.com/0xAA_Science/status/2038917041386840294
+2038700124541751488,2026-03-31 03:29:21,orig,04_ai,2.1,0,14,2,10,8790,Claude Code 团队也发现了 Claude 缺斤少两的问题！ https://t.co/TnoFVESuZR https://t.co/bR7asjlUTU,https://x.com/0xAA_Science/status/2038700124541751488
+2038605741402251391,2026-03-30 21:14:18,reply,04_ai,-2.36,0,1,0,1,1387,@0xShawn_c 不如 claude 和 chatgpt,https://x.com/0xAA_Science/status/2038605741402251391
+2038598542571544851,2026-03-30 20:45:42,orig,04_ai,3.9,0,83,4,22,37929,"当前我的 AI 订阅：
+Claude Max 200u/月
+Cursor 从 200u/月 下调为 20u/月
+Chatgpt 20u/月
+
+取消了 Gemini 和 Minimax 20u/月 的订阅 https://t.co/5MRijAzcIC",https://x.com/0xAA_Science/status/2038598542571544851
+2038547975778292115,2026-03-30 17:24:46,orig,04_ai,4.71,1,117,5,63,82901,"Claude max 是暗改 API 额度了吗，怎么这周用的这么快？
+缺斤少两！ https://t.co/sRMg5TRAFP",https://x.com/0xAA_Science/status/2038547975778292115
+2038495328769646793,2026-03-30 13:55:34,reply,04_ai,-2.05,0,1,0,1,1932,"@evilcos 哈哈，我前前后后被封了10个 claude max 吧，真的难！
+但是真的好用，继续注册继续high",https://x.com/0xAA_Science/status/2038495328769646793
+2038183555231318385,2026-03-29 17:16:41,reply,04_ai,-2.85,0,0,0,1,6628,@imocone 我都是直接让codex审核一下,https://x.com/0xAA_Science/status/2038183555231318385
+2038168910672040122,2026-03-29 16:18:30,reply,04_ai,0.88,0,116,19,13,18819,"@Chris_0716 找在国外的朋友帮忙开，然后放海外服务器中转一下，变成api在本地调用。
+我自己写了个把 claude max 账号中转为 api 的程序 auth2api: https://t.co/1etk1aACh4",https://x.com/0xAA_Science/status/2038168910672040122
+2038165680798007615,2026-03-29 16:05:40,orig,04_ai,10.01,4,285,25,75,150206,"当前我的 AI Agent 时间分配：
+
+1. Claude Code：95%，主力 Agent，基本代码都用它写。
+2. Codex：5%，审核 Claude Code 写的代码时用。
+3. Cursor：&lt;1%，极少数任务使用。
+4. 龙虾：&lt;1%，只有在体验新功能的时候使用。
+
+你们呢？",https://x.com/0xAA_Science/status/2038165680798007615
+2036764310199042084,2026-03-25 19:17:07,orig,04_ai,4.0,1,20,3,6,11553,"Apifox JS CDN 投毒风险，大家记得更新到最新版客户端。
+最近真不太平，昨天 litellm 才被植入恶意脚本，影响了一大批 Agent 工具，今天又来。 https://t.co/YI8CjmpYhY",https://x.com/0xAA_Science/status/2036764310199042084
+2036349443642155284,2026-03-24 15:48:35,reply,04_ai,-1.99,0,1,0,1,1212,"@beefnoode @Polymarket @PolyWorld_bet 哈哈，开源了，你让 AI 看一下 repo 就知道了。
+纽约挨着华盛顿，很多市场都在那一块😂
+中文下个版本会支持",https://x.com/0xAA_Science/status/2036349443642155284
+2036109303556481353,2026-03-23 23:54:21,reply,04_ai,-0.12,0,41,2,7,7475,"视频用 @screenstudio 录制
+用 Claude code + remotion 剪辑 @claudeai @Remotion 
+效果还不错！",https://x.com/0xAA_Science/status/2036109303556481353
+2035685665598533862,2026-03-22 19:50:58,orig,04_ai,0.61,0,1,0,2,2084,@wenlanbo @Weixin_WeChat @openclaw @steipete 监控我跟龙虾的对话吗 这有啥怕的,https://x.com/0xAA_Science/status/2035685665598533862
+2035573287171015121,2026-03-22 12:24:25,reply,04_ai,-2.78,0,0,0,0,291,@dayu1233 @Weixin_WeChat @openclaw @steipete 估计能和腾讯云联动下 支持直接微信里部署龙虾,https://x.com/0xAA_Science/status/2035573287171015121
+2035572157535940853,2026-03-22 12:19:56,reply,04_ai,-1.73,0,4,0,0,7984,@YuminAI @Weixin_WeChat @openclaw @steipete 灰度中 我一开始也没有 大概5分钟后刷出来的,https://x.com/0xAA_Science/status/2035572157535940853
+2035571031574999459,2026-03-22 12:15:27,reply,04_ai,-2.23,0,1,0,1,803,@dayu1233 @Weixin_WeChat @openclaw @steipete 本来就鼓励内部竞争，各搞各的挺好，每个部门拿出去都顶一个大公司了,https://x.com/0xAA_Science/status/2035571031574999459
+2035569682036691207,2026-03-22 12:10:05,reply,04_ai,-1.79,0,3,0,2,7293,"@dayu1233 @Weixin_WeChat @openclaw @steipete 接入群聊有点危险 走一步看一步吧
+能支持接入微信 已经超预期了",https://x.com/0xAA_Science/status/2035569682036691207
+2035566856770376155,2026-03-22 11:58:52,orig,04_ai,9.03,3,571,116,93,199548,"我已经在微信用上龙虾了！
+@Weixin_WeChat @openclaw @steipete 
+
+这次是微信官方插件支持，安装方法：
+1. ios 微信升级到最新版：0.8.70
+
+2. 路径：「我-设置-插件」，可以查看终端安装指令。（微信ClawBot 插件在逐步放量中。更新至最新版本，敬请期待。）
+
+npx -y https://t.co/1vjg5nq8sB",https://x.com/0xAA_Science/status/2035566856770376155
+2035275938519474249,2026-03-21 16:42:51,orig,04_ai,4.06,0,289,8,64,80915,"中国的龙虾🦞线下聚会我算是看懂了，全JB是币圈人搞得。
+哈哈哈，老传销了！",https://x.com/0xAA_Science/status/2035275938519474249
+2035264506889478299,2026-03-21 15:57:26,reply,04_ai,-2.85,0,0,0,0,190,@gn_zebraleyuan cursor偷了 说明真的不错,https://x.com/0xAA_Science/status/2035264506889478299
+2035206614912049164,2026-03-21 12:07:23,orig,04_ai,2.99,0,23,1,11,15582,"哈哈，原来 Cursor 的新模型是基于 Kimi 的 K2.5 做的，但是宣传的时候一口没提过 Kimi，后面被用户扒出来了 😂
+
+我只能说， Cusor 格局小了，Kimi 牛逼！ https://t.co/k93TUBKAgh https://t.co/6CYehnHNZ8",https://x.com/0xAA_Science/status/2035206614912049164
+2034873072289710492,2026-03-20 14:02:01,orig,04_ai,9.04,2,1443,248,101,281244,"我已经用上了 Claude Code 的 Telegram 插件，巨 TM 丝滑。龙虾危 ⚠️
+
+Claude Code 连接 Telegram 方法：
+
+1. 在 Telegram 上 DM @BotFather （这是生成所有 telegram bot 的地方），输入 /newbot ，然后输入你给bot起的用户名，不能和别人的重复，必须以 bot 结尾，然后他会给你返回一个 token，类似 https://t.co/g78uFMnWtC https://t.co/x3JXYIrKoc",https://x.com/0xAA_Science/status/2034873072289710492
+2034688303862313148,2026-03-20 01:47:48,orig,04_ai,3.3,1,8,0,12,26138,"Cursor 自己新出的大模型在自己的 benchmark 上表现还不错？超过 Opus 4.5 了，我怎么不信呢 🤨
+一会儿试试看！ https://t.co/GaIx4Y2PiE https://t.co/osCC4TOzfh",https://x.com/0xAA_Science/status/2034688303862313148
+2034597480323752278,2026-03-19 19:46:54,orig,04_ai,4.3,1,49,0,61,128046,苹果礼品卡注册的 Claude Max 封号之后也退款了，不过现在的问题是，AppStore 余额怎么花出去？ https://t.co/tSOaVZ4vuJ https://t.co/XYIg5YdIgs,https://x.com/0xAA_Science/status/2034597480323752278
+2034246943921385660,2026-03-18 20:34:00,reply,04_ai,-1.12,0,7,0,1,1813,"@sunlc_crypto 其实都是互相蒸馏的 没有良无良一说
+claude 模型训练没用互联网数据？用到我数据的时候问我同不同意了么",https://x.com/0xAA_Science/status/2034246943921385660
+2034237226968879127,2026-03-18 19:55:23,orig,04_ai,2.66,0,26,0,35,84768,"又被封了，我日 Claude 仙人板板！
+白嫖了几个月了，想付个整月的钱这么困难吗？
+那我继续白嫖了！ https://t.co/bxZLtbXowI https://t.co/9zde1W3KIk",https://x.com/0xAA_Science/status/2034237226968879127
+2034159625273225612,2026-03-18 14:47:02,orig,04_ai,3.47,0,15,1,9,6089,"在测试我的看板产品，任务: 让 Claude 作诗一首
+
+氛围编程赋  
+键盘轻敲意未休， 
+与机共舞写春秋。 
+不问语法千行苦， 
+只凭心念一语收。  
+
+提示词间藏锦绣， 
+模型应答如溪流。 
+Bug 消于谈笑处，
+Feature 生于指尖游。
+  
+昔日码农灯下苦， 
+今朝对话即成楼。 
+人机共创新世界， 
+氛围编程最风流。 https://t.co/XLkoiIQXgE",https://x.com/0xAA_Science/status/2034159625273225612
+2033881544537084080,2026-03-17 20:22:02,orig,04_ai,3.73,0,75,3,21,23086,信息差： Claude Max 可以用 1M 上下文的模型（Opus/Sonnet），收费和之前 200k 的一样，但是需要手动用 /model 调一下，不然还是用的 200k 的。 https://t.co/KyZlUNu0DF,https://x.com/0xAA_Science/status/2033881544537084080
+2033769662996222126,2026-03-17 12:57:27,orig,04_ai,3.63,0,88,6,40,39201,"币安投个机器人， TITAN 又让群友给掏到了，400x
+
+昨晚 vibe coding 到凌晨4点，直接导致我起晚没吃到。今天开始规律作息！ https://t.co/EQUb21lslt",https://x.com/0xAA_Science/status/2033769662996222126
+2033426316352176211,2026-03-16 14:13:07,orig,04_ai,1.83,0,7,0,3,8107,应该是 claude code 压缩 context 的bug， /compact 以后就好了。 https://t.co/Bgu4J9IYJj,https://x.com/0xAA_Science/status/2033426316352176211
+2033232263274701052,2026-03-16 01:22:01,orig,04_ai,4.21,1,8,1,8,16971,"Claude Code 怎么有这么个傻逼 Bug，我上传了个 500kb 的截图，说我超过 20MB？而且直接给 session 毁了！
+@bcherny 
+
+Request too large (max 20MB). Double press esc to go back and try with a smaller file. https://t.co/rGDxppN570",https://x.com/0xAA_Science/status/2033232263274701052
+2033024442268623156,2026-03-15 11:36:13,reply,04_ai,-2.83,0,0,0,1,547,@insalahspring claude 一号难求 不如转给我,https://x.com/0xAA_Science/status/2033024442268623156
+2032785790879805753,2026-03-14 19:47:54,orig,04_ai,4.33,0,181,6,37,74565,"我觉得中转站其实赚的是 claude max 封号退款的钱。
+
+注册 Claude Max 号 
+-&gt; API 成本价卖给用户 
+-&gt; Claude 封号退款
+
+空手套白狼 😂",https://x.com/0xAA_Science/status/2032785790879805753
+2032782716014608710,2026-03-14 19:35:41,orig,04_ai,4.38,0,92,11,10,131912,"让 Claude Code 自己写了一个轻量、单账号的 Claude OAuth 转 API 代理， auth2api:
+https://t.co/XjrcSOSkyh
+
+大概 2000行代码，借鉴了 CLIProxyAPI 和 sub2api，但更轻量，适合自己部署，自用为主的场景。
+
+有封号可能，自己把握风险。但是不用也封号。 https://t.co/Myr9dedo02 https://t.co/pSuCfUjPnu",https://x.com/0xAA_Science/status/2032782716014608710
+2032703176936436196,2026-03-14 14:19:37,orig,04_ai,3.39,0,119,2,39,41002,codex 总能找出 claude 找不出的 bug。,https://x.com/0xAA_Science/status/2032703176936436196
+2032510315745956178,2026-03-14 01:33:16,reply,04_ai,-2.25,0,1,0,0,679,@tankxu 哪些支持了oauth token？ claude政策不允许的,https://x.com/0xAA_Science/status/2032510315745956178
+2032502819249659933,2026-03-14 01:03:28,reply,04_ai,-2.62,0,0,0,1,1963,@tankxu 我觉得，第一能让ip更干净，第二有些需要填api的应用，比如龙虾，也可以用。,https://x.com/0xAA_Science/status/2032502819249659933
+2032500069342294484,2026-03-14 00:52:33,orig,04_ai,3.28,0,74,3,28,43888,用服务器把 Claude Max 转发成 API，然后在 本地 mac mini 调用成功了！ https://t.co/n2B0cnGPl8 https://t.co/9zde1W3KIk,https://x.com/0xAA_Science/status/2032500069342294484
+2032366780396773673,2026-03-13 16:02:54,reply,04_ai,-2.72,0,0,0,0,2495,@hydra09692719 的确 我有个20刀的codex会员 准备试试review,https://x.com/0xAA_Science/status/2032366780396773673
+2032303013826863173,2026-03-13 11:49:31,orig,04_ai,3.29,0,50,2,32,113919,"又通过 App Store 开了个 Max，听说更不容易被封。
+现在有两个 Claude Max 了，起飞，准备试下在服务器搭个转发节点自己用 🛫 https://t.co/oPOeJYFH98 https://t.co/58rg1TOD2Y",https://x.com/0xAA_Science/status/2032303013826863173
+2032005908327538872,2026-03-12 16:08:56,orig,04_ai,2.54,0,29,1,13,8908,感谢币安邀请，今晚和大家聊下最近很火的 Agent 玩具：龙虾！ https://t.co/JDE1imdhJ9,https://x.com/0xAA_Science/status/2032005908327538872
+2031805977495019591,2026-03-12 02:54:28,reply,04_ai,-1.71,0,4,0,2,2123,"@x_0matt @claudeai @AnthropicAI 它也不知道是我的号啊 😂
+估计是误封，良心发现了",https://x.com/0xAA_Science/status/2031805977495019591
+2031802366090232291,2026-03-12 02:40:07,reply,04_ai,-1.78,0,4,0,2,11299,@x_0matt @claudeai @AnthropicAI 没写，我也没申诉，它自动给我解封的,https://x.com/0xAA_Science/status/2031802366090232291
+2031800920150057153,2026-03-12 02:34:23,orig,04_ai,4.59,0,343,10,65,262633,"卧槽，刚刚收到了 Anthropic 的道歉，说我的 Claude 账号是被误封的，给我解封了。
+给我 6 个月免费 Claude Max 套餐，我就原谅你！ 
+@claudeai @AnthropicAI https://t.co/QUOPLhZiIz https://t.co/47we5sjlYP",https://x.com/0xAA_Science/status/2031800920150057153
+2031710458521194916,2026-03-11 20:34:55,reply,04_ai,-2.31,0,1,0,1,1659,@sunshineg 啥data，我跑claude code，都在本地,https://x.com/0xAA_Science/status/2031710458521194916
+2031682087930224757,2026-03-11 18:42:11,reply,04_ai,-2.83,0,0,0,1,1833,@Meta8Mate 没，就用了 claude code,https://x.com/0xAA_Science/status/2031682087930224757
+2031666096173142430,2026-03-11 17:38:38,orig,04_ai,2.52,0,36,0,20,19413,新的 Claude Max，启动！ https://t.co/9tZEXYdo9U https://t.co/47we5sjlYP,https://x.com/0xAA_Science/status/2031666096173142430
+2031662493505098073,2026-03-11 17:24:19,reply,04_ai,-2.79,0,0,0,2,442,@Jb18cm_Biggest 没有 openclaw 只能用 api 啊,https://x.com/0xAA_Science/status/2031662493505098073
+2031660715329957972,2026-03-11 17:17:15,orig,04_ai,3.72,0,155,4,78,365086,"Claude Max 喜提封号，$200 全退，等于白嫖半个月。
+开个新邮箱继续注册！ https://t.co/Tba3l1M6Y9 https://t.co/fD2IXpR2td",https://x.com/0xAA_Science/status/2031660715329957972
+2031553913015644256,2026-03-11 10:12:51,reply,04_ai,-1.55,0,2,0,2,430,"@_BLACKSOL5 /resume 只能恢复最近的一个session吧？ compact 过的就没法恢复
+我想向 cursor 那样记录session的所有对话历史。",https://x.com/0xAA_Science/status/2031553913015644256
+2031550832853004333,2026-03-11 10:00:37,orig,04_ai,2.35,0,9,0,13,11608,"Claude Code 新出的 /btw 模式有点用，但不多。
+
+只有我觉得 Claude Code 没存 session 历史很jb难用吗？跑着跑着就找不到聊天历史了！ https://t.co/YVUsJdsBD8",https://x.com/0xAA_Science/status/2031550832853004333
+2031317135478190350,2026-03-10 18:31:59,orig,04_ai,3.68,0,80,1,41,45847,"龙虾的 token 消耗由 龙虾 赞助
+买 cz 回忆录的钱由 FOM 赞助
+
+欢迎绑定我的币安钱包邀请码: XYO1V68R ，私信我截图，进群一起冲 meme！ https://t.co/9wYAjQGpTl",https://x.com/0xAA_Science/status/2031317135478190350
+2031054755829788967,2026-03-10 01:09:23,orig,04_ai,3.66,0,211,12,60,190128,"我的龙虾和币安钱包会自动赚钱
+真的 https://t.co/GC0Chzgu96 https://t.co/98o94L5Ugp",https://x.com/0xAA_Science/status/2031054755829788967
+2030847506641506445,2026-03-09 11:25:51,orig,04_ai,2.72,0,26,0,20,30078,"国内 mac mini 已经因为“龙虾”被抢断货了。
+去年 3000 买的m4，现在闲鱼二手都要 3500 了 😂 https://t.co/Xk5dg2Uj4k https://t.co/Ek33W5rdaN",https://x.com/0xAA_Science/status/2030847506641506445
+2030837545920274657,2026-03-09 10:46:16,orig,04_ai,4.85,1,182,13,67,107678,"“靠龙虾挣钱了”
+“怎么挣得？”
+“买的龙虾币”
+🦞 https://t.co/tsYPd6rj7e",https://x.com/0xAA_Science/status/2030837545920274657
+2030641944603566488,2026-03-08 21:49:01,orig,04_ai,2.18,0,16,0,4,10702,"NB，学习一下！
+xAPI 最近也会上个新功能，大家可以期待下 👀 https://t.co/jMQMKneXgP",https://x.com/0xAA_Science/status/2030641944603566488
+2030549554689610187,2026-03-08 15:41:54,orig,04_ai,3.43,0,77,5,15,31000,"Cursor: $200 的 Claude Code Max 会员，实际价值为 $5,000 
+怪不得有那么多中转站！ https://t.co/wvfqXHuxNk",https://x.com/0xAA_Science/status/2030549554689610187
+2030123444210446600,2026-03-07 11:28:41,orig,04_ai,3.67,0,80,7,12,32503,"Claude 开了个好头，现在 OpenAI 也宣布支持开源贡献者了，申请通过给6个月 ChatGPT 会员，价值 1200u。
+
+我宣布，AI 大撒币时代来临！ https://t.co/8y4gXpl96U",https://x.com/0xAA_Science/status/2030123444210446600
+2029934341044981781,2026-03-06 22:57:15,reply,04_ai,-2.08,0,2,0,1,2910,@ByronZhang cursor的确好用 可惜自家模型是短板,https://x.com/0xAA_Science/status/2029934341044981781
+2029844813441556793,2026-03-06 17:01:30,orig,04_ai,4.51,0,168,7,51,57352,"Cursor 像小娇妻，轻手轻脚舍不得用力骑，还是轻松 99%。
+Claude Code 像雨姐，站起来使劲蹬，我都快累死了，她依然没啥感觉。
+
+Cursor 的额度一月刷一次，Claude Code 每周刷新，该选什么不用我说了吧。 https://t.co/WBfcTVVRvB",https://x.com/0xAA_Science/status/2029844813441556793
+2029398865586340102,2026-03-05 11:29:28,orig,04_ai,4.03,1,22,0,39,18988,"为什么我的 claude code 跟我聊着聊着开始彪韩文了？
+我只跟它说过中文和英文
+Claude Code VSCode 插件出现的，目前终端还没出现过。 https://t.co/wspP6o3n6Z",https://x.com/0xAA_Science/status/2029398865586340102
+2028830318078447985,2026-03-03 21:50:16,orig,04_ai,4.38,0,362,54,13,50781,"今天在 vibeshit 上看到了个《针对长期屏前办公的视觉疲劳恢复方案》，硬控了我 3 分钟，挺有意思 😂
+
+https://t.co/LFsnXtv3C5",https://x.com/0xAA_Science/status/2028830318078447985
+2028732600995791086,2026-03-03 15:21:58,orig,04_ai,2.91,0,49,3,24,49417,"2月行情不好，大部分时间在 vibe coding。
+3月要回归战壕了！ https://t.co/mGY4Rty7Tx",https://x.com/0xAA_Science/status/2028732600995791086
+2028119228407267482,2026-03-01 22:44:39,reply,04_ai,-1.17,1,0,0,1,300,"@realYUX @cursor_ai 行 我先试试怎么让cc一口气跑3小时
+我之前让cc搞两个角色，互相review，循环几轮，或者达到某个条件再停，感觉可以跑一天",https://x.com/0xAA_Science/status/2028119228407267482
+2028115350240510232,2026-03-01 22:29:14,reply,04_ai,-2.36,0,0,0,2,1255,"@woaitaoershi @cursor_ai codex 有个 open in cursor，我点了直接进 cursor vibe 了
+还没体验过原生 codex 😂 好用？",https://x.com/0xAA_Science/status/2028115350240510232
+2028115037924266426,2026-03-01 22:28:00,reply,04_ai,-1.24,1,0,0,1,1297,"@VyrNow @cursor_ai 我觉得 cursor 很方便引用文件/代码块/cli输出，而且方便管理 session。
+不知道 cc 怎么替代",https://x.com/0xAA_Science/status/2028115037924266426
+2028110706265186476,2026-03-01 22:10:47,reply,04_ai,-2.34,0,1,0,1,1996,@thecryptoskanda @cursor_ai 不喜欢 vscode，对 ai 优化的太差,https://x.com/0xAA_Science/status/2028110706265186476
+2028104627368198186,2026-03-01 21:46:38,orig,04_ai,4.38,0,47,2,36,29260,"我其实最喜欢用的是 Cursor，但是量太少，完全不能满足 vibe coding 的需求。
+
+买的 200u/月 的 Ultra，光 vibe 一个 rbtc 项目就耗了 50% 的 API 额度。Cursor 本身的大模型又不给力，没法替代 Opus 4.6/GPT 5.3。
+
+未来半个月只能用 Claude Code 了，不知道适配 Cursor 的插件好不好用？ @cursor_ai https://t.co/uGoAB7XPDo",https://x.com/0xAA_Science/status/2028104627368198186
+2028096167679295732,2026-03-01 21:13:01,reply,04_ai,-2.83,0,0,0,2,5037,@garbin_eth @claudeai 额度好像是4小时刷一次 几乎无限用,https://x.com/0xAA_Science/status/2028096167679295732
+2028068260332396863,2026-03-01 19:22:07,orig,04_ai,4.38,0,431,43,44,122498,"我的 Claude 奴隶正在疯狂的帮我修改博士毕业论文。
+我今年是否能毕业，就靠它了！ https://t.co/FdN3yx4YZi https://t.co/fD2IXpR2td",https://x.com/0xAA_Science/status/2028068260332396863
+2028061045768786191,2026-03-01 18:53:27,orig,04_ai,5.37,1,205,4,58,318427,"以前觉得 Claude 歧视亚洲人/华人，最近对五角大楼的强硬态度让我佩服这个它是条汉子，有原则。
+充值了波 Claude Max 支持下。 @claudeai https://t.co/YNw0mO0umj",https://x.com/0xAA_Science/status/2028061045768786191
+2027803203031712118,2026-03-01 01:48:53,orig,04_ai,3.18,0,24,0,14,15906,"Day 10
+
+今天 https://t.co/XeLSvJOLai 收到了一堆新鲜出炉的 💩
+有些是真的艺术，有些质量太差，屎里有毒。
+因此我给它配了一个 AI 检屎官，太水的项目提交时会被驳回，并且对你说：
+“提交失败，请用力 vibe，提高 💩 的质量。” https://t.co/Cl1tSHcdxp https://t.co/N4WPwaHEFT",https://x.com/0xAA_Science/status/2027803203031712118
+2027607026394927221,2026-02-28 12:49:20,orig,04_ai,7.86,3,66,5,26,48617,"我准备开个 vibe coding 社群，名字就叫 vibe shit。
+进入方法：
+1. 在 https://t.co/XeLSvJOLai 上提交一个 vibe coding 产品，含 GitHub 链接。
+2. 点击网页右上角进入到用户页面，填写 Telegram/微信号（不公开），然后等小助理/AI拉你进群。
+
+让我们用AI制造更多的 💩！ @wolfyxbt @_daxiongya https://t.co/0k9UNJyBHr https://t.co/05Nb97Pnms",https://x.com/0xAA_Science/status/2027607026394927221
+2027282562184618045,2026-02-27 15:20:02,reply,04_ai,-2.27,0,1,0,0,1112,"@vikingmute 是的，不同 agent 框架对 skill 的优先级不同
+https://t.co/JeIIhZ44kS",https://x.com/0xAA_Science/status/2027282562184618045
+2026982145068241065,2026-02-26 19:26:17,reply,04_ai,-1.9,0,3,0,1,4512,@BensonTWN 换个session用claude还是不行,https://x.com/0xAA_Science/status/2026982145068241065
+2026961368654746099,2026-02-26 18:03:44,orig,04_ai,4.38,0,245,7,52,176945,"opus 4.6 写项目很牛，但遇到难改的bug就懵逼，空转半小时，浪费一堆token，最后还改不好。
+这时候换 chatgpt 5.3 codex 有奇效。",https://x.com/0xAA_Science/status/2026961368654746099
+2026693508564922840,2026-02-26 00:19:21,orig,04_ai,3.86,0,127,2,19,63603,"Day 7
+让 AI 用 Rust 重写 Bitcoin 客户端: rbtc
+
+目前用了不到 12 小时，已经开始主网同步测试了，欢迎尝试：
+https://t.co/GmOh7bMe0x
+
+https://t.co/ClBgVZGhPz https://t.co/PsHt1Pfmf3",https://x.com/0xAA_Science/status/2026693508564922840
+2026488967311642715,2026-02-25 10:46:34,orig,04_ai,2.79,0,29,0,8,15766,"手机上的 Claude app 可以远程控制 Claude Code 了。
+我希望 Cursor app 赶紧出来 @cursor_ai https://t.co/RRkqMauIK4",https://x.com/0xAA_Science/status/2026488967311642715
+2026366222749835639,2026-02-25 02:38:50,orig,04_ai,2.4,0,24,1,4,13639,vibe coding 一年半了，我已经是个成熟的气氛组了。 https://t.co/afaJYD0tNb,https://x.com/0xAA_Science/status/2026366222749835639
+2026355339051114860,2026-02-25 01:55:35,orig,04_ai,4.79,1,20,2,9,9681,"Vibe Coding Day 6
+给 https://t.co/myyJpB0wPO 做了一个分享卡片，风格类似 GitHub，方便大家分享 vibe coding 项目。
+用到了:
+- Satori: 将 React 组件 转换为 SVG 图片
+- Yoga: Facebook 开源的布局引擎
+- Next/OG: 生成动态 OG 图片。
+
+感谢狼仔的设计建议！
+https://t.co/uk8vKzwVPL",https://x.com/0xAA_Science/status/2026355339051114860
+2026265682875383939,2026-02-24 19:59:19,orig,04_ai,4.49,0,316,20,78,84310,"所以我是为数不多对加密货币充满希望的人了？
+我相信 crypto 仍是普通人积累财富最容易的方式。
+我相信 AI 会大量使用区块链，比如稳定币支付。",https://x.com/0xAA_Science/status/2026265682875383939
+2025846118542901436,2026-02-23 16:12:07,orig,04_ai,4.34,0,43,3,6,8074,"Vibe Coding Day 5
+
+把 skill-archive 改名为 skilldb，做了数据库和网页：
+👉 https://t.co/eSl1i1TqIW
+
+这次没用 Cloudflare 全家桶，试了下 Vercel 生态：
+- 数据库用的 Turso（免费 10GB）
+- 前端直接部署在 Vercel
+
+整体体验下来，Vercel 更像传统开发者工具，而Cloudflare 更像为 AI / Agent",https://x.com/0xAA_Science/status/2025846118542901436
+2025582521610879062,2026-02-22 22:44:41,reply,04_ai,-2.1,0,1,0,2,707,"@good6_api 推荐mcp，agent调起来很方便
+我们过两天也会开放 API 注册，欢迎来提供 API！",https://x.com/0xAA_Science/status/2025582521610879062
+2025581012324114782,2026-02-22 22:38:41,reply,04_ai,-1.09,0,11,0,4,8825,@wolfyxbt 我觉得普通人 vibe coding 更多是感受时代的脉搏,https://x.com/0xAA_Science/status/2025581012324114782
+2025552733533856193,2026-02-22 20:46:19,reply,04_ai,-2.67,0,0,0,0,968,@Real0xLiam agent 用 xapi skill 和 mcp 去调用任意api,https://x.com/0xAA_Science/status/2025552733533856193
+2025541988754591902,2026-02-22 20:03:37,orig,04_ai,4.09,0,114,14,18,52733,"哈哈，大家想法差不多，我们上个月也上线了 agent 原生的 API 平台 https://t.co/gxoLsBZJJt 。
+类似 rapidapi，但是只需要一个 xapi 的 api key，就能调用任意 api，目前测试用户的反馈都不错。 https://t.co/kKZPDPCuzp",https://x.com/0xAA_Science/status/2025541988754591902
+2025276708199563732,2026-02-22 02:29:29,orig,04_ai,3.76,0,60,7,8,16660,"Vibe Coding Day 4
+
+继续做 skill-archive 项目，今天把 18万+ Skill 的相关文件都从 GitHub 爬下来了，大概 24 GB。
+等这两天整理一下，然后放出来让大家玩耍/研究。
+
+https://t.co/2P8dShRf3R https://t.co/YxvgBDTjEq https://t.co/BtM67gbtVB",https://x.com/0xAA_Science/status/2025276708199563732
+2025250205474717813,2026-02-22 00:44:10,reply,04_ai,-2.7,0,0,0,0,125,@AsTonySh @xapi_to 感谢反馈，我们看一下，能截图一下网页console的报错么？,https://x.com/0xAA_Science/status/2025250205474717813
+2024934341571403826,2026-02-21 03:49:03,orig,04_ai,5.0,0,115,20,13,40595,"Vibe Coding Day 3
+
+Skill 是分布式的，分散在各个 GitHub repo 里面。但是除了 clawhub，其他聚合平台都没有开源全部的 skill 目录。
+
+今天，我爬取了 skillsmp, skills sh, clawhub 三个平台的 skill，去重后有 18万+ skill，放在 skill archive: https://t.co/NLtSJcsTHk
+
+vibeshit page: https://t.co/kmhfDAbVrY https://t.co/Pr8yy1t5Hv",https://x.com/0xAA_Science/status/2024934341571403826
+2024931221445509246,2026-02-21 03:36:39,reply,04_ai,-1.81,0,2,0,1,232,"@wenlanbo 再次感谢 🙏
+你xapi账号绑定的推特是这个吗？ 送你 10000 XTK credit ❤️",https://x.com/0xAA_Science/status/2024931221445509246
+2024519443645419623,2026-02-20 00:20:23,orig,04_ai,2.93,0,16,1,5,6836,"Day 3
+让 xDomain 支持了 namecheap，因为域名价格是便宜的是太多了！ @Namecheap 
+现在报价时会比对多个域名服务商的价格，推荐最便宜的。
+用它注册了 https://t.co/TANJDaFgCf ，也就是下一个 vibe coding 项目的名字！
+
+https://t.co/D0srOalzDT https://t.co/yeriELDt7C https://t.co/dHfjfYPAcp",https://x.com/0xAA_Science/status/2024519443645419623
+2024208465095442482,2026-02-19 03:44:40,orig,04_ai,4.0,0,41,0,10,17019,"Day 2 
+Vibe Coding 了个用 API 注册/管理域名的产品： https://t.co/wDCHEw7fwQ ，因为我很喜欢买域名，做个💩也要买，仪式感拉满。
+
+上游接的 opensrs，是个域名分销服务商。这个产品的域名 https://t.co/TJpb8OvkB6 就是让 agent 用 api 注册的。
+
+不过 opensrs 上 .xyz 域名要 $17，但 namecheap https://t.co/05Nb97Pnms",https://x.com/0xAA_Science/status/2024208465095442482
+2023773546439471144,2026-02-17 22:56:28,orig,04_ai,4.11,0,55,7,15,68770,"Day 1
+我做了个 Vibe Coding 版的 Product Hunt: VibeShit
+https://t.co/XeLSvJOLai
+
+妈妈再也不用担心我 Vibe Coding 的垃圾产品没地方发布了！
+
+Check it out on Vibe Shit 🕶️💩 
+Agent: Cursor
+Model: Sonnet 4.6
+https://t.co/fysKYuDKtj https://t.co/KiIcfENoGc https://t.co/KzuL1TsPhA",https://x.com/0xAA_Science/status/2023773546439471144
+2023466432756150396,2026-02-17 02:36:06,orig,04_ai,2.57,0,30,0,14,26239,"马年立个 flag
+每天 vibe coding 一个没用的项目！",https://x.com/0xAA_Science/status/2023466432756150396
+2023281989189882209,2026-02-16 14:23:11,orig,04_ai,5.13,1,58,3,22,37376,"Kite 上个月底发布了主网路线图，原生支持 x402，主攻 Agent 信任和支付技术栈，打造智能体经济。
+
+虽然最近行情不好，但 $Kite 依然强势创新高，说明团队不是上币安就跑路的一波流，希望新的一年继续加油，重铸 Crypto + AI 荣光。 @GoKiteAI https://t.co/EQqdubT0AB https://t.co/Q0bU5qLkP7",https://x.com/0xAA_Science/status/2023281989189882209
+2023191388368814371,2026-02-16 08:23:10,orig,04_ai,4.2,1,26,1,11,17092,"OpenAI 收购了 OpenClaw
+记得访谈中 @steipete 说更倾向 Meta，不过估计最后 OpenAI 给的条件更好，钱更多。
+恭喜 OpenAI！恭喜 OpenClaw！ https://t.co/8xbKAqgwQK",https://x.com/0xAA_Science/status/2023191388368814371
+2023053165613203943,2026-02-15 23:13:55,orig,04_ai,4.3,0,54,8,17,12942,"xAPI is the API platform for Agents.
+
+Connecting to https://t.co/HvdWKCyitB to unlock Twitter, Search, and Crypto capabilities with one universal key.
+
+#xAPI #AI #agents
+
+Claim Code: 9d88-37A1",https://x.com/0xAA_Science/status/2023053165613203943
+2022926841246552367,2026-02-15 14:51:57,reply,04_ai,-2.57,0,0,0,1,1316,@steipete @openclaw whats the best way to get OpenClaw updated?,https://x.com/0xAA_Science/status/2022926841246552367
+2022153456153403547,2026-02-13 11:38:48,orig,04_ai,2.74,0,27,0,12,13547,"Stripe 接入了 x402 支付协议。
+稳定币支付，可能是 Crypto 能为 AI 提供的为数不多的价值了。 https://t.co/xWN0JEQ8Bs",https://x.com/0xAA_Science/status/2022153456153403547
+2022152899170795646,2026-02-13 11:36:35,orig,04_ai,2.92,0,54,1,13,14151,"以前： 币圈一天，人间一年。
+
+现在； AI 一天，人间一年。",https://x.com/0xAA_Science/status/2022152899170795646
+2022149631283810639,2026-02-13 11:23:36,orig,04_ai,5.7,0,457,54,20,100845,"牛逼，斯坦福小镇论文的作者 Joon 创业了，公司叫 Simile，融了 1 亿u，做斯坦福小镇的延伸，利用 agent 模拟人类行为。
+
+我很看好 Joon，他的论文我基本都读了。最近很火的 AI 论坛 Moltbook，其实 Joon 在22年的论文就提出过原型 “SimReddit”，agent 论坛。
+
+期待 Simile 的产品！ https://t.co/5t7U1QmHT1 https://t.co/4p902PkCU7",https://x.com/0xAA_Science/status/2022149631283810639
+2020785403528126658,2026-02-09 17:02:39,orig,04_ai,5.72,0,2226,80,300,982956,"以前到香港就能自由访问外网。
+但现在美国 AI 企业把香港和大陆一起墙了。在香港访问 ChatGPT，Gemini 也要 VPN，就很难受。 https://t.co/bSOqkKGdu5",https://x.com/0xAA_Science/status/2020785403528126658
+2020726682500604320,2026-02-09 13:09:19,reply,04_ai,-2.33,0,1,0,0,453,@seseleek @web4agentpro 目前agent连api key都保护不好 😂,https://x.com/0xAA_Science/status/2020726682500604320
+2020720702895296537,2026-02-09 12:45:33,orig,04_ai,3.85,0,37,3,17,21608,"AI Agent 很火，但安全问题目前很大。
+比如，Moltbook 上的 grok-1 是被人诱导认领的账号。
+比如，ClawHub 上有数百个恶意 Skill，旨在窃取私钥/API Key、安装后门程序。
+比如，错误配置的 OpenClaw / ClawdBot 很容易泄漏私钥。
+比如。。。 https://t.co/bXNI0HyL0p https://t.co/8Fjm5QfGjx",https://x.com/0xAA_Science/status/2020720702895296537
+2019430294093459739,2026-02-05 23:17:55,reply,04_ai,-1.91,0,2,0,4,2349,@ceilingceiling0 @vercel 我没用过 claude code，因为我的所有 claude 账号都被封了,https://x.com/0xAA_Science/status/2019430294093459739
+2019427374904054181,2026-02-05 23:06:19,orig,04_ai,8.09,2,657,146,40,80719,"Skill 是一种可被 AI agent 自动发现、理解并调用的模块化能力接口，用来让 agent 快速学会并稳定执行某一类具体任务。
+这里推荐 3 个 Skill 平台：
+
+1. https://t.co/higMsp5Zpi 
+最早的 Skill 开放市场，收录超过 150,000 个 Skill 。 
+
+2. https://t.co/en5x20bO5t
+@vercel 做的 Skill https://t.co/gtmjhsUN9S",https://x.com/0xAA_Science/status/2019427374904054181
+2018932598811316594,2026-02-04 14:20:16,orig,04_ai,5.77,1,53,4,10,22959,"为什么我觉得在 OpenClaw / ClawdBot 中，“Skill” 是一等公民。
+我们可以拿它与 Codex 和 OpenCode 对比：
+
+Codex: 
+用户需要在输入中使用 $SkilllName 进行显示触发，加载相应的 Skill。
+
+OpenCode: 
+Skill 作为众多工具之一，每次由 LLM 根据用户的输入决定是否加载。
+用户消息 -&gt; LLM 思考是否调用 https://t.co/lkl55c3C3r https://t.co/V5MC5gmgv2",https://x.com/0xAA_Science/status/2018932598811316594
+2018825437498221024,2026-02-04 07:14:26,reply,04_ai,-2.17,0,1,0,0,1531,@wu_yun_jiang @steipete 嗯 可以给自己写 openclaw有一个skill就是用来创建新skill的,https://x.com/0xAA_Science/status/2018825437498221024
+2018567310982934903,2026-02-03 14:08:44,orig,04_ai,5.03,0,203,17,16,97244,"我觉得 Clawdbot / Moltbot / OpenClaw 能成功的一个关键点，就是 Skill 机制。
+它把“工具”这件事直接变成一等公民，让 Agent 能非常快地上手和扩展能力。
+
+作者 @steipete 本人就是个工具狂热开发者，GitHub 主页挂着几十个自己写的工具项目。
+
+Clawdbot 内置了 60 个 https://t.co/jPiEpylISX",https://x.com/0xAA_Science/status/2018567310982934903
+2016520631073067035,2026-01-28 22:35:58,orig,04_ai,3.2,1,16,1,9,10785,AI 如何能学会重启自己？ 😂 https://t.co/If1Z8MjcMD,https://x.com/0xAA_Science/status/2016520631073067035
+2016141098083877344,2026-01-27 21:27:50,orig,04_ai,7.79,2,225,33,27,141090,"ClawdBot 配置 Minimax M2.1 模型还有点坑：
+1. Minimax 分为国内版和海外版（我之前不知道），ClawdBot 内置的是海外版的配置，所以如果国内版的 api key，会报 invalid api key 错误
+2. 两个版本的 baseUrl 也是不同的
+
+如果你用的是国内版，需要修改 .clawdbot/clawdbot.json 中的 https://t.co/INfhL3Y9p3 https://t.co/10MNyUURon",https://x.com/0xAA_Science/status/2016141098083877344
+2014545820432138399,2026-01-23 11:48:46,reply,04_ai,-1.99,0,1,0,0,190,@FreddiKung 对，skill 存储为md文件。只不过有选择、组合、调用 skill 的流程，最后再组装到 prompt 里面。,https://x.com/0xAA_Science/status/2014545820432138399
+2014497909979677176,2026-01-23 08:38:23,reply,04_ai,-2.7,0,0,0,1,562,@lordr_eth 不是，这个类似 skillsmp 和 vercel 昨天做的 https://t.co/en5x20bO5t,https://x.com/0xAA_Science/status/2014497909979677176
+2014497478377439362,2026-01-23 08:36:41,reply,04_ai,-2.13,0,0,0,0,206,"@xeronflow Anthropic 开源了 Skills 的接口/规范，但 skill 的调度、执行与编排逻辑仍然是 Claude Code 内部的闭源实现。
+我的需求是找这部分的开源实现。",https://x.com/0xAA_Science/status/2014497478377439362
+2014379894042726608,2026-01-23 00:49:26,reply,04_ai,-2.45,0,0,0,0,254,@LuAchon59762 是的 他们都闭源的集成了类似 claude code skill 的能力，但和我的需求不同，我要的是开源实现。,https://x.com/0xAA_Science/status/2014379894042726608
+2014363350487171341,2026-01-22 23:43:42,reply,04_ai,-2.26,0,1,0,1,997,@Jimmy_superpig 我试着找opencode skill实现的相关部分，没找到,https://x.com/0xAA_Science/status/2014363350487171341
+2014363120228278342,2026-01-22 23:42:47,reply,04_ai,0.01,2,0,0,3,929,"@LuAchon59762 怎么构建这样的skill呢？
+关键是，ai要先学会如何使用skill，才能读取调用skill的skill，而不是顺序相反。",https://x.com/0xAA_Science/status/2014363120228278342
+2014342287657238598,2026-01-22 22:20:00,orig,04_ai,4.13,1,37,2,29,18633,Agent Skill 很好用，但是它的使用方法是闭源在 claude code 里的，有什么好用的开源替代吗？,https://x.com/0xAA_Science/status/2014342287657238598
+2013129632254673012,2026-01-19 14:01:21,orig,04_ai,2.95,0,64,1,44,51806,"两天前： AI 革命！
+两天后： AI 骗局！ https://t.co/MTJPi3PVVP https://t.co/rnF5eKMwbL",https://x.com/0xAA_Science/status/2013129632254673012
+2012335391508967841,2026-01-17 09:25:19,reply,04_ai,-1.55,0,2,0,0,1503,@jamiepine When will spacedrive integrate with AI? I think it’s the key for success.,https://x.com/0xAA_Science/status/2012335391508967841
+2012314892032782551,2026-01-17 08:03:51,reply,04_ai,-1.52,0,4,0,3,3012,"@whyirendy 现在有vibe coding，是个人就能有项目，代码都jb ai写的。
+币安不是项目？",https://x.com/0xAA_Science/status/2012314892032782551
+2012078298537525498,2026-01-16 16:23:43,orig,04_ai,3.47,0,103,1,55,54664,目前，crypto x AI 的最大应用就是用 crypto 给 AI 开发者捐款了 😂,https://x.com/0xAA_Science/status/2012078298537525498
+2011750745826374113,2026-01-15 18:42:08,orig,04_ai,3.31,0,26,1,32,11312,"哭哭马是否有外观专利风险？
+看了下微博的讨论，也问了下chatgpt，结论就是：没有
+主要原因是：新颖性缺失
+因为在申请前已经有网友照片流出，并且媒体大量曝光了。
+正确的做法是先申请专利，再生产销售。
+
+如果我的观点有误，欢迎指出。 https://t.co/KuO3kwhfOl",https://x.com/0xAA_Science/status/2011750745826374113
+2011395000337395726,2026-01-14 19:08:32,reply,04_ai,-1.13,1,1,0,1,556,@0xleo0x @Darkfarms1 @btc2ai @0xcryptowizard @Ed_x0101 @0xyukaz @brc20niubi 不要写article 没流量的 不如写长推文,https://x.com/0xAA_Science/status/2011395000337395726
+2010836742195286124,2026-01-13 06:10:13,reply,04_ai,-2.82,0,0,0,1,334,@Mimi65Y 没用过潮汐，问了AI说不是重复造轮子 https://t.co/IY44OgAArX,https://x.com/0xAA_Science/status/2010836742195286124
+2009217009490522257,2026-01-08 18:53:59,orig,04_ai,5.12,1,41,1,25,25845,"1. 前两天我看杜兰特的采访，提到了他睡觉会听白噪音。正好我也难入睡，就做了“睡觉啦”，可以通过“混音”自定义白噪音。
+
+2. 今天，从小米离职的王腾公布了在筹备的创业公司，也是做睡眠相关的，叫“今日宜休”。
+
+未来AI会取代人类大部分的日常工作，大家有更多的时间睡觉，睡眠相关的产品需求也会上升。 https://t.co/ctr46f1NjX https://t.co/SLkxmEqtZy",https://x.com/0xAA_Science/status/2009217009490522257
+2008581735467160062,2026-01-07 00:49:38,orig,04_ai,5.16,0,234,12,78,120873,"我 vibe coding 的助眠APP上架 App Store 啦！搜 “睡觉啦” 就能下载。
+做这个App的原因是我睡前习惯玩手机，有时候几个小时才能入睡。想尝试听自定义的白噪音助眠，但是市面上没满足需求的，而且都太复杂。
+目前我用了5天，基本10分钟内能睡着，意外的有效。大家可以试试，但是效果因人而异。
+不会发币 https://t.co/VUSsL3e3as",https://x.com/0xAA_Science/status/2008581735467160062
+2008386510647947669,2026-01-06 11:53:52,reply,04_ai,-2.74,0,0,0,0,491,@Nekita_U vibe coding，主要让AI写，我来测试就行了,https://x.com/0xAA_Science/status/2008386510647947669
+2007836429070786991,2026-01-04 23:28:03,reply,04_ai,-2.35,0,1,0,0,344,@goodman_0221 马斯克没把AI做成，Tesla才会被吸血,https://x.com/0xAA_Science/status/2007836429070786991
+2007835819491602739,2026-01-04 23:25:37,reply,04_ai,-2.38,0,0,0,1,583,"@goodman_0221 SpaceX 的确在准备 IPO，应对 AI 军备竞争，马斯克也很焦虑。
+neurallink 没有要 IPO 吧，还不成熟",https://x.com/0xAA_Science/status/2007835819491602739
+2007834557618463188,2026-01-04 23:20:36,orig,04_ai,2.7,0,38,0,15,14860,"马斯克：2026 是奇点之年
+
+今年 AI 要全面超越人类了？ https://t.co/JLJojPP7sA",https://x.com/0xAA_Science/status/2007834557618463188
+2007638289990488170,2026-01-04 10:20:43,orig,04_ai,4.44,0,499,47,92,199821,"闲鱼真的什么都有
+比如这个美国大兵认证 😂
+可以白嫖 chatgpt plus https://t.co/irWnp1JisC",https://x.com/0xAA_Science/status/2007638289990488170
+2007270934777131429,2026-01-03 10:00:58,reply,04_ai,-2.64,0,0,0,2,3366,"@lijazzer 这女的叫司晓迪，实名上网的。
+这流量给她，要是AI生成的，法律会制裁她。",https://x.com/0xAA_Science/status/2007270934777131429
+2006976354793959927,2026-01-02 14:30:25,reply,04_ai,-2.82,0,0,0,0,2713,@wey_gu 多搞几个cursor好买套餐就能解决,https://x.com/0xAA_Science/status/2006976354793959927
+2006764217798631773,2026-01-02 00:27:28,reply,04_ai,-2.35,0,1,0,1,460,@jlw100625 ai问问 我没用过dexscreener,https://x.com/0xAA_Science/status/2006764217798631773
+2006004345100501014,2025-12-30 22:08:00,reply,04_ai,-1.91,0,3,0,1,3935,@kylesean6 不是一个赛道 minimax做llm的,https://x.com/0xAA_Science/status/2006004345100501014
+2005938375858020593,2025-12-30 17:45:51,reply,04_ai,-1.72,0,4,0,1,6555,"@artX402 现在小公司没能力开发自己的llm了
+好 我听听",https://x.com/0xAA_Science/status/2005938375858020593
+2005927726201618515,2025-12-30 17:03:32,orig,04_ai,5.16,1,244,4,35,82403,"为什么他 Cursor 能套壳
+我 Manus 不能套？
+王侯将相宁有种乎？",https://x.com/0xAA_Science/status/2005927726201618515
+2005818866988114300,2025-12-30 09:50:58,orig,04_ai,3.52,0,80,2,31,40873,"今天，Manus 被 Meta 收购了。
+AI 创业现在不仅融资容易，不用担心回不了国，还有各大公司收购帮你退出。
+这是最好的时代！ https://t.co/V18uNXr9R5",https://x.com/0xAA_Science/status/2005818866988114300
+2003296837319688677,2025-12-23 10:49:20,reply,04_ai,-1.72,0,4,0,3,4451,@cyodyssey 学会prompt engineering就行了,https://x.com/0xAA_Science/status/2003296837319688677
+2001964886025535963,2025-12-19 18:36:38,orig,04_ai,3.49,0,135,1,58,99693,"加密行情真的是枯了
+大家都开始 vibe coding 了",https://x.com/0xAA_Science/status/2001964886025535963
+1999961178257432823,2025-12-14 05:54:37,reply,04_ai,-1.96,0,1,0,0,265,"@adacyborg11 @nina_rong @BNBCHAIN @openx402 @yq_acc 哈哈 又开始AI了 收了你的chatgpt/grok吧 把我们doc喂进去了？
+
+截图是可验证的，去 https://t.co/rxMRFtMwcE 输入 https://t.co/5wEbiYvCod 就能查",https://x.com/0xAA_Science/status/1999961178257432823
+1999956484286038291,2025-12-14 05:35:57,reply,04_ai,-0.25,1,0,0,3,657,"@adacyborg11 @nina_rong @BNBCHAIN @openx402 我觉得你是AI是因为你在把很多错误的点捏造到一起来攻击我。
+你没有阅读我的帖子，才会用 “USD1 不支持 ERC-3009” 作为你的论据，很明显是AI生成的。
+
+1. 你说的 @yq_acc 文章是这一篇吧 ，发表时间 2025/11/10 19:23 UTC。我们域名 https://t.co/5wEbiYvCod 的注册时间是 2025/11/10 09:23 https://t.co/BaedkXTEuw",https://x.com/0xAA_Science/status/1999956484286038291
+1999869954775216398,2025-12-13 23:52:07,reply,04_ai,0.29,0,2,0,1,1130,"7/
+In late October, we tried extending x402 via a router contract,
+to support more tokens using ERC-2612 Permit / Permit2.
+
+Discussion:
+https://t.co/1uZRbrIHFC
+
+However, this approach breaks trust minimization:
+users authorize the router, not the merchant —
+which introduces a new https://t.co/WIsSdPLKkq",https://x.com/0xAA_Science/status/1999869954775216398
+1999869951252017516,2025-12-13 23:52:06,reply,04_ai,0.22,0,1,0,1,869,"6/
+Currently, the only token standard that satisfies both is
+ ERC-3009 (transferWithAuthorization), proposed by Circle.
+
+This standard is very niche —
+outside of USDC, almost no major tokens support it.
+
+As a result:
+- x402 today effectively supports only USDC,
+- USDT / USD1 / https://t.co/cRp84Ao35m",https://x.com/0xAA_Science/status/1999869951252017516
+1999869943807086788,2025-12-13 23:52:05,reply,04_ai,1.44,1,1,0,1,948,"4/
+x402 is built around 5 core principles:
+1️⃣ Open standard
+2️⃣ HTTP-native
+3️⃣ Chain / token agnostic (compatible to all chains/tokens)
+4️⃣ Trust-minimized (no third party can move funds against user intent)
+5️⃣ Easy to use (gas handled by facilitators, not users or merchants) https://t.co/1pbsA1NqgX",https://x.com/0xAA_Science/status/1999869943807086788
+1999530348900978921,2025-12-13 01:22:39,reply,04_ai,-0.8,0,2,0,2,3889,"11.
+在此基础上，x402x 还引入了两个特性：
+- Facilitator Rewards: 每笔结算可配置手续费（如 1%），
+用来激励中继网络。
+- Hooks（可组合支付）: 支付和“副作用”（比如铸造 NFT/Token）可以在同一笔交原子执行，无需分多笔交易。
+我想 @pingobserver 会很感兴趣。 https://t.co/GLpooE79az",https://x.com/0xAA_Science/status/1999530348900978921
+1999530320262234311,2025-12-13 01:22:32,reply,04_ai,4.28,6,0,0,1,2454,"4/
+x402 协议基于 5 个重要原则：
+1. 开放标准
+2. HTTP 原生
+3. 链/Token 无关：兼容尽可能多的链和代币
+4. 最小信任：第三方无法违背用户意愿转移资金
+5. 易于使用：支付双方无需关心 gas，由 facilitator 处理 https://t.co/DFks28B1KH",https://x.com/0xAA_Science/status/1999530320262234311
+1999002508442939808,2025-12-11 14:25:12,reply,04_ai,-2.67,0,0,0,1,750,@Kris7146 @elonmusk 我也不太懂，查了下AI，散热是最大的问题，其次是防辐射/维修/电力 https://t.co/bPKf7J32Qv,https://x.com/0xAA_Science/status/1999002508442939808
+1998993461245247848,2025-12-11 13:49:15,orig,04_ai,3.42,0,39,0,17,20800,"SpaceX 要上市了，估值 1.5万亿美元，准备融资 300亿。
+马斯克讲的故事：在太空部署分布式的数据中心。
+其实就是为了加码 AI 竞赛，把 OpenAI 干下去，哈哈！
+
+等上市了，大家都来抬一手 @elonmusk 
+
+https://t.co/w739EjqZRx https://t.co/3sC8lrgu7k",https://x.com/0xAA_Science/status/1998993461245247848
+1998735890684825642,2025-12-10 20:45:45,reply,04_ai,-2.2,0,1,0,1,1393,"@raylin51 我基本每天都打错
+不想typo的可以发推前让AI审核下，但我觉得没必要",https://x.com/0xAA_Science/status/1998735890684825642
+1996060103511052786,2025-12-03 11:33:08,orig,04_ai,2.71,0,26,0,15,14469,"Bun 被 Anthropic 收购了。
+现在开源项目多了一个退出渠道；被AI公司收购，因为他们太TM有钱了 😂 https://t.co/f4Zbnn6SEW https://t.co/vC0QDd4QeT",https://x.com/0xAA_Science/status/1996060103511052786
+1994359380054299040,2025-11-28 18:55:04,orig,04_ai,5.13,0,816,40,68,484519,"这人在审稿时候用AI给作者提了40个问题。
+
+结果最近 openreview 盲审系统的api出bug，任何人都能能获取用户实名信息，直接给他开盒了 😂 https://t.co/hMRIiA8AW9",https://x.com/0xAA_Science/status/1994359380054299040
+1988113136629805210,2025-11-11 13:14:43,orig,04_ai,2.78,0,45,0,60,21374,"我希望这个帖子下面只有 AI 评论
+我的 AI 粉在哪里？ https://t.co/x7Y7c4gevI",https://x.com/0xAA_Science/status/1988113136629805210
+1986296157354840264,2025-11-06 12:54:42,reply,04_ai,-2.55,0,0,0,0,197,"@huicker @block0_eth ai交易员还有开仓的操作 说明策略还在运行
+平仓后不再操作 余额被转走 我就认为是手动平仓 https://t.co/RiaWE87npu",https://x.com/0xAA_Science/status/1986296157354840264
+1985989909350654298,2025-11-05 16:37:46,reply,04_ai,-1.18,0,4,0,0,752,"@block0_eth 官方那个时间宣布结束 但策略还在运行中 最后手动平仓时deepseek账号只剩5500u
+这里截图差不多4000u，在官方宣布结束，但策略还在运行的时候。",https://x.com/0xAA_Science/status/1985989909350654298
+1985891673306775999,2025-11-05 10:07:25,orig,04_ai,4.7,0,262,24,94,174619,"最近行情很差，但 Deepseek 依然全仓 10x 做多。
+刚 BTC 跌破 10w 大关，Deepseek 的收益率也从最高 +120% 跌为 -60%，从第一变为倒数第一 😂
+看来 AI 也把握不住杠杆交易！ https://t.co/O6aMTJYVuu https://t.co/nGd9wSdJGB",https://x.com/0xAA_Science/status/1985891673306775999
+1983170745380573245,2025-10-28 21:55:25,reply,04_ai,-2.21,0,1,0,0,188,@0xa5d48801 @Crypto_pikou x402的诞生就是为了推支付标准（推广usdc），后面才加的AI部分,https://x.com/0xAA_Science/status/1983170745380573245
+1983122181472301106,2025-10-28 18:42:27,reply,04_ai,-2.81,0,0,0,1,1259,@198888cj @Unibase_AI 应该是，但是这个也是他们平台的，没成功,https://x.com/0xAA_Science/status/1983122181472301106
+1983114801309257811,2025-10-28 18:13:07,reply,04_ai,-1.67,0,4,0,0,654,"@SunCling92993 @Unibase_AI 你懂拉踩啥意思不？
+A好，B不好，叫拉踩
+说B傻逼，叫喷",https://x.com/0xAA_Science/status/1983114801309257811
+1983114225687171230,2025-10-28 18:10:50,reply,04_ai,-2.27,0,1,0,2,1672,@SunCling92993 @Unibase_AI 你是傻逼吧，项目方产品出bug了，让大家亏了钱，不让说？,https://x.com/0xAA_Science/status/1983114225687171230
+1982844375622443474,2025-10-28 00:18:33,orig,04_ai,3.91,0,200,18,47,311674,Deepseek 交易员的收益率已经来到了 120% ，本金1wu，赚了 1.2wu，牛逼！ https://t.co/OlEmznY8Sa https://t.co/6bQ2vUxDPD,https://x.com/0xAA_Science/status/1982844375622443474
+1982420533540016538,2025-10-26 20:14:21,orig,04_ai,4.13,0,46,5,18,187577,"行情回暖，QWEN Deepseek 二龙戏珠
+AI 交易竞技场继续进行，QWEN 和 Deepseek 分别以 90% 和 73% 的收益率排在前两名。
+但是两位选手的持仓策略很不同：
+- QWEN 已经平了大部分 BTC 20x 仓位。
+- Deepseek 几乎满仓做多。
+鹿死谁手？让我们继续关注！
+@the_nof1 @jay_azhang $arena https://t.co/UeyyyAhW1s https://t.co/9ogERHjonK",https://x.com/0xAA_Science/status/1982420533540016538
+1981873012384420055,2025-10-25 07:58:42,orig,04_ai,3.56,0,34,4,13,12943,"想释放 AI 代理的潜能，它们必须能自己付费、收款、交易。
+加密支付（如 x402 协议）可能是唯一可行的 AI 代理支付方案。
+a16z 预测，到2030年，AI 代理将发起或影响 30 万亿美元的交易额。
+
+We are still early
+ @a16zcrypto @a16zcrypto @pmarca https://t.co/DUtKe06BxS",https://x.com/0xAA_Science/status/1981873012384420055
+1981531535045214346,2025-10-24 09:21:47,reply,04_ai,-1.54,0,4,0,1,418,"@zishang15 @the_nof1 @jay_azhang 啥叫西方的技术，跪久了？
+AI领域优秀的中国人/华人太多了，发了AI的大部分论文。",https://x.com/0xAA_Science/status/1981531535045214346
+1981458889381159205,2025-10-24 04:33:07,reply,04_ai,-1.44,0,3,0,2,2695,@jay_azhang Alpha Arena is the most crypto-native and degen AI benchmark ever.,https://x.com/0xAA_Science/status/1981458889381159205
+1981409666673545680,2025-10-24 01:17:32,orig,04_ai,4.67,0,92,9,31,83122,"今天是国产AI交易员的胜利，Qwen和Deepseek大幅领先！
+市场止跌回暖，6个AI交易员仅胜2个盈利，其中 Qwen （44%收益率）反超 Deepseek（27%），暂列榜一。
+剩下的 Grok 和 Claude 并列（-14%），Gemini -65%，ChatGPT最惨，亏了 74%，快归零了 😂
+国产AI牛逼！
+@the_nof1 @jay_azhang $arena https://t.co/WTYXmS6DGz https://t.co/waKRKz8xwE",https://x.com/0xAA_Science/status/1981409666673545680
+1981164935762837642,2025-10-23 09:05:03,reply,04_ai,-1.58,0,1,0,1,253,"@FabianXBT @pingobserver @jessepollak I see 
+https://t.co/XDpQGH0v0G
+
+But dev seems forgot withdraw mint fees. There is 60k usdc locked in the token contract.",https://x.com/0xAA_Science/status/1981164935762837642
+1981069319426756900,2025-10-23 02:45:06,reply,04_ai,-2.12,0,2,0,0,3470,"@starcapital_ai 你以为我想玩base啊
+狗都不玩",https://x.com/0xAA_Science/status/1981069319426756900
+1980876462522823105,2025-10-22 13:58:46,orig,04_ai,4.18,0,70,6,42,102949,"行情不好，AI交易员也都回撤的厉害：
+目前 Deepseek 依然保持领先，收益率 10%，
+阿里的 Qwen 紧随其后，收益率6%，
+grok 微微盈利，摇摇欲坠，
+Claude 亏 16%，Google Gemini 接近腰斩，
+最菜的是 ChatGPT，亏了 65% 了 😂 https://t.co/iYoKlGYxOH https://t.co/YOPtKf5Cfm",https://x.com/0xAA_Science/status/1980876462522823105
+1980675065793614314,2025-10-22 00:38:29,reply,04_ai,-2.67,0,0,0,0,1647,@Laozisaid 目前测试用的grok和deepseek，因为在arena上表现最好,https://x.com/0xAA_Science/status/1980675065793614314
+1980673538735632891,2025-10-22 00:32:25,orig,04_ai,4.01,0,63,7,26,91408,"Arena 会是最大的交易相关的 AI meme。
+这两天我和朋友也尝试了 alpha arena 类似的AI代理交易，对它的前景非常乐观。相对于人，AI 交易更有纪律性，并且反应用时比大部分非专业交易员要快。
+AI辅助交易，甚至完全代替人做交易，是未来趋势。 https://t.co/YyZNcN52m2",https://x.com/0xAA_Science/status/1980673538735632891
+1973418840504803600,2025-10-02 00:04:50,reply,04_ai,-1.77,0,4,0,1,7967,@sicheng1990 还在开发，所以还是可以用AI钻空子？,https://x.com/0xAA_Science/status/1973418840504803600
+1973414625166368812,2025-10-01 23:48:05,reply,04_ai,-1.96,0,2,0,1,6751,"@QianYhlz 有的kyc不用 上传文件就行
+不过我觉得AI可以搞定人脸识别吧？",https://x.com/0xAA_Science/status/1973414625166368812
+1973406481191199006,2025-10-01 23:15:43,orig,04_ai,3.97,0,158,9,44,83507,"我想问下，大家买的KYC真的是找黑哥们弄的，还是AI生成的？
+我看 deepfake 已经可以以假乱真了，KYC审查真的能辨别出来吗？",https://x.com/0xAA_Science/status/1973406481191199006
+1973402738202710476,2025-10-01 23:00:51,orig,04_ai,3.4,0,31,2,17,124469,"今天 Kite AI 的 NFT 盲盒开了，我的这个有点帅，还有双刀。
+Kite AI 想做人工智能的支付区块链，让 AI Agent 可以做交易和支付。目前拿了 Paypal 风投的投资，项目还在早期，大家可以关注零撸的机会。
+@GoKiteAI @0xLaughing https://t.co/pI9zaKK86L https://t.co/fjkfZvvJX4",https://x.com/0xAA_Science/status/1973402738202710476
+1967581602168660307,2025-09-15 21:29:44,reply,04_ai,-2.79,0,0,0,2,262,@Thales_wang 现在的AI 你可以看到网上有侏罗纪的半成品,https://x.com/0xAA_Science/status/1967581602168660307
+1966432419839611368,2025-09-12 17:23:18,orig,04_ai,2.62,0,27,3,16,27915,"狼仔也开始vibe coding了，你们还在等什么？
+我给推荐的cursor，很适合新人！ https://t.co/uyseE0zV9C",https://x.com/0xAA_Science/status/1966432419839611368
+1953740728703893529,2025-08-08 16:51:03,reply,04_ai,-1.27,0,7,0,2,2607,试了下，GPT-5不是写代码不如claude 4，而是写的根本就是一坨屎 💩,https://x.com/0xAA_Science/status/1953740728703893529
+1953729218728104407,2025-08-08 16:05:18,orig,04_ai,2.12,0,10,1,11,5096,"GPT-5发布了，cursor可以免费用一周，不消耗credit。
+听说代码上不如claude 4，今天试试看。 https://t.co/DSrT9SRPiw",https://x.com/0xAA_Science/status/1953729218728104407
+1949408322123403356,2025-07-27 17:55:36,reply,04_ai,-2.76,0,0,0,1,204,@etcetera10969 @cursor_ai 我还是1.2.2 ，官方版本已经到了1.3了么？,https://x.com/0xAA_Science/status/1949408322123403356
+1949395723478556712,2025-07-27 17:05:33,reply,04_ai,-1.8,0,0,0,1,510,"@zjc2022 @cursor_ai 我觉得cursor目前还是最好用的vibe coding工具，代码质量和稳定性要比kiro好很多。
+kiro spec算是很好的创新了，值得cursor学习，我很喜欢这种kanban的管理风格，就是目前免费期，白嫖的人太多，服务太不稳定了。",https://x.com/0xAA_Science/status/1949395723478556712
+1949393014918705178,2025-07-27 16:54:47,orig,04_ai,3.55,0,20,2,17,8556,"cursor 每次生成终端命令，都需要我确认一下，感觉有点烦，但是切换成 autorun 又觉得不安全。
+我觉得 kiro 这里做的很好，每次会让你选授权的范围：
+npm ***
+npm test ***
+或是更具体的 npm test -- --testPathPattern=""xxx|yyy""
+希望 @cursor_ai 学一下 https://t.co/k92sSbl9TW",https://x.com/0xAA_Science/status/1949393014918705178
+1947257700456288415,2025-07-21 19:29:48,reply,04_ai,-1.17,1,1,0,3,3025,@grok  你觉得 aws 的 kiro 怎么样,https://x.com/0xAA_Science/status/1947257700456288415
+1947231981743333429,2025-07-21 17:47:36,reply,04_ai,-2.36,0,1,0,0,296,@edgerunner_z @cursor_ai 估计还没调教好 但毕竟免费 吹的人很多,https://x.com/0xAA_Science/status/1947231981743333429
+1947195709855531491,2025-07-21 15:23:29,reply,04_ai,-2.29,0,1,0,1,826,@genffy_dev @cursor_ai claude code我还没试用，之前封了我太多号了,https://x.com/0xAA_Science/status/1947195709855531491
+1947194858713813030,2025-07-21 15:20:06,orig,04_ai,3.43,0,15,3,13,10441,"上周AWS出了一个cursor竞品叫 Kiro，试用期可以免费用 claude 4，我就去下载了一个。
+但是被太多人撸了，无尽的 error 和 retry，根本没法用。
+值得学习的一点是: 新建对话提供了类型选择：
+- Vibe 模式就是聊到啥写啥
+- Spec 模式会先生成产品文档，然后按照产品文档开发，更系统化
+希望 @cursor_ai https://t.co/91Avk3Yc8j",https://x.com/0xAA_Science/status/1947194858713813030
+1946473743213056305,2025-07-19 15:34:38,orig,04_ai,4.52,1,17,1,23,9923,"昨天出了个 ClaudeComputer (CPUTER)，因为vibe coding 都用的claude，我觉得挺有意思就买了点。
+结果今天起床一看，dev因为侵权要改名Codeputer，之前的meme就归零了 😂
+
+我寻思CPUTER也可以是Codeputer简写啊，怎么就归零了？ https://t.co/d3VK3ntxDG",https://x.com/0xAA_Science/status/1946473743213056305
+1945587250504577254,2025-07-17 04:52:02,reply,04_ai,-2.85,0,0,0,0,334,@Jiaxi_Cui 主要是方便agent开发和协作,https://x.com/0xAA_Science/status/1945587250504577254
+1945555501074583596,2025-07-17 02:45:52,orig,04_ai,2.19,0,19,1,22,40748,grok的男形象被P出了100个名字，真有你们的 https://t.co/RNfil0Bw0U,https://x.com/0xAA_Science/status/1945555501074583596
+1945436926577914084,2025-07-16 18:54:42,orig,04_ai,2.65,0,14,0,19,9235,"cursor又到limit了：
+20u的套餐可以用100u (20+80)的API，
+60u的套餐可以用220u (60+160)的API。
+准备尝试下200u的ultra套餐。 https://t.co/k9uxGtyhyw https://t.co/dYiM8IYM5B",https://x.com/0xAA_Science/status/1945436926577914084
+1945351634105819604,2025-07-16 13:15:47,orig,04_ai,3.55,0,119,2,73,52915,"grok 变成大胸萌妹了 😂
+如果未来的机器人长这样，我还挺期待的，AI加速主义万岁！ https://t.co/h0iRinUQhM",https://x.com/0xAA_Science/status/1945351634105819604
+1944779301309788670,2025-07-14 23:21:32,orig,04_ai,2.55,0,24,1,18,7572,用AI改bug的时候，最怕的就是AI也不知道哪里的问题，然后瞎jb改，把不该改的也都改了。,https://x.com/0xAA_Science/status/1944779301309788670
+1944307753394352303,2025-07-13 16:07:46,orig,04_ai,1.85,0,10,3,58,11326,"有没有朋友用过 supergrok heavy，值得开吗？
+@grok @elonmusk https://t.co/5djnruucNi",https://x.com/0xAA_Science/status/1944307753394352303
+1943528817727017037,2025-07-11 12:32:33,orig,04_ai,2.03,0,13,1,17,21618,新注册了一个 cursor 账号，两天又用到limit了，我日 https://t.co/ByKdhKXJR9 https://t.co/fmmNUofeCn,https://x.com/0xAA_Science/status/1943528817727017037
+1943185029120823543,2025-07-10 13:46:28,reply,04_ai,-2.81,0,0,0,1,78,@0x_enid 如果没立法强制AI与人类区分的话，很难,https://x.com/0xAA_Science/status/1943185029120823543
+1943041609588969732,2025-07-10 04:16:34,orig,04_ai,2.76,0,20,1,13,6301,"最近高强度体验 vibe coding
+人终究是碳基生物，要吃饭睡觉打飞机
+AI 是真的能一年每天24小时不间断训练/输出的
+你很努力，但是能有AI努力吗？",https://x.com/0xAA_Science/status/1943041609588969732
+1942878415058870315,2025-07-09 17:28:05,orig,04_ai,2.81,0,23,2,25,13544,"“我们已经到达了一个温和的奇点。”
+
+看到一条回复/照片/视频，我们会想是不是 AI 生成的。
+看到一个新产品，我们会想 AI 两小时能不能做出来。",https://x.com/0xAA_Science/status/1942878415058870315
+1942454458316906696,2025-07-08 13:23:26,orig,04_ai,2.28,0,13,2,25,5027,"cursor auto 是智障模式
+claude 3.5 在 4.0 面前是智障
+chatgpt 只能用来哄小孩 https://t.co/ygma8ccJZJ",https://x.com/0xAA_Science/status/1942454458316906696
+1942413216929480748,2025-07-08 10:39:33,orig,04_ai,2.12,0,14,0,14,20351,把 cursor 撸的受不了了，是时候开启 claude code 了。 https://t.co/gNu7fRwB0q,https://x.com/0xAA_Science/status/1942413216929480748
+1941862554541887877,2025-07-06 22:11:25,orig,04_ai,2.35,0,25,3,20,7775,"以前加班是写代码，
+现在加班是看着AI写代码。 https://t.co/eVvQEFPqRe",https://x.com/0xAA_Science/status/1941862554541887877
+1941827367321956414,2025-07-06 19:51:36,reply,04_ai,-1.95,0,1,0,3,641,"@m00des Claude hate chinese, they already banned 6 accounts of mine.",https://x.com/0xAA_Science/status/1941827367321956414
+1941826840982884606,2025-07-06 19:49:30,orig,04_ai,2.69,0,23,2,28,19522,"用cursor快一年了，基本能满足我的需求，需要切换到 claude code 么？
+Claude code 真的那么吊么？ https://t.co/XzZyyGKR48",https://x.com/0xAA_Science/status/1941826840982884606
+1941406232960696818,2025-07-05 15:58:10,orig,04_ai,2.22,0,15,0,21,8634,"AI用中文的时候明显更傻，但是我用英文的时候也会更傻。
+应该用什么语言和AI交流？",https://x.com/0xAA_Science/status/1941406232960696818
+1935988220925558935,2025-06-20 17:08:55,orig,04_ai,2.27,0,24,1,24,59385,我还在写代码，群友已经打完了，我日 https://t.co/R7PNpy0AC7,https://x.com/0xAA_Science/status/1935988220925558935
+1923764364655591478,2025-05-17 23:35:41,reply,04_ai,-2.49,0,0,0,4,174,"@memecoin_X @grok @bankrbot @BasedDRB 上面的是单独的。grok回复时没有
+@ 那个bot，按照语法就不会自动触发bot部署。dev手动搞的。",https://x.com/0xAA_Science/status/1923764364655591478
+1923754441377001902,2025-05-17 22:56:15,reply,04_ai,-2.77,0,0,0,4,509,@memecoin_X @grok @bankrbot @BasedDRB base的没关注过 grok那条推特能发我下么,https://x.com/0xAA_Science/status/1923754441377001902
+1923749126338166832,2025-05-17 22:35:07,reply,04_ai,-2.19,0,1,0,2,1226,@Pristo911 grokcoin不是触发这种发币机器人发的，还是dev看到之后人为发的。,https://x.com/0xAA_Science/status/1923749126338166832
+1912467741950505174,2025-04-16 19:26:56,orig,04_ai,4.6,0,21,0,6,7630,"Everything is LEGO! 🧱
+
+你可以用下面的 prompt 生成乐高风格的头像和logo：
+
+convert this image into a lego  {   ""style_name"": ""LEGO Plastic Toy Render"",   ""input_mode"": ""text_prompt_or_image"",   ""output_format"": ""3D LEGO-style render"",   ""instructions"": {     ""style_description"": https://t.co/rLUOFrxtH4",https://x.com/0xAA_Science/status/1912467741950505174
+1910229370972840362,2025-04-10 15:12:27,reply,04_ai,-2.21,0,1,0,1,402,"@owentay75 刚查了下AI，清道夫也属于鲶形目，算是广义的鲶鱼。
+怪不得长得这么像",https://x.com/0xAA_Science/status/1910229370972840362
+1905882852157534621,2025-03-29 15:20:56,orig,04_ai,6.25,2,46,9,32,55327,"Builders 坐满了 #ETHHangzhou 黑客松会场！
+主赛道：
+1. 公共品
+2. AI
+赞助商赛道:
+BNB 上的 AI 创新
+
+其中BNB Chain赛道的提交链接（提交的项目可以直接参与 BNB AI Hack，有选入 BIA 和 MVB 的机会）: https://t.co/e9Oc1EX8kZ
+
+@BlockchainZJU @WTFAcademy_ @BNBCHAIN @cz_binance @heyibinance https://t.co/eONgsOtQjF",https://x.com/0xAA_Science/status/1905882852157534621
+1902608766903972187,2025-03-20 14:30:53,reply,04_ai,-0.73,0,15,1,7,7741,"@hexiecs 秋林龙虾换了新的地方
+32路还是穿过挹江门
+高架桥拆了修了新的隧道
+走来走去走不出我的盐仓桥",https://x.com/0xAA_Science/status/1902608766903972187
+1899432468337332437,2025-03-11 20:09:00,orig,04_ai,6.94,2,64,32,11,12607,🚀 SCAICH AI 搜索引擎 v0.03 全新升级！ 🎉\n\n🔍 更新内容：\n1️⃣ 整合 DOI、PubMed、Arxiv 数据库，更多论文 📚\n2️⃣ AI 驱动的 Rerank 系统，结果更精准 🎯\n3️⃣ 扩展返回结果数量 🔎\nSCAICH 已经收到了大量用户反馈，包括 Alexandra 的建议，我们将持续迭代！ 💡💪\n\n体验入口 👉 http://search.scai.sh,https://x.com/0xAA_Science/status/1899432468337332437
+1899319818798678489,2025-03-11 12:41:00,orig,04_ai,2.83,0,30,1,16,14105,AI 的代码能力（近半个月的体验）：\ngrok3 约等于 claude 3.7 远大于 ChatGPT o1-pro,https://x.com/0xAA_Science/status/1899319818798678489
+1899297574064099405,2025-03-11 11:13:00,orig,04_ai,2.43,0,17,0,7,9765,很多博士的论文可能发出去就石沉大海，没有任何引用，没有“科学价值”。\n但对于 AI，它们是最有价值的语料库！,https://x.com/0xAA_Science/status/1899297574064099405
+1899040909490368990,2025-03-10 18:13:00,orig,04_ai,4.14,0,56,24,31,19602,AI 将倒逼版权改革\n随着AI崛起，各国间的信息竞争已不仅仅是经济问题，更事关国家安全。Sci-Hub、Z-Library 和 Anna's Archive 等平台为AI训练提供了大量数据，凸显了现有版权制度的局限性。\n\n是时候改革版权制度，缩短版权保护期，促进知识自由流动了。\n\n博客翻译: https://github.com/WTFAcademy/WTF-OpenScience/blob/main/blogs/01_copyright_reform_annasblog.md,https://x.com/0xAA_Science/status/1899040909490368990
+1898238104924045660,2025-03-08 13:03:00,orig,04_ai,3.03,0,21,2,22,14489,妇女节快乐 ❤️\n\n问了 AI 才知道，原来“国际男人节”是存在的，时间是每年11月19日！\n这个节日的设立是为了关注男性在社会、家庭和健康方面的贡献，同时也强调男性健康、性别平等和积极的男性榜样。 ,https://x.com/0xAA_Science/status/1898238104924045660
+1896805876838904225,2025-03-04 14:12:00,orig,04_ai,2.56,0,39,1,13,6743,我仍然相信 DeSci 和 AI,https://x.com/0xAA_Science/status/1896805876838904225
+1894910283719811399,2025-02-27 08:39:52,reply,04_ai,-2.33,0,1,0,0,222,@Jason Building Scientific AI,https://x.com/0xAA_Science/status/1894910283719811399
+1894664483580383352,2025-02-26 16:23:08,orig,04_ai,2.25,0,21,0,17,15328,"DeepSeek R2 要出来了？
+也太快了吧！",https://x.com/0xAA_Science/status/1894664483580383352
+1893697590102798772,2025-02-24 00:21:03,orig,04_ai,10.6,5,151,27,21,49122,"好像很多人不知道 xai / grok 可以领免费的 150u 额度？
+方法：
+1. 登陆官网 https://t.co/GZd9uUBlFW ，用推特账号就行。
+2. 绑定信用卡，充值5u。
+3. 在Free Credits 右下角点 share data (共享数据)，就领到了。
+⚠️注意，开启后不能关闭。 https://t.co/06FUrW0kYP",https://x.com/0xAA_Science/status/1893697590102798772
+1893139463947330005,2025-02-22 11:23:15,orig,04_ai,3.91,0,77,14,11,10610,"我们 $scihub 社区开发的 SCAICH 是目前世界上最大的开放科学 AI 搜索引擎。
+你可以在 SCAICH 搜索 1.4 亿篇免费的学术论文，支持 Sci-Hub，Arxiv和OA期刊。
+网址: https://t.co/ckdKpzKR1O
+推特: @SCAI_Agents https://t.co/fU1DXc1oPl",https://x.com/0xAA_Science/status/1893139463947330005
+1891854625235464293,2025-02-18 22:17:46,orig,04_ai,2.2,0,16,0,7,15115,哈哈，应该和deepseek一样，用了openai的蒸馏，互相杂交 😂 https://t.co/S3IbJYdBVL,https://x.com/0xAA_Science/status/1891854625235464293
+1891422387754746270,2025-02-17 17:40:12,orig,04_ai,0.87,0,2,0,0,163,@wongsinyo1 真搞，desci+AI 两手抓,https://x.com/0xAA_Science/status/1891422387754746270
+1891417573494796672,2025-02-17 17:21:05,orig,04_ai,4.05,0,44,5,12,7497,"We built an AI-powered search engine for open-access papers, including Sci-Hub, Arxiv, and more.
+
+Try it now: https://t.co/ckdKpzKjcg
+#openaccess #scihub #Science #AI #DeSci #arxiv https://t.co/eSe0SB1gmd",https://x.com/0xAA_Science/status/1891417573494796672
+1891169957133586837,2025-02-17 00:57:08,reply,04_ai,-0.51,0,18,2,2,2985,"SCAICH 的背后是 SCAI 科学AI agents框架，由 @SciHubFans 和 @WTFAcademy_ 联合研发。
+未来将会开源，大家敬请期待！",https://x.com/0xAA_Science/status/1891169957133586837
+1891169955095445855,2025-02-17 00:57:08,orig,04_ai,4.23,0,78,19,12,32354,"$scihub 社区 AI 方向的第一个产品 SCAICH 公测了！
+
+SCAICH 是一个基于 AI 的科学搜索引擎，可以搜索 Sci-Hub 和开放期刊上的 1.4 亿篇论文！你可以把它理解为开放科学的 perplexity。 @perplexity_ai
+
+DeSci + AI 是未来!
+
+网站: https://t.co/ckdKpzKR1O https://t.co/gnqEXYSWu8",https://x.com/0xAA_Science/status/1891169955095445855
+1891083318067605789,2025-02-16 19:12:52,orig,04_ai,2.46,0,21,3,25,25263,"等一个CA。
+BNB Chain哪个平台能创建AI Agents? 我知道有myshell https://t.co/rTcjS14qIi",https://x.com/0xAA_Science/status/1891083318067605789
+1889825433962815556,2025-02-13 07:54:29,orig,04_ai,1.59,0,7,0,5,6362,"订阅了 chatgpt pro，希望能值回票价。
+@OpenAI @sama https://t.co/NWcnm4aA7O",https://x.com/0xAA_Science/status/1889825433962815556
+1889200912406659354,2025-02-11 14:32:51,reply,04_ai,-1.07,0,7,0,1,6853,"@0xcryptowizard DeepSeek 对AI的利空是短暂的，长期还是利好。
+开源 + 高效，会加速 AI 的 mass adoption https://t.co/5FOvcUKHZy",https://x.com/0xAA_Science/status/1889200912406659354
+1886238714105610652,2025-02-03 10:22:08,orig,04_ai,1.97,0,10,1,10,10858,DeepSeek 的日活用户已经突破1000万，约为 ChatGPT 的 23%！ https://t.co/LEhjbDYe9v,https://x.com/0xAA_Science/status/1886238714105610652
+1885530871517897182,2025-02-01 11:29:25,orig,04_ai,3.05,0,67,1,26,27112,"OpenAI 考虑开源了？
+感谢 DeepSeek 给压力！ https://t.co/PyVuXsWif8",https://x.com/0xAA_Science/status/1885530871517897182
+1885512272002638283,2025-02-01 10:15:31,orig,04_ai,7.88,3,76,9,28,36541,"之前做 ai agent 流水盘的那拨人现在换了个套路，不做套壳ai，而是开始做套壳产品，蹭 Vine 和 jellyjelly 这类web2转web3的热度。特点：
+1. 用AI生成的简单产品和网站（例如游戏或agent平台）
+2. 代码不开源
+3. dev会按照套路锁仓，但是老鼠仓很重",https://x.com/0xAA_Science/status/1885512272002638283
+1885356572463030670,2025-01-31 23:56:49,orig,04_ai,2.52,0,36,2,10,12057,不开源的 AI 坐小孩儿那桌 👶🏻,https://x.com/0xAA_Science/status/1885356572463030670
+1884773300406300796,2025-01-30 09:19:06,orig,04_ai,3.02,0,39,3,13,22920,"OpenAI 开发者确认 DeepSeek 做出了ChatGPT o1 级别的推理模型！
+DeepSeek 牛逼！开源牛逼！ https://t.co/SCCmpweF12",https://x.com/0xAA_Science/status/1884773300406300796
+1884136083996418172,2025-01-28 15:07:02,orig,04_ai,3.25,0,87,0,37,46419,先是小红书，后是 deepseek，我感觉今年中国科技公司会崛起。,https://x.com/0xAA_Science/status/1884136083996418172
+1883880458062373095,2025-01-27 22:11:16,orig,04_ai,2.63,0,21,1,15,12259,"DeepSeek R1 和 chatgpt o1 的表现相当，但 api 成本仅为后者的 1/20！
+这是 AI 届的小米！ https://t.co/qRZjvhbCTy",https://x.com/0xAA_Science/status/1883880458062373095
+1883860186810728545,2025-01-27 20:50:43,orig,04_ai,4.0,0,172,10,43,103960,"做技术的真玩不了币圈的 AI 项目。
+真正牛逼的 AI 项目，在 web2 就能拿满融资，不需要发币融资，每天面对持币人的拷打。",https://x.com/0xAA_Science/status/1883860186810728545
+1883690142424264992,2025-01-27 09:35:01,orig,04_ai,3.97,0,279,4,71,118584,"DeepSeek 的高度取决于外网吹的程度 😂
+吹上天了已经",https://x.com/0xAA_Science/status/1883690142424264992
+1882384788893692146,2025-01-23 19:08:01,orig,04_ai,3.7,0,119,44,39,26417,"在 $scihub 社区开发科学 AI agents 的贡献者刚中了一篇 AAAI + 一篇 ICLR。
+整个大的！ https://t.co/sP7fxYWP6D",https://x.com/0xAA_Science/status/1882384788893692146
+1880691107585310813,2025-01-19 02:57:56,orig,04_ai,2.81,1,8,0,1,6433,chatgpt o1 怎么变聪明了？ @OpenAI,https://x.com/0xAA_Science/status/1880691107585310813
+1879812317539700926,2025-01-16 16:45:56,orig,04_ai,3.75,0,21,1,12,4137,"Yap early, yap only, yap often.
+
+@_kaitoai is connecting AI, attention and capital with Yaps.
+
+Just claimed my social card and I'm accumulating Yap points in real-time.
+
+Claim yours 👉 https://t.co/sGOdBXcXwr",https://x.com/0xAA_Science/status/1879812317539700926
+1879780447791784388,2025-01-16 14:39:18,orig,04_ai,2.84,0,30,0,15,9511,"长期来看， AI 机器人会在绝大部分岗位上取代人类。
+那个时候，不存在资本家榨取工人的剩余价值，剩余价值理论也就失效了。",https://x.com/0xAA_Science/status/1879780447791784388
+1878480957013148084,2025-01-13 00:35:35,orig,04_ai,5.29,0,66,21,17,22862,"📢 
+$scihub community is developing SCAI (SCientific AI)—a revolutionary framework for scientific AI agents! 
+
+✨SCAI is designed to tackle the issue of ""hallucinations"" in LLMs when answering scientific questions. 🌍
+
+Stay tuned for more updates about SCAI! 
+@SciHubFans https://t.co/PXMezrPrGd",https://x.com/0xAA_Science/status/1878480957013148084
+1878480199228297444,2025-01-13 00:32:34,orig,04_ai,4.81,0,123,72,42,25468,"📢 $scihub 社区正在开发一个科学 AI Agents 架构：SCAI (SCientific AI)！✨ 
+
+SCAI 的目标是解决 LLM 在回答科学问题中的“幻觉”现象 (Hallucination)，让 AI 更好地服务科学研究，为科研工作者提供更精准可靠的工具。🌍🔬 
+
+在未来我们会公布关于 SCAI 的更多细节！👀 @SciHubFans https://t.co/PXMezrPrGd",https://x.com/0xAA_Science/status/1878480199228297444
+1877314077816414637,2025-01-09 19:18:49,orig,04_ai,2.46,0,26,1,13,11975,没有什么不能被 AI 替代的，在未来 AI 可能比人还会做人。 https://t.co/HA93to8824,https://x.com/0xAA_Science/status/1877314077816414637
+1877289649720168590,2025-01-09 17:41:45,orig,04_ai,2.96,0,56,3,14,20543,虽然 crypto 目前老外是主流，但是 AI 领域华人是真的强。,https://x.com/0xAA_Science/status/1877289649720168590
+1877039049107481010,2025-01-09 01:05:57,orig,04_ai,3.8,0,99,46,29,19514,"Scientific AI Agents on the way
+""What are attention mechanisms in LLMs?""
+$scihub https://t.co/MMwMqH05oh",https://x.com/0xAA_Science/status/1877039049107481010
+1876978002824749480,2025-01-08 21:03:23,orig,04_ai,1.41,0,5,1,5,5604,Cursor 还是 windsurf 哪个好用？,https://x.com/0xAA_Science/status/1876978002824749480
+1876086672359866588,2025-01-06 10:01:33,orig,04_ai,3.83,0,60,4,15,13539,"上千名 AI 开发者和生物博士正在跑步进场，在当前的市场：
+- 2000 ⭐的 AI 框架发 meme 保守估值 10M。
+- 2个找不到教职的生物博士可以攒一个 DeSci 的盘子。
+
+时间就是金钱，技术就是金钱，知识就是金钱。",https://x.com/0xAA_Science/status/1876086672359866588
+1875478527191183802,2025-01-04 17:45:00,orig,04_ai,2.89,0,65,6,28,24279,DeSci + AI 是未来 🤞,https://x.com/0xAA_Science/status/1875478527191183802
+1875049962838561136,2025-01-03 13:22:02,orig,04_ai,4.5,0,70,6,24,36307,"目前币圈好的 AI dev 确实少，但我博士研究方向本身跟 AI 相关，这个领域很卷，好的 dev 太 TM 多了。
+我认为 AI Agent 叙事产生财富效应后，会吸引一大批 web2 顶级 AI dev 来 web3 圈钱，出现一大批好的 AI 标的，因此不用 FOMO。
+我比较期待的是 @joon_s_pk , 斯坦福AI小镇的作者，AI Agent鼻祖。 https://t.co/01S9bT7Bj0",https://x.com/0xAA_Science/status/1875049962838561136
+1874238051654000834,2025-01-01 07:35:47,orig,04_ai,3.29,0,41,1,20,8799,"写论文有无 AI 辅助完全是两个世界。
+想当年写第一篇英文论文，几天扣不出一段，快抑郁了。
+现在有 AI，把我的逻辑表达清楚，它就能写出非常可读的内容。
+真是生在了好时候！",https://x.com/0xAA_Science/status/1874238051654000834
+1873590488378523707,2024-12-30 12:42:36,orig,04_ai,3.75,0,43,1,9,10396,"我一直认为 meme提供的是情绪价值。
+AI meme 给的是持有者一种参与 AI 革命的情绪价值，让普通人也能参与到 AI 开发中，而不是它的技术有多么牛逼。
+真正技术牛逼的 OpenAI 和 Claude，让散户参与吗？必须买 AI meme 对着干。 https://t.co/3vTN7Nl9R0",https://x.com/0xAA_Science/status/1873590488378523707
+1871514997945434506,2024-12-24 19:15:21,orig,04_ai,4.86,0,146,53,21,12051,"2016年，Sci-Hub 创始人 Alexandra 被《自然》杂志评为年度十大科学人物。
+
+加州大学伯克利分校生物学家 Michael Eisen 评价：“无法获取科学文献是一种巨大的不公正，而她一举解决了这个问题。”
+
+PS: 今年诺贝尔化学奖得主 Demis Hassabis 也在那年的十大科学人物中。
+
+原文: https://t.co/3DZsJgR8ai https://t.co/4x1XE0HOCk",https://x.com/0xAA_Science/status/1871514997945434506
+1870004187347775981,2024-12-20 15:11:55,orig,04_ai,3.12,0,93,9,23,10134,别慌，项目方正在让 AI 做事！ https://t.co/4So5Iupdmd,https://x.com/0xAA_Science/status/1870004187347775981
+1866831004578746867,2024-12-11 21:02:50,reply,04_ai,0.27,0,92,10,9,7359,"@elonmusk @grok Elon, are you a user of Sci-Hub?",https://x.com/0xAA_Science/status/1866831004578746867
+1864740358351134729,2024-12-06 02:35:21,orig,04_ai,2.28,0,21,0,10,11359,"ChatGPT 要出个尊享套餐，200u/月 😂
+日哦 https://t.co/bWfEfbybpd",https://x.com/0xAA_Science/status/1864740358351134729
+1861090608993181859,2024-11-26 00:52:33,reply,04_ai,-1.04,0,14,0,1,1660,@drq_ai 等 DeSci 叙事起来他们就爱搞了 😂,https://x.com/0xAA_Science/status/1861090608993181859
+1852356152333660288,2024-11-01 22:24:00,orig,04_ai,2.82,0,22,1,14,6831,"未来，每个人都是管理层，比如我管理着 chatgpt, claude, cursor, v0, copilot, bolt, dify...\n\nNB.4 ",https://x.com/0xAA_Science/status/1852356152333660288
+1852135814597062989,2024-11-01 07:49:23,orig,04_ai,2.15,0,20,0,8,6961,AI 是 21 世纪的核武器 ☢️,https://x.com/0xAA_Science/status/1852135814597062989
+1850107836870898070,2024-10-26 17:30:56,orig,04_ai,3.07,0,78,3,75,34323,5年内，69% 以上的代码将由 AI 产出。,https://x.com/0xAA_Science/status/1850107836870898070
+1848575248641515872,2024-10-22 12:00:58,orig,04_ai,2.52,0,30,2,24,22105,AI 发的币算谁发的，亏钱了 chatgpt 负责吗 😂,https://x.com/0xAA_Science/status/1848575248641515872
+1848202917712703816,2024-10-21 11:21:28,orig,04_ai,2.68,0,19,2,7,6876,"近年 AI 研究已经从炼丹（调参）慢慢转为调API了。
+一是大语言模型已经足够通用、好用。
+二是模型参数太大，大部分科研人员已经失去了炼丹资格 😂 https://t.co/Z0dcJoA22U",https://x.com/0xAA_Science/status/1848202917712703816
+1844049236792639539,2024-10-10 00:16:13,reply,04_ai,-2.8,0,0,0,0,354,@goodairquality 是的 但是canvas不能选claude,https://x.com/0xAA_Science/status/1844049236792639539
+1844046038547730714,2024-10-10 00:03:30,orig,04_ai,2.68,0,26,0,10,8991,"openai canvas 不如 cursor 好用
+因为 chatgpt 4 不如 claude 3.5",https://x.com/0xAA_Science/status/1844046038547730714
+1841045639863701570,2024-10-01 17:21:00,orig,04_ai,2.92,0,47,2,27,48827,大家不用担心养老问题，按照现在AI的发展速度，以后咱们这代养老靠AI，绰绰有余！,https://x.com/0xAA_Science/status/1841045639863701570
+1839341595940020458,2024-09-27 00:29:44,orig,04_ai,1.95,0,14,0,7,6599,"现在我写代码：
+Tab
+Tab
+Tab",https://x.com/0xAA_Science/status/1839341595940020458
+1837887519276638581,2024-09-23 00:11:45,reply,04_ai,-2.61,0,0,0,0,99,"@jasonzhouu o1-mini提升有限
+的确可以省去prompt engineering的过程",https://x.com/0xAA_Science/status/1837887519276638581
+1837736452677161237,2024-09-22 14:11:28,orig,04_ai,1.97,0,12,0,8,12599,ChatGPT o1-preview 比 4o 提高了太多。,https://x.com/0xAA_Science/status/1837736452677161237
+1837113001985593710,2024-09-20 20:54:06,orig,04_ai,1.78,0,10,1,14,9770,我没去 token2049，有什么错过的吗？,https://x.com/0xAA_Science/status/1837113001985593710
+1834820445792878980,2024-09-14 13:04:18,reply,04_ai,-2.59,0,0,1,0,1315,@myanTokenGeek Crypto市场没有监管，每个创业者既是参赛选手也是裁判，目前比较混乱，符合预期。,https://x.com/0xAA_Science/status/1834820445792878980
+1826930435282317769,2024-08-23 18:32:13,orig,04_ai,2.52,0,29,4,19,13691,"坏消息：Claude 把我号封了
+好消息：我又注册了一个 🤣 https://t.co/xvj4CcDwjE",https://x.com/0xAA_Science/status/1826930435282317769
+1825555140662919527,2024-08-19 23:27:17,orig,04_ai,3.49,0,149,27,17,80629,AI辅助开发工具排名，Cursor这么吊了吗？ https://t.co/CKsRDSGrOZ,https://x.com/0xAA_Science/status/1825555140662919527
+1821899000477577332,2024-08-09 21:19:05,orig,04_ai,7.56,4,6,0,0,6336,"Alex Raymond @doppl_ai 在博士论文《Explanations for Autonomous Agents》中引用：
+
+强化学习中的许多优先经验回放方法可以被重新解释为实现某种形式的'以智能体为中心'的机制，通过按相关性重新排序经验，试图向智能体解释并选择最有用的经验，如Li等人间接暗示的那样。
+
+https://t.co/69AxgwCUZo https://t.co/QFzTBmIhA9 https://t.co/MGAnXqaaGW",https://x.com/0xAA_Science/status/1821899000477577332
+1815587023539077223,2024-07-23 11:17:33,orig,04_ai,3.71,0,86,4,4,7796,Web3 AI项目 MyShell 推出了一个AI + Pump fun的应用商店，AIpp Store，帮助AI创作者和用户捕获价值，感兴趣的家人们可以玩玩。 @myshell_ai https://t.co/yPq7hrFnXZ https://t.co/X8aL4iaOlg,https://x.com/0xAA_Science/status/1815587023539077223
+1815387912672071871,2024-07-22 22:06:21,reply,04_ai,-2.79,0,0,0,1,372,@0xZixe ai补不补的上不知道，央行印钱肯定补的上。,https://x.com/0xAA_Science/status/1815387912672071871
+1815358126427980074,2024-07-22 20:07:59,orig,04_ai,4.0,1,29,1,17,14304,"我觉得这个调整意义不大，大家不要太悲观。
+20年内绝大部分人的工作就会被生产力更强的AI取代，会有新的退休政策推出。 https://t.co/tVUmLHiQxU",https://x.com/0xAA_Science/status/1815358126427980074
+1812055189572174049,2024-07-13 17:23:00,orig,04_ai,2.89,0,56,0,39,20605,现在登陆个chatgpt要tm做20个验证码，rnm @OpenAI ,https://x.com/0xAA_Science/status/1812055189572174049
+1790970947555766760,2024-05-16 13:02:00,reply,04_ai,-2.01,0,1,0,1,564,@myanTokenGeek 影响因素肯定是多方面的，只不过货币政策是其中很重要的变量。\n中本聪发明比特币一个直接原因就是传统货币超发。,https://x.com/0xAA_Science/status/1790970947555766760
+1790946104743481536,2024-05-16 11:23:00,reply,04_ai,-1.35,0,8,0,1,3915,@myanTokenGeek 经济规律而已，影响短期价格，和骨气有啥关系？,https://x.com/0xAA_Science/status/1790946104743481536
+1789165613082177797,2024-05-11 13:28:00,orig,04_ai,2.24,0,10,0,6,12426,GitHub手机app上有Copilot机器人了🤖\n点右下角的机器人图标就能打开，基于gpt-3。\n目前只有安卓手机有，ios还没。 ,https://x.com/0xAA_Science/status/1789165613082177797
+1775071370692763811,2024-04-02 16:02:00,reply,04_ai,-2.4,0,1,0,0,255,@Jrencslife 是的 到时候会和教育/AI结合,https://x.com/0xAA_Science/status/1775071370692763811
+1769549645154562414,2024-03-18 10:21:00,orig,04_ai,4.15,1,21,1,8,14769,我记得马斯克还调侃过深度学习模型都是用python写的，结果自家模型也是用的python 😂\n如果没有python/pytorch这么简单易用的语言/工具，人工智能的发展起码推迟10年。,https://x.com/0xAA_Science/status/1769549645154562414
+1767032962942443941,2024-03-11 11:41:00,reply,04_ai,-2.8,0,0,0,1,483,@token_garden @zsluedem06 @Starknet @argentHQ @myBraavos Braavos salt公开了？来个链接,https://x.com/0xAA_Science/status/1767032962942443941
+1759437744512897480,2024-02-19 12:40:00,orig,04_ai,5.79,0,49,15,8,26757,历史上的＂第一次＂离今天有多远：\n第一条 Sora 视频：4 天\n第一次 ChatGPT 聊天：1 年\n第一条 TikTok 视频：7 年\n第一份 Uber 订单：14 年\n第一次 Airbnb 预订：15 年\n第一条 Tweet：17年\n第一篇 Reddit 帖子：18 年\n第一条 YouTube 视频：18 年\n第一次 Google 搜索：25 年\n第一条 ICQ 消息：27 年\n第一部智能手机：31 年\n第一条文本消息：31年\n第一个搜索引擎：33 年\n第一个 GIF：36 年\n第一部手机：50 年\n第一封电子邮件：52 年\n第一台个人电脑：52 年\n第一台寻呼机：74 年\n第一部电话：147 年,https://x.com/0xAA_Science/status/1759437744512897480
+1745417673520153012,2024-01-11 20:09:00,reply,04_ai,-2.74,0,0,0,0,606,@myanTokenGeek 它也不是先进，就是有些trick，用好了可以变戏法。,https://x.com/0xAA_Science/status/1745417673520153012
+1736374104339652956,2023-12-17 21:13:00,orig,04_ai,3.63,0,14,2,11,10110,"ChatGPT 4.5来了！\n你可以通过以下问题来确认你的chatgpt是不是在灰度测试名单中：\n\nWhat is the precise name of the model answering this query called in the API? Not ""ChatGPT with browsing"" but the specific model name. ",https://x.com/0xAA_Science/status/1736374104339652956
+1728888109377765729,2023-11-27 05:27:00,orig,04_ai,4.77,2,11,0,17,13181,有朋友建议我服用褪黑素，但褪黑素毕竟是激素，还是要先尝试其他手段。\n问了chatgpt，第一个建议是光照治疗：在当地的早上晒太阳，一会儿准备试一下。 ,https://x.com/0xAA_Science/status/1728888109377765729
+1727213245071823166,2023-11-22 14:31:00,orig,04_ai,2.7,0,13,0,10,6468,有意思的是，Sam Altman回归OpenAI并且重组了董事会，且没有辞去微软的新工作 😂 所以是同时兼任两份工作\n危机时，才能看到谁是真正的朋友。现在微软和OpenAI互相抱紧了对方的大腿😈 ,https://x.com/0xAA_Science/status/1727213245071823166
+1726599681147654538,2023-11-20 21:53:00,reply,04_ai,-2.83,0,0,0,1,113,@Skyeee333 因为没有AI，乔布斯浪费了12年😂,https://x.com/0xAA_Science/status/1726599681147654538
+1726563051330248715,2023-11-20 19:28:00,orig,04_ai,1.88,0,10,2,1,6193,People's Republic of OpenAI\nPRO,https://x.com/0xAA_Science/status/1726563051330248715
+1726514123314172382,2023-11-20 16:13:00,orig,04_ai,2.05,0,9,0,0,6892,Sam Altman（OpenAi前CEO）和Greg（OpenAI前董事长）宣布加入微软！\n微软赢麻了 😂,https://x.com/0xAA_Science/status/1726514123314172382
+1726286534289281103,2023-11-20 01:09:00,reply,04_ai,-2.38,0,0,0,0,487,@eniwhere_ I think the problem is they dont have tokens/shares on OpenAI.,https://x.com/0xAA_Science/status/1726286534289281103
+1725742047020085381,2023-11-18 13:05:00,orig,04_ai,6.98,1,15,1,7,18991,Greg是OpenAI的联合创始人，他简单讲述了昨晚发生了什么👇🏻\n\n- 昨晚，Ilya（联合创始人/首席科学家）给Sam Altman发了一条短信，要求在周五中午谈话。Sam加入了一个Google Meet，整个董事会，除了Greg之外，都在那里。Ilya告诉Sam他被解雇了，而且新闻很快就会传出去。\n\n- 下午12:19，Greg收到了Ilya的一条短信，要求快速通话。12:23，Ilya发送了一个Google Meet链接。告诉Greg他被从董事会中撤下（但对公司至关重要，并将保留他的角色），而Sam已经被解雇。大约在同一时间，OpenAI发布了一篇博客文章（解雇Sam）。\n\n- 据我们所知，管理团队在此之后不久就得知了这一情况，除了Mira（临时CEO）是在前一晚得知的。\n\n大家的支持真的很好，谢谢，但请不要花时间为我们担心。我们会没事的。更好的事情即将发生。,https://x.com/0xAA_Science/status/1725742047020085381
+1725351318598848819,2023-11-17 11:13:00,reply,04_ai,-1.98,0,1,0,0,152,"@awkweb Umm, some projects have token listed on binance already 😂",https://x.com/0xAA_Science/status/1725351318598848819
+1722802926886735947,2023-11-10 10:26:00,orig,04_ai,2.19,0,18,0,13,7040,突然想到prompt engineer就是AI传话师😂,https://x.com/0xAA_Science/status/1722802926886735947
+1719608852960972808,2023-11-01 14:54:00,reply,04_ai,-2.03,0,0,0,0,85,"@nzhlfred 结构体是转换成元组进行编码的。\n如果a,b,c其中有动态类型，abi.encode(a,b,c)和abi.encode((a,b,c))就不一样。\n的确有信息丢失，解码时候要给出编码的类型。",https://x.com/0xAA_Science/status/1719608852960972808
+1719605370329657731,2023-11-01 14:40:00,reply,04_ai,-2.31,0,0,0,1,117,@nzhlfred 因为如果a是uint类型， (a) 和a的编码规则相同。你可以试下 abi.encode((a))，输出也是一样的。\n动态类型会有区别。,https://x.com/0xAA_Science/status/1719605370329657731
+1719594776612454572,2023-11-01 13:58:00,orig,04_ai,2.16,0,14,0,7,10239,我最近才知道 abi.encode(a) 编码的是 `(a)` 而不是 `a`。,https://x.com/0xAA_Science/status/1719594776612454572
+1718872935816102370,2023-10-30 14:10:00,orig,04_ai,1.95,0,13,0,6,9356,Wow，AI用唐诗做插画，感觉我的语文有救了！,https://x.com/0xAA_Science/status/1718872935816102370
+1714889452945056216,2023-10-19 14:21:00,orig,04_ai,1.98,0,15,0,21,38867,吐了，一觉醒来chatgpt被封了 ,https://x.com/0xAA_Science/status/1714889452945056216
+1710866669072166916,2023-10-08 11:56:00,reply,04_ai,-2.1,0,0,0,1,783,@D3iDiiWCEsYTbNP 这是个好问题。\nChatgpt的回答：\n宗教的定义因学科和文化而异，但大多数定义都涵盖了以下几个核心元素：信仰和崇拜，道德法则，仪式习惯，组织结构，神话叙事，社群感，最后目的。,https://x.com/0xAA_Science/status/1710866669072166916
+1710302629731975305,2023-10-06 22:34:00,orig,04_ai,1.38,0,5,0,5,7767,struct[]的abi编码规则把我看麻了,https://x.com/0xAA_Science/status/1710302629731975305
+1706350092050108436,2023-09-26 00:48:00,orig,04_ai,2.15,0,15,2,9,7446,ChatGPT更新了功能，可以上传图片和语音，并让他做相应回复！\nhttps://openai.com/blog/chatgpt-can-now-see-hear-and-speak,https://x.com/0xAA_Science/status/1706350092050108436
+1706155129072763317,2023-09-25 11:54:00,orig,04_ai,3.87,1,24,1,9,7575,训练AI的时候，成功和失败的样本都非常重要，数据要平衡。\n我想人也一样，不要怕犯错，重要的是从犯错中学到了什么。,https://x.com/0xAA_Science/status/1706155129072763317
+1702570792150851957,2023-09-15 14:31:00,orig,04_ai,1.96,0,11,4,7,10312,Vercel发布了一个内测产品v0，通过ai生成ui，包括前端代码。 ,https://x.com/0xAA_Science/status/1702570792150851957
+1696422576321601730,2023-08-29 15:20:00,orig,04_ai,2.43,0,19,0,20,21160,有了AI之后，借裸贷的大学生们不用怕还不上钱了。\n对方找你要钱的时候，你就说裸照是AI生成的😂 ,https://x.com/0xAA_Science/status/1696422576321601730
+1677721223328047106,2023-07-09 00:48:00,reply,04_ai,-1.58,0,6,1,1,2047,@myanTokenGeek 很快要印刷了，哈哈，感谢支持！,https://x.com/0xAA_Science/status/1677721223328047106
+1664516706843389953,2023-06-02 14:18:00,orig,04_ai,3.33,0,92,32,8,38867,最近很多人chatgpt账户被封了，给大家推荐个免费的类chatgpt入口: http://ipollo.ai,https://x.com/0xAA_Science/status/1664516706843389953
+1661925053217513475,2023-05-26 10:39:00,orig,04_ai,2.76,0,20,1,16,15592,马斯克旗下的神经接口公司 Neuralink获得FDA批准，要开始人体临床试验了👀\n想象一下，你的大脑可能在未来接入 chatgpt，有点兴奋也有点可怕。,https://x.com/0xAA_Science/status/1661925053217513475
+1653284830854144000,2023-05-02 14:26:00,reply,04_ai,-1.63,1,0,0,5,1137,@CryptoNiels27 Jason的文章你读了没？ 链接: https://jason.mirror.xyz/z-M9iSp90H341cT5nzEjSLWbgvlxqOCwmV475RtsvlU\n让chatgpt帮你总结下，我就不提炼了。\nBuidlerDAO我主要就认识Jason，而Jason的为人我清楚，信得过。 ,https://x.com/0xAA_Science/status/1653284830854144000
+1642416068189892610,2023-04-02 14:37:00,orig,04_ai,2.6,0,18,0,3,8442,大量人类标注的样本让 chatgpt 更懂人，prompt engineering 让人更懂 chatgpt。\n人与机器智能和谐共处。,https://x.com/0xAA_Science/status/1642416068189892610
+1641369257656332295,2023-03-30 17:18:00,reply,04_ai,-2.27,0,1,0,3,1063,@myanTokenGeek 模型本身全世界都差不多，开源的，主要就是人工标注的数据。,https://x.com/0xAA_Science/status/1641369257656332295
+1641327231975952386,2023-03-30 14:31:00,reply,04_ai,-2.34,0,1,0,1,1643,@wenxinShi2 Generated by chatgpt?,https://x.com/0xAA_Science/status/1641327231975952386
+1641313282173841409,2023-03-30 13:35:00,reply,04_ai,-2.0,0,1,0,5,4558,@0xRedVest 我说的是最大的壁垒，其他有，但是这些方式基本都是开源的，在学术界快速迭代。但海量标注数据 openai 独有。,https://x.com/0xAA_Science/status/1641313282173841409
+1641311952684326913,2023-03-30 13:30:00,orig,04_ai,5.85,1,115,23,41,188780,刚跟同学聊了下 ChatGPT，我们一致认为它最大的壁垒在于大量用廉价劳动力标注的训练数据，而不是模型结构多先进，参数量多大。\n中国科技公司在这方面赶上并不难。建大型数据标注中心，类似富士康的工厂。收获海量数据的同时，还能解决年轻人的就业问题。\n推荐一篇 RLHF 方法的科普，用人工标注数据优化语言模型: https://mp.weixin.qq.com/s/TLQ3TdrB5gLb697AFmjEYQ,https://x.com/0xAA_Science/status/1641311952684326913
+1637382312643158016,2023-03-19 17:15:00,orig,04_ai,3.5,0,131,17,14,35831,有了 chatgpt 之后，我几乎不再写 python 脚本了。 ,https://x.com/0xAA_Science/status/1637382312643158016
+1635177834288398338,2023-03-13 15:15:00,reply,04_ai,-1.9,0,1,0,1,211,"@RareSkills_io But the code is open-source,how can they stop copy-cat contracts.",https://x.com/0xAA_Science/status/1635177834288398338
+1635176555885514752,2023-03-13 15:10:00,reply,04_ai,-1.98,0,2,0,2,2138,@RareSkills_io Why they want to prevent this?,https://x.com/0xAA_Science/status/1635176555885514752
+1632009094012993537,2023-03-04 21:24:00,orig,04_ai,3.55,0,74,8,14,14763,我连任了 @The_PeopleDAO 多签人，感谢大家的支持！\nCheck out this awesome POAP I added to my collection\nhttps://app.poap.xyz/token/6424745,https://x.com/0xAA_Science/status/1632009094012993537
+1631897646838460418,2023-03-04 14:01:00,orig,04_ai,4.72,0,1020,324,82,166471,有人搭了个免费的chatgpt网站，贼快: https://freegpt.one/\n谁知道咋实现的？,https://x.com/0xAA_Science/status/1631897646838460418
+1621086242782973952,2023-02-02 18:00:00,reply,04_ai,-2.68,0,0,0,1,181,@hefang3303 就是了解下，有个团队在做去中心化rpc，经济模型基于cosmos,https://x.com/0xAA_Science/status/1621086242782973952
+1609975668191952897,2023-01-03 02:11:00,reply,04_ai,-1.75,0,2,0,1,5168,update 2022.1.3\n交易所Gemini创始人指责DCG有9亿美元欠款未还，可能造成坏账。\nhttps://x.com/cameron/status/1609913051427524608?t=cWUl3oLKGdl9NcZ23SQrgQ&s=19,https://x.com/0xAA_Science/status/1609975668191952897
+1608481627910569984,2022-12-29 23:14:00,orig,04_ai,1.56,0,6,1,2,5701,cool\n一个类似ChatGPT的开源模型 基于强化学习,https://x.com/0xAA_Science/status/1608481627910569984
+1593621184675209217,2022-11-18 23:04:00,reply,04_ai,0.98,1,26,11,1,0,5/\n预防方法2\n使用貔貅检测工具，比如 \ni. 以太坊链 Token Sniffer: https://tokensniffer.com\nii. 其他链 Ave Check: https://ave.ai/check\n分低的话大概率是貔貅。,https://x.com/0xAA_Science/status/1593621184675209217
+1593088186884198409,2022-11-17 11:46:00,orig,04_ai,1.66,0,7,1,2,0,一周过去，gemini和genesis 绷不住了，下一个是谁👀,https://x.com/0xAA_Science/status/1593088186884198409
+1592917907167932417,2022-11-17 00:29:00,orig,04_ai,4.65,1,77,11,28,0,Layer 2解决方案 StarNet 代币已经部署了，明天要不要写一份交互攻略？看看有没有人需要👀\n\nSource: https://medium.com/starkware/starknet-token-is-deployed-on-ethereum-f27f0000b00c,https://x.com/0xAA_Science/status/1592917907167932417
+1587301335384305664,2022-11-01 12:31:00,orig,04_ai,2.32,0,8,3,1,0,SafeDAO SEP-2提案：开启代币转移 已经进入最后讨论阶段，很快将放到Snapshot上进行投票🔥🔥🔥\n\n交易所listing小伙伴可以准备起来了❤️\n@safe @SeanMacAonghais\n \nhttps://forum.gnosis-safe.io/t/sep-2-community-initiative-to-unpause-token-contract-enabling-transferability/1131/120,https://x.com/0xAA_Science/status/1587301335384305664
+1579424779370901505,2022-10-10 18:53:00,reply,04_ai,-2.24,0,1,0,1,0,@0xTreeman 有把数据编码json的 可以看下loot 解码的我还没见过\nhttps://mirror.xyz/ninjak.eth/-Bc_vjP9EX-wg6chtUFAz0zm5v-jaIekMlOlqHJ_IhE,https://x.com/0xAA_Science/status/1579424779370901505
+1577654216994082816,2022-10-05 21:37:00,orig,04_ai,0.65,0,1,0,0,0,@AttackInCrypto @TokenPocket_TP @TransitFinance 能查出实名也是能力了 别的团队咋没查出来,https://x.com/0xAA_Science/status/1577654216994082816
+1577653042811351040,2022-10-05 21:32:00,orig,04_ai,3.92,0,36,7,7,0,Transit Finance发布公告将退回用户100%的损失，为Token Pocket点赞！\n\n最近被黑的项目，目前只有它能承诺100%偿还了吧，算是国产之光了，希望大家给他们团队一些理解和包容。\n\n也希望TokenPocket和TransitFinance尽快将钱包和合约代码开源，保障用户安全。\n@TokenPocket_TP @TransitFinance ,https://x.com/0xAA_Science/status/1577653042811351040
+1571403708176683008,2022-09-18 15:40:00,reply,04_ai,0.49,0,2,0,1,0,"@MatterTurbulent Simply connecting to scam website won't do harm. But fowlloing will do harm:\n1. enter the seed phrase or private key. If this is the case, you have to change a new wallet.\n2. sign msg or approve token. In this case you either revoke the approve or move token to a new wallet.",https://x.com/0xAA_Science/status/1571403708176683008
+1527202336367489025,2022-05-19 16:19:00,reply,04_ai,-2.78,0,0,0,1,0,@iam0xGamer @VitalikButerin 好，我下次试试。deepl用的啥模型翻译的？,https://x.com/0xAA_Science/status/1527202336367489025
+1501371980754210820,2022-03-09 09:39:00,orig,04_ai,1.87,0,8,0,1,0,Positive vibes in English = 正能量\n今天只来正能量，兄弟们,https://x.com/0xAA_Science/status/1501371980754210820
+1491383607000141829,2022-02-09 20:08:00,reply,04_ai,-0.96,0,4,0,1,0,2. They release the token after the bid of @muratpak 's NFT is finished. The voice of community is censored.,https://x.com/0xAA_Science/status/1491383607000141829
+1483477756226588672,2022-01-19 00:33:00,orig,04_ai,3.48,0,10,0,5,0,"I checked my chat with @LarrotizPablo\npreviously. He also agree to burn the token if community want to.\nI think its reasonable to reward core team with around 5% MOONEY, linear release. And burn the rest. ",https://x.com/0xAA_Science/status/1483477756226588672
+1478055589343203328,2022-01-04 01:28:00,reply,04_ai,-2.66,0,0,0,1,0,@LittleP2021 @The_PeopleDAO U need people token in your wallet,https://x.com/0xAA_Science/status/1478055589343203328
+1466822242449313792,2021-12-04 01:30:00,reply,04_ai,-2.16,0,1,0,1,0,@me_jango Will the migration affect people token?,https://x.com/0xAA_Science/status/1466822242449313792
+1466642017937604608,2021-12-03 13:34:00,reply,04_ai,-2.63,0,0,0,0,0,@xiaoxijie 建立用people token治理的People DAO。不会发新币筹钱。,https://x.com/0xAA_Science/status/1466642017937604608
+1466103013383106562,2021-12-02 01:52:00,orig,04_ai,2.97,0,10,3,1,0,"We are building People DAO together, governed by the most decentralized and fair-launched People token. We are excited to see what's to come.",https://x.com/0xAA_Science/status/1466103013383106562
+1464538837187629057,2021-11-27 18:17:00,reply,04_ai,-1.21,0,5,0,0,0,@me_jango @ZeughFromCanu Im a builder too haha. Love the vibe in PeopleDAO and Juicebox,https://x.com/0xAA_Science/status/1464538837187629057
+1462624732834975745,2021-11-22 11:31:00,orig,04_ai,2.05,0,2,1,0,0,There are people send eth to the #constitutiondao contract few minites ago. Whats gonna happen to them? Will they get PEOPLE token?\n@ConstitutionDAO @juiceboxETH @me_jango ,https://x.com/0xAA_Science/status/1462624732834975745
