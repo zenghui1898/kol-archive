@@ -59,6 +59,11 @@ a{color:var(--amber)}.banner{background:linear-gradient(90deg,#92400E,#B45309,#D
 .md h2,.md h3,.md h4{margin:18px 0 8px}.md p,.md ul{margin:6px 0}.md img{max-width:100%}.tbl{overflow-x:auto}table{border-collapse:collapse;margin:10px 0;font-size:14px}th,td{border:1px solid var(--bd);padding:5px 9px}th{background:var(--bg2)}
 details{margin:12px 0}summary{cursor:pointer;font-weight:600;color:var(--amberh)}
 .tw{border-bottom:1px dashed var(--bd);padding:12px 0}.tw p{white-space:pre-wrap}.nav{margin-bottom:10px}
+.twbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:10px 0 14px;padding:10px 14px;background:var(--card2);border:1px solid var(--bdl);border-radius:12px}
+.twbar input[type=search]{flex:1;min-width:200px;padding:7px 12px;border:1px solid var(--bd);border-radius:99px;font:inherit;background:#fff}
+.twbar label{font-size:14px;color:var(--sub);cursor:pointer}.twbar button{font:inherit;font-size:13px;padding:4px 12px;border:1px solid var(--bd);border-radius:99px;background:#fff;color:var(--amberh);cursor:pointer}
+.twbar button:hover{border-color:var(--amber)}details.mon{border-top:1px solid var(--bdl);padding:6px 0;margin:0}details.mon>summary{font-family:var(--serif);font-size:17px;padding:4px 0}
+.kd{padding:0 7px;border-radius:99px;font-size:12px}.kd-orig{background:var(--amberl);color:var(--amberh)}.kd-reply{background:var(--bg2);color:var(--sub)}.kd-rt{background:#DCFCE7;color:var(--green)}
 footer{text-align:center;color:var(--mut);font-size:13px;padding:30px}"""
 FONTS = '<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Plus+Jakarta+Sans:wght@400;600&family=Noto+Serif+SC:wght@500;700;900&display=swap" rel="stylesheet">'
 
@@ -70,16 +75,82 @@ def badges(m):
 
 ul = lambda xs: '<ul>' + ''.join(f'<li>{inline(x)}</li>' for x in xs) + '</ul>' if xs else '<p class="mut">数据缺失</p>'
 
+def load_tweets(d):
+    """优先读取 data/tweets_all.json（完整归档），否则回退 data/tweets.json。"""
+    for name in ('tweets_all.json', 'tweets.json'):
+        f = d / 'data' / name
+        if f.exists():
+            return name, sorted(json.loads(f.read_text()).get('data', []), key=lambda t: t['created_at'], reverse=True)
+    return None, []
+
+def kind_of(t):
+    ty = {r['type'] for r in t.get('referenced_tweets', [])}
+    if t.get('is_retweet') or 'retweeted' in ty: return 'rt'
+    if t.get('is_reply') or 'replied_to' in ty or t.get('in_reply_to_user_id'): return 'reply'
+    return 'orig'
+
 def tweets_html(d):
-    f = d / 'data' / 'tweets.json'
-    if not f.exists(): return [], '<p class="mut">暂无推文数据</p>'
-    tw = sorted(json.loads(f.read_text()).get('data', []), key=lambda t: t['created_at'], reverse=True)
-    out = []
+    name, tw = load_tweets(d)
+    if not tw: return [], '<p class="mut">暂无推文数据</p>'
+    months = {}
     for t in tw:
         ts = datetime.datetime.fromisoformat(t['created_at'].replace('Z', '+00:00')).astimezone(TZ)
-        pm = t.get('public_metrics', {}); kind = ','.join(r['type'] for r in t.get('referenced_tweets', [])) or 'original'
-        out.append(f'<div class="tw"><div class="mut">{ts:%Y-%m-%d %H:%M} 北京时间 · {kind} · ❤ {pm.get("like_count",0)} · 👁 {pm.get("impression_count",0)} · <a href="https://x.com/i/status/{t["id"]}" target="_blank">原帖</a></div><p>{esc(t["text"])}</p></div>')
-    return tw, ''.join(out)
+        months.setdefault(f'{ts:%Y-%m}', []).append(t)
+    cnt = {k: sum(1 for t in tw if kind_of(t) == k) for k in ('orig', 'reply', 'rt')}
+    first = datetime.datetime.fromisoformat(tw[-1]['created_at'].replace('Z', '+00:00')).astimezone(TZ)
+    last = datetime.datetime.fromisoformat(tw[0]['created_at'].replace('Z', '+00:00')).astimezone(TZ)
+    head = (f'<p class="mut">覆盖 {first:%Y-%m-%d} ~ {last:%Y-%m-%d}（北京时间）· 原创 {cnt["orig"]} · 回复 {cnt["reply"]} · 转推 {cnt["rt"]} · 按月折叠，最新在前</p>'
+            '<div class="twbar"><input id="twq" type="search" placeholder="关键词搜索推文…">'
+            '<label><input type="checkbox" class="twk" value="orig" checked> 原创</label>'
+            '<label><input type="checkbox" class="twk" value="reply" checked> 回复</label>'
+            '<label><input type="checkbox" class="twk" value="rt" checked> 转推</label>'
+            '<button type="button" id="twexp">全部展开</button><button type="button" id="twcol">全部折叠</button>'
+            '<span id="twn" class="mut"></span></div>')
+    body = [f'<div id="tl" data-src="data/{name}">']
+    for i, (mk, items) in enumerate(months.items()):
+        body.append(f'<details class="mon" data-m="{mk}"{" open" if i == 0 else ""}><summary>{mk} <span class="mut mc">（{len(items)} 条）</span></summary><div class="mbody">')
+        if i == 0: body.append(''.join(tw_item(t) for t in items))
+        body.append('</div></details>')
+    body.append('</div>')
+    return tw, head + ''.join(body) + TL_JS
+
+def tw_item(t):
+    ts = datetime.datetime.fromisoformat(t['created_at'].replace('Z', '+00:00')).astimezone(TZ)
+    pm = t.get('public_metrics', {}); k = kind_of(t); lab = {'orig': '原创', 'reply': '回复', 'rt': '转推'}[k]
+    q = ' · 引用' if t.get('is_quote') or any(r['type'] == 'quoted' for r in t.get('referenced_tweets', [])) else ''
+    return (f'<div class="tw" data-k="{k}"><div class="mut">{ts:%Y-%m-%d %H:%M} 北京时间 · <span class="kd kd-{k}">{lab}</span>{q} · ❤ {pm.get("like_count",0)} · 🔁 {pm.get("retweet_count",0)} · 👁 {pm.get("impression_count",0)} · '
+            f'<a href="https://x.com/i/status/{t["id"]}" target="_blank">原帖</a></div><p>{esc(t["text"])}</p></div>')
+
+# 客户端：读取 data JSON，按月懒渲染，支持类型筛选与关键词搜索
+TL_JS = """<script>
+(function(){
+const tl=document.getElementById('tl');if(!tl)return;
+const KL={orig:'原创',reply:'回复',rt:'转推'};
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const bj=iso=>{const d=new Date(new Date(iso).getTime()+8*3600e3);return d.toISOString().slice(0,16).replace('T',' ');};
+const kind=t=>{const ty=(t.referenced_tweets||[]).map(r=>r.type);if(t.is_retweet||ty.includes('retweeted'))return'rt';if(t.is_reply||ty.includes('replied_to')||t.in_reply_to_user_id)return'reply';return'orig';};
+let byM={},data=[];
+const item=t=>{const k=t._k,pm=t.public_metrics||{},q=(t.is_quote||(t.referenced_tweets||[]).some(r=>r.type==='quoted'))?' · 引用':'';
+ return `<div class="tw" data-k="${k}"><div class="mut">${bj(t.created_at)} 北京时间 · <span class="kd kd-${k}">${KL[k]}</span>${q} · ❤ ${pm.like_count||0} · 🔁 ${pm.retweet_count||0} · 👁 ${pm.impression_count||0} · <a href="https://x.com/i/status/${t.id}" target="_blank">原帖</a></div><p>${esc(t.text)}</p></div>`;};
+const state=()=>({q:document.getElementById('twq').value.trim().toLowerCase(),ks:[...document.querySelectorAll('.twk:checked')].map(x=>x.value)});
+const match=(t,s)=>s.ks.includes(t._k)&&(!s.q||t._l.includes(s.q));
+function render(det){const s=state(),m=det.dataset.m,list=(byM[m]||[]).filter(t=>match(t,s));
+ det.querySelector('.mbody').innerHTML=list.length?list.map(item).join(''):'<p class="mut">（无匹配）</p>';det._r=1;}
+function apply(){const s=state();let n=0;
+ tl.querySelectorAll('details.mon').forEach(det=>{const c=(byM[det.dataset.m]||[]).filter(t=>match(t,s)).length;n+=c;
+  det.querySelector('.mc').textContent=`（${c} 条）`;det.style.display=c?'':'none';det._r=0;
+  if(s.q&&c&&!det.open)det.open=true;if(det.open)render(det);});
+ document.getElementById('twn').textContent=`匹配 ${n} / ${data.length} 条`;}
+fetch(tl.dataset.src).then(r=>r.json()).then(j=>{data=j.data||[];data.sort((a,b)=>a.created_at<b.created_at?1:-1);
+ data.forEach(t=>{t._k=kind(t);t._l=(t.text||'').toLowerCase();const m=bj(t.created_at).slice(0,7);(byM[m]=byM[m]||[]).push(t);});
+ tl.querySelectorAll('details.mon').forEach(det=>det.addEventListener('toggle',()=>{if(det.open&&!det._r)render(det);}));
+ let tm;document.getElementById('twq').addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(apply,200);});
+ document.querySelectorAll('.twk').forEach(x=>x.addEventListener('change',apply));
+ document.getElementById('twexp').onclick=()=>tl.querySelectorAll('details.mon').forEach(d=>{if(d.style.display!=='none')d.open=true;});
+ document.getElementById('twcol').onclick=()=>tl.querySelectorAll('details.mon').forEach(d=>d.open=false);
+ apply();}).catch(e=>{document.getElementById('twn').textContent='推文数据加载失败（请通过 http 访问）：'+e;});
+})();
+</script>"""
 
 def build_kol(d, m):
     tw, tl = tweets_html(d)

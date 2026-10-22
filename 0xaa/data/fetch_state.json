@@ -1,0 +1,455 @@
+{
+ "calls": 369,
+ "method": "search_all",
+ "next_token": null,
+ "oldest_id": "1819302948167733494",
+ "oldest_created_at": "2024-03-29T08:51:27.000Z",
+ "newest_created_at": "2026-10-22T02:19:18.000Z",
+ "count": 8684,
+ "remaining_today": 527,
+ "updated": "2026-10-22T17:28:41.446632",
+ "timeline_exhausted": "get_users_posts returned 0 results after 674 posts (oldest 2026-05-22); timeline depth limit reached",
+ "windows": [
+  {
+   "key": "2026-05",
+   "start_time": "2026-05-01T00:00:00Z",
+   "end_time": "2026-05-19T08:15:48Z",
+   "next_token": null,
+   "done": true,
+   "pages": 4
+  },
+  {
+   "key": "2026-04",
+   "start_time": "2026-04-01T00:00:00Z",
+   "end_time": "2026-05-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 6
+  },
+  {
+   "key": "2026-03",
+   "start_time": "2026-03-01T00:00:00Z",
+   "end_time": "2026-04-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3jueejyrs6k1dlfscofcmbqeok5h7ct",
+   "done": true,
+   "pages": 12
+  },
+  {
+   "key": "2026-02",
+   "start_time": "2026-02-01T00:00:00Z",
+   "end_time": "2026-03-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 8
+  },
+  {
+   "key": "2026-01",
+   "start_time": "2026-01-01T00:00:00Z",
+   "end_time": "2026-02-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 19
+  },
+  {
+   "key": "2025-12",
+   "start_time": "2025-12-01T00:00:00Z",
+   "end_time": "2026-01-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fscn6mt5fq93kdcpy2abemvponqr99",
+   "done": true,
+   "pages": 15
+  },
+  {
+   "key": "2025-11",
+   "start_time": "2025-11-01T00:00:00Z",
+   "end_time": "2025-12-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsck6frke0w87hlvjfyqag6kjjws59",
+   "done": true,
+   "pages": 11
+  },
+  {
+   "key": "2025-10",
+   "start_time": "2025-10-01T00:00:00Z",
+   "end_time": "2025-11-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsch68lmlo95djz3zr7q7h0josmid9",
+   "done": true,
+   "pages": 33
+  },
+  {
+   "key": "2025-09",
+   "start_time": "2025-09-01T00:00:00Z",
+   "end_time": "2025-10-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 8
+  },
+  {
+   "key": "2025-08",
+   "start_time": "2025-08-01T00:00:00Z",
+   "end_time": "2025-09-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 8
+  },
+  {
+   "key": "2025-07",
+   "start_time": "2025-07-01T00:00:00Z",
+   "end_time": "2025-08-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsc59obyqbkmqg1q2dgy709cx43lh9",
+   "done": true,
+   "pages": 7
+  },
+  {
+   "key": "2025-06",
+   "start_time": "2025-06-01T00:00:00Z",
+   "end_time": "2025-07-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsc29hcgbd29449bohqwc04llbrfr1",
+   "done": true,
+   "pages": 12
+  },
+  {
+   "key": "2025-05",
+   "start_time": "2025-05-01T00:00:00Z",
+   "end_time": "2025-06-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsbz9a6jq7oslawtx1kt5iggthnssd",
+   "done": true,
+   "pages": 17
+  },
+  {
+   "key": "2025-04",
+   "start_time": "2025-04-01T00:00:00Z",
+   "end_time": "2025-05-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsbw93710obxsoldu4kvlh37ix3tdp",
+   "done": true,
+   "pages": 18
+  },
+  {
+   "key": "2025-03",
+   "start_time": "2025-03-01T00:00:00Z",
+   "end_time": "2025-04-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fsbw6yxwla0lw0qz4me9ia8eu5ntz1",
+   "done": false,
+   "pages": 26
+  },
+  {
+   "key": "2025-02",
+   "start_time": "2025-02-01T00:00:00Z",
+   "end_time": "2025-03-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frr9sj4ntmwx1n7e5j221imghpqu7x",
+   "done": true,
+   "pages": 19
+  },
+  {
+   "key": "2025-01",
+   "start_time": "2025-01-01T00:00:00Z",
+   "end_time": "2025-02-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frr6sc0u5oozlc0h99ndemqbiedm65",
+   "done": true,
+   "pages": 19
+  },
+  {
+   "key": "2024-12",
+   "start_time": "2024-12-01T00:00:00Z",
+   "end_time": "2025-01-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 23
+  },
+  {
+   "key": "2024-11",
+   "start_time": "2024-11-01T00:00:00Z",
+   "end_time": "2024-12-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frr0u1ld180iuf3x4r0a337x7yn8n1",
+   "done": false,
+   "pages": 20
+  },
+  {
+   "key": "2024-10",
+   "start_time": "2024-10-01T00:00:00Z",
+   "end_time": "2024-11-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 16
+  },
+  {
+   "key": "2024-09",
+   "start_time": "2024-09-01T00:00:00Z",
+   "end_time": "2024-10-01T00:00:00Z",
+   "next_token": null,
+   "done": true,
+   "pages": 9
+  },
+  {
+   "key": "2024-08",
+   "start_time": "2024-08-01T00:00:00Z",
+   "end_time": "2024-09-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frqovsgo38th7hq994j2j35psa0871",
+   "done": false,
+   "pages": 10
+  },
+  {
+   "key": "2024-07",
+   "start_time": "2024-07-01T00:00:00Z",
+   "end_time": "2024-08-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frqosuo311w7ru2ujcg1kuqjo4ndkt",
+   "done": false,
+   "pages": 7
+  },
+  {
+   "key": "2024-06",
+   "start_time": "2024-06-01T00:00:00Z",
+   "end_time": "2024-07-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3frqlt2loujbalbtko97t1kp9y4qt19",
+   "done": false,
+   "pages": 5
+  },
+  {
+   "key": "2024-05",
+   "start_time": "2024-05-01T00:00:00Z",
+   "end_time": "2024-06-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fr62cpitgx0t70cph4jkq04kd2veyl",
+   "done": false,
+   "pages": 4
+  },
+  {
+   "key": "2024-04",
+   "start_time": "2024-04-01T00:00:00Z",
+   "end_time": "2024-05-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fr5zcijagi91j4k728evc42169e8al",
+   "done": false,
+   "pages": 4
+  },
+  {
+   "key": "2024-03",
+   "start_time": "2024-03-01T00:00:00Z",
+   "end_time": "2024-04-01T00:00:00Z",
+   "next_token": "b26v89c19zqg8o3fr5wdl94h8cd04j24gdxrzftuo4p6l",
+   "done": false,
+   "pages": 1
+  },
+  {
+   "key": "2024-02",
+   "start_time": "2024-02-01T00:00:00Z",
+   "end_time": "2024-03-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2024-01",
+   "start_time": "2024-01-01T00:00:00Z",
+   "end_time": "2024-02-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-12",
+   "start_time": "2023-12-01T00:00:00Z",
+   "end_time": "2024-01-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-11",
+   "start_time": "2023-11-01T00:00:00Z",
+   "end_time": "2023-12-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-10",
+   "start_time": "2023-10-01T00:00:00Z",
+   "end_time": "2023-11-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-09",
+   "start_time": "2023-09-01T00:00:00Z",
+   "end_time": "2023-10-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-08",
+   "start_time": "2023-08-01T00:00:00Z",
+   "end_time": "2023-09-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-07",
+   "start_time": "2023-07-01T00:00:00Z",
+   "end_time": "2023-08-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-06",
+   "start_time": "2023-06-01T00:00:00Z",
+   "end_time": "2023-07-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-05",
+   "start_time": "2023-05-01T00:00:00Z",
+   "end_time": "2023-06-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-04",
+   "start_time": "2023-04-01T00:00:00Z",
+   "end_time": "2023-05-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-03",
+   "start_time": "2023-03-01T00:00:00Z",
+   "end_time": "2023-04-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-02",
+   "start_time": "2023-02-01T00:00:00Z",
+   "end_time": "2023-03-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2023-01",
+   "start_time": "2023-01-01T00:00:00Z",
+   "end_time": "2023-02-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-12",
+   "start_time": "2022-12-01T00:00:00Z",
+   "end_time": "2023-01-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-11",
+   "start_time": "2022-11-01T00:00:00Z",
+   "end_time": "2022-12-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-10",
+   "start_time": "2022-10-01T00:00:00Z",
+   "end_time": "2022-11-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-09",
+   "start_time": "2022-09-01T00:00:00Z",
+   "end_time": "2022-10-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-08",
+   "start_time": "2022-08-01T00:00:00Z",
+   "end_time": "2022-09-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-07",
+   "start_time": "2022-07-01T00:00:00Z",
+   "end_time": "2022-08-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-06",
+   "start_time": "2022-06-01T00:00:00Z",
+   "end_time": "2022-07-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-05",
+   "start_time": "2022-05-01T00:00:00Z",
+   "end_time": "2022-06-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-04",
+   "start_time": "2022-04-01T00:00:00Z",
+   "end_time": "2022-05-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-03",
+   "start_time": "2022-03-01T00:00:00Z",
+   "end_time": "2022-04-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-02",
+   "start_time": "2022-02-01T00:00:00Z",
+   "end_time": "2022-03-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2022-01",
+   "start_time": "2022-01-01T00:00:00Z",
+   "end_time": "2022-02-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2021-12",
+   "start_time": "2021-12-01T00:00:00Z",
+   "end_time": "2022-01-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  },
+  {
+   "key": "2021-11",
+   "start_time": "2021-11-01T00:00:00Z",
+   "end_time": "2021-12-01T00:00:00Z",
+   "next_token": null,
+   "done": false,
+   "pages": 0
+  }
+ ],
+ "notes": "Timeline endpoint capped at 674 posts. Older history IS reachable via search_posts_all (from:0xAA_Science, monthly UTC windows + next_token); resume open windows from windows[].next_token. ~9280 posts remain -> ~386 calls -> ~1-2 more days at ~500 calls/day."
+}
