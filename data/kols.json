@@ -6,8 +6,8 @@
   "type": "技术教育型 · BSC meme 实盘派",
   "intro": "WTF Academy 创始人、北大链协前会长，2025 起做 BSC 中文 meme 小仓快进快出；推文“持有看好”与钱包短持不一致，收益均为自述。",
   "total": 15372,
-  "good": 3035,
-  "core": 613,
+  "good": 2699,
+  "core": 395,
   "lectures": 18,
   "loop": [
    "盯角度",
@@ -18,11 +18,11 @@
    "复盘记账"
   ],
   "score": {
-   "right": 7,
-   "wrong": 6,
-   "partial": 3,
-   "pending": 4,
-   "verifiable": 20
+   "right": 13,
+   "wrong": 13,
+   "partial": 8,
+   "pending": 5,
+   "verifiable": 39
   },
   "to": "2026-10-22",
   "updated": "2026-10-22",
