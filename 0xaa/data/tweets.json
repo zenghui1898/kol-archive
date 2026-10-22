@@ -1,0 +1,1234 @@
+{
+ "data": [
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2113092805501546667",
+   "created_at": "2026-10-22T02:19:18.000Z",
+   "edit_history_tweet_ids": [
+    "2113092805501546667"
+   ],
+   "id": "2113092805501546667",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 7108,
+    "like_count": 20,
+    "quote_count": 1,
+    "reply_count": 5,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113025284148715845",
+     "type": "quoted"
+    }
+   ],
+   "text": "Railway 被黑了，用户保存的环境变量可能已经泄漏，比如 API 密钥和数据库等敏感信息。\n\nvibe coder 是重灾区。如果你用过 Railway 部署应用，记得轮换暴露的 API Key，包括但不限于 OpenAI/Claude， Cloudflare，AWS等。 https://t.co/YNf0Dl9ege",
+   "url": "https://x.com/0xAA_Science/status/2113092805501546667"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112918771983909126",
+   "created_at": "2026-10-21T18:12:35.000Z",
+   "edit_history_tweet_ids": [
+    "2112970316389724213"
+   ],
+   "id": "2112970316389724213",
+   "in_reply_to_user_id": "1474247980483973120",
+   "lang": "qme",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 493,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112919483530780921",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@McCain889 ❤️",
+   "url": "https://x.com/0xAA_Science/status/2112970316389724213"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112918771983909126",
+   "created_at": "2026-10-21T18:12:31.000Z",
+   "edit_history_tweet_ids": [
+    "2112970301571231830"
+   ],
+   "id": "2112970301571231830",
+   "in_reply_to_user_id": "2271877838",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 482,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112919316329021561",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@0xshunshun 感谢",
+   "url": "https://x.com/0xAA_Science/status/2112970301571231830"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112922211053080731",
+   "created_at": "2026-10-21T15:01:25.000Z",
+   "edit_history_tweet_ids": [
+    "2112922211053080731"
+   ],
+   "id": "2112922211053080731",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6058,
+    "like_count": 19,
+    "quote_count": 0,
+    "reply_count": 6,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112907856018309586",
+     "type": "quoted"
+    }
+   ],
+   "text": "PHP 是最好的语言\n直到自然语言编程出现 https://t.co/nklSXx0wMC",
+   "url": "https://x.com/0xAA_Science/status/2112922211053080731"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112918771983909126",
+   "created_at": "2026-10-21T14:47:46.000Z",
+   "edit_history_tweet_ids": [
+    "2112918771983909126"
+   ],
+   "id": "2112918771983909126",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 14052,
+    "like_count": 76,
+    "quote_count": 1,
+    "reply_count": 39,
+    "retweet_count": 1
+   },
+   "text": "去年迪拜 BBW 出道成功，今年曼谷还想再次出道。\n麻烦家人们动动发财的小手给我投票！🙏\n入口：\n币安App搜索栏搜 0xAA，点进去有个区块链百强创作者的投票按钮，每人每天一票 https://t.co/lAcdcYCAIA",
+   "url": "https://x.com/0xAA_Science/status/2112918771983909126"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112094357960741359",
+   "created_at": "2026-10-19T08:54:20.000Z",
+   "edit_history_tweet_ids": [
+    "2112105055604322656"
+   ],
+   "id": "2112105055604322656",
+   "in_reply_to_user_id": "1456122941192605705",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1629,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112094357960741359",
+     "type": "replied_to"
+    }
+   ],
+   "text": "解决办法：给客服打电话，大概一小时后就正常了。",
+   "url": "https://x.com/0xAA_Science/status/2112105055604322656"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2112094357960741359",
+   "created_at": "2026-10-19T08:11:50.000Z",
+   "edit_history_tweet_ids": [
+    "2112094357960741359"
+   ],
+   "id": "2112094357960741359",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 10145,
+    "like_count": 19,
+    "quote_count": 1,
+    "reply_count": 19,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112010925884719131",
+     "type": "quoted"
+    }
+   ],
+   "text": "今天我要提交 App 的时候也遇到了相同的问题，说我有协议要签，但是签署之后还是说有协议要签。 😂\n并且这个状态下没法提交/更新App，挺傻逼的。\n打电话问了 Apple Developer 客服，说最近不少人反应这个问题，会尽快解决。\nApple 刚换了新CEO就出低级bug。 https://t.co/VkmkHJIJOX https://t.co/6xt9biWNe8",
+   "url": "https://x.com/0xAA_Science/status/2112094357960741359"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2111730234819289474",
+   "created_at": "2026-10-18T08:04:56.000Z",
+   "edit_history_tweet_ids": [
+    "2111730234819289474"
+   ],
+   "id": "2111730234819289474",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 11842,
+    "like_count": 51,
+    "quote_count": 1,
+    "reply_count": 30,
+    "retweet_count": 6
+   },
+   "text": "最近 Starknet 在做是否应该成为后量子 L1 的民意调查，我投了赞成票：\n1. 以太坊核心路线图已经没有 L2。\n2. Starknet 团队的研究和开发能力足够支撑做独立的 L1（缺少的是营销和勾兑资本的能力）。\n\nhttps://t.co/kGPkVKiKbe\n\n目前 $STRK 币价的压力主要来自团队和VC的解锁：每月15号解锁~ 1.3亿 https://t.co/mePicMhILS",
+   "url": "https://x.com/0xAA_Science/status/2111730234819289474"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2111424717253165479",
+   "created_at": "2026-10-17T12:08:34.000Z",
+   "edit_history_tweet_ids": [
+    "2111429160438738963"
+   ],
+   "id": "2111429160438738963",
+   "in_reply_to_user_id": "2003504898768535556",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 284,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2111424717253165479",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@gu2142661322225 提个pr改下",
+   "url": "https://x.com/0xAA_Science/status/2111429160438738963"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2111338457759162816",
+   "created_at": "2026-10-17T06:08:09.000Z",
+   "edit_history_tweet_ids": [
+    "2111338457759162816"
+   ],
+   "id": "2111338457759162816",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 6478,
+    "like_count": 47,
+    "quote_count": 0,
+    "reply_count": 30,
+    "retweet_count": 0
+   },
+   "text": "又到了最爱的猪脚饭环节 3u\n🐷🦶🍚 https://t.co/ZH63wE6M9t",
+   "url": "https://x.com/0xAA_Science/status/2111338457759162816"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110731307550699584",
+   "created_at": "2026-10-16T12:58:36.000Z",
+   "edit_history_tweet_ids": [
+    "2111079360077902005"
+   ],
+   "id": "2111079360077902005",
+   "in_reply_to_user_id": "1661513237282836480",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1071,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2111062985733202023",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@lihua769181268 我用astra时候总报错 后面用6 sol还行",
+   "url": "https://x.com/0xAA_Science/status/2111079360077902005"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110986228309139736",
+   "created_at": "2026-10-16T10:44:14.000Z",
+   "edit_history_tweet_ids": [
+    "2111045547180372116"
+   ],
+   "id": "2111045547180372116",
+   "in_reply_to_user_id": "1869683226178146304",
+   "lang": "ja",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 684,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2111043535676039469",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@Saccc_c 分享下skill？",
+   "url": "https://x.com/0xAA_Science/status/2111045547180372116"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110731307550699584",
+   "created_at": "2026-10-16T10:29:23.000Z",
+   "edit_history_tweet_ids": [
+    "2111041810084831594"
+   ],
+   "id": "2111041810084831594",
+   "in_reply_to_user_id": "1922165315246686209",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2387,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2111027202515243398",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@huang92388 只有我觉得 Astra 很难用吗，用几下就会触发一个失败的提示，让我切换模型",
+   "url": "https://x.com/0xAA_Science/status/2111041810084831594"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110986228309139736",
+   "created_at": "2026-10-16T06:48:31.000Z",
+   "edit_history_tweet_ids": [
+    "2110986228309139736"
+   ],
+   "id": "2110986228309139736",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 59,
+    "impression_count": 14754,
+    "like_count": 88,
+    "quote_count": 0,
+    "reply_count": 18,
+    "retweet_count": 8
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110399400094933131",
+     "type": "quoted"
+    }
+   ],
+   "text": "没想到小王子3D游戏的作者 @Saccc_c 也是我们 xAPI 的忠实用户，每个 agent 都会装。\n希望大家也多试用下 xAPI，一句话就能让 Agent 安装，并调用所有工具： \nnpx skills add xapi-labs/xapi-cli\nhttps://t.co/SFHUASJE2o https://t.co/UMDlYUy3NP https://t.co/EesqTqHm4R",
+   "url": "https://x.com/0xAA_Science/status/2110986228309139736"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110731307550699584",
+   "created_at": "2026-10-16T02:05:26.000Z",
+   "edit_history_tweet_ids": [
+    "2110914989070663898"
+   ],
+   "id": "2110914989070663898",
+   "in_reply_to_user_id": "1713941807195959296",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6001,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110902420721340522",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@LuiseCoin73090 没有",
+   "url": "https://x.com/0xAA_Science/status/2110914989070663898"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110731307550699584",
+   "created_at": "2026-10-15T15:29:37.000Z",
+   "edit_history_tweet_ids": [
+    "2110754979640496359"
+   ],
+   "id": "2110754979640496359",
+   "in_reply_to_user_id": "1482273213606670339",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10490,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110747817421754768",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@LaaaCrypto 的确很慢",
+   "url": "https://x.com/0xAA_Science/status/2110754979640496359"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110731307550699584",
+   "created_at": "2026-10-15T13:55:33.000Z",
+   "edit_history_tweet_ids": [
+    "2110731307550699584"
+   ],
+   "id": "2110731307550699584",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 11,
+    "impression_count": 88241,
+    "like_count": 100,
+    "quote_count": 3,
+    "reply_count": 63,
+    "retweet_count": 2
+   },
+   "text": "为什么 codex 风评下降的这么快？\n上个月还是小甜甜，现在就变成牛夫人了",
+   "url": "https://x.com/0xAA_Science/status/2110731307550699584"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-15T05:54:21.000Z",
+   "edit_history_tweet_ids": [
+    "2110610208141853101"
+   ],
+   "id": "2110610208141853101",
+   "in_reply_to_user_id": "1869683226178146304",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 679,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110399400094933131",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@Saccc_c 感谢支持，我们努力迭代 xapi。\n有意见随时说！",
+   "url": "https://x.com/0xAA_Science/status/2110610208141853101"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-14T20:47:51.000Z",
+   "edit_history_tweet_ids": [
+    "2110472676351602922"
+   ],
+   "id": "2110472676351602922",
+   "in_reply_to_user_id": "2047164486025650176",
+   "lang": "ja",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 396,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110410756001050954",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@0xifinish 好角度",
+   "url": "https://x.com/0xAA_Science/status/2110472676351602922"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-14T20:47:29.000Z",
+   "edit_history_tweet_ids": [
+    "2110472582906708444"
+   ],
+   "id": "2110472582906708444",
+   "in_reply_to_user_id": "1717945882803580929",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 411,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110470360110190622",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@HER_721 太复杂的不好做 现在AI还是简单机制+快速产出",
+   "url": "https://x.com/0xAA_Science/status/2110472582906708444"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-14T15:53:26.000Z",
+   "edit_history_tweet_ids": [
+    "2110398585619812713"
+   ],
+   "id": "2110398585619812713",
+   "in_reply_to_user_id": "1426509736422383616",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 991,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110397253873762676",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@yiqifacai 有版权的不太行吧",
+   "url": "https://x.com/0xAA_Science/status/2110398585619812713"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-14T15:21:55.000Z",
+   "edit_history_tweet_ids": [
+    "2110390653360472430"
+   ],
+   "id": "2110390653360472430",
+   "in_reply_to_user_id": "503441683",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 632,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110388679554507173",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@wagmi7777 哈哈哈 太几把丑了",
+   "url": "https://x.com/0xAA_Science/status/2110390653360472430"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110387041582346482",
+   "created_at": "2026-10-14T15:07:34.000Z",
+   "edit_history_tweet_ids": [
+    "2110387041582346482"
+   ],
+   "id": "2110387041582346482",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 14,
+    "impression_count": 17987,
+    "like_count": 55,
+    "quote_count": 0,
+    "reply_count": 22,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2109962425512734739",
+     "type": "quoted"
+    }
+   ],
+   "text": "试了一下小王子页游，没想到现在一个人 + AI 就已经能做出这么精美的模型和游戏了。\n我觉得我又行了，准备试试 Tripo AI 和 Blender，大家想玩什么游戏？ https://t.co/6FemnnmjTe https://t.co/6QM18r5Pjn",
+   "url": "https://x.com/0xAA_Science/status/2110387041582346482"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110250161935183930",
+   "created_at": "2026-10-14T07:15:13.000Z",
+   "edit_history_tweet_ids": [
+    "2110268171118879219"
+   ],
+   "id": "2110268171118879219",
+   "in_reply_to_user_id": "1780498628211265536",
+   "lang": "zh",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 394,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110250942276980825",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@chenjs7512 没吃过",
+   "url": "https://x.com/0xAA_Science/status/2110268171118879219"
+  },
+  {
+   "author_id": "1456122941192605705",
+   "conversation_id": "2110250161935183930",
+   "created_at": "2026-10-14T06:03:39.000Z",
+   "edit_history_tweet_ids": [
+    "2110250161935183930"
+   ],
+   "id": "2110250161935183930",
+   "lang": "ja",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8014,
+    "like_count": 33,
+    "quote_count": 0,
+    "reply_count": 32,
+    "retweet_count": 0
+   },
+   "text": "陕西蘸水面 意外的好吃\n3u https://t.co/FLbaklVPLY",
+   "url": "https://x.com/0xAA_Science/status/2110250161935183930"
+  }
+ ],
+ "includes": {
+  "tweets": [
+   {
+    "author_id": "1281777687850127360",
+    "conversation_id": "2113025284148715845",
+    "created_at": "2026-10-21T21:51:00.000Z",
+    "edit_history_tweet_ids": [
+     "2113025284148715845"
+    ],
+    "id": "2113025284148715845",
+    "lang": "en",
+    "public_metrics": {
+     "bookmark_count": 1590,
+     "impression_count": 2239110,
+     "like_count": 4662,
+     "quote_count": 1251,
+     "reply_count": 497,
+     "retweet_count": 779
+    },
+    "text": "An urgent notice from the Railway team\n\nhttps://t.co/niUAhTAQJM"
+   },
+   {
+    "author_id": "1474247980483973120",
+    "conversation_id": "2112918771983909126",
+    "created_at": "2026-10-21T14:50:35.000Z",
+    "edit_history_tweet_ids": [
+     "2112919483530780921"
+    ],
+    "id": "2112919483530780921",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 536,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2112918771983909126",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 必须顶一下，长腿欧巴 https://t.co/Oel5Fo5QVo"
+   },
+   {
+    "author_id": "2271877838",
+    "conversation_id": "2112918771983909126",
+    "created_at": "2026-10-21T14:49:55.000Z",
+    "edit_history_tweet_ids": [
+     "2112919316329021561"
+    ],
+    "id": "2112919316329021561",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 505,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2112918771983909126",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science A大 第一时间了 https://t.co/LwGjwIICVj"
+   },
+   {
+    "author_id": "4398626122",
+    "conversation_id": "2112907856018309586",
+    "created_at": "2026-10-21T14:04:23.000Z",
+    "edit_history_tweet_ids": [
+     "2112907856018309586"
+    ],
+    "id": "2112907856018309586",
+    "lang": "en",
+    "public_metrics": {
+     "bookmark_count": 3495,
+     "impression_count": 5229352,
+     "like_count": 13951,
+     "quote_count": 1439,
+     "reply_count": 561,
+     "retweet_count": 2788
+    },
+    "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers,"
+   },
+   {
+    "author_id": "1456122941192605705",
+    "conversation_id": "2112094357960741359",
+    "created_at": "2026-10-19T08:11:50.000Z",
+    "edit_history_tweet_ids": [
+     "2112094357960741359"
+    ],
+    "id": "2112094357960741359",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 1,
+     "impression_count": 10145,
+     "like_count": 19,
+     "quote_count": 1,
+     "reply_count": 19,
+     "retweet_count": 1
+    },
+    "referenced_tweets": [
+     {
+      "id": "2112010925884719131",
+      "type": "quoted"
+     }
+    ],
+    "text": "今天我要提交 App 的时候也遇到了相同的问题，说我有协议要签，但是签署之后还是说有协议要签。 😂\n并且这个状态下没法提交/更新App，挺傻逼的。\n打电话问了 Apple Developer 客服，说最近不少人反应这个问题，会尽快解决。\nApple 刚换了新CEO就出低级bug。 https://t.co/VkmkHJIJOX https://t.co/6xt9biWNe8"
+   },
+   {
+    "author_id": "41553",
+    "conversation_id": "2112010925884719131",
+    "created_at": "2026-10-19T02:40:18.000Z",
+    "edit_history_tweet_ids": [
+     "2112010925884719131"
+    ],
+    "id": "2112010925884719131",
+    "lang": "en",
+    "public_metrics": {
+     "bookmark_count": 1,
+     "impression_count": 9096,
+     "like_count": 11,
+     "quote_count": 1,
+     "reply_count": 9,
+     "retweet_count": 1
+    },
+    "text": "App Store Connect has to be the most complicated experience ever. For example, I'm stuck here, and I can't seem to find this agreement so I can review it and submit my app. I go to the Business section, and it tells me to go to Account. When I go there, there's no way to find the https://t.co/UlsmZIbTgZ"
+   },
+   {
+    "author_id": "2003504898768535556",
+    "conversation_id": "2111424717253165479",
+    "created_at": "2026-10-17T11:50:55.000Z",
+    "edit_history_tweet_ids": [
+     "2111424717253165479"
+    ],
+    "id": "2111424717253165479",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 109,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "text": "@0xAA_Science \n我才注意到这个文章的逻辑完全写反了\n满足条件是推入1而不是0\n你写的满足条件推入的是0 https://t.co/AVDbjobHFN"
+   },
+   {
+    "author_id": "1661513237282836480",
+    "conversation_id": "2110731307550699584",
+    "created_at": "2026-10-16T11:53:32.000Z",
+    "edit_history_tweet_ids": [
+     "2111062985733202023"
+    ],
+    "id": "2111062985733202023",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 1550,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110731307550699584",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 8月份起5.6就开始了，大家都以为新模型发布能有所改善，像以前一样更上一层楼 呢，结果也并没有任何好转，依旧降智限速、砍额度、重置不耐用……各种层出不穷的bug，包括但不限于“selected model is at capacity……model not found……request timed out……”等等……总之 非常之多 https://t.co/8eaGBIt411"
+   },
+   {
+    "author_id": "1869683226178146304",
+    "conversation_id": "2110986228309139736",
+    "created_at": "2026-10-16T10:36:14.000Z",
+    "edit_history_tweet_ids": [
+     "2111043535676039469"
+    ],
+    "id": "2111043535676039469",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 640,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110986228309139736",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 是 ricky 哥推荐给我的，我还专门做了个 skill"
+   },
+   {
+    "author_id": "1922165315246686209",
+    "conversation_id": "2110731307550699584",
+    "created_at": "2026-10-16T09:31:20.000Z",
+    "edit_history_tweet_ids": [
+     "2111027202515243398"
+    ],
+    "id": "2111027202515243398",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 2625,
+     "like_count": 4,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110731307550699584",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 其实5.6sol的时候也天天骂的，后来Astra挽回了一波。但是没过几天被opus5.5吊打了。我猜测是Astra学了fable5.0的大力出奇迹路线，结果发现按同样的定价算力吃不住，所以开始被动了。6sol根本就是失败产品，紧急拉了个6.1sol出来，甚至我都怀疑6.1sol就是个Astra"
+   },
+   {
+    "author_id": "1869683226178146304",
+    "conversation_id": "2110387041582346482",
+    "created_at": "2026-10-14T15:56:40.000Z",
+    "edit_history_tweet_ids": [
+     "2110399400094933131"
+    ],
+    "id": "2110399400094933131",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 1,
+     "impression_count": 14189,
+     "like_count": 6,
+     "quote_count": 1,
+     "reply_count": 5,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110387041582346482",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 期待老师的作品 老师 xapi 是真好用 我每个 agent 都安装了"
+   },
+   {
+    "author_id": "1713941807195959296",
+    "conversation_id": "2110731307550699584",
+    "created_at": "2026-10-16T01:15:30.000Z",
+    "edit_history_tweet_ids": [
+     "2110902420721340522"
+    ],
+    "id": "2110902420721340522",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 6251,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110731307550699584",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 有没有比Image2生图更好用的AI推荐"
+   },
+   {
+    "author_id": "1482273213606670339",
+    "conversation_id": "2110731307550699584",
+    "created_at": "2026-10-15T15:01:10.000Z",
+    "edit_history_tweet_ids": [
+     "2110747817421754768"
+    ],
+    "id": "2110747817421754768",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 4,
+     "impression_count": 10626,
+     "like_count": 81,
+     "quote_count": 0,
+     "reply_count": 3,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110731307550699584",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 降智，慢，砍额度，过度防御性编码，不说人话，前端工作差，tibo天天刷存在感当小丑。"
+   },
+   {
+    "author_id": "2047164486025650176",
+    "conversation_id": "2110387041582346482",
+    "created_at": "2026-10-14T16:41:48.000Z",
+    "edit_history_tweet_ids": [
+     "2110410756001050954"
+    ],
+    "id": "2110410756001050954",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 263,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110387041582346482",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 做个web3大战吧，把在web3每发生的一件大事件做成一章游戏。比如第一章，2022年11月 FTX / Alameda 崩盘事件，Boss名称：爆炸头骑士 · SBF，你可以选择玩家扮演「链上战士」（可以是矿工、验证者、DeFi玩家、散户幸存者等，然后打BOSS😂"
+   },
+   {
+    "author_id": "1717945882803580929",
+    "conversation_id": "2110387041582346482",
+    "created_at": "2026-10-14T20:38:39.000Z",
+    "edit_history_tweet_ids": [
+     "2110470360110190622"
+    ],
+    "id": "2110470360110190622",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 253,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110387041582346482",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 更自由探索➕可以盖房子的「动物森友会」 这类在中国同类型不多 鹅厂磨了好几年也没抬上来"
+   },
+   {
+    "author_id": "1426509736422383616",
+    "conversation_id": "2110387041582346482",
+    "created_at": "2026-10-14T15:48:09.000Z",
+    "edit_history_tweet_ids": [
+     "2110397253873762676"
+    ],
+    "id": "2110397253873762676",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 1544,
+     "like_count": 4,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110387041582346482",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 金庸群侠传 重制版"
+   },
+   {
+    "author_id": "503441683",
+    "conversation_id": "2110387041582346482",
+    "created_at": "2026-10-14T15:14:04.000Z",
+    "edit_history_tweet_ids": [
+     "2110388679554507173"
+    ],
+    "id": "2110388679554507173",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 488,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110387041582346482",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science 这个真的震撼 我的Cluade怎么做成这个逼样😂 估计要本地渲染 https://t.co/f2oXDK7pZ3"
+   },
+   {
+    "author_id": "1869683226178146304",
+    "conversation_id": "2109962425512734739",
+    "created_at": "2026-10-13T11:00:18.000Z",
+    "edit_history_tweet_ids": [
+     "2109962425512734739"
+    ],
+    "id": "2109962425512734739",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 9933,
+     "impression_count": 3746301,
+     "like_count": 16853,
+     "quote_count": 859,
+     "reply_count": 1389,
+     "retweet_count": 1719
+    },
+    "text": "花费16天，我用 Opus 5.5 将小王子的故事制作成了3D剧情游戏\n\n结合Tripo+Blender，Opus 5.5 将小王子故事中的每一个星球变成了可探索的3D场景\n\n希望大家能支持一手，后续会开源整个游戏，以及详细制作流程\n\nWelcome to The Little Prince: Across the Stars✨：https://t.co/qr4wR0jLu3 https://t.co/fk6mVpZvN1"
+   },
+   {
+    "author_id": "1780498628211265536",
+    "conversation_id": "2110250161935183930",
+    "created_at": "2026-10-14T06:06:45.000Z",
+    "edit_history_tweet_ids": [
+     "2110250942276980825"
+    ],
+    "id": "2110250942276980825",
+    "in_reply_to_user_id": "1456122941192605705",
+    "lang": "zh",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 195,
+     "like_count": 0,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2110250161935183930",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@0xAA_Science a大，还有一个更宽的，裤带面试了吗"
+   }
+  ],
+  "users": [
+   {
+    "id": "1456122941192605705",
+    "name": "0xAA",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2090686537642164224/Vuu_G-nO_normal.jpg",
+    "username": "0xAA_Science",
+    "verified": false
+   },
+   {
+    "id": "1281777687850127360",
+    "name": "Railway",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2060407291996692484/ave6xJl9_normal.jpg",
+    "username": "Railway",
+    "verified": true
+   },
+   {
+    "id": "1474247980483973120",
+    "name": "Andrew",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2095887096401801216/ZNaVPo3t_normal.jpg",
+    "username": "McCain889",
+    "verified": false
+   },
+   {
+    "id": "2271877838",
+    "name": "0xshun 順",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2030197793202278400/SKnbXLID_normal.jpg",
+    "username": "0xshunshun",
+    "verified": false
+   },
+   {
+    "id": "4398626122",
+    "name": "OpenAI",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+    "username": "OpenAI",
+    "verified": true
+   },
+   {
+    "id": "41553",
+    "name": "Fabio - abduzeedo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2088424714998054912/gFsKg3vl_normal.jpg",
+    "username": "abduzeedo",
+    "verified": false
+   },
+   {
+    "id": "2003504898768535556",
+    "name": "gu",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "username": "gu2142661322225",
+    "verified": false
+   },
+   {
+    "id": "1661513237282836480",
+    "name": "急急如律令",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1661513528082329600/KdSbUQsO_normal.jpg",
+    "username": "lihua769181268",
+    "verified": false
+   },
+   {
+    "id": "1869683226178146304",
+    "name": "Sac",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2081939362808520704/FwzCMH0g_normal.jpg",
+    "username": "Saccc_c",
+    "verified": false
+   },
+   {
+    "id": "1922165315246686209",
+    "name": "Evanpunk2077",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2085300399171342336/yC2b0W4v_normal.jpg",
+    "username": "evanpunk2077",
+    "verified": false
+   },
+   {
+    "id": "1713941807195959296",
+    "name": "Luise Coin",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1713941876234219520/r0igBcXv_normal.png",
+    "username": "LuiseCoin73090",
+    "verified": false
+   },
+   {
+    "id": "1482273213606670339",
+    "name": "喵言之外 | MeowTalks💡",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2113162901410476032/ca2YxHaz_normal.jpg",
+    "username": "LaaaCrypto",
+    "verified": false
+   },
+   {
+    "id": "2047164486025650176",
+    "name": "finish2.0",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2047187484417912832/sXFDEjq2_normal.jpg",
+    "username": "0xifinish",
+    "verified": false
+   },
+   {
+    "id": "1717945882803580929",
+    "name": "HER（感性版）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2000975270933839872/m3n4YgCe_normal.jpg",
+    "username": "HER_721",
+    "verified": false
+   },
+   {
+    "id": "1426509736422383616",
+    "name": "Zoe_yiqifacai",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1806713276929380352/PkBh-Mns_normal.jpg",
+    "username": "yiqifacai",
+    "verified": false
+   },
+   {
+    "id": "503441683",
+    "name": "好天气",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2020883110410465280/XP7Ou0U2_normal.jpg",
+    "username": "wagmi7777",
+    "verified": false
+   },
+   {
+    "id": "1780498628211265536",
+    "name": "×1000_UP",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2065877135219466240/5vIqVbw5_normal.jpg",
+    "username": "chenjs7512",
+    "verified": false
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2113092805501546667",
+  "next_token": "7140dibdnow9c7btwp0g6xg0qfotxak5n6zm38rxghagg",
+  "oldest_id": "2110250161935183930",
+  "result_count": 25
+ },
+ "_meta": {
+  "source": "x MCP get_users_posts",
+  "fetched_at": "2026-10-22T16:40+08:00",
+  "user_id": "1456122941192605705"
+ }
+}
