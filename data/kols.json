@@ -1,90 +1,119 @@
 [
- {
-  "slug": "0xaa",
-  "name": "0xAA",
-  "handle": "0xAA_Science",
-  "type": "技术教育型 · BSC meme 实盘派",
-  "intro": "WTF Academy 创始人、北大链协前会长，2025 起做 BSC 中文 meme 小仓快进快出；推文“持有看好”与钱包短持不一致，收益均为自述。",
-  "total": 15372,
-  "good": 2699,
-  "core": 395,
-  "lectures": 18,
-  "loop": [
-   "盯角度",
-   "查安全与筹码",
-   "判叙事与文化",
-   "小仓早进",
-   "翻倍出一半",
-   "复盘记账"
-  ],
-  "score": {
-   "right": 13,
-   "wrong": 13,
-   "partial": 8,
-   "pending": 5,
-   "verifiable": 39
+  {
+    "slug": "0xaa",
+    "name": "0xAA",
+    "handle": "0xAA_Science",
+    "type": "技术教育型 · BSC meme 实盘派",
+    "intro": "WTF Academy 创始人、北大链协前会长，2025 起做 BSC 中文 meme 小仓快进快出；推文“持有看好”与钱包短持不一致，收益均为自述。",
+    "total": 15372,
+    "good": 2699,
+    "core": 395,
+    "lectures": 18,
+    "loop": [
+      "盯角度",
+      "查安全与筹码",
+      "判叙事与文化",
+      "小仓早进",
+      "翻倍出一半",
+      "复盘记账"
+    ],
+    "score": {
+      "right": 13,
+      "wrong": 13,
+      "partial": 8,
+      "pending": 5,
+      "verifiable": 39
+    },
+    "to": "2026-10-22",
+    "updated": "2026-10-22",
+    "avatar": "0xaa/images/avatar.jpg",
+    "from": "2021-11-11"
   },
-  "to": "2026-10-22",
-  "updated": "2026-10-22",
-  "avatar": "0xaa/images/avatar.jpg",
-  "from": "2021-11-11"
- },
- {
-  "slug": "bokaiixu",
-  "name": "xbkk",
-  "handle": "bokaiixu",
-  "type": "教学晒单型 · BSC 阴谋盘/扫链公式派",
-  "intro": "小资金1bnb挑战人设的中文meme教学号；阴谋盘/痰/出本公式可进观察清单，胜率口号与返佣/TG/付费群要整段折扣。",
-  "total": 1578,
-  "good": 202,
-  "core": 44,
-  "lectures": 18,
-  "loop": [
-   "摆正心态与定位",
-   "先分盘型",
-   "等确认信号",
-   "小仓试水进场",
-   "翻倍出本锁利润",
-   "复盘改版本"
-  ],
-  "score": {
-   "right": 2,
-   "wrong": 4,
-   "partial": 12,
-   "pending": 2,
-   "verifiable": 20
+  {
+    "slug": "bokaiixu",
+    "name": "xbkk",
+    "handle": "bokaiixu",
+    "type": "教学晒单型 · BSC 阴谋盘/扫链公式派",
+    "intro": "小资金1bnb挑战人设的中文meme教学号；阴谋盘/痰/出本公式可进观察清单，胜率口号与返佣/TG/付费群要整段折扣。",
+    "total": 1578,
+    "good": 202,
+    "core": 44,
+    "lectures": 18,
+    "loop": [
+      "摆正心态与定位",
+      "先分盘型",
+      "等确认信号",
+      "小仓试水进场",
+      "翻倍出本锁利润",
+      "复盘改版本"
+    ],
+    "score": {
+      "right": 2,
+      "wrong": 4,
+      "partial": 12,
+      "pending": 2,
+      "verifiable": 20
+    },
+    "from": "2024-07-05",
+    "to": "2026-10-22",
+    "updated": "2026-10-22"
   },
-  "from": "2024-07-05",
-  "to": "2026-10-22",
-  "updated": "2026-10-22"
- },
- {
-  "slug": "efo",
-  "name": "EFO_xx",
-  "handle": "efo_xx",
-  "type": "投研叙事型 · 链上天使投资/单链生态布道派",
-  "intro": "Virtual打新迁徙RH布道；天使投资闭环可学，Web2叙事排第一与慧哥铁律冲突，战绩多为RH顺风自述。",
-  "total": 2135,
-  "good": 354,
-  "core": 34,
-  "lectures": 18,
-  "loop": [
-   "看人",
-   "定叙事",
-   "卡时间差买点",
-   "信息不完备时先相信",
-   "逻辑兑现才卖",
-   "复盘与回流"
-  ],
-  "score": {
-   "right": 4,
-   "wrong": 2,
-   "partial": 19,
-   "pending": 4,
-   "verifiable": 29
+  {
+    "slug": "efo",
+    "name": "EFO_xx",
+    "handle": "efo_xx",
+    "type": "投研叙事型 · 链上天使投资/单链生态布道派",
+    "intro": "Virtual打新迁徙RH布道；天使投资闭环可学，Web2叙事排第一与慧哥铁律冲突，战绩多为RH顺风自述。",
+    "total": 2135,
+    "good": 354,
+    "core": 34,
+    "lectures": 18,
+    "loop": [
+      "看人",
+      "定叙事",
+      "卡时间差买点",
+      "信息不完备时先相信",
+      "逻辑兑现才卖",
+      "复盘与回流"
+    ],
+    "score": {
+      "right": 4,
+      "wrong": 2,
+      "partial": 19,
+      "pending": 4,
+      "verifiable": 29
+    },
+    "to": "2026-10-22",
+    "updated": "2026-10-22",
+    "from": "2025-06-12"
   },
-  "to": "2026-10-22",
-  "updated": "2026-10-22",
-  "from": "2025-06-12"
- }
+  {
+    "slug": "theunipcs",
+    "name": "Unipcs (Bonk Guy)",
+    "handle": "theunipcs",
+    "type": "英文注意力/叙事鲸鱼 · Bonk生态现货派",
+    "intro": "Bonk Guy：公开仓位当内容杠杆；空投钱包折扣+2025导出缺口，跟单/持仓截图默认不进名单。",
+    "total": 1266,
+    "good": 217,
+    "core": 36,
+    "lectures": 18,
+    "loop": [
+      "扫注意力与换链主战场",
+      "选高赔率叙事袋",
+      "为回撤活着建仓",
+      "公开仓位当杠杆",
+      "不对社区恋爱再平衡",
+      "留在牌桌并想五步"
+    ],
+    "score": {
+      "right": 8,
+      "wrong": 3,
+      "partial": 16,
+      "pending": 9,
+      "verifiable": 36
+    },
+    "from": "2024-03-02",
+    "to": "2026-10-22",
+    "updated": "2026-10-22"
+  }
 ]
