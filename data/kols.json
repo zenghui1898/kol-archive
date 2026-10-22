@@ -28,5 +28,34 @@
   "updated": "2026-10-22",
   "avatar": "0xaa/images/avatar.jpg",
   "from": "2021-11-11"
+ },
+ {
+  "slug": "bokaiixu",
+  "name": "xbkk",
+  "handle": "bokaiixu",
+  "type": "教学晒单型 · BSC 阴谋盘/扫链公式派",
+  "intro": "小资金1bnb挑战人设的中文meme教学号；阴谋盘/痰/出本公式可进观察清单，胜率口号与返佣/TG/付费群要整段折扣。",
+  "total": 1578,
+  "good": 202,
+  "core": 44,
+  "lectures": 18,
+  "loop": [
+   "摆正心态与定位",
+   "先分盘型",
+   "等确认信号",
+   "小仓试水进场",
+   "翻倍出本锁利润",
+   "复盘改版本"
+  ],
+  "score": {
+   "right": 2,
+   "wrong": 4,
+   "partial": 12,
+   "pending": 2,
+   "verifiable": 20
+  },
+  "from": "2024-07-05",
+  "to": "2026-10-22",
+  "updated": "2026-10-22"
  }
 ]
