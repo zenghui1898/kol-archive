@@ -144,5 +144,34 @@
     "to": "2026-10-21",
     "updated": "2026-10-22",
     "from": "2022-08-13"
+  },
+  {
+    "slug": "feibo03",
+    "name": "版本之牛",
+    "handle": "feibo03",
+    "type": "BSC极简收割机 · 视觉+跟大哥派",
+    "intro": "Cowboy🔶BNB：BSC扫链实用派；信息源分层+视觉初筛+跟大哥。gmgn返佣/CA密度高，跟单≠决策。",
+    "total": 3102,
+    "good": 487,
+    "core": 73,
+    "lectures": 18,
+    "loop": [
+      "选战场",
+      "开信息源",
+      "扫盘",
+      "过滤",
+      "执行",
+      "心态"
+    ],
+    "score": {
+      "right": 0,
+      "wrong": 2,
+      "partial": 3,
+      "pending": 1,
+      "verifiable": 6
+    },
+    "from": "2025-01-15",
+    "to": "2026-10-22",
+    "updated": "2026-10-22"
   }
 ]
