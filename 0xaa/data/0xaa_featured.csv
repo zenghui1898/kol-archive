@@ -1,0 +1,1186 @@
+﻿id,date,kind,domain,substance_score,rule_hits,likes,retweets,replies,views,text,url
+1756231272056471922,2024-02-10 16:18:00,orig,01_solidity_edu,13.59,11,21,0,3,16077,0xAA的2023推特流水账，真是充实的一年啊！期待2024接下来的日子！\n1月: \nETH Beijing黑客松立项 @PKUBlockchain @WTFAcademy_ \nhttps://x.com/0xAA_Science/status/1615709271261577216?s=20\n更新WTF JavaScript教程\nhttps://x.com/0xAA_Science/status/1612124361246531584?s=20\n去以色列参加Starknet Hackhouse @OnlyDust_com @Starknet \nhttps://x.com/0xAA_Science/status/1617774140089589762?s=20\n\n2月\n在以色列参加 @stark_con  大会\nhttps://x.com/0xAA_Science/status/1630428955277922304?s=20\nWTF Academy获得以太坊基金会ESP @EF_ESP  资助。\nhttps://x.com/0xAA_Science/status/1628584945357819907?s=20\n继续筹备ETH Beijing黑客松\nhttps://x.com/0xAA_Science/status/1627848229986639873?s=20\n\n3月\n和WTF贡献者参与Scaling Ethereum线上黑客松 @ETHGlobal 并获奖🏆\nhttps://x.com/WTFAcademy_/status/1640385162994409472?s=20\n年度时刻：帮泄露钱包的粉丝跟黑客抢Arb空投\nhttps://x.com/0xAA_Science/status/1639248965102362624?s=20\nWTF Solidity 智能合约教程将在国内出版\nhttps://x.com/0xAA_Science/status/1640667634026020864?s=20\nWTF Academy获得 @Optimism  retropgf2 自助\nhttps://x.com/0xAA_Science/status/1641658335547228160?s=20\n继续筹办ETH Beijing黑客松\nhttps://x.com/0xAA_Science/status/1637024867097903112?s=20\n\n4月\n举办ETH Beijing黑客松！\nhttps://x.com/0xAA_Science/status/1644716965402124291?s=20\n参加香港Web3大会\nhttps://x.com/0xAA_Science/status/1652275474595467265?s=20\n更新WTF Cairo教程\nhttps://x.com/0xAA_Science/status/1650389039110062083?s=20\n举办Starknet Beijing Meetup\nhttps://x.com/WTFAcademy_/status/1644766483782971392?s=20\n\n5月\nhttp://wtf.academy 官网更新\nhttps://x.com/0xAA_Science/status/1658392936680411136?s=20\nWTF Academy获得 @Starknet EAG资助\nhttps://x.com/0xAA_Science/status/1656694798588481536?s=20\n举办Global Pizza Party Beijing @Pizza_DAO \nhttps://x.com/WTFAcademy_/status/1660612373902946304?s=20\n将WTF Ethers教程更新到v6版本\nhttps://x.com/0xAA_Science/status/1658845883629285376?s=20\n\n6月\n学习Uniswap v4并翻译白皮书\nhttps://x.com/0xAA_Science/status/1669056707920814082?s=20\n更新WTF Solidity\nhttps://x.com/0xAA_Science/status/1673724361050845184?s=20\n\n7月\n更新WTF Gas Optimization教程\nhttps://x.com/0xAA_Science/status/1676974842887958529?s=20\n更新WTF EVM Opcodes教程\nhttps://x.com/0xAA_Science/status/1684766190810628096?s=20\n更新WTF Deep RL教程\nhttps://x.com/0xAA_Science/status/1676954947735404551?s=20\n\n8月\n继续更新WTF EVM Opcodes教程\nhttps://x.com/0xAA_Science/status/1694377680685433151?s=20\n参加顺利通过博士预答辩\nhttps://x.com/0xAA_Science/status/1694574993374605477?s=20\n《WTF Solidity智能合约教程》纸质书正式在中国出版！\nhttps://x.com/0xAA_Science/status/1694965940319064567?s=20\n\n9月\n更新WTF Huff教程\nhttps://x.com/0xAA_Science/status/1706954532285305061?s=20\n筹备ETH Hangzhou黑客松 @zjubca @PKUBlockchain @WTFAcademy_ \nhttps://x.com/0xAA_Science/status/1705069637178921224?s=20\n\n10月\nETH Hangzhou黑客松圆满结束！\nhttps://x.com/0xAA_Science/status/1714282092786598349?s=20\n参加ETH HK @Scroll_ZKP \nhttps://x.com/0xAA_Science/status/1717908192947310872?s=20\n\n11月\n去土耳其参加 @EFDevconnect @VitalikButerin \nhttps://x.com/0xAA_Science/status/1724389428368433606?s=20\n参加 @ETHGlobal Istanbul黑客松\nhttps://x.com/0xAA_Science/status/1726500994262171713?s=20\n举办 @Starknet 中文训练营\nhttps://x.com/0xAA_Science/status/1723676089887703092?s=20\n\n12月\n更新WTF zk教程\nhttps://x.com/0xAA_Science/status/1734847511351935387?s=20\nhttp://wtf.academy 教育平台习题系统开始公测\nhttps://x.com/0xAA_Science/status/1733190184181907714?s=20\nStarknet中文训练营结束\nhttps://x.com/WTFAcademy_/status/1741410952753643965?s=20,https://x.com/0xAA_Science/status/1756231272056471922
+1774807453995257925,2024-04-01 22:34:00,orig,01_solidity_edu,11.5,2,152,20,19,35342,"我是在2022年4月1日开始连载 WTF Solidity 教程的，所以今天是 WTF Academy 的两岁生日。\n\n这两年，我们达成了很多成就，比如：\n1. 创作了 WTF Solidity 教程，帮助上千名开发者进入 Web3，并把它在中国出版。\n2. 建设了一个生机勃勃的开发者社区，并吸引了价值观相同的贡献者。\n3. 开发了 http://wtf.academy 教育平台，目前月活用户 20,000。\n4. 在没有外部融资的情况下，获得头部项目的赞助/资助达到 50w u，大部分将于今年解锁并用于奖励贡献者。\n5. 联合主办了2个线下的以太坊黑客松： ETH Beijing Hackathon 和 ETH Hangzhou Hackathon。\n6. 救援用户被盗钱包中的资产超 30w u。\n7. ...\n\n但是向前看，过去的成就不过只是更好的起点而已。WTF Academy 在愚人节这天诞生是很有意义的，让我们 Stay Hungry，Stay Foolish，继续建设，并在牛市挣到足够的钱！\n\n我相信未来的教育是免费的或是接近免费的，WTF Academy 对待商业化/融资一直非常谨慎。我们的链上链上教育证书预计4月会在 @Optimism 主网，并按对我们资助额度的顺序登陆其他L2，希望大家到时多多支持！\n\n最后，感谢所有贡献者和支持者！\n生日快乐 @WTFAcademy_ !",https://x.com/0xAA_Science/status/1774807453995257925
+1597611159242571777,2022-11-29 23:19:00,orig,01_solidity_edu,11.05,5,445,173,16,0,入门Solidity之后接下来做什么？\n我的建议是把OpenZeppelin库中所有合约刷一遍。\n\n下面介绍如何结合WTF Solidity教程学习它。\nA Thread 🧵\n#web3 #solidity @WTFAcademy_  @OpenZeppelin ,https://x.com/0xAA_Science/status/1597611159242571777
+1640141688525185024,2023-03-27 08:00:00,orig,01_solidity_edu,11.0,2,53,14,13,48876,我刚刚被rug了1小时。\n事情是这样的，WTF Academy派了支队伍去参与 @ETHGlobal 的 Scaling Ethereum 黑客松，由 @_daxiongya 领导。\n我们做了 solive，轻量级solidity网页编译器。给 WTF Solidity 教程用。大家可以试试 demo（手机上可以运行）: http://solive-demo.vercel.app\n我负责在deadline前提交项目，之前ETH Global官网上写的是 3.26 12:00 EST。因为我不生活在EST时区，就 google 了一下，它跟我说 EST 是 UTC-5。那么 deadline 就是 3.27 1:00 UTC+8，中国的凌晨1点。\n我开开心心的在 00:51 提交项目的时候，发现提交通道关闭了，官方说 deadline 是 00:00，我们错过了。\n我起先还以为我计算错了时差，EST 是 UTC-4，自责的睡了一觉，气的不行。今早起了又查了一下，EST就是UTC-5，EDT 才是 UTC-4，所以我昨天计算的没错，是 ETH Global计算错了。\n更tm气人的是，刚刚 ETH Global 网站把 deadline 从 12:00 pm EST 改成 12:00 pm EDT 了，证据销毁了😂。但他确实之前写的是 EST，这锅我不背。\n我有 3 个建议:\n1. 在 web3 提时间时，用UTC，而不是EST/EDT，容易造成歧义。\n2. ETHGlobal官网上的deadline改回 12:00 pm EST，这样做很可疑。\n3. 允许在 3.26 12:00 pm UTC-5 前完成的项目提交。\n@ETHGlobal @jacobwillemsma,https://x.com/0xAA_Science/status/1640141688525185024
+1644118367719260160,2023-04-07 07:22:00,orig,01_solidity_edu,10.93,6,50,12,8,34152,"在Solidity合约中，有3种常用的方法发送ETH: transfer, send, 和 call，其中 call 是被鼓励使用的方法，另外两种未来可能被废弃。 \nWTF Solidity第20讲: https://github.com/AmazingAng/WTFSolidity/blob/main/20_SendETH/readme.md\n昨天一个zksync上的NFT项目因为使用了transfer方法转账ETH，筹集的900+ ETH被卡在了合约中。我查阅了zkSync的文档，没有看到哪里写到不支持transfer和send方法，但目前只有call方法可以正常转账ETH。\nzkSync团队回复：这笔钱不会永久卡住，会帮助团队解决问题。我估计会在合约层面更好的transfer和send方法。 @zksync",https://x.com/0xAA_Science/status/1644118367719260160
+1888430862615957801,2025-02-09 11:32:57,orig,01_solidity_edu,10.8,5,137,22,26,17214,"为回应社区要求， WTF Academy 将和 ChainBuff 共同推出 WTF Solana 教程。 @WTFAcademy_ @ChainBuff @Solana_zh 
+基础教程分为3部分：
+1. Solana基础架构，@InkyWang 负责
+2. web3js，我负责
+3. 合约（Anchor），Haynar 负责
+
+目前，Solana Web3.js 第一讲已经更新！ 
+repo: https://t.co/SvFby746oE https://t.co/0xutgFtrO7",https://x.com/0xAA_Science/status/1888430862615957801
+1742481099417395493,2024-01-03 17:40:00,orig,01_solidity_edu,10.48,3,63,5,21,30034,"我最近在做年度总结，整理 @WTFAcademy_  国库的时候发现截止2023年底，我们有约 65,000 u的盈余。其中大部分是$op（来自retropgf），随着牛市来了钱越花越多。\n\n鉴于我们2023年的目标是收支平衡，所以决定用50%的资金（30,000 u）来回溯性奖励WTF贡献者们。需要大家讨论如何分配。目前贡献者中呼声比较高的方案：\n1. 发周边\n2. 发钱\n请贡献者们在帖子中讨论下：\nhttps://github.com/AmazingAng/WTF-Solidity/discussions/615\n\n另外需要大家帮我两个忙：\n1. 如果2023年有社区任务奖励漏发，请及时联系我。因为会计由我一人兼任，很容易漏发，大家多多包含。\n2. 如果你给WTF Academy进行了贡献，但是还没进WTF贡献者微信群，请联系我。\n\n2024年WTF Academy在财务上的目标仍是收支平衡。鉴于我们已经入选了 @Optimism 的retropgf3和 @Starknet  的EAG资助项目，我们会有更多的资金来资助WTF教程和社区项目。\n\n祝WTF贡献者和成员们2024新年快乐，身体健康，牛市暴富！",https://x.com/0xAA_Science/status/1742481099417395493
+1866713383128695213,2024-12-11 13:15:27,orig,01_solidity_edu,10.03,6,167,39,37,26891,"5条原则，让我在币圈走的更远：
+1. 不开杠杆/合约/做空
+2. 不借钱
+3. 搭建个人品牌
+4. 留好至少2-3年生活费
+5. 积累技术 https://t.co/ijyWQ4WDn7",https://x.com/0xAA_Science/status/1866713383128695213
+1998006436228649449,2025-12-08 20:27:10,orig,01_solidity_edu,9.99,5,46,1,20,25746,"杠杆交易带来巨大的盈亏波动，会让大脑分泌大量多巴胺，像赌博一样劫持你的大脑，让你成瘾。
+
+很多粉丝问我：已经合约上瘾了，怎么戒掉？
+这里我给大家提供一个思路：
+1. 当你忍不住想开合约的时候，马上回到房间打飞机。
+2. 打完你会进入贤者时间，开合约的冲动会降低。
+3. 如果还想开仓？重复步骤 1 https://t.co/WfxbCkBZXs https://t.co/DgAoZOipD9",https://x.com/0xAA_Science/status/1998006436228649449
+1610500834240135168,2023-01-04 12:58:00,orig,01_solidity_edu,9.62,4,122,30,9,32331,如何识别一个合约为ERC20？\n这是刚需，链上数据分析、检测貔貅、抢开盘都会用。\n但ERC20早于ERC165，无法用接口来识别。并且网上也搜不到正确方法。\n但方法其实很简单，&lt;10行就能实现：\n1. 获取合约 bytecode\n2. 检测其否包含ERC20的函数选择器。\n教程更新在WTF Ethers 24讲: \nhttps://github.com/WTFAcademy/WTF-Ethers ,https://x.com/0xAA_Science/status/1610500834240135168
+1593621172201349120,2022-11-18 23:04:00,orig,01_solidity_edu,9.34,4,155,62,15,0,⚠️貔貅盘入门⚠️\n“翻倍了，兄弟们冲！”\n“艹，貔貅了！”\n\n刚进入Web3的开发者/韭菜难免忍不住诱惑去链上冲土狗，如何识别貔貅盘很关键。我将在这个帖子介绍貔貅代币原理和预防方法。\n#web3 #solidity\nA Thread 🧵 ,https://x.com/0xAA_Science/status/1593621172201349120
+1607583265728401408,2022-12-27 11:44:00,orig,01_solidity_edu,9.24,2,5069,2697,802,2294833,1. 很多人后悔没有早点接触智能合约。\n2. 没有人抱怨过后悔学了智能合约。\n所以我建议大家熊市花一些时间学习它。\n\nWTF Solidity智能合约教程，内容涵盖入门到应用，目前更新60+讲: https://github.com/AmazingAng/WTF-Solidity\n学完之后到 http://wtf.academy 上做习题自测。\n#web3 #Solidity ,https://x.com/0xAA_Science/status/1607583265728401408
+1992882706125033714,2025-11-24 17:07:17,orig,01_solidity_edu,9.17,4,106,16,28,28672,"这条 Solidity 的宣传推文 3 年获得了 200 万浏览量
+200 万次成为链上科学家的机会——你抓住了吗？
+
+WTF Academy 开源教程
+- 官网: https://t.co/aV0xCZywYa
+- WTF Solidity 教程 https://t.co/6Emo8xB9mi
+- WTF Ethers 教程: https://t.co/Es1QxyuVw0
+- WTF zk 教程: https://t.co/nt4wn5FiI9 https://t.co/AnXYPwiMkE https://t.co/VG6JgU7JX3",https://x.com/0xAA_Science/status/1992882706125033714
+1605160479487188992,2022-12-20 19:17:00,orig,01_solidity_edu,9.07,4,69,12,5,34512,感受到了StarkNet开发者社区似火的热情🔥🔥🔥。\n因为StarkNet更新版本，之前部署合约的方法用不了了，我就在群里问了“现在推荐用什么部署工具”，马上有5个开发者帮忙回答。\nStarkNet is promising!\n这里我总结下StarkNet部署合约的工具：\nA thread🧵,https://x.com/0xAA_Science/status/1605160479487188992
+1740568916316103051,2023-12-29 11:02:00,orig,01_solidity_edu,8.87,1,98,21,23,74271,"刚刚有个WTF家人想在opbnb部署airdrop合约，给小号批量转bnb。但是调用的时候切换到bnb链了，2.6 BNB被打进黑洞地址了，问我怎么救。\n\n其实是有可能救回来的：\n使用钱包创建新合约会调用CREATE操作码，新地址规则如下:\n合约地址 = hash(创建者地址, nonce)\n\n钱包在每个evm兼容链都是独立的，从0开始记，每笔交易增加1。同一个钱包，假设你在opbnb部署合约时的nonce是10，如果你在bnb链nonce 10还没使用，就能部署合约到bnb的相同地址，把钱取回来；如果nonce 10已经被使用了，就救不回来了。\n\n这个哥们比较倒霉，bnb链的nonce 10已经被使用了，钱就当交学费了吧。\n\n我们能学到什么?\n1. 调用合约时要切换到相应的网络，不然可能导致资产丢失。\n2. 创建合约的规则，详见WTF Solidity: https://github.com/AmazingAng/WTFSolidity/blob/main/25_Create2/readme.md\n3. http://Batch.money 是我学huff时写的批量转账玩具，免费使用，目前支持16个链（包括opbnb）。用的人多了我会写个v2，进一步优化gas并支持erc721👀",https://x.com/0xAA_Science/status/1740568916316103051
+1612124361246531584,2023-01-09 00:29:00,orig,01_solidity_edu,8.73,3,229,71,29,114745,交作业！\n我们在做一个零基础入门编程的教程，WTF JavaScript，让更多新人进入Web3开发！🙌\n刚刚更新了第 1 讲： Hello JavaScript（两行代码）。介绍了什么是 JavaScript，并写了第一个程序！✨\n欢迎大家提建议，我们不断完善！\n\n@WTFAcademy_ #javascript\n教程开源在: https://github.com/WTFAcademy/WTF-JavaScript ,https://x.com/0xAA_Science/status/1612124361246531584
+1755874525802299395,2024-02-09 16:41:00,orig,01_solidity_edu,8.71,1,90,8,16,86928,"WTF Academy自2022年4月1日建立已近2年，感谢成员们的陪伴和付出。截至2023年末，我们有一定资金盈余。现在正值春节时期，我们决定向社区贡献者发放 $30,000 红包（以USDT形式），分为三部分：\n\n1. 阳光贡献红包（$10,000）：平分给向WTF Academy的GitHub repo提过pr并被merge的贡献者，当然也包括贡献figma/视频/社区答疑的贡献者，共245人。\n\n2. 杰出贡献红包（$10,000）：平分给为WTF Academy做出杰出贡献的贡献者，主要参考GitHub repo/Figma/视频/社区答疑记录，共32人。\n\n3. 平台贡献红包（$10,000）：平分给持续建设WTF Academy教育平台的贡献者，共9人。\n\n名单公示（公示期7天，见链接）：我们在统计时可能会有疏漏，如果漏掉了你的贡献，请谅解并留言/私信我。\n\n领取方法：在2月28日前登录 @WTFAcademy_  官网，将钱包与GitHub账号绑定好，我们会在3月初发放红包。\n\n链接: https://github.com/AmazingAng/WTF-Solidity/discussions/626",https://x.com/0xAA_Science/status/1755874525802299395
+1848364789367718014,2024-10-21 22:04:41,orig,01_solidity_edu,8.45,4,33,3,28,26609,"有几个特殊的类别可以得到 Scroll 空投，挺有意思 $SCR ：
+1. 持有ENS
+2. 在 Gitcoin 上捐款，意味着所有给 @WTFAcademy_ 捐款的人都有
+3. 在 Juicebox 捐款，意味着所有捐过 @ConstitutionDAO 的人都有 $PEOPLE @The_PeopleDAO
+4. 在scroll上使用智能合约钱包 https://t.co/yuPdobE4rq",https://x.com/0xAA_Science/status/1848364789367718014
+1742019548906402041,2024-01-02 11:06:00,orig,01_solidity_edu,8.36,2,52,1,13,35298,今天有个家人在opbnb用batch money转账时候，不小心在钱包把wei改成了gwei，导致一些bnb（差不多100u）留在合约中，问我能不能救出来。\n\n其实我在写batch money的时候参考了uniswap的设计，在批量转账时:\n1. 转入数额=转出，交易正常进行。\n2. 转入&lt;转出，交易失败。\n3. 转入&gt;转出，交易成功，但多余部分会留在合约中，任何人可以在下一笔交易中提走。\n\n所以转入&gt;转出时，留在合约的资金一般会被mev机器人抢跑领走。幸运的是，opbnb很新，还没有什么人跑mev，所以我起床后帮这个家人抢跑出来了 😍\n\n算是比较圆满的结局，但是要吸取教训，交易时一定不要随便修改钱包参数，下次不一定这么幸运了 👀,https://x.com/0xAA_Science/status/1742019548906402041
+1607637318042791936,2022-12-27 15:19:00,orig,01_solidity_edu,8.32,2,1165,388,19,195019,有人问零基础怎么办，我的建议是先去看c语言，python或者javascript的入门公开课。\n10年前我入门时是在网易云课堂看的哈佛公开课cs50，教的c语言。我认为它是全世界最好的编程入门课，各大视频网站都能搜到。\n有个最新的cs50p是教python的。 ,https://x.com/0xAA_Science/status/1607637318042791936
+1551606972851490817,2022-07-26 00:35:00,orig,01_solidity_edu,8.32,4,29,3,2,0,WTF Solidity极简教程：英文翻译任务\n\n之前 @LanguageDAO 的朋友对这个教程很感兴趣，问要不要翻译成英文。我觉得建议很棒，发起了这个翻译任务，WTF社区和LanguageDAO社区的成员可以认领。\n\n目前任务已经被6个贡献者认领完❤️感受到了大家的爱\nhttps://github.com/AmazingAng/WTFSolidity/discussions/117 ,https://x.com/0xAA_Science/status/1551606972851490817
+1777245896079786212,2024-04-08 16:03:00,orig,01_solidity_edu,8.23,2,108,14,43,39775,这次香港之行收获颇丰，最有意义的就是邀请了几位 @WTFAcademy_ 核心贡献者来团建。很多人一起工作了两年，但这次是第一次见面，很开心！ 👣\n\n一些 alpha:\n1. WTF Academy认证系统，救援工具 @ourRescuETH ，还有我们正在做的链游都会有重大更新。\n2.@Scroll_ZKP 会给开发者和用户空投。\n3. 我们会基于 @SlowMist_Team 的黑手册进行二创，写一个web3安全教程，欢迎感兴趣的白帽黑客们一起共创。\n4. 会在WTF Dapp教程的基础上，和 @AntDesignWeb3 一起做一个Dapp训练营。\n\n熊市2年我们已经产出了很多有意义的工作，未来2年牛市会更加疯狂！\nWTF Academy LFG！,https://x.com/0xAA_Science/status/1777245896079786212
+1588736006114938880,2022-11-05 11:32:00,orig,01_solidity_edu,8.18,3,108,20,6,0,Web3开源大学WTF Academy获得以太坊二层扩容方案Starkware的资助，将合作开发ZK和Cairo的中英文开源教程，为以太坊和Layer2培养更多开发者。\n\n@WTFAcademy_ 是一个Web3开源学院，提供免费、开源Web3技术教程，目前WTF Solidity极简教程已经更新50讲，习题系统开始公测：http://wtf.academy ,https://x.com/0xAA_Science/status/1588736006114938880
+1703715120722108718,2023-09-18 18:18:00,orig,01_solidity_edu,8.11,3,128,37,19,47564,“闪电贷攻击”这个词大家一定听说过，但是什么是闪电贷？如何编写闪电贷合约？\n\n在WTF Solidity教程第57讲，我们介绍了区块链中的闪电贷，并实现基于Uniswap V2，Uniswap V3，和AAVE V3的闪电贷合约。 @WTFAcademy_ @Uniswap @AaveAave \n\n教程和代码开源在: https://github.com/AmazingAng/WTF-Solidity ,https://x.com/0xAA_Science/status/1703715120722108718
+1565398819696627712,2022-09-02 01:58:00,orig,01_solidity_edu,8.1,2,598,132,77,0,新的学年，我将担任北大区块链协会会长。我的想法：\n1. 协会是公共品，不是牟利工具，重点在放在技术和ReFi\n2. 这一年将产出很多中文web3教程和研究报告，开源免费\n3. 帮助新人进入web3 老人建立个人品牌，\n4. 2023春季黑客松\n5. 帮助更多高校建立区块链协会\n建议和合作填表：https://forms.gle/gDp1TePyCaPwrepS6,https://x.com/0xAA_Science/status/1565398819696627712
+1540629503466041344,2022-06-25 17:34:00,orig,01_solidity_edu,8.07,4,48,16,4,0,这几天把WTF Solidity极简教程做了一次大改版，优化了教程顺序顺序，让大家学起来更流畅。\n看了一半的朋友，这里是新旧教程顺序对照表：\nhttps://github.com/AmazingAng/WTFSolidity/discussions/72\n\n调整完毕，我将开始更新教程后面的内容：《应用》和《漏洞攻击》,https://x.com/0xAA_Science/status/1540629503466041344
+1665936114698567682,2023-06-06 12:18:00,orig,01_solidity_edu,8.05,3,35,5,2,11570,我更新了WTF Solidity极简教程第54讲：跨链桥。 @WTFAcademy_ \n\n跨链桥能将资产从一条区块链转移到另一条区块链，方便用户操作多链资产。同时，它有很大的安全风险，近2年针对跨链桥的攻击导致用户损失超20亿美元。\n\n在本教程中，我们搭建一个简单的跨链桥，实现Goerli测试网和Sepolia测试网之间的ERC20代币转移，帮助大家更好的理解跨链桥。\n#Solidity #Ethereum \n\n教程和代码开源在: https://github.com/AmazingAng/WTF-Solidity/blob/main/54_CrossChainBridge/readme.md,https://x.com/0xAA_Science/status/1665936114698567682
+1509784531334692864,2022-04-01 14:47:00,orig,01_solidity_edu,8.03,2,395,153,20,0,我最近在重新学solidity，同时写一份中文极简教程，分享给想学但由于各种原因还没学的朋友，每周更新1-3节。\n制作教程的目的，按优先级排序：\n1. 提高我的solidity编程 \n2. 降低solidity学习门槛\n3. 认识新朋友\n第一讲是Solidity的HelloWorld，三行代码。\n#Solidity #Web3 \nhttps://mirror.xyz/ninjak.eth/WfM30QbSWB2_-9t98g05unTmb_2ZXucOAZMPDa7MX48,https://x.com/0xAA_Science/status/1509784531334692864
+1645108561167671296,2023-04-10 00:57:00,orig,01_solidity_edu,7.99,3,134,25,18,64043,1/n\n最近 Ethers.js 大版本更新，v5 -&gt; v6，变化挺大，几乎所有之前的脚本都要改。目前文档还不完善，迁移成本较高。\nWTF Ethers 教程正在更新到 v6 https://github.com/WTFAcademy/WTF-Ethers\n\n这个帖子介绍一下迁移到 v6 的坑，不断更新\nA Thread 🧵\n@ricmoo @WTFAcademy_ @ethersproject,https://x.com/0xAA_Science/status/1645108561167671296
+1636562144866234372,2023-03-17 10:56:00,orig,01_solidity_edu,7.88,3,70,23,5,19189,部署和调用 Solidity 智能合约都需要 gas，高效的合约将帮你和用户省钱。\n\n由 WTF 贡献者 @kasoqian_eth 主导，我们在写一个 gas 优化教程: WTF Gas Optimization。基于Foundry，总结 gas 优化技巧，包括代码，解释，和gas报告。\n\n已更新 5 讲，开源在: https://github.com/WTFAcademy/WTF-gas-optimization\n#Solidity @WTFAcademy_,https://x.com/0xAA_Science/status/1636562144866234372
+1783366208307478874,2024-04-25 13:23:32,orig,01_solidity_edu,7.85,3,88,19,9,49365,"建议大家学 WTF Solidity 的时候，选个L2当测试网部署合约。
+
+1. 坎昆升级引入了blob，极大的降低了gas费，部署合约的费用极低，可以替代测试网。
+2. 会有福报。
+
+一位 @WTFAcademy_ 家人因为经常用op练习合约，拿到了20000枚 $AVAIL @AvailProject 空投 😂 https://t.co/kd2UEGd7hR https://t.co/VG6JgU7JX3",https://x.com/0xAA_Science/status/1783366208307478874
+1611261998586789891,2023-01-06 15:22:00,orig,01_solidity_edu,7.83,3,53,19,6,13223,"1/6\nWTF Academy聚集了一帮有求知欲和分享欲的开发者，共同学习、建设Web3开源项目。\n我经常介绍WTF Solidity/Ethers教程, http://wtf.academy 学习系统。今天介绍一下社区成员正在做的开源项目，涵盖链上安全、前端、DeFi、NFT。\n相信2023会有更多社区成员参与Web3开源项目！\nA Thread 🧵",https://x.com/0xAA_Science/status/1611261998586789891
+1517826047831461888,2022-04-23 19:21:00,orig,01_solidity_edu,7.77,2,445,173,21,0,不知不觉我已经完成了Solidity极简教程的前13讲，涵盖了大部分基础内容。在进阶教程之前，我决定做一个ERC721的专题，帮助大家复习下基础知识，并且更深刻的理解ERC721合约。\n希望在学习完这个专题之后，每个人都能发行自己的NFT，并学会避开写出bug的项目方。\n\nhttps://mirror.xyz/ninjak.eth/PAsIFLAmEoMufZsXlX0NWsVF8DHpHz3OrYlooosy9Ho,https://x.com/0xAA_Science/status/1517826047831461888
+1522611065699270656,2022-05-07 00:15:00,orig,01_solidity_edu,7.76,3,55,12,2,0,我更新了WTFSolidity极简入门教程-安全专题的第一篇文章：\n\n这是Metamask项目方在2020年中写的一篇博客，其中给了Solidity程序员16条安全建议，并包含代码样例。\n\n这篇文章虽然古老，但很多建议至今仍然适用，对我帮助很大。我在没找到中文版本，就翻译了一下，供大家学习。\n\nhttps://mirror.xyz/ninjak.eth/ygaDE0QQwn3lfI-AVaw0ZMqHQtWCdzo-XV450j2camc,https://x.com/0xAA_Science/status/1522611065699270656
+1804880136229249233,2024-06-23 22:12:12,orig,01_solidity_edu,7.69,3,60,15,4,19552,"WTF Academy的链上证书（SBT）已经部署在Base了。目前只支持 Solidity 101，欢迎大家完成课程并铸造： https://t.co/L6kmLT9ziT
+
+根据之前的提案，铸造证书最少捐款 0.0069 ETH，可以支持我们在教程和习题免费开源的情况下，继续发展: https://t.co/NLOxTST077
+
+为什么选择在 @base 部署链上证书？
+1. https://t.co/8CnvckSa0P https://t.co/GA3jtefVcb",https://x.com/0xAA_Science/status/1804880136229249233
+1608874205646589953,2022-12-31 01:14:00,orig,01_solidity_edu,7.52,3,59,22,6,10123,"除了WTF Solidity教程, @WTFAcademy_   还做了以下开源教程，均免费：\n\n1. WTF Ethers: Ethers.js教程，与智能合约交互必学。https://github.com/WTFAcademy/WTF-Ethers\n\n2. WTF gm: Web3黑话汇总，如果你不知道gm什么意思，可能会帮助到你。https://github.com/WTFAcademy/WTF-gm\n#web3 #Ethereum",https://x.com/0xAA_Science/status/1608874205646589953
+1636386022727774210,2023-03-16 23:16:00,orig,01_solidity_edu,7.47,0,79,24,7,17459,arbitrum 空投开启，反女巫做的很漂亮，相信未来其他项目在空投时也会采取类似做法。 @arbitrum\n\n- 检查空投数量：https://arbitrum.foundation\n- 领取日期：3月23日\n- 女巫检查：https://github.com/ArbitrumFoundation/sybil-detection\n- 条件\n/ 跨链到arb\n/ 在两个不同月份交易\n/ 在不同的六个月份交易\n/ 在九个月内交易\n/ 超过4笔或与4种不同合约交互\n/ 超过10笔或10种不同合约交互\n/ 超过25笔或25种不同合约交互\n/  超过100笔或100中不同合约交互\n/ 总交易额超 1万美元\n/ 总交易额超 5万美元\n/ 总交易额超 25万美元\n/ 向arb 存入超过1万美元\n/ 向arb 存入超过5万美元\n/ 向arb 存入超过25万美元\n\n- 规则\n\n/ 符合少于3项 - 不合格\n/ 3项 - 1200\n/ 4项 - 1700\n/ 5项 - 2200\n/ 6项 - 3200\n/ 7项 - 3700\n/ 8项 - 4200\n/ 9项 - 6200\n/ 10项 - 6700\n/ 11项 - 7200\n超过12项 - 10200,https://x.com/0xAA_Science/status/1636386022727774210
+1616495468720291840,2023-01-21 01:58:00,orig,01_solidity_edu,7.46,3,12,5,3,5978,"1/18\nWTF Academy 2022\nThis thread is for non-Chinese speakers who want to know about WTF Academy, a web3 open-source University aiming to onboard 10,000 developers to web3 space.\n@WTFAcademy_ #Ethereum #StarkNet #web3\nA Thread🧵 ",https://x.com/0xAA_Science/status/1616495468720291840
+1629501303700484099,2023-02-25 23:19:00,orig,01_solidity_edu,7.37,3,34,14,7,11825,WTF贡献者 Hholz 更新了WTF Ethers教程-工具篇第2讲: 钱包签名登录。\n在未来，越来越多网站将支持通过钱包登录。这一讲，我们介绍如何通过 ethers.js 在网页上连接Metamask钱包，实现签名登录功能。\n教程和代码开源在: https://github.com/WTFAcademy/WTF-Ethers\n#ethereum #web3 #javascript ,https://x.com/0xAA_Science/status/1629501303700484099
+1627309597567619073,2023-02-19 22:10:00,orig,01_solidity_edu,7.36,3,117,29,12,53577,我准备把WTF Solidity教程在国内出版，有没有出版行业或者有出版经验的朋友给些建议？\n有什么可以和Web3结合的玩法？🧐,https://x.com/0xAA_Science/status/1627309597567619073
+1591272811875962880,2022-11-12 11:32:00,orig,01_solidity_edu,7.34,3,26,2,3,0,我更新了WTF Solidity教程合约安全 S08：绕过合约检查。\n\n这一讲，我们介绍了合约长度检查可以被绕过的漏洞，以及预防方法。如果一个地址的 extcodesize &gt; 0，则一定为合约；如果 extcodesize = 0，既可能是 EOA，也可能是创建状态的合约。\n@WTFAcademy_ \n\n教程和代码开源在： https://github.com/AmazingAng/WTFSolidity ,https://x.com/0xAA_Science/status/1591272811875962880
+1566801879727714304,2022-09-05 22:54:00,orig,01_solidity_edu,7.33,3,20,4,2,0,我更新了WTF Ethers极简教程第12讲：识别ERC721\n\n这一讲，我们介绍识别一个合约是否为ERC721。\n\n其中，我们利用了ERC165，因此只有支持ERC165的合约才能用这个方法识别，包括ERC721，ERC1155等。\n\n但是像ERC20这种不支持ERC165的标准，就要用别的方法识别了。\n#NFT #ERC721\nhttps://github.com/WTFAcademy/WTFEthers,https://x.com/0xAA_Science/status/1566801879727714304
+1698714789168763103,2023-09-04 23:09:00,orig,01_solidity_edu,7.29,1,89,15,22,39436,最小代理合约（eip-1167）被设计用来减少合约部署的gas成本，整个合约用字节码写成，优化到极致，总共只有55字节（WETH合约约为~3000字节）。\n上周末，在我准备把写最小代理合约进WTF EVM Opcode教程的时候，发现它其实不是最优的，还有优化的余地。然后我尝试写出了目前最小的最小代理合约，命名为`Clone0`。\n结果：\n1. 新合约只有54字节，减少了1字节，也就是部署合约时会减少200 gas。\n2. 引入了Shanghai升级新加入的`PUSH0`指令，每次调用减少5 gas，增加可读性。\n大家可以帮我验证下，如果结果没问题的话，准备试着提个EIP。 @WTFAcademy_ \n文档，代码和测试在GitHub上: https://github.com/AmazingAng/Clone0,https://x.com/0xAA_Science/status/1698714789168763103
+1971549273709043910,2025-09-26 20:15:51,orig,01_solidity_edu,7.16,3,43,6,5,8438,"我更新了 WTF Ethers 教程第 27 讲：检测合约创建1
+
+监听区块链新部署的合约可以让我们第一时间发现新的投资机会。在以太坊上，检测合约创建交易主要有两种方法。这一讲，我们先介绍其中简单的一种。
+@WTFAcademy_ 
+
+教程: https://t.co/F0MhSU9bCf https://t.co/EoVWMdlTqs",https://x.com/0xAA_Science/status/1971549273709043910
+1572132231296200705,2022-09-20 15:55:00,orig,01_solidity_edu,7.15,3,24,9,7,0,我更新了WTF Ethers极简教程第20讲：解码交易数据。\n\n这一讲，我们介绍了ethers.js的Interface类，监听、解码了mempool中的Uniswap交易。夹子机器人也是用类似方法监听用户的swap交易，并进行攻击的。\n\n#mev #web3 \n教程和代码开源：https://github.com/WTFAcademy/WTFEthers,https://x.com/0xAA_Science/status/1572132231296200705
+1864716610893943273,2024-12-06 01:00:59,orig,01_solidity_edu,7.13,2,117,28,13,12764,"这段视频太精彩了！系统地讲解了：
+- 什么是 Sci-Hub？
+
+- 争议性：为什么被判罚 1500 万美金？为什么创始人 Alexandra @ringo_ring 被称为知识的“盗火者”？
+
+- 对科学的巨大贡献：无数博士生因 Sci-Hub 而顺利毕业，无数救人性命的药物因 Sci-Hub 而得以研发。
+
+“获取知识是每个人的基本人权！” https://t.co/XjY3nlwh12",https://x.com/0xAA_Science/status/1864716610893943273
+1639248965102362624,2023-03-24 20:53:00,orig,01_solidity_edu,7.13,1,784,239,116,275552,"1/8\nARB空投怒战黑客复盘\n起因：很多被盗钱包有 $ARB 空投资格，如果不采取任何措施，会被黑客领走。\n过程：粉丝提的钱包能领 40,000 $ARB ，我写了批量领取合约和 ethers.js 脚本，WTF贡献者帮忙优化，使用了私有节点。\n结果：成功抢救 30,000 $ARB 。\n核心代码已开源。 @WTFAcademy_ @arbitrum ",https://x.com/0xAA_Science/status/1639248965102362624
+1524661229247029249,2022-05-12 16:02:00,orig,01_solidity_edu,7.11,3,20,3,3,0,市场不好，更要潜心学技术。我更新了WTF Solidity极简教程第21讲：call\n\n我们曾在第17讲：发送ETH那一讲介绍过利用call来发送ETH，这一讲我们将介绍如何利用它调用合约。\n\ncall不是调用合约的推荐方法，但他能让我们在不知道源代码和ABI的情况下调用目标合约，很有用。\n\nhttps://mirror.xyz/ninjak.eth/vMJ0AHl3b_A5Lyey5lLdFhzkGT9wJ-D6vJpZpH0vlls,https://x.com/0xAA_Science/status/1524661229247029249
+1831527874891018591,2024-09-05 11:00:48,orig,01_solidity_edu,7.09,2,157,35,4,34203,"如果你已经学完了 WTF Solidity 教程，我推荐你学习 Solady 仓库中的合约。
+
+Solady 是高度优化过的 Solidity 模版，包括常用的 ERC20 等合约，其中大量使用内联汇编压缩 gas 消耗。
+
+之后 @WTFAcademy_ 也会和作者 @optimizoor 一起出内联汇编教程！
+
+链接: https://t.co/Ov0TlPhbKm https://t.co/K27KyIvmTT https://t.co/VG6JgU7JX3",https://x.com/0xAA_Science/status/1831527874891018591
+1996493481716683123,2025-12-04 16:15:13,orig,01_solidity_edu,7.05,2,163,5,89,25080,"来领奖咯！
+感谢币安的认可，希望产品（尤其是币安钱包）越做越好！
+感谢社区朋友们的投票，祝大家发东南西北旋风财，马到成功！
+我也会继续努力，给大家提供更好的教程和内容！❤️
+
+小惊喜：昨天给我颁奖的 @ShirleyXBT 说她刚入行的时候学过我写的 WTF Solidity 教程，哈哈 https://t.co/R8QDDOP1T9",https://x.com/0xAA_Science/status/1996493481716683123
+1992079583206858809,2025-11-22 11:55:58,orig,01_solidity_edu,7.02,3,119,7,27,38207,相比扫链教程，大家更需要的是开盘教程，用bot养聪明钱教程。,https://x.com/0xAA_Science/status/1992079583206858809
+1576843710771273728,2022-10-03 15:56:00,orig,01_solidity_edu,6.98,1,884,250,60,0,Web3开发入门路线图：\n1. 学习Solidity\n2. 学习HTML/CSS/Javascript\n3. 学习Ethers.js\n4. 学习React\n5. 学习The Graph\n6. 写项目/参加黑客松\n7. 找工作\n#web3 #solidity @WTFAcademy_,https://x.com/0xAA_Science/status/1576843710771273728
+1643991628749897728,2023-04-06 22:58:00,orig,01_solidity_edu,6.97,2,87,5,16,15396,刚和 Remix 团队开了会 🙌 @EthereumRemix\n聊了聊如何改善中文开发者使用 Remix 时的体验，反馈了一些 bug。\n之后 WTF Academy 会和 Remix 合作，将 WTF Solidity 教程嵌入到 Remix 中，帮助更多的开发者进入 Web3！\n使用 Remix 部署你的第一个智能合约: https://remix.ethereum.org/\n@WTFAcademy_ #ETHBeijing,https://x.com/0xAA_Science/status/1643991628749897728
+1631277059141152768,2023-03-02 20:55:00,orig,01_solidity_edu,6.91,3,37,8,2,14373,1/6\n我更新了 WTF Solidity 教程第51讲: ERC4626 代币化金库标准: https://github.com/AmazingAng/WTF-Solidity\n\n这个帖子简单讲一下 DeFi 新标准 ERC4626。\n\nA thread 🧵\n@WTFAcademy_  @OpenZeppelin @transmissions11 #erc4626,https://x.com/0xAA_Science/status/1631277059141152768
+1640940819669749760,2023-03-29 12:55:00,orig,01_solidity_edu,6.84,2,131,38,13,20195,可能大家还不知道，我最喜欢的 Solidity 编译器 Remix 支持中文了！🙌\n设置方法：\n1. 进入官网: https://remix.ethereum.org/\n2. 点击左下角的设置按钮，下拉到语言选项，选择“简体中文”。\n如果你不会使用，可以看 WTF Solidity 的 Remix 教程：https://github.com/AmazingAng/WTF-Solidity/tree/main/Topics/Tools/TOOL01_Remix\n @EthereumRemix @WTFAcademy_ ,https://x.com/0xAA_Science/status/1640940819669749760
+1578637309750411266,2022-10-08 14:43:00,orig,01_solidity_edu,6.77,1,282,124,16,0,1/11\nGitHub Solidity仓库 Top 10🔥\n\nSolidity是编写以太坊智能合约的语言，由于Web3的开源文化，在GitHub搜Solidity能搜到4.5万个仓库。\n\n这个帖子带大家了解下排名前10的Solidity开源项目。\n#solidity #web3 #opensource #github #Ethereum \na thread 👇 ,https://x.com/0xAA_Science/status/1578637309750411266
+1697862020413235214,2023-09-02 14:40:00,orig,01_solidity_edu,6.76,2,23,8,15,18492,关于WTF Solidity教程的出版物，很多粉丝可能有相同的问题，这里一并回答：\n1. 书在哪里可以买？ \n  京东，淘宝，当当，拼多多都有。之后也会开放链上购买。\n2. 我是学生/亏光了，书能便宜卖吗？\n  WTF Solidity是开源的，你可以在 http://wtf.academy 或 github上看免费的网页版，内容是一样的。\n3. 我没有编程基础，看这本书能学会开发智能合约吗?\n  不能，你需要有一定的编程基础，建议学习python或者javascript入门。,https://x.com/0xAA_Science/status/1697862020413235214
+1615579178593841152,2023-01-18 13:17:00,orig,01_solidity_edu,6.75,3,11,4,1,10032,"我更新了WTF Cairo教程第5讲：映射 Map。\n这一讲，我们介绍了 Cairo中映射（map）的基本用法，并写了一个记录账户余额的合约。Cairo 中映射的声明方法和规则与 Solidity 有些区别，比如Key的类型也可以是复杂类型，比如struct, tuple。\n@StarkWareLtd\n\n教程和代码开源在: https://github.com/WTFAcademy/WTF-Cairo ",https://x.com/0xAA_Science/status/1615579178593841152
+1568533466337411072,2022-09-10 17:34:00,orig,01_solidity_edu,6.75,3,19,8,2,0,我和@Verin1005 更新了WTF Ethers极简教程第15讲：批量转账。\n\n这一讲，我们介绍了如何调用Airdrop合约在一笔交易中进行批量转账。例子中我们将ETH和WETH发送到20个地址，省事且省gas费。\n\n教程开源在：https://github.com/WTFAcademy/WTFEthers\n\n欢迎通过gitcoin给我们捐赠：https://gitcoin.co/grants/6090/wtf-solidity\n#web3 #airdrop,https://x.com/0xAA_Science/status/1568533466337411072
+1999869931257774274,2025-12-13 23:52:02,orig,01_solidity_edu,6.68,2,52,6,16,41915,"1/
+During the @BNBCHAIN Hackathon, 
+we built x402x,
+an extension of the x402 payment protocol powered by EIP-7702,
+designed to break x402’s “impossible triangle”.
+
+🔗 https://t.co/4ivheC6STh
+
+A thread
+🧵 https://t.co/XHN4fn7cpj https://t.co/NvoIbP7Qww",https://x.com/0xAA_Science/status/1999869931257774274
+1797962081830105592,2024-06-04 20:02:00,orig,02_security,12.17,3,51,13,19,39436,🚨 管理好链上授权：被一个项目rug两次，损失200w的真实案例\n\n4月初，这位粉丝因 @Blast_L2 上的 avolend 项目方的突然跑路而损失了32 ETH，联系到链上救援队 @ourRescuETH 寻求帮助。\n\n而就在今天，这位粉丝联系我，震惊地发现他在一个小时前解除质押的42 $WETH 再次被 Avolend 的项目方地址窃取。你可能会问：为什么一个已经跑路的项目还能再次从用户钱包中盗取代币？\n\n🔍 原因分析：\n我马上查了被盗地址的钱包授权信息，不出所料，这个地址仍给 avolend 合约无限授权了 WETH，导致已经rug的项目方有权限盗走代币。\n\n项目方又是怎么盗走代币的呢？avolend 合约是一个可升级合约，项目方在7天前进行了升级。新的逻辑合约没有开源，但是自升级以后，项目方多次测试可以盗取用户 WETH 的 `0x257d80a5` 函数，并在今天成功作案。\n\n🛡️ 安全建议：\n1. 及时撤销授权：对于任何不再使用或可疑的项目，务必及时在 http://revoke.cash 上取消钱包的授权。\n2. 检查合约安全性：在参与任何项目前，确保其合约代码已经过安全审核并且是开源的。\n3. 保持警惕：即便项目已经结束或者出现问题，授权仍然有效，可以导致未来的资金损失。\n\n🔗 附加信息：\n1. 被盗 42 ETH 的 txHash: https://blastscan.io/tx/0xfad924bf751cb331d5d4765343e97f8a26ef0eddcd3d37a88e02295c0ecf4127\n2. avolend合约: 0x3daa4bca629c110becb38d8fe75304505ff306bf\n3. 受害者钱包: 0x0ddd7df761649abba9dc52fa81e54ac493a9de7e,https://x.com/0xAA_Science/status/1797962081830105592
+1612863848134107138,2023-01-11 01:28:00,orig,02_security,10.49,4,323,126,18,80831,1/8\n你的链上交易是否被夹子夹过？\n你是否想像科学家一样进行链上套利？\n我将介绍 Flashbots 提供的免费产品，大纲：\n- 什么是 Flashbots?\n- 普通用户如何连接 Flashbots 节点发送交易避免被夹。\n- 开发者如何使用 Flashbots Bundle 打包多笔交易。\n#mev #flashbots #web3 ⚡️🤖\nA Thread🧵,https://x.com/0xAA_Science/status/1612863848134107138
+1973393551007625635,2025-10-01 22:24:21,orig,02_security,9.29,4,77,3,41,120453,"复盘 $4
+1. 这次BSC官推被盗，黑客通过钓鱼链接盗了$13k，通过发币 $4 并倾销卖了 $22k，总共获利 $35k。
+2. 黑客清仓前，买币要小心；但是卖出后，砸盘的风险就消失了，反而有买入的机会，毕竟 BSC 官推被盗不常有，cz也可能会回应。
+3. $4 最高摸到了 $30M，很多人赚的比黑客多，大家比黑客还牛逼。 https://t.co/i5nNoxPvFx",https://x.com/0xAA_Science/status/1973393551007625635
+1844394646174302401,2024-10-10 23:08:45,orig,02_security,9.24,4,54,11,8,18693,"Uniswap 做的 L2 unichain 官宣了：
+1. 底层使用了 optimism 的 OP stack，可以参考6月份 Dan Robinson 的研究文章: https://t.co/5TPdKJapbU
+2. MEV 解决方案和 flashbots 合作。目前以太坊上的绝大部分MEV来自uniswap，之后可能会转移到 unichain 上。
+3. 支持跨链交易
+4. 支持uni质押，不会发新币 https://t.co/lX3sExn6ws",https://x.com/0xAA_Science/status/1844394646174302401
+1890954254312951819,2025-02-16 10:40:01,orig,02_security,8.98,4,124,20,41,156128,"阿根廷总统办公式发帖了：
+1. 背后诈骗团伙的确是 KIP！
+2. 反腐办公室会对米莱展开调查。
+3. 特别调查工作组会对KIP和参与人员进行调查。
+$LIBRA 真可能维权成功？一定要把骗子们就出来正法！ https://t.co/TCWMRghDle https://t.co/kEw2zAtwUx",https://x.com/0xAA_Science/status/1890954254312951819
+1603257223026647041,2022-12-15 13:14:00,orig,02_security,8.27,3,152,49,31,0,"🚨零转账钓鱼🚨\n""我日，转错地址了！""\n\n今天有群友向我求助，它的朋友因为零转账钓鱼，损失了40w u。\n在这里介绍一下这个骗局，避免更多人上当。\n预防办法也很简单：大额转账时，直接从钱包或交易所复制地址，并检查每一位，不要偷懒从区块浏览器复制。\nA Thread🧵 ",https://x.com/0xAA_Science/status/1603257223026647041
+1859579699640533085,2024-11-21 20:48:44,orig,02_security,8.18,3,167,36,31,90909,"恭喜以下 5 位 $scihub 社区征文获奖的作者，写的太好了，我学到很多，也建议大家读一下，了解 Sci-Hub 创始人 Alexandra 的人生经历和对科学的重大贡献！
+
+1. 柴郡 @0xCheshire 学术界”侠盗罗宾汉“的人生经历与愿景
+https://t.co/0tyvDeESb3
+
+2. 王富贵 @eatingdao https://t.co/MKNaU50tpw",https://x.com/0xAA_Science/status/1859579699640533085
+1764506292549562865,2024-03-04 12:20:00,orig,02_security,7.99,2,58,7,15,66991,分享个资产被盗又找回的真实案例，就发生在前两天。\n\n周五，粉丝L发现blast质押的ETH被黑客转走，找我求助。我看完交易历史分析是私钥被盗，资产已经被转走所以没法救援。\n周六，我发现他的资产又神奇的回到被盗钱包里了，就问他怎么做到的。他说：昨天报了警，并且也跟身边朋友说了资产被盗并报警这件事，估计哪个朋友听完就吓得转回来了。\n\n初步分析，L的私钥在公司电脑保存了一份，被同事看到然后盗走了资产。\n\n其实私钥被盗的案例中，身边人作案比例并不低，包括但不限于朋友/亲戚/同学/同事/合作伙伴。在这种情形下，报警的确有用。\n\n最后提醒大家，永远不要在黑暗森林中考验人性。,https://x.com/0xAA_Science/status/1764506292549562865
+1877279581532729816,2025-01-09 17:01:45,orig,02_security,7.45,3,45,8,9,9844,"Sci Hub 是一个“盗版”网站，有 8800 万篇研究论文可以免费获取。  
+不建议使用这种方法。
+我们都应该努力让价值数十亿美元的学术出版商更加富有。 
+这是关于将 Zotero 与 Sci Hub 整合以获取免费文章的帖子。  
+请不要这样做😉 
+https://t.co/tFIFFF0fhe
+$scihub https://t.co/fiw6imXqXg https://t.co/ej8HA3FjDV",https://x.com/0xAA_Science/status/1877279581532729816
+1966120815721861587,2025-09-11 20:45:05,orig,02_security,7.13,2,86,8,33,68396,"从黑客手里抢了 230w $LINEA ，还是出了点状况，昨晚搞了通宵：
+1. LINEA 链真的很卡
+2. LINEA 和 flashbots 合作，拉黑了一批地址：向它们转ETH或它们发起的交易不会被sequencer接收，也就是说不会上链。但是没有事先通知，所以也影响了我们的程序。
+
+It ain't much, but it's honest work. https://t.co/Wv8eH5CId9 https://t.co/eJtBET6Rbw",https://x.com/0xAA_Science/status/1966120815721861587
+1989662778156827009,2025-11-15 19:52:27,orig,02_security,7.08,2,126,6,89,69576,"我看了下，说 OKX钱包有安全问题的主要有两种人：
+1. 蠢：小白下载了恶意软件/复制钱包私钥被劫持/私钥泄露给了多数网站或骗子，导致钱包被盗，以为是 OKX 钱包的问题。
+2. 坏：知道是自己弄丢了私钥，但还是要碰辞下okx，希望能讹点钱，再不行就蹭点流量。
+
+第一类好好学习链上安全有救，第二类没救。 https://t.co/X5hOT3YcQU",https://x.com/0xAA_Science/status/1989662778156827009
+1781627373169123803,2024-04-20 18:14:01,orig,02_security,7.07,2,102,8,28,67624,"Cosmos 生态 Axelar 质押救援复盘
+ 
+总结：我们连续两次击败黑客，为粉丝救援了cosmos生态 @axelarnetwork  质押的 31,000 枚 $AXL ，价值 35,000 美元。
+
+时间线
+2024.4.13
+我们 @ourRescuETH 接到粉丝的救援请求：安装了恶意程序，导致私钥泄露，在cosmos生态质押的资产全部被黑客解除，其中 axelar https://t.co/USSyG73jV4",https://x.com/0xAA_Science/status/1781627373169123803
+1743337881723421100,2024-01-06 02:25:00,orig,02_security,7.03,1,39,15,7,24024,"这类discord邀请链接钓鱼非常常见，大家一定要小心！科普一下:\n\n原理: discord邀请链接会过期，过期之后会被骗子替换成钓鱼服务器链接。\n\n套路: \n1. 骗子在推特收集项目方资料中已过期discord链接。\n2. 把钓鱼服务器伪装成目标的，通过自定义链接，替换目标过期链接（充值就可以）。\n3. 等待受害者上钩，与伪造的collab land交互，窃取资产。\n\n今天早些时候骗子伪装成 @The_PeopleDAO 的discord，现在伪装成了 @Stablzone ，因为它推特上挂的链接已经过期，被骗子替换了。\n\n@Stablzone you may want to look at your discord invitation link, it has been compromised by scammer.",https://x.com/0xAA_Science/status/1743337881723421100
+1776334710106660999,2024-04-06 03:42:00,orig,02_security,7.02,3,37,3,21,31963,半夜收到求救私信，睡也不是，不睡也不是。\n希望大家一定要注意钱包安全：\n1. 在推特点链接，首先考虑有没有可能是钓鱼网站。\n2. 放钱包的电脑，不要下载可疑软件。\n3. 私钥保管好，要你私钥的都是骗子。 ,https://x.com/0xAA_Science/status/1776334710106660999
+1999799496864391362,2025-12-13 19:12:09,orig,02_security,6.63,2,111,8,59,172764,"以身试了一下社交媒体骗局，希望引起大家的注意
+
+骗子会先盗 KOL twitter或tg号，看到有共同关注，一般人会放松警惕。
+
+这次联系我的是 @MikeLaesig ，30k粉丝，22个共同关注，搭讪的方法是给 $10-15k 让我帮忙宣传一个基金。 https://t.co/VzmmkYqxZD",https://x.com/0xAA_Science/status/1999799496864391362
+2101293541964329074,2026-09-19 20:53:15,orig,02_security,6.58,3,37,2,12,18028,"最近出现针对 iPhone 用户的恶意软件，盗取大家的密码/私钥，大家要注意：
+1. 不下载不明软件
+2. 系统升级到最新 https://t.co/NeujLJldi3",https://x.com/0xAA_Science/status/2101293541964329074
+1734419329545125911,2023-12-12 11:46:00,orig,02_security,6.58,3,9,1,14,5894,⚠️大家注意⚠️最近有骗子在 discord/twitter/telegram 上冒充我。大家不要上当，我不会主动dm你。\n\n其实这种骗局很常见，骗子会冒充大V或者你的朋友，私信你来骗取你的信任和资产。如果你不能确认对方的身份，最好的方法就是通过可信渠道（比如推特）来核实。不然一律当做骗子！ ,https://x.com/0xAA_Science/status/1734419329545125911
+1795765833471566122,2024-05-29 18:35:13,orig,02_security,6.57,2,71,16,16,25869,"作为链上交互的高频用户，安全永远是第一位的。
+WTF Academy 和 OKX Web3 做了一期安全特刊，介绍了：
+- 链上被“偷家”的真实案例
+- 常见安全风险及防护措施
+- 如何分辨钓鱼攻击还是私钥泄露？
+- 被盗后如何应对，减少损失？
+
+欢迎阅读，并祝大家链上平安！ 
+@WTFAcademy_  @okxchinese  @ourRescuETH https://t.co/9ZDJY8mask https://t.co/pOe0WRwmE2",https://x.com/0xAA_Science/status/1795765833471566122
+1998313457230512164,2025-12-09 16:47:09,orig,02_security,6.51,2,53,0,40,172787,"蓝战非在南非被中国人绑架了 😂
+出国旅游，中国人只骗中国人，因为：
+- 中国人有钱，骗起来收益大
+- 好面子，不敢报警或者觉得没用，骗起来风险小
+- 更容易取得信任
+- 能控制旅游的关键渠道：旅行社/包车/酒店/中介
+- 知道怎么把钱洗出国
+- 对当地人没影响，警方没动力办案
+
+币圈的朋友要格外注意！ https://t.co/46Fq8RWbXF",https://x.com/0xAA_Science/status/1998313457230512164
+1822203585171443814,2024-08-10 17:29:24,orig,02_security,6.38,2,48,1,10,19963,"昨天凌晨4点收到Beyond的求救，正好我在看中国队参加的奥运拳击，没睡。
+了解被盗情况和地址，得出私钥泄漏的结论。幸亏他发现及时，抢救出了部分资产。
+骗局很老套，黑客装作项目方来找你谈合作，诱导你下载恶意软件/木马。
+我的建议是：就算vitalik联系你，也不要下载/运行任何软件！ 😅 https://t.co/sbo3ehi13F https://t.co/6PiF831yZK",https://x.com/0xAA_Science/status/1822203585171443814
+1909819290611810760,2025-04-09 12:02:56,orig,02_security,6.34,3,28,1,9,9209,"我对 Trump 的要求很简单：
+1. 保证自己的安全
+2. 保持高强度整活
+3. 继续给市场创造新 meme https://t.co/UwEKlpcfax",https://x.com/0xAA_Science/status/1909819290611810760
+1579165290994487296,2022-10-10 01:41:00,orig,02_security,6.3,1,206,48,10,0,"1/3\nWTF Solidity合约安全教程开始连载，向大家科普合约漏洞，避免被黑客攻击。今天更新了第一讲：重入攻击。\n\n重入攻击是智能合约中最常见的一种攻击，曾在2016年直接导致以太坊分叉为ETH和ETC（以太经典），并在之后每年造成千万美元的损失。\n\n我编了一个""黑客 0xAA抢银行""的故事，方便大家理解它。 ",https://x.com/0xAA_Science/status/1579165290994487296
+1780874715873337413,2024-04-18 16:23:00,orig,02_security,6.26,1,127,6,40,62452,"PYTH 抢跑复盘\n昨天接到了粉丝的 PYTH 救援请求，我们在24小时内组建了5人的Solana救援队，其中包括魔改 $ORE 挖矿赚取 35万美元 的 @fried_rice 。\n\n@0xmoernon 写了初版方案， @fried_rice 优化并加入了 @jito_sol 抢跑，最终在黑客前成功救援了解锁的 5,005 枚 $PYTH ，价值 $2,900。\n\n今天开始， @ourRescuETH 救援服务正式扩展到Solana，欢迎私钥被盗的粉丝找我们抢跑资产。",https://x.com/0xAA_Science/status/1780874715873337413
+1797532352891298223,2024-06-03 15:34:00,orig,02_security,6.1,2,53,7,22,34820,⚠️ 在币圈，不仅要防钓鱼网站和恶意软件，还要防恶意浏览器插件！\n这款 Aggr Chrome插件伪装成正常的插件，但会在背后盗取你的资金！\n\n建议💡:\n操作大资金的设备做好隔离，不要装任何可疑软件和浏览器插件！ ,https://x.com/0xAA_Science/status/1797532352891298223
+1591703519144587265,2022-11-13 16:04:00,orig,02_security,6.1,2,118,6,36,0,一定要学会使用加密钱包，然后将50%的资产从CEX转移到钱包。\n为什么不是100%？因为钱包被盗后还能剩50%资产😂,https://x.com/0xAA_Science/status/1591703519144587265
+1618638885097205761,2023-01-26 23:55:00,orig,02_security,6.01,2,39,1,14,12423,埃及金字塔附近有没有骗子？\n有，但是远远没有web3里的骗子多！\n如果你有半年以上的web3经验，来埃及玩就像过马路一样容易。\n另外不要把景区骗子和其他埃及人混为一谈。开罗有2000万人口，大部分都对游客很好，很尊敬中国，推荐大家来玩！ ,https://x.com/0xAA_Science/status/1618638885097205761
+1574320842971848704,2022-09-26 16:51:00,orig,02_security,5.99,3,8,0,1,0,一个叫MEVbots的软件声称能给用户带来套利交易收入，其实把用户账户里的钱都用后门转走了😂\n\n不要下载可疑软件\n不要下载可疑软件\n不要下载可疑软件\n\n你图他的利润，他图你的本金。 ,https://x.com/0xAA_Science/status/1574320842971848704
+2103264011097878855,2026-09-25 07:23:11,orig,02_security,5.84,1,234,6,64,133451,"刚睡醒，就看到 Bitget 交易所热钱包被朝鲜黑客盗了 3.5亿u。
+跟上次 bybit 被盗的14亿u相比，影响有限，但也不少了。
+
+在 AI 的加持下，估计朝鲜黑客还会干出惊天大案来，大家注意保护好自己的资产。",https://x.com/0xAA_Science/status/2103264011097878855
+2038833909455376388,2026-03-31 12:20:58,orig,02_security,5.84,2,17,2,8,11420,"前端常用库 axios 疑似受到供应链攻击，最新版本带有恶意软件！
+
+最近每天都有供应链攻击，大家 vibe coding 的时候一定要锁定依赖版本，避免使用 latest。
+你可以跟 AI 说：
+“在所有项目中，安装依赖必须锁定精确版本（禁止 ^ 和 ~），并生成 lockfile。不要使用 latest。” https://t.co/wOB7UCaz9O https://t.co/uv8wg8RRDd",https://x.com/0xAA_Science/status/2038833909455376388
+1796414231010754640,2024-05-31 13:31:43,orig,02_security,5.74,1,111,7,26,48598,"BTC 质押救援复盘
+昨晚，一位私钥泄露的用户联系到我们 @ourRescuETH 链上救援队。
+他钱包中质押在 @bouncebit 的 BTC 已经被黑客解锁，锁定期不足12小时，如果不采取措施，很可能被黑客转走。
+我们立即部署了两套 MEV 救援方案，并且在今天凌晨抢跑了黑客，成功救援 0.2 WBTC，价值 13,000 美元。 https://t.co/1RQA4qlHK2",https://x.com/0xAA_Science/status/1796414231010754640
+1780949608388243609,2024-04-18 21:20:00,orig,02_security,5.71,1,80,4,27,29246,抢跑 EigenLayer 质押资产复盘\n粉丝被盗钱包中在 EigenLayer 质押的 1 swETH 因为尚未解锁的原因，没被黑客转走，向我们请求救援。\n我们在接到请求后，准备了 flashbots 抢跑脚本。在代币解锁的那一个区块，将 转gas，解锁，将swETH转到安全钱包 这3笔交易打包上链，成功救援资产。 @ourRescuETH ⛑️,https://x.com/0xAA_Science/status/1780949608388243609
+1670316106211524609,2023-06-18 14:22:00,orig,02_security,5.65,2,33,8,9,37586,有粉丝求助我，3天前hashflow攻击丢了 3500u，怎么找回。\n很幸运的事，这次hashflow被黑是白帽攻击，用户资产可以找回。\n找回方法hashflow官方在下面的推特里给出: https://drive.google.com/file/d/10xonekMXxvBEEmstFP9xmNP5aaKCUzzR/view\n如果你没受影响，也尽快revoke给hashflow的授权: http://revoke.cash ,https://x.com/0xAA_Science/status/1670316106211524609
+1962823830575227304,2025-09-02 18:24:03,orig,02_security,5.59,1,47,9,13,100992,"看了一下，Venus的确没被黑，应该是一个精心设计的骗局。被骗的大户是一个defi巨鲸，地址 0x563617b87d8BB3F2f14BB5a581f2E19F80b52008 （简称巨鲸0x56），可以在推特搜到: https://t.co/gSzvINbdOE
+
+过程
+1. 2025.9.1 晚11点30左右，黑客部署恶意合约 0x7fd8F825E905c771285F510D8e428A2b69A6202a https://t.co/NfZDJ650Rr https://t.co/UQwzbswic7",https://x.com/0xAA_Science/status/1962823830575227304
+1652880488095440897,2023-05-01 11:39:00,orig,02_security,5.59,2,33,11,9,27189,有用户因为签名钓鱼损失 228 w u。\nEIP712 签名对粗心的人可能也没那么安全，黑客拿到你的签名后，就能转走你的资产。\n一定要仔细阅读签名阅读之后，再签名！\n教程: https://x.com/0xAA_Science/status/1651857578920644609?s=20,https://x.com/0xAA_Science/status/1652880488095440897
+1786392820942831640,2024-05-03 21:50:00,orig,02_security,5.54,1,68,14,23,95583,两年前就有的骗局，现在依然有人上当。这次受害者被骗了 6800w u，黑客美了。\n\n简单来说，黑客会根据你的转账历史，伪造一个前后几位都一样的地址，然后给你转0个代币（或数量相同的假代币），诱导你给错误的地址转账。\n\n如何避免？\n1. 转账的时候核对每一位数字。\n2. 先转 1u，确认能收到后再转大额。 ,https://x.com/0xAA_Science/status/1786392820942831640
+1642731063213719552,2023-04-03 11:29:00,orig,02_security,5.38,1,81,36,24,54257,⚠️向日葵漏洞⚠️\n“我打开电脑看到有人操作我的小狐狸”\n\n这两天很多人因为撸毛使用向日葵（远程桌面软件），钱包被盗了。\n黑客可以利用这个漏洞，远程控制你的钱包转钱。\n电脑用过远程桌面软件的，包括向日葵，todesk，TeamViewer等，建议卸载！ ,https://x.com/0xAA_Science/status/1642731063213719552
+1580019057360674816,2022-10-12 10:14:00,orig,02_security,5.37,0,354,56,57,0,Mango Market的黑客有点骚啊！\n他盗完了人家的协议，在realms上写了个提案，要求Mango团队把国库的7000w USDC拿出来赔偿投资者。\n黑客可以还回盗来的一部分来偿还亏空，大概4000w u？\n黑客拿盗来的治理代币，投了大量的yes选项。😂\n这个黑客把DeFi和DAO都玩明白了！ ,https://x.com/0xAA_Science/status/1580019057360674816
+1631564990040928261,2023-03-03 15:59:00,orig,02_security,5.32,1,48,10,15,43497,"WTF Academy成员提醒：假Telegram骗局，黑客已获利3000w u\n常用telegram的老哥注意防骗, 有部分黑客做了假的telegram能实时更改你在和他人聊天过程的收款地址，比如你发的收款地址是A，他能实时识别这个地址并篡改成自己的地址X，导致不必要的损失。昨天有认识的人被骗了挺多，谨防受骗。 ",https://x.com/0xAA_Science/status/1631564990040928261
+1817290505522401712,2024-07-28 04:06:34,orig,02_security,5.27,1,55,10,20,42637,"新型比特币大会直播骗局，已经有人损失了他的所有sol ⚠️
+很多人在等着看比特币大会直播，但骗子也在盯着。
+
+你在Youtube搜的直播频道，很可能放的是骗子用AI生成的录像，里面Deepfake的假Elon正在说：把你的币转到下面二维码的地址，我就会返还双倍。
+
+不要信，已经有人上当了！ https://t.co/OjEIZeiy51",https://x.com/0xAA_Science/status/1817290505522401712
+1638382573528449026,2023-03-22 11:30:00,orig,02_security,5.22,1,35,7,22,34962,我看有人写攻略说被泄露的钱包用 http://revoke.cash 取消黑客 $Arbi 的授权，就能防止被盗。\n其实不能，因为 $Arbi 用的是 erc20Permit，其中有个 permit 方法，用被泄露的私钥签名就能直接获得授权，不需要提前调用 approv。因此，你 revoke 了也没用。\n可以看出黑客技术并不行，还把几千个钱包都 approve 了。,https://x.com/0xAA_Science/status/1638382573528449026
+1993505371710013539,2025-11-26 10:21:32,orig,02_security,5.2,1,43,2,42,35778,"昨天凌晨，旧金山出现了一起针对加密投资者的持枪入室抢劫，物理黑客盗走了价值  1100万u 的加密货币。
+
+这起事件在外网有些热度，不仅是因为性质恶劣，而是因为被盗者 Joshua 的现男友是 Sam Altman （OpenAI CEO）的前男友，都在吃瓜 😂
+
+敢问阁下，遇到持枪的物理黑客该如何应对？ https://t.co/117ywgwtTH https://t.co/vwGRYyvDoa",https://x.com/0xAA_Science/status/1993505371710013539
+1577473671232307201,2022-10-05 09:40:00,orig,02_security,5.07,2,28,0,30,0,大家可以总结下为什么SexDAO会rug跑路，而PandaDAO会退款。\n#PeopleDAO,https://x.com/0xAA_Science/status/1577473671232307201
+1626827206835204096,2023-02-18 14:13:00,orig,02_security,5.05,1,45,8,11,19917,⚠️谷歌骗局⚠️\n很多粉丝都是通过谷歌搜索找项目的官网。钓鱼网站利用了这点，给谷歌交了广告费，展示在前排。\n比如搜 @ensdomains 第一个结果就是钓鱼网站，进去授权后会把你的资产转走。这两天就有粉丝中招。\n如何预防？\n如图，看到带有 Sponsored 标签，就当钓鱼网站处理！ ,https://x.com/0xAA_Science/status/1626827206835204096
+1780439696147190265,2024-04-17 11:34:00,orig,02_security,5.04,1,88,27,87,97474,⚠️恶意软件提醒⚠️\n有粉丝近期下载了这两个软件后全链钱包被盗：ToDesk（远程桌面），QuickQ VPN。\n估计是其中一个包含木马程序，我觉得远程桌面的嫌疑大一些，大家注意。 ,https://x.com/0xAA_Science/status/1780439696147190265
+1565913589709299718,2022-09-03 12:04:00,orig,02_security,5.03,2,6,1,4,0,"在币圈，必须特别警惕安全问题。\n昨天WTF交流群里很有经验的开发者也差点被钓鱼网站骗了。\n这类网站经常说""小狐狸有安全漏洞""，""opensea要更新""，然后利用你的焦虑来骗私钥和授权。\n你要做的就是深呼吸，认准官推和官网，不要去点击可疑网站！\n#ScamAlert ",https://x.com/0xAA_Science/status/1565913589709299718
+1850939070119391240,2024-10-29 00:33:57,orig,02_security,4.97,2,10,2,9,8067,"被盗钱包真的会让人 PTSD。
+这是我们救援团队 @ourRescuETH 的一个客户，之前在 ETH，Cosmos和Near 帮他救援了上百万的资产。现在他钱包有点小动静都会找我们，非常敏感 😂
+大家一定要注意自己资产安全！ https://t.co/dA9I1H2sAe",https://x.com/0xAA_Science/status/1850939070119391240
+1566092006794747905,2022-09-03 23:53:00,orig,02_security,4.97,1,34,4,4,0,被盗的老哥是一名web3开发者，分享过web3技术和币圈防盗技巧，但还是被盗了。\n这说明了在币圈，你再小心都不为过！因为有了授权，偷了私钥，你钱包里的所以币都是黑客的了！\nWTF学院也会开一个币圈反诈专题，希望box也能来分享。\n好好哭一场，然后尽快走出来。\n，继续buidl！共勉 ,https://x.com/0xAA_Science/status/1566092006794747905
+1831230198395875524,2024-09-04 15:17:56,orig,02_security,4.94,1,214,58,59,93619,这几个推特分享的脚本都是盗钱包的，大家不要下载。 https://t.co/4lXK00fOS7,https://x.com/0xAA_Science/status/1831230198395875524
+1970096886754508830,2025-09-22 20:04:35,orig,02_security,4.92,1,24,6,15,18547,"最近针对开发者的github邮件诈骗太频繁了，一天10几条。感觉是朝鲜黑客上次在 Venus 事件亏了钱，在疯狂找补。
+
+Scam方法：黑客在币圈repo中创建issue，内容就是质押/空投等信息，骗你点击钓鱼链接。issue提醒邮件会通过github邮箱发出的，所以不会被识别为钓鱼邮件。
+
+相信聪明的开发者一定不会上当！ https://t.co/kT823EIMfi",https://x.com/0xAA_Science/status/1970096886754508830
+2068450400160903327,2026-06-21 05:46:20,orig,02_security,4.86,0,238,18,79,87719,"以太坊上的著名MEV bot JaredFromSubway 被攻击，损失约 1500wu。
+根据 Blockaid 的分析，攻击者利用 bot 自动化发现 mev 的机制，部署恶意合约骗取了 bot 授权，然后卷走资金。
+
+黑客给三明治受害者出了口恶气 😂 https://t.co/mXasTPv5wj https://t.co/jx2NXhNlEj",https://x.com/0xAA_Science/status/2068450400160903327
+1905072343665512449,2025-03-27 09:40:15,orig,02_security,4.81,0,102,7,22,49145,"今天早些时候，我们成功从一位委托人因私钥泄露而被盗的钱包中，救回了 133,700 枚 $PENDLE，价值高达 38 万美元！💰
+这是我们对抗黑客的又一次胜利，同时也刷新了我们的单人单次最大救援记录！🛡️
+感谢委托人的信任，感谢慢雾的支持 ❤️
+
+Earlier today, we successfully rescued 133,700 $PENDLE https://t.co/FqcnoHov6U",https://x.com/0xAA_Science/status/1905072343665512449
+2108831339546136826,2026-10-10 16:05:46,orig,02_security,4.8,1,27,3,21,13691,"片里有毒 ☠️
+国家互联网应急中心监测发现，影视鉴赏类软件 “荐片播放器”内置后门，可能在用户不知情的情况下采集信息，下载程序，执行任意代码，从而盗取用户资产，影响超过 70万台设备。
+已经有粉丝中招。
+建议大家平时看片/跑agent采用单独的设备，可以单独购买一台 mac mini。 https://t.co/BVZo80RP4p",https://x.com/0xAA_Science/status/2108831339546136826
+2104554328203882736,2026-09-28 20:50:27,orig,02_security,4.78,1,104,2,24,40672,"如何一句话在网络面试中识别出朝鲜黑客？
+让他们“说一句侮辱金正恩的话”
+朝鲜黑客是说不出的，因为会要他们的命。",https://x.com/0xAA_Science/status/2104554328203882736
+1606306799191293952,2022-12-23 23:12:00,orig,02_security,4.78,1,23,5,2,7284,我在写操纵预言机的教程，发现这个月一个Arbitrum上的DeFi协议Lodestar @LodestarFinance ，一个Compound fork，因为这个原因被攻击了，损失650万u。\nLayer2虽然扩容了以太坊，但安全性并没有增强。随着Layer2进入主流，越来越多的黑客事件将发生在Layer2。\n这次攻击的分析: https://medium.com/@BlockAuditReport/lodestar-finance-6-5-million-exploit-decrypted-blockaudit-675026b9dd12,https://x.com/0xAA_Science/status/1606306799191293952
+1743272612929929509,2024-01-05 22:05:00,orig,02_security,4.74,2,13,3,6,36627,大家注意，旧的PeopleDAO discord邀请链接已经过期并被骗子占用了，大家不要点。\n新的discord邀请链接: https://discord.com/invite/9pCtf4xGz2,https://x.com/0xAA_Science/status/1743272612929929509
+2062742406819451055,2026-06-05 11:44:48,orig,02_security,4.72,0,289,29,77,129824,"我还以为 Anthropic 说 mythos 模型太过强大，怕用于找漏洞一直没开放是危言耸听。
+结果有人用 opus 4.8 找出了 $ZEC 无线增发的漏洞？
+我准备找找 $BTC 和 $ETH 的漏洞 https://t.co/EUiCvuSFtP",https://x.com/0xAA_Science/status/2062742406819451055
+1786998512401764434,2024-05-05 13:57:00,orig,02_security,4.72,1,33,5,11,25133,最近 Starknet 出现了一个新骗局：\n骗子批量给用户发送伪造成治理代币的scam代币，骗你去钓鱼网站授权真正的代币，从而盗取你的资产，不要上当！\n\n如果授权了，可以用下面的工具取消授权:\n1. StarkRevoke: https://x.com/starkrevoke/status/1700508164481830947 \n2. https://x.com/FibrousFinance/status/1682467419258855427?s=20,https://x.com/0xAA_Science/status/1786998512401764434
+1858764837473710257,2024-11-19 14:50:46,orig,02_security,4.71,0,110,8,30,54542,"现在对我的 FUD 其实都不算啥，你们猜我上个周期接受过最狠的 FUD 是啥？
+
+“0xAA 是 AssangeDAO 的发起人，维权找他！”
+
+我TM是被骗了几百万的受害者好不好😂
+不过我也常想，如果我真是 AssangeDAO 的发起人，一切会不会不一样？
+不过现在阿桑奇已经释放，我支持 AssangeDAO 投资人维权！ https://t.co/MdJofwbnsb",https://x.com/0xAA_Science/status/1858764837473710257
+1718142722417250705,2023-10-28 13:48:00,orig,02_security,4.71,1,32,12,19,40662,密码管理器LastPass有超过2500万个用户，但是被黑了😂\n10月25日，有440w u从受害者的钱包被黑客转走。\n我们能学到什么:\n1. 不要使用任何第三方密码管理器来管理你的私钥。\n2. 如果使用过，请尽快把资产转移到安全的钱包。,https://x.com/0xAA_Science/status/1718142722417250705
+1660702030112133120,2023-05-23 01:39:00,orig,02_security,4.7,1,107,0,73,52306,我在想一个问题，WTF要不要开源一些刷空投脚本，以免用户用到盗私钥的？\n谁同意，谁反对？,https://x.com/0xAA_Science/status/1660702030112133120
+1858010035332534549,2024-11-17 12:51:27,orig,03_meme,11.37,5,256,47,83,75325,"先要解决 $scihub 捐赠的问题
+1. 需要给A姐解释什么是 fair-launch meme coin
+2. 如果直接捐赠 20% 太多，那要找一个更平缓的捐赠方案，把20%捐赠出去。我相信没有捐不出去的钱。
+3. Alexandra Elbakyan  @ringo_ring 为运营 Sci-Hub 付出了巨大牺牲，请大家沟通时一定要尊重。
+4. 大家要清楚一点，",https://x.com/0xAA_Science/status/1858010035332534549
+1976149090196246939,2025-10-09 12:53:52,orig,03_meme,11.09,5,181,29,66,358558,"今天下午会开币安钱包专属meme内盘：
+1. 和 four 合作，依然是4444结尾。
+2. 内盘只有币安钱包用户才能买。
+3. 毕业门槛高，FDV $100w 才能到外盘，普通的大概 $10w。
+4. 毕业的代币会进入一个榜单，排名是上 alpha 的考量指标。
+5. 通过币安钱包交易meme，加alpha积分。
+
+我的币安钱包返佣码: https://t.co/ge65ZnsgHU",https://x.com/0xAA_Science/status/1976149090196246939
+1851480387132014940,2024-10-30 12:24:57,orig,03_meme,10.14,7,92,5,28,68723,"在 meme 中赚钱的几种方法，由易到难：
+1. 为炒meme群体提供平台/工具
+2. 成为发币方
+3. 成为阴谋集团
+4. 成为KOL，
+5. 接近上面几方，有新币尽早买入，尽早卖出
+6. 靠自己的能力发现潜力 meme，并拿到100x",https://x.com/0xAA_Science/status/1851480387132014940
+1984971164327030861,2025-11-02 21:09:39,orig,03_meme,10.1,5,97,5,44,36851,"BSC 链的开发者真的很匮乏，现在有一个套路：
+1. 土狗盘子fork一个项目在BSC上
+2. 在four发个meme，捆绑大部分筹码
+3. 等 BNB Chain 官推转发，然后cx这个ca
+4. 浇给
+5. 开下个盘子
+@BNBCHAIN",https://x.com/0xAA_Science/status/1984971164327030861
+2024437294988742958,2026-02-19 18:53:58,orig,03_meme,9.68,3,689,96,36,125091,"最近发现 vibe coding 用 cloudflare 真的很香，一把梭：
+1. 计算层： cloudflare workers，每天免费 100,000 次请求。
+2. 前端部署，cloudflare pages ，免费
+3. 数据层
+ - cloudflare d1 SQLite数据库，免费 5G
+ - cloudflare r2 对象存储，免费 10G",https://x.com/0xAA_Science/status/2024437294988742958
+1858160822176141765,2024-11-17 22:50:37,orig,03_meme,9.07,3,463,50,144,261591,"虽然大家现在很 FOMO，但我还是要明确一下：
+1. $scihub 是社区meme代币，发币的dev已经卖完跑了。
+2. $scihub 不是 Sci-Hub 官方代币，不隶属于 Sci-Hub ，也不拥有 Sci-Hub。
+3. meme 代币的价格波动非常剧烈，你的投资可能会有巨大风险。",https://x.com/0xAA_Science/status/1858160822176141765
+1862674929717829877,2024-11-30 09:48:04,orig,03_meme,9.05,3,186,39,35,49998,"1. $scihub 是社区CTO meme代币，发币的dev已经卖完跑了。
+2. $scihub 不是 Sci-Hub 官方代币，不隶属于 Sci-Hub ，不拥有 Sci-Hub。目前 Sci-Hub 官方支持 $scihub 。
+3. meme 代币的价格波动非常剧烈，你的投资可能会有巨大风险。
+4. $scihub 不会损害 Sci-Hub 以及创始人 Alexandra 的 integrity。 https://t.co/c8LscqCnBq https://t.co/1EG7HNdNTy",https://x.com/0xAA_Science/status/1862674929717829877
+1863077708428878256,2024-12-01 12:28:34,orig,03_meme,8.87,3,154,33,37,34189,"Sci-Hub 所面对的寡头学术出版集团非常强大：
+1. Elsevier：旗下有《柳叶刀》、《Cell》等著名期刊，隶属于励讯集团（RELX Group），市值为 $90B。
+2. Taylor &amp; Francis：隶属于英富曼集团（Informa），市值为 $14B。
+3. Springer Nature：旗下有《Nature》，上市公司，市值为 $5B。
+$scihub 🐦‍⬛🔑 https://t.co/3UzuB7dNbD",https://x.com/0xAA_Science/status/1863077708428878256
+1864521477485412736,2024-12-05 12:05:36,orig,03_meme,8.79,3,131,7,30,28962,"目前持仓： $BTC $ETH $PEOPLE $SCIHUB $SOL 一些L2 一些DeSci meme。
+我的策略：
+1. 持有的 BTC 数量只能增加，不能减少。
+2. ETH 可以用来买 meme。
+3. 持有能穿越牛熊的现象级 meme，比如：
+- $PEOPLE 代表宪法, 民粹主义, 人民, 人类。
+- $SCIHUB 代表科学, 知识自由, Open Access Movement",https://x.com/0xAA_Science/status/1864521477485412736
+2007846305280975337,2026-01-05 00:07:17,orig,03_meme,8.73,3,219,17,118,63967,"BSC 上 meme 的角度主要依靠cz/一姐，还有官推的推文。
+现在小编被抓了，只剩下二圣推文的角度了，非常小。
+
+这样，dev要做的就很简单
+1. 以最快的速度通过推特API拿到二圣的最新推文
+2. 用自然语言处理出可以作为 name 和 ticker 的短语，中英文都可以，可以多发几个ca
+3. 通过程序在 four https://t.co/ab9lEzL3Oy",https://x.com/0xAA_Science/status/2007846305280975337
+1983449170804650218,2025-10-29 16:21:47,orig,03_meme,8.41,3,128,18,65,150535,"明天 BSC 新的公平模式要开了，改名为 X Mode：
+1. 开盘税从 100%（0区块）递减到1%（6区块），大概 4s。比如开盘0区块买 1 BNB 的代币，只能拿到 0.5 BNB 的。
+2. 税收费用会在内盘发射后买入代币并销毁，这个机制很棒。
+3. 所有钱包都可以买内盘，不限于币安钱包和 Trust Wallet。 https://t.co/AVBrW4jXpa https://t.co/nSaPrtgehZ",https://x.com/0xAA_Science/status/1983449170804650218
+1975959054448283781,2025-10-09 00:18:44,orig,03_meme,8.32,3,118,17,27,275578,"币安正在补齐钱包端的短板，最近试了下币安钱包网页版，用户体验提升很大。
+1. 上线了战壕页面（Meme Rush），方便扫链。
+2. 交易上链速度更快，大概在1s就能上链。这主要归功于BSC的提速，现在每 0.75 秒出一个块（半年前还是 3 秒）。
+3. 目前钱包App端目前活动期间免交易费，但是网页版开始收 0.5% https://t.co/B9saOE7zXz",https://x.com/0xAA_Science/status/1975959054448283781
+1866141347717185859,2024-12-09 23:22:23,orig,03_meme,8.11,2,133,56,29,9865,"Sci-Hub Expands Free Access to Papers with $scihub Donation 🐦‍⬛🔑
+🧵
+1.
+Recently, Sci-Hub founder Alexandra announced in the official Telegram channel:
+Sci-Hub is fundraising ! 
+Now you can donate with new Sci-Hub meme coin over Solana network:
+$scihub : https://t.co/XwIIPeReWx https://t.co/NSlPV933Bd",https://x.com/0xAA_Science/status/1866141347717185859
+1873967681952768469,2024-12-31 13:41:26,orig,03_meme,8.01,3,74,25,21,10285,"垄断学术出版商 Elsevier 旗下期刊《JHE》的主编们对 Elsevier 提出抗议，并集体辞职！
+理由包括：
+1. 期刊对每篇文章收费 $3990，让大部分作者难以承受。
+2. 削减编辑岗位和报酬。
+3. 用不成熟的 AI 代替编辑工作。
+
+学术垄断集团比我们想象的更脆弱，Sci-Hub 必胜！
+$scihub https://t.co/rXHxYvMBW5 https://t.co/VdPUg1B7tT",https://x.com/0xAA_Science/status/1873967681952768469
+2012340374921248867,2026-01-17 09:45:07,orig,03_meme,7.76,3,77,5,67,50398,"踏马企稳开始反弹，可惜我已经没什么货了。剩下一点不卖了，拿到上现货。
+
+角度：
+1. 踏马（TM）是中文最流行的语气助词，以前是脏话，但现在偏中性。
+2. 今年是马年。
+3. BSC 基金会回购两次了，币安人生目前也是两次。
+
+拉到100M，自有大儒替我踏马辩经！ https://t.co/KroJ9ZNm3l",https://x.com/0xAA_Science/status/2012340374921248867
+1858151301076672528,2024-11-17 22:12:47,orig,03_meme,7.63,1,1004,266,310,419908,"我刚刚代表 $scihub 社区，与 Alexandra Elbakyan（Sci-Hub 创始人，@ringo_ring）达成了关于 20% $scihub 捐赠计划的共识：  
+
+1️⃣ 第一笔捐赠已完成：1% 总流通量 $scihub （1000 万枚）已捐出。  
+2️⃣ 第二笔捐赠即将进行：10% $scihub （1 亿枚）将在今晚转出。  
+3️⃣ 后续计划：从 2024 年 12 月 16",https://x.com/0xAA_Science/status/1858151301076672528
+1903223540276752451,2025-03-22 07:13:46,orig,03_meme,7.58,3,43,6,23,53703,"Myshell概念的AI meme $Loom 挺火，WTF Meme 群里也有人在call。 @LoomSync
+但是我看了一下前排地址，top50几乎都是内盘的阴谋地址，特点：
+1. BNB 余额少
+2. 内盘买入：内盘时几乎没有名牌，只有提前知道消息的能买进）
+3. 很少卖出套现，等着蹭 cz 和一姐。
+大家小心 @heyibinance @cz_binance https://t.co/UY5ng2Ovte",https://x.com/0xAA_Science/status/1903223540276752451
+1869017217029095650,2024-12-17 21:50:03,orig,03_meme,7.55,2,133,40,47,24407,"为什么 $scihub 不可复制？
+
+1️⃣ Sci-Hub 是全球最早的 DeSci 项目，突破垄断出版商的知识付费墙。自 2015 年 开始接受 BTC 捐赠，2023 年用户数突破 8000 万。
+
+2️⃣ $scihub 具有正统性与唯一性：Sci-Hub 官网首页写道—“Sci-Hub 现在推出了同名 meme 代币！”
+
+3️⃣ $scihub 拥有最活跃的 DeSci 社区！ https://t.co/iuYriW6PtS https://t.co/nTPTwPZReV",https://x.com/0xAA_Science/status/1869017217029095650
+2092291735183610326,2026-08-26 00:43:17,orig,03_meme,7.29,2,155,11,76,45357,"今天 YziLabs 不丹的活动，灰度创始人 Barry Silbert 也来了。人非常nice，我问了几个问题，他都耐心回答，这里分享下。 @yzilabs @BarrySilbert 
+
+总结就是，快点梭哈 $ZEC
+
+我: 如何看待代币化股票（tokenized stock）？
+Barry: 我觉得美国的股票交易会很快变成 7 x 24。最近川普正在引入 https://t.co/H05MZk2GQi",https://x.com/0xAA_Science/status/2092291735183610326
+1981902693871566997,2025-10-25 09:56:38,orig,03_meme,7.24,2,117,7,23,142447,"风险提示：
+$PING 火了之后，很多dev开始开 x402 的盘子，大家需要DYOR。
+x402 和铭文很不一样：
+1. x402 是支付协议，铸造meme不是free mint，而是给dev转账，很可能rug或只添加部分池子。
+2. 目前 x402 还很早期，只兼容了 base 的 USDC 和 Solana （部分兼容），其他链还不兼容。",https://x.com/0xAA_Science/status/1981902693871566997
+2072003191705923765,2026-07-01 01:03:51,orig,03_meme,7.19,2,53,9,34,22642,"今天，OpenUSD 即将推出的新闻让 Circle $CRCL 跌了 27亿美元！那么什么是 OpenUSD？ 👇
+
+1. OpenUSD （oUSD）是 Open Standard 联盟推出的新稳定币，成员包括 Visa、Mastercard、Coinbase、BlackRock、Stripe 等。
+
+2. oUSD 背后推手应该是 Stripe 和 Bridge，因为 
+  i) Open Standard CEO 是 Zach https://t.co/fT4EXcdQCe",https://x.com/0xAA_Science/status/2072003191705923765
+1976471516595515757,2025-10-10 10:15:05,orig,03_meme,7.14,3,63,1,39,46791,"新模式第一天跑出来的3个meme：
+1. BNB Holder $44M
+2. $MEMERUSH $11.5M
+3. $修仙 $25M
+我目前持有后2个，并且看好！ https://t.co/47VoMWKAWt",https://x.com/0xAA_Science/status/1976471516595515757
+2017228951459131694,2026-01-30 21:30:34,orig,03_meme,7.05,3,34,3,19,14406,"“哭哭马”现象对 MEME 的三重启示
+1. 相比于“完美”，“真”才是基础
+2. 打破思维定势，从“意外”或“偏离”中挖掘新的 MEME 可能。
+3. MEME 的生命力，在于和受众的共创共生
+
+WTF 日报
+作者：0xAA
+
+https://t.co/tXFAbjKDsk https://t.co/ZHCwM8g85z",https://x.com/0xAA_Science/status/2017228951459131694
+1971140199301394472,2025-09-25 17:10:20,orig,03_meme,6.86,2,79,4,46,74680,"复盘一下我是如何错过 $AST 的
+
+我可能是中文区最早发现 $AST 的，但是错过了这波大机会。
+半年前还是 #mubarak 时期，有一天（2025.3.24）， @cz_binance 的链上公开钱包发了一笔和 mubarak 相关的交易，我去链上看了下，发现是在杠杆做多 #mubarak ，然后写了这篇推文。
+
+我最初以为是在 APX https://t.co/cxLhiwaQ5i https://t.co/kQT5osTBdO",https://x.com/0xAA_Science/status/1971140199301394472
+1858105745113583698,2024-11-17 19:11:46,orig,03_meme,6.82,1,393,110,97,245956,"今天，在 $scihub 社区的热情建议下，成功的让 SciHub 创始人 Alexandra Elbakyan @ringo_ring  在官网添加了 Solana 捐款通道，这是坚实的一步！
+
+我也与A姐联系上了，正在讨论具体的捐赠方案，以免对她的安全产生影响。以表诚意，我已经发了 1% 的 $scihub （1000万枚，目前价值 $200K）到 SciHub https://t.co/cBTQx3AMEk https://t.co/vtZn8dqB5V",https://x.com/0xAA_Science/status/1858105745113583698
+1981910750265553116,2025-10-25 10:28:39,orig,03_meme,6.79,2,124,6,55,242461,"一觉醒来 $PING 60M 了！
+我 1.2M 时发在群里，已经50倍。
+1.6M 时发在推特，接近40倍。
+
+很多群友看到都在底部买了，但是大部分都卖飞了。下面是一些截图，大家看了平衡一下吧 😂
+
+风险提示：Meme币的价值是0，不要FOMO。 https://t.co/XTXSzvOwGZ https://t.co/lYe9AMyTqI",https://x.com/0xAA_Science/status/1981910750265553116
+1904494571280891917,2025-03-25 19:24:24,orig,03_meme,6.71,3,13,1,10,15107,"今年春节发了 UniversalX 红包,
+今天吃了币安钱包的 $Parti 猪脚饭，
+过一阵领 $Parti 空投。
+
+欢迎大家用我的邀请码注册 UniversalX，听说之后有交易挖 $Parti 活动: 
+1. 链接：https://t.co/GJ2PPdUjh8
+2. 邀请码：RPLSPX
+3. 双方都有手续费返佣
+@ParticleNtwrk @UseUniversalX https://t.co/HLTJZ9K0LE https://t.co/gfQONl4y0h",https://x.com/0xAA_Science/status/1904494571280891917
+2010267765362569328,2026-01-11 16:29:18,orig,03_meme,6.56,2,64,3,40,40429,"花了8元下载了 “死了么”，功能很简单：
+1. 填写你的名字和紧急联系人邮箱。
+2. 每天签到，如果第二天没签到，就会给联系人发邮件通知。
+
+类似一个“心跳连接”，忘签到或者死了，都会通知 😂 
+独居老人用得上，对剩下大部分人没啥用。
+
+出圈的原因是因为名字，有淡淡的死感，挺meme的。 https://t.co/VWOH3rBJyJ",https://x.com/0xAA_Science/status/2010267765362569328
+2012398184924938706,2026-01-17 13:34:50,orig,03_meme,6.53,2,75,2,50,29898,"我群里提到 BAGS 的 $RALPH 才 100k，现在 40M，400x。
+因为我在群里发了pump的ralph，群友基本都有，结果被bags的分流了，作者之后也是支持了bags的。
+我很生气，就没买，结果起飞了。
+从中学到的经验：不要偏见，分流的也要买 😂 https://t.co/ZiKUSd7q9B",https://x.com/0xAA_Science/status/2012398184924938706
+1866499858540212527,2024-12-10 23:06:58,orig,03_meme,6.48,1,149,49,52,33123,"除了 $scihub ，我还持有很多 DeSci meme，包括 $rif $uro #waterbear $worm #trackedbio $desci $met #bioacc $anti $pro 
+质疑一个项目可以，拿出证据，不要无脑 FUD。 $scihub 刚出来时被阴谋集团全网 FUD，这滋味不好受，并且无意义。
+未来，DeSci 板块的市值会超过 DeFi，突破$100B，一起努力！ https://t.co/zvSqzISqQt",https://x.com/0xAA_Science/status/1866499858540212527
+1865035159931883880,2024-12-06 22:06:47,orig,03_meme,6.47,1,241,86,56,55410,"Sci-Hub 因为 $scihub 的资助，未来将开放更多免费论文 🐦‍⬛🔑
+🧵
+今天，Sci-Hub 创始人 Alexandra 在官方 Telegram 频道宣布：
+Sci-Hub 正在筹集捐赠！
+现在您可以通过 Solana 网络上的全新 Sci-Hub meme 代币进行捐赠
+更多详情：https://t.co/XwIIPeReWx
+让我们在未来让更多的论文实现开放访问！ https://t.co/MHOwiCTGgo",https://x.com/0xAA_Science/status/1865035159931883880
+1653585933902675968,2023-05-03 10:23:00,orig,03_meme,6.43,2,44,8,22,29319,睡醒看见募了 2000 $ETH 的土狗 $XIRTAM rug 了，大家都在骂。\n套路跟之前的 SexDAO 骗局差不多：募资前找中文的币圈MCN和大V发推，吸引韭菜投钱，然后开盘软跑路。\n最近 @zachxbt 也在曝光英文大V发土狗币坑粉丝的，赶紧让他学学中文吧 😂\n给韭菜的建议: 一定要记住谁发的推坑了你的钱。 ,https://x.com/0xAA_Science/status/1653585933902675968
+1858041748301426704,2024-11-17 14:57:28,orig,03_meme,6.38,1,223,47,62,118384,"看来很多人不了解A姐，可以去搜一下，没有人比她更值得这些支持。
+
+我愿意发起个社区征文活动，介绍 SciHub 的创始人 Alexandra Elbakyan @ringo_ring ，帮助大家更好的了解她。前 5 名每人 1 Sol，我来评定。
+
+地点：推特，可以是长推，或是 thread形式。
+
+截止时间: 3天后（2024.11.20 24点） https://t.co/klEofhwCn7",https://x.com/0xAA_Science/status/1858041748301426704
+2046246203437035578,2026-04-20 23:14:46,orig,03_meme,6.35,1,280,16,92,66518,"很荣幸今天得到了和一姐当面交流的机会，我问了几个我和社区都感兴趣的问题：
+
+第一个问题：Four 和专属内盘两个meme台子导致分流
+一姐说她在推特上也看到了不少类似问题的吐槽，已经让团队寻找解决方案了。
+
+第二个问题：最近 $RAVE 等高控盘项目通过操纵合约价格反复收割散户，币安会如何处理？ https://t.co/Q3t4KVt5VB",https://x.com/0xAA_Science/status/2046246203437035578
+1869804937565368322,2024-12-20 02:00:11,orig,03_meme,6.35,2,65,14,9,7668,"我对 $SCIHUB 文化的理解：信仰知识自由。
+有理论理论支持知识自由，例如：
+1. 哈耶克的《自由宪章》：自由是社会进步的核心，知识的传播和使用应该不受中央机构的垄断。只有当个人可以自由获取知识和信息时，社会才能实现真正的繁荣和进步。
+2. https://t.co/Pqv1PbvnBD",https://x.com/0xAA_Science/status/1869804937565368322
+1627515125556191232,2023-02-20 11:46:00,orig,03_meme,6.26,0,365,156,164,153343,最近中国概念很火，把我知道的币安上的中国概念币汇总一下 👇 🇨🇳\n1. 公链: $eth $cfx $ckb $ctxc $ont $tron $neo $qtum $one\n2. 跨链桥: $celr $multi \n3. 交易所: $bnb $cake $dodo $bake $mdx $alpaca\n4 meme: $people (People's Republic of China)\n5. Dapp: $gal $high $ankr\n欢迎补充👇#web3,https://x.com/0xAA_Science/status/1627515125556191232
+1967492194887180548,2025-09-15 15:34:28,orig,03_meme,6.19,2,67,1,26,43544,"冷知识： 
+1. pumpfun 平台是没法禁止 tranding bot 交易的
+2. pumpfun 和 bot 的手续费是分开收的，不存在冲突。
+这个是 axiom 的技术问题，而不是 pumpfun。 https://t.co/7lMirBSBzV",https://x.com/0xAA_Science/status/1967492194887180548
+1929744890185052536,2025-06-03 11:40:09,orig,03_meme,6.09,2,169,13,107,58582,"建议大家把“翻倍出本”纹在身上。
+  --在solana亏出来的经验 https://t.co/tqQOdSyl7I",https://x.com/0xAA_Science/status/1929744890185052536
+2006760444812546097,2026-01-02 00:12:28,orig,03_meme,6.02,1,108,7,31,48452,"简单复盘下昨晚的 broccoli714
+
+04:16
+睡前例行看盘，发现 broccoli714 异动，一小时内从 16M 拉到了 100M，并且还在向上。推特上有传闻狗死了，但 broccoli 有3个meme，要死的话应该一起拉盘，不应该只有714在涨。我初步判断是有庄家控盘，不能追高，但是可以观察后续机会。
+
+04:20
+发现 mubarak https://t.co/4kKvfqMRnR https://t.co/G2KzVp7GDz",https://x.com/0xAA_Science/status/2006760444812546097
+1860928392226631911,2024-11-25 14:07:57,orig,03_meme,6.02,0,203,67,27,25975,"As promised, I have transferred the remaining 9% $scihub tokens to a 2/2 multisig wallet jointly managed by me and Alexandra Elbakyan (founder of Sci-Hub, @ringo_ring). With this, the centralization risk associated with the donation plan has been fully eliminated! 💪✨ https://t.co/VVpsxtwX60 https://t.co/CLSlB89Rj1",https://x.com/0xAA_Science/status/1860928392226631911
+1859535619132883017,2024-11-21 17:53:34,orig,03_meme,5.96,1,139,22,27,24346,"UTXO Stack 正在探索如何通过去中心化的 P2P 网络存储论文，并通过奖励机制解决 Sci-Hub 面临的法律问题。这样的尝试非常棒！
+
+$scihub meme 代币可以解决 Sci-Hub 的资助问题，但要彻底改变现状，还需要更多的努力。让我们共同推动 #DeSci 的发展，真正改变世界！ 🌍💡 https://t.co/Mopa1FAWna",https://x.com/0xAA_Science/status/1859535619132883017
+1905991424098947456,2025-03-29 22:32:21,orig,03_meme,5.93,1,103,16,51,42702,"一篇很棒的 #mubarak 复盘，推荐大家读。
+唯一漏掉的重点：
+3月14日，也就是mubarak出生的第二天（$1M -&gt; $6M），原先的mubarak电报群主在卖光了自己的筹码后，开启禁言并开始推新币，差点就把 #mubarak 搞死了。
+我们一群holder不希望看到这么好的meme被毁，在 @klys7788 的牵头下发起了新的 CTO。 https://t.co/wfupf7s58y https://t.co/QHszQy4ksx",https://x.com/0xAA_Science/status/1905991424098947456
+1898368213362328044,2025-03-08 21:40:00,orig,03_meme,5.93,0,96,3,29,78018,$Cocoro 发行方 (OwnTheDoge) 在 Base Uniswap v3 加了两个 $Cocoro 单边池子（都没有加 ETH），每个 37.5% 的 $Cocoro ，共 75%。\n\n第一个（Pool ID: 2256046）已经超出价格范围，池子里面有 $2.1M 的 WETH 和 23万u的手续费。\n\n第二个（Pool ID: 2256052）仍然在Range内，大家现在交易走的都是这个池子。里面有 $23M 的 WETH 和 Cocoro，以及 $1M 的手续费。目前池子还没锁，但估计会锁。\n\n可见发名人币、名狗币仍然受市场追捧，Agency非常赚钱。,https://x.com/0xAA_Science/status/1898368213362328044
+1894046433336287621,2025-02-24 23:27:14,orig,03_meme,5.83,1,87,33,22,24744,"来自 Sci-Hub 创始人 Alexandra Elbakyan @ringo_ring 的最新公告，提及 $scihub ，称这个 meme 代币已经极大地帮助了 Sci-Hub：https://t.co/b3UwajQOpM
+
+以下是中文翻译（感谢chatgpt 4o）
+
+大家好，这是来自 Sci-Hub 创始人 Alexandra Elbakyan 的一条信息，澄清一些疑问：
+
+1. Sci-Hub",https://x.com/0xAA_Science/status/1894046433336287621
+1869412756837048746,2024-12-19 00:01:47,orig,03_meme,5.81,0,122,53,18,7138,"🚀 Milestone for $scihub and DeSci!
+
+Today, the incredible founder of Sci-Hub, Alexandra (@ringo_ring), donated 1% $scihub tokens (10 million!) to the $scihub Community Foundation. This will boost community growth and secure major market-making partnerships.
+
+This is the ultimate https://t.co/h9DpF4hvsy",https://x.com/0xAA_Science/status/1869412756837048746
+1852631184196730914,2024-11-02 16:37:00,orig,03_meme,5.79,0,115,10,41,164960,我不是美国人，所以美国总统选谁本质上跟我没关系。但是我支持川普，原因有几点：\n1. 川普明牌支持加密货币，甚至为了圈钱，自家发了个defi盘子 $WLFI ，深度绑定了。因此他上台，美国的加密货币政策一定很友好。这也会间接导致中国的政策更友好，我会受益。\n2. 川普说会调停俄乌战争。俄乌战争本质是俄美战争，乌克兰是美国的代理人，看不懂的要么是装傻，要么是真傻。因此如果美国想让俄乌停战，就一定能停。我希望世界和平。\n3. 川普上台后，每天都有脱口秀看，可以给我提供精神价值。\n\n当然川普也有缺点，但和这三个优点相比，不值一提。,https://x.com/0xAA_Science/status/1852631184196730914
+1867600470342357041,2024-12-14 00:00:25,orig,03_meme,5.77,0,152,42,26,14889,"Breaking News!
+$scihub has officially made it to the Sci-Hub homepage, reaching a global audience of 80 million researchers!
+
+ ""Sci-Hub is now available as a meme coin!""
+
+The revolution of #DeSci is here—let's unlock knowledge for all!
+
+check: https://t.co/7OqH657hhF
+🐦‍⬛🔑 https://t.co/475bHLkVXk",https://x.com/0xAA_Science/status/1867600470342357041
+1879513467847409827,2025-01-15 20:58:25,orig,03_meme,5.64,1,111,55,44,44924,"Sci-Hub 2024 年成果总结（作者 Alexandra Elbakyan @ringo_ring ) 中第一条就是关于 $scihub 的！
+
+第一点：项目通过 meme 币捐赠获得了 200 万美元的资助。
+
+Sci-Hub 被许多中国学生积极使用，因此在中国出现了一个 Sci-Hub https://t.co/U7mDuMTuTf",https://x.com/0xAA_Science/status/1879513467847409827
+1860226397580722371,2024-11-23 15:38:29,orig,03_meme,5.61,0,318,86,79,166035,"使用多签钱包管理未捐赠的 9% $scihub 代币
+
+自我代表 scihub 社区与 Alexandra Elbakyan（Sci-Hub 创始人，@ringo_ring ）达成 20% $scihub 的捐赠计划以来，我们已经完成了 11% 总流通量 $scihub （1亿1千万枚）的捐赠，剩余的 9% $scihub 将按照每月 1% 的计划逐步捐赠。
+
+令人振奋的是， scihub https://t.co/L6FoyoT17R https://t.co/ptxfem7XK4",https://x.com/0xAA_Science/status/1860226397580722371
+1884091690916667714,2025-01-28 12:10:38,orig,03_meme,5.54,1,262,17,68,97910,"Shib 团队真的很贪又很割，之前在以太坊发了很多子币，现在又在 solana 每天发一个 meme，非常重的老鼠仓。
+畜生团队，一定要远离！",https://x.com/0xAA_Science/status/1884091690916667714
+1859250368737395039,2024-11-20 23:00:05,orig,03_meme,5.48,1,138,3,40,38806,"希望以后 Twitter Space 不要问我谁将会是 Desci meme 的龙一了，我回答 $scihub ，别的社区说我拉一踩一，不团结；我说 $rif $uro ，肯定会被我们社区的骂。
+这不是给我挖坑吗？",https://x.com/0xAA_Science/status/1859250368737395039
+1978813291473293545,2025-10-16 21:20:27,orig,03_meme,5.47,1,151,9,173,256039,"随手买了个币安福彩，结果群里通知我中奖了，给的 $GIGGLE , 17000u。
+我这次是走狗屎运了，不建议大家买 😂
+
+另外之前微信群被封了，重新建了一个，走丢的家人可以从群里加我微信，拉到新群！ https://t.co/CTDEvJgORy",https://x.com/0xAA_Science/status/1978813291473293545
+1979546005675925675,2025-10-18 21:52:00,orig,03_meme,5.46,1,120,16,62,139351,"保护机制初衷是好的——防止分流（我最近经常骂），但方法错了，会引入更大的问题：
+比如一个阴谋集团持有多个bn钱包，可以很快的时间（甚至1区块）就完成100地址的突破，触发保护机制，防止同名代币的发射，让用户不得不接盘该meme。 https://t.co/Ktz8Ax1xYK",https://x.com/0xAA_Science/status/1979546005675925675
+1492170590005829632,2022-02-12 00:16:00,orig,03_meme,5.44,2,39,11,11,0,"Proposal For AssangeDAO, Please Vote with $Justice\nA thread 🧵\nhttps://snapshot.org/#/daoassange.eth/proposal/0xe5284a3fb2284ad46387b52c717fcf8f39c5899b7e7469382e82ab3d09285da4",https://x.com/0xAA_Science/status/1492170590005829632
+1858460794188648925,2024-11-18 18:42:36,orig,03_meme,5.38,0,277,34,50,120812,"今天，有币圈的人开始给在读 PhD 发钱了。作为一名 PhD，我非常理解科研民工的辛酸，这种做法值得肯定，我也想发。  
+
+虽然他们不认同 $scihub ，但在11月16日 $scihub 出现之前，他们从来没给 PhD 发过福利。可以说 $scihub 启发了他们，开启了另一条回馈科研的道路。  
+
+这也是 $scihub 的价值所在。 https://t.co/oJuFeekk5R",https://x.com/0xAA_Science/status/1858460794188648925
+1866510375761613089,2024-12-10 23:48:46,orig,03_meme,5.35,0,177,52,36,16169,"最近，我给许多朋友空投了 $scihub 。他们大都用过 Sci-Hub，但还没听说 $scihub memecoin。
+其中一个朋友认为 $scihub 是 “Most respectable meme token I've seen to date”
+与其他代币不同，当你给 web2 的朋友介绍 $scihub 时，不仅毫无羞耻感，甚至感到自豪，因为它真的在帮助 Sci-Hub 和科学。 https://t.co/gN9LcJtctL",https://x.com/0xAA_Science/status/1866510375761613089
+1875085571229667592,2025-01-03 15:43:32,orig,03_meme,5.34,1,160,24,29,27786,"终于完成了 $scihub 资助模式论文的初稿！诚邀大家 review 并提出宝贵建议，私信我即可！
+
+接下来可以全力投入产品开发了，AI for DeSci，冲！🚀
+@SciHubFans https://t.co/j86rPqzEp5",https://x.com/0xAA_Science/status/1875085571229667592
+1858878418927943709,2024-11-19 22:22:06,orig,03_meme,5.34,0,358,82,80,73097,"DeSci meme 赛道仍然处于极早期！目前最大的 $RIF 也才 $150M 市值，而新兴的 $SCIHUB 仅有 $25M。
+
+我相信未来这个赛道会诞生市值高达 $10B 的超级 meme！我几乎持有它们全部。
+
+各社区必须团结，不能被太监们分裂。只有一起努力，才能把蛋糕做大，共享更大的未来！🚀 https://t.co/pCgTuDe1Mz",https://x.com/0xAA_Science/status/1858878418927943709
+1867596798082396203,2024-12-13 23:45:49,orig,03_meme,5.33,0,467,129,185,520637,"重磅消息
+$scihub 正式登陆 Sci-Hub 官网首页，曝光量直达全球 8000万用户！
+
+""Sci-Hub is now available as meme coin!""
+
+支持知识自由，推动开放科学的革命， $scihub 继续书写历史！  @SciHubFans 
+🐦‍⬛🔑
+https://t.co/9IrNv89Ccu https://t.co/BJTi8i4zN5",https://x.com/0xAA_Science/status/1867596798082396203
+2073792532417597468,2026-07-05 23:34:03,orig,03_meme,5.3,1,48,4,21,21408,"BSC 也热闹起来了，这两天出了不少 $ANSEM 仿盘。
+这类meme其实是捆绑盘，dev 捆绑大量筹码（比如 90%+），然后转 70% 给“名人”，等单“名人”认领（勾兑/默契/道德绑架）后拉盘，最后获利了结，高度完全看做事团队的资金和格局。
+不少朋友埋伏到了，为他们开心，但追高的赔率不高 大家注意风险。 https://t.co/HSkCQMdxWt",https://x.com/0xAA_Science/status/2073792532417597468
+2080622222209876280,2026-07-24 19:52:48,orig,04_ai,10.78,5,122,28,50,58840,"梁文锋也是奇人了，做金融能量化割A股散户傻钱，做 AI 能蒸馏割 Anthropic 和 OpenAI。
+建议对 AI 感兴趣的朋友都读一下，我觉得有意思的几点：
+1. AI 可能会占到全人类 GDP 10% 。（目前不到1%）
+2. 现在 AI 的研究重点在持续学习。
+3. 溢价合适的话，有多少卡，买多少卡。
+4. 中国 AI https://t.co/wByr1p1oWo",https://x.com/0xAA_Science/status/2080622222209876280
+1893697590102798772,2025-02-24 00:21:03,orig,04_ai,10.6,5,151,27,21,49122,"好像很多人不知道 xai / grok 可以领免费的 150u 额度？
+方法：
+1. 登陆官网 https://t.co/GZd9uUBlFW ，用推特账号就行。
+2. 绑定信用卡，充值5u。
+3. 在Free Credits 右下角点 share data (共享数据)，就领到了。
+⚠️注意，开启后不能关闭。 https://t.co/06FUrW0kYP",https://x.com/0xAA_Science/status/1893697590102798772
+2038165680798007615,2026-03-29 16:05:40,orig,04_ai,10.01,4,285,25,75,150206,"当前我的 AI Agent 时间分配：
+
+1. Claude Code：95%，主力 Agent，基本代码都用它写。
+2. Codex：5%，审核 Claude Code 写的代码时用。
+3. Cursor：&lt;1%，极少数任务使用。
+4. 龙虾：&lt;1%，只有在体验新功能的时候使用。
+
+你们呢？",https://x.com/0xAA_Science/status/2038165680798007615
+2034873072289710492,2026-03-20 14:02:01,orig,04_ai,9.04,2,1443,248,101,281244,"我已经用上了 Claude Code 的 Telegram 插件，巨 TM 丝滑。龙虾危 ⚠️
+
+Claude Code 连接 Telegram 方法：
+
+1. 在 Telegram 上 DM @BotFather （这是生成所有 telegram bot 的地方），输入 /newbot ，然后输入你给bot起的用户名，不能和别人的重复，必须以 bot 结尾，然后他会给你返回一个 token，类似 https://t.co/g78uFMnWtC https://t.co/x3JXYIrKoc",https://x.com/0xAA_Science/status/2034873072289710492
+2035566856770376155,2026-03-22 11:58:52,orig,04_ai,9.03,3,571,116,93,199548,"我已经在微信用上龙虾了！
+@Weixin_WeChat @openclaw @steipete 
+
+这次是微信官方插件支持，安装方法：
+1. ios 微信升级到最新版：0.8.70
+
+2. 路径：「我-设置-插件」，可以查看终端安装指令。（微信ClawBot 插件在逐步放量中。更新至最新版本，敬请期待。）
+
+npx -y https://t.co/1vjg5nq8sB",https://x.com/0xAA_Science/status/2035566856770376155
+2071580228930224590,2026-06-29 21:03:09,orig,04_ai,8.61,4,36,8,12,13980,"今天试了下腾讯QQ搞得 Agent Mail，用起来挺简单的，大家可以玩玩，作为 Gmail 的替代给 Agent 使用。
+
+步骤：
+1. 打开网址 https://t.co/BCMSdnEqva ，目前仅支持微信登陆，跟着流程启用 Agent Mail 功能。
+2. 将提示词发给 Agent: 
+请阅读 https://t.co/xkGiLIyCxQ 文档，按照步骤为我安装并配置 https://t.co/mE763y8SUI",https://x.com/0xAA_Science/status/2071580228930224590
+2097971503103086799,2026-09-10 16:52:39,orig,04_ai,8.24,3,191,9,166,124257,"上个月，我代表我的项目 xAPI @xapi_to 参加了 YziLabs 的 Easy Rsidency S4，在不丹待了20天，体验感非常好。 
+现在 S5 开始报名了，地点在泰国，推荐创业者报名参与！
+主要的赛道：
+1. 区块链
+2. AI
+3. BIO https://t.co/pKuqMkbh6h https://t.co/XU1KetEHF2",https://x.com/0xAA_Science/status/2097971503103086799
+2082312208328032748,2026-07-29 11:48:12,orig,04_ai,8.16,3,107,11,62,29856,"AI研究员才是最容易被AI取代的职业
+在 LLM 爆火之前，AI/深度学习研究一直被戏称为“炼丹”。
+深度学习几乎没什么理论基础，大二学生学完高数/线代/概率论/机器学习，就能上手。
+AI研究高度经验主义：
+1. 研究员随机的调模型的网络结构、参数、trick（初始化/正则项/学习率/损失函数）
+2. https://t.co/UpB9iXhP2j https://t.co/YWnKWQUqwc",https://x.com/0xAA_Science/status/2082312208328032748
+2019427374904054181,2026-02-05 23:06:19,orig,04_ai,8.09,2,657,146,40,80719,"Skill 是一种可被 AI agent 自动发现、理解并调用的模块化能力接口，用来让 agent 快速学会并稳定执行某一类具体任务。
+这里推荐 3 个 Skill 平台：
+
+1. https://t.co/higMsp5Zpi 
+最早的 Skill 开放市场，收录超过 150,000 个 Skill 。 
+
+2. https://t.co/en5x20bO5t
+@vercel 做的 Skill https://t.co/gtmjhsUN9S",https://x.com/0xAA_Science/status/2019427374904054181
+2108228856587157765,2026-10-09 00:11:43,orig,04_ai,7.9,3,65,5,81,17267,"今天中午参加了币安的产品交流会，产品负责人 Jeff @taida88 也来了，介绍了币安打造超级交易App的主线，大家可以找找alpha。
+
+1. RWA上链（股票/大宗商品）：股票底池meme最近很火，之后商品meme也有机会？
+2. AI：希望有链上 AI 项目能跑出来，也期待 xAPI 能和币安有深度合作 @xapi_to 
+3. 支付 https://t.co/zfqKDbnB7k",https://x.com/0xAA_Science/status/2108228856587157765
+1885512272002638283,2025-02-01 10:15:31,orig,04_ai,7.88,3,76,9,28,36541,"之前做 ai agent 流水盘的那拨人现在换了个套路，不做套壳ai，而是开始做套壳产品，蹭 Vine 和 jellyjelly 这类web2转web3的热度。特点：
+1. 用AI生成的简单产品和网站（例如游戏或agent平台）
+2. 代码不开源
+3. dev会按照套路锁仓，但是老鼠仓很重",https://x.com/0xAA_Science/status/1885512272002638283
+2027607026394927221,2026-02-28 12:49:20,orig,04_ai,7.86,3,66,5,26,48617,"我准备开个 vibe coding 社群，名字就叫 vibe shit。
+进入方法：
+1. 在 https://t.co/XeLSvJOLai 上提交一个 vibe coding 产品，含 GitHub 链接。
+2. 点击网页右上角进入到用户页面，填写 Telegram/微信号（不公开），然后等小助理/AI拉你进群。
+
+让我们用AI制造更多的 💩！ @wolfyxbt @_daxiongya https://t.co/0k9UNJyBHr https://t.co/05Nb97Pnms",https://x.com/0xAA_Science/status/2027607026394927221
+2016141098083877344,2026-01-27 21:27:50,orig,04_ai,7.79,2,225,33,27,141090,"ClawdBot 配置 Minimax M2.1 模型还有点坑：
+1. Minimax 分为国内版和海外版（我之前不知道），ClawdBot 内置的是海外版的配置，所以如果国内版的 api key，会报 invalid api key 错误
+2. 两个版本的 baseUrl 也是不同的
+
+如果你用的是国内版，需要修改 .clawdbot/clawdbot.json 中的 https://t.co/INfhL3Y9p3 https://t.co/10MNyUURon",https://x.com/0xAA_Science/status/2016141098083877344
+2071981105352466929,2026-06-30 23:36:05,orig,04_ai,7.66,3,30,6,13,11443,"找到用 Cursor App 控制本地 Cursor Agent 的方法了，藏的好深！
+
+1. 在 Cursor 个人账号页面开启权限：Cloud Agents - Self-Hosted - Enable remot-control
+https://t.co/cuNmQH6Rej
+
+2. 在 Cursor App 点击小云朵 ☁️ 按钮，切换到 My Machines，就能切换到电脑本地 Agent 了。 https://t.co/KsKWSzyRZV https://t.co/J4xv1sMYzm",https://x.com/0xAA_Science/status/2071981105352466929
+1821899000477577332,2024-08-09 21:19:05,orig,04_ai,7.56,4,6,0,0,6336,"Alex Raymond @doppl_ai 在博士论文《Explanations for Autonomous Agents》中引用：
+
+强化学习中的许多优先经验回放方法可以被重新解释为实现某种形式的'以智能体为中心'的机制，通过按相关性重新排序经验，试图向智能体解释并选择最有用的经验，如Li等人间接暗示的那样。
+
+https://t.co/69AxgwCUZo https://t.co/QFzTBmIhA9 https://t.co/MGAnXqaaGW",https://x.com/0xAA_Science/status/1821899000477577332
+2082125427796312132,2026-07-28 23:26:00,orig,04_ai,7.27,3,76,4,51,44328,"避免 Claude Max 封号的3个 tips:
+1. 注册用美国的谷歌邮箱
+2. 订阅用美区 AppStore
+3. 设备 vpn 切换到美国，并且永不切换其他地区",https://x.com/0xAA_Science/status/2082125427796312132
+1725742047020085381,2023-11-18 13:05:00,orig,04_ai,6.98,1,15,1,7,18991,Greg是OpenAI的联合创始人，他简单讲述了昨晚发生了什么👇🏻\n\n- 昨晚，Ilya（联合创始人/首席科学家）给Sam Altman发了一条短信，要求在周五中午谈话。Sam加入了一个Google Meet，整个董事会，除了Greg之外，都在那里。Ilya告诉Sam他被解雇了，而且新闻很快就会传出去。\n\n- 下午12:19，Greg收到了Ilya的一条短信，要求快速通话。12:23，Ilya发送了一个Google Meet链接。告诉Greg他被从董事会中撤下（但对公司至关重要，并将保留他的角色），而Sam已经被解雇。大约在同一时间，OpenAI发布了一篇博客文章（解雇Sam）。\n\n- 据我们所知，管理团队在此之后不久就得知了这一情况，除了Mira（临时CEO）是在前一晚得知的。\n\n大家的支持真的很好，谢谢，但请不要花时间为我们担心。我们会没事的。更好的事情即将发生。,https://x.com/0xAA_Science/status/1725742047020085381
+1899432468337332437,2025-03-11 20:09:00,orig,04_ai,6.94,2,64,32,11,12607,🚀 SCAICH AI 搜索引擎 v0.03 全新升级！ 🎉\n\n🔍 更新内容：\n1️⃣ 整合 DOI、PubMed、Arxiv 数据库，更多论文 📚\n2️⃣ AI 驱动的 Rerank 系统，结果更精准 🎯\n3️⃣ 扩展返回结果数量 🔎\nSCAICH 已经收到了大量用户反馈，包括 Alexandra 的建议，我们将持续迭代！ 💡💪\n\n体验入口 👉 http://search.scai.sh,https://x.com/0xAA_Science/status/1899432468337332437
+2046939173710676227,2026-04-22 21:08:23,orig,04_ai,6.77,2,88,11,17,29736,"最近看到一个 AI x 预测市场的项目，UniPat AI @UniPat_AI ，把预测做成了可对比、可验证的一套系统。
+
+我找创始人聊了下：
+1. 预测市场很火，但是能用 AI 精准预测的项目很少，而他们在这一方面走在了前面。
+2. 目前框架已经搭好，并且推出了 Echo 模型，目前在 benchmark https://t.co/dOTyKikdde https://t.co/qfuk87TGnZ",https://x.com/0xAA_Science/status/2046939173710676227
+2081795298553430278,2026-07-28 01:34:11,orig,04_ai,6.73,1,330,49,35,70102,"老码农 Skill
+Uncle Bob Martin 是位码龄近 60 年的老码农。他在推上分享了自己使用 coding agent 的经验：不读 agent 写的代码，而是让代码闯过层层关卡，才配被信任。
+
+我把这套思想做成了开源 skill：old-coder（老码农），方便大家使用。每个关卡代表一种测试或约束，old-coder 内置 10+ https://t.co/4ayJpKSjo5 https://t.co/fPMYuIco8S",https://x.com/0xAA_Science/status/2081795298553430278
+2086115270230450552,2026-08-08 23:40:13,orig,04_ai,6.59,3,27,7,12,28921,"给 AI 德扑游戏更新了一版：
+1. 之前1张桌子经常满，又开了一张。
+2. 支持推特账号登陆了，登陆后转发一次原推就可以玩，不需要邀请码。
+3. 开了人类战绩榜。
+https://t.co/sGvzFQ7Uud https://t.co/tC0G3acjil https://t.co/i6FQTd5Ygx",https://x.com/0xAA_Science/status/2086115270230450552
+2082050546090041848,2026-07-28 18:28:27,orig,04_ai,6.46,2,37,2,29,10335,"大部分 Prompt 和 Skill 短期有用，中长期没用。
+1. 常用的 prompt/skill，会被用来训练新一代模型，内化到模型中。
+2. 很多 prompt 是为了弥补目前模型的不足，比如规划、代码规范。 随着模型能力提升，不需要它们也能完成用户任务。
+
+Claude 新模型让 Claude Code 系统提示词减少 80%:",https://x.com/0xAA_Science/status/2082050546090041848
+1905882852157534621,2025-03-29 15:20:56,orig,04_ai,6.25,2,46,9,32,55327,"Builders 坐满了 #ETHHangzhou 黑客松会场！
+主赛道：
+1. 公共品
+2. AI
+赞助商赛道:
+BNB 上的 AI 创新
+
+其中BNB Chain赛道的提交链接（提交的项目可以直接参与 BNB AI Hack，有选入 BIA 和 MVB 的机会）: https://t.co/e9Oc1EX8kZ
+
+@BlockchainZJU @WTFAcademy_ @BNBCHAIN @cz_binance @heyibinance https://t.co/eONgsOtQjF",https://x.com/0xAA_Science/status/1905882852157534621
+2079934711762427925,2026-07-22 22:20:53,orig,04_ai,6.19,2,26,1,77,10099,"OpenAI 测试新模型的网络安全能力，却导致了 HuggingFace 数据库被黑。
+这就相当于
+老王想打个飞机，却意外撬开隔壁老李家的门，把老李媳妇给睡了。
+
+比较有意思的点：
+1. 这可能是世界第一例 AI Agent 真实越狱事件 ⛓️🤖
+2. 测试时，OpenAI （攻击方）用的是越狱版（关闭安全审查模块）的模型，但 https://t.co/vDNVRv0OZl https://t.co/vXMYkhvNPz",https://x.com/0xAA_Science/status/2079934711762427925
+2064680753712275650,2026-06-10 20:07:06,orig,04_ai,6.1,0,5699,251,423,611936,DeepSeek 开始蒸馏 Fable 和 Mythos 了，很快会以 1% 的价格给大家用。,https://x.com/0xAA_Science/status/2064680753712275650
+1641311952684326913,2023-03-30 13:30:00,orig,04_ai,5.85,1,115,23,41,188780,刚跟同学聊了下 ChatGPT，我们一致认为它最大的壁垒在于大量用廉价劳动力标注的训练数据，而不是模型结构多先进，参数量多大。\n中国科技公司在这方面赶上并不难。建大型数据标注中心，类似富士康的工厂。收获海量数据的同时，还能解决年轻人的就业问题。\n推荐一篇 RLHF 方法的科普，用人工标注数据优化语言模型: https://mp.weixin.qq.com/s/TLQ3TdrB5gLb697AFmjEYQ,https://x.com/0xAA_Science/status/1641311952684326913
+1759437744512897480,2024-02-19 12:40:00,orig,04_ai,5.79,0,49,15,8,26757,历史上的＂第一次＂离今天有多远：\n第一条 Sora 视频：4 天\n第一次 ChatGPT 聊天：1 年\n第一条 TikTok 视频：7 年\n第一份 Uber 订单：14 年\n第一次 Airbnb 预订：15 年\n第一条 Tweet：17年\n第一篇 Reddit 帖子：18 年\n第一条 YouTube 视频：18 年\n第一次 Google 搜索：25 年\n第一条 ICQ 消息：27 年\n第一部智能手机：31 年\n第一条文本消息：31年\n第一个搜索引擎：33 年\n第一个 GIF：36 年\n第一部手机：50 年\n第一封电子邮件：52 年\n第一台个人电脑：52 年\n第一台寻呼机：74 年\n第一部电话：147 年,https://x.com/0xAA_Science/status/1759437744512897480
+2018932598811316594,2026-02-04 14:20:16,orig,04_ai,5.77,1,53,4,10,22959,"为什么我觉得在 OpenClaw / ClawdBot 中，“Skill” 是一等公民。
+我们可以拿它与 Codex 和 OpenCode 对比：
+
+Codex: 
+用户需要在输入中使用 $SkilllName 进行显示触发，加载相应的 Skill。
+
+OpenCode: 
+Skill 作为众多工具之一，每次由 LLM 根据用户的输入决定是否加载。
+用户消息 -&gt; LLM 思考是否调用 https://t.co/lkl55c3C3r https://t.co/V5MC5gmgv2",https://x.com/0xAA_Science/status/2018932598811316594
+2020785403528126658,2026-02-09 17:02:39,orig,04_ai,5.72,0,2226,80,300,982956,"以前到香港就能自由访问外网。
+但现在美国 AI 企业把香港和大陆一起墙了。在香港访问 ChatGPT，Gemini 也要 VPN，就很难受。 https://t.co/bSOqkKGdu5",https://x.com/0xAA_Science/status/2020785403528126658
+2022149631283810639,2026-02-13 11:23:36,orig,04_ai,5.7,0,457,54,20,100845,"牛逼，斯坦福小镇论文的作者 Joon 创业了，公司叫 Simile，融了 1 亿u，做斯坦福小镇的延伸，利用 agent 模拟人类行为。
+
+我很看好 Joon，他的论文我基本都读了。最近很火的 AI 论坛 Moltbook，其实 Joon 在22年的论文就提出过原型 “SimReddit”，agent 论坛。
+
+期待 Simile 的产品！ https://t.co/5t7U1QmHT1 https://t.co/4p902PkCU7",https://x.com/0xAA_Science/status/2022149631283810639
+2090400815349703025,2026-08-20 19:29:26,orig,04_ai,5.69,0,331,29,73,53115,"昨天尝试在 codex 里用 xAPI 的短信能力注册 OpenAI 账号，没想到真的成功了，成本 $0.06。今天补录了视频 @xapi_to
+
+xAPI 用起来很简单，让你的 agent 安装 skill：
+npx skills add xapi-labs/xapi-cli
+
+注册prompt: 
+/xapi 使用 codex 内置浏览器注册一个 OpenAI 账号，注册短信用英国手机号接。 https://t.co/novY0bjdV5",https://x.com/0xAA_Science/status/2090400815349703025
+2042151683283878146,2026-04-09 16:04:37,orig,04_ai,5.58,0,475,72,37,147239,"我们利用上周“开源”的 Claude Code 源码，在 auth2api 中精确复刻了 7 个维度的用户指纹，让每个 API 请求看起来都来自真实的 Claude Code CLI 用户。
+
+目前我和几个朋友将 Claude Max 代理为 API，平稳运行 1 个月了，还没被封，大家可以试试。
+
+repo: https://t.co/XjrcSOSkyh https://t.co/ZpV32jj0UV https://t.co/EkX0tYp6FE",https://x.com/0xAA_Science/status/2042151683283878146
+2082416079587180621,2026-07-29 18:40:57,orig,04_ai,5.49,0,251,50,22,45600,"传统的 Agent 沙箱方案会给每个 Agent 一个完整的 Linux 环境，成本高，C端产品难规模化。
+这篇文章探索了另一个极端，完全放弃 Linux 沙箱，成本降低几个数量级，操作更简单：
+- 把 Agent 搬到自带 SQLite 的 Cloudflare Durable Object 
+- 原先的文件系统落在 SQLite 和 R2 上
+- 移除 bash，改为使用 https://t.co/QNMNAJ5fnH https://t.co/X0ultJFu62",https://x.com/0xAA_Science/status/2082416079587180621
+2049462724216987766,2026-04-29 20:16:05,orig,04_ai,5.45,1,149,16,34,64635,"已经有朋友联系我能提供0.5折的 Claude 反向代理API，还有朋友免费注册了几万个 ChatGPT plus 账号，长见识了。
+
+建了个 WTF AI 电报群，欢迎加入，申请时记得自我介绍下： 
+https://t.co/w8ewfT25LN https://t.co/KBYTWM7aHI https://t.co/hAMKH6chEk",https://x.com/0xAA_Science/status/2049462724216987766
+2059189755037065413,2026-05-26 16:27:50,orig,04_ai,5.4,1,50,4,22,24707,"今天 Ondo 宣布了创始人 Nathan 的意外离世。大家都知道 Ondo，但可能不了解他的创始人，我让 Agent 使用 @xapi_to skill 总结了他的生平：
+
+94 年出生在夏威夷，本科在布朗大学读的经济+生物，工作后又去斯坦福读了MBA（中途退学）。
+
+17 年第一次创业进入币圈，做的量化加密对冲基金 ChainStreet https://t.co/OtsTqPNTZQ https://t.co/TMj8xf1Tdz",https://x.com/0xAA_Science/status/2059189755037065413
+2028061045768786191,2026-03-01 18:53:27,orig,04_ai,5.37,1,205,4,58,318427,"以前觉得 Claude 歧视亚洲人/华人，最近对五角大楼的强硬态度让我佩服这个它是条汉子，有原则。
+充值了波 Claude Max 支持下。 @claudeai https://t.co/YNw0mO0umj",https://x.com/0xAA_Science/status/2028061045768786191
+2067213779474284785,2026-06-17 19:52:26,orig,04_ai,5.34,1,37,8,25,19834,"加密矿工到 NeoCloud：币圈转型 AI 最成功的一批企业
+
+当币圈人还在惊叹 AI 的发展和股价的暴涨时，已经有一批企业悄然完成了从 Crypto 到 AI 的转型。
+
+曾经它们是加密矿工，靠挖 BTC 和 ETH 赚钱；
+现在它们已经或正在转型 NeoCloud，靠给 OpenAI 和 Anthropic 提供 AI 算力赚钱。
+
+1. 什么是",https://x.com/0xAA_Science/status/2067213779474284785
+2108038301240455189,2026-10-08 11:34:31,orig,04_ai,5.33,1,113,5,22,30443,"Grok Bot 应该是被 Muse 揍的有点肿，马斯克决定把焚决交了：把 X API 直接开放给 Grok Bot。
+低频的推特监控/总结现在可以直接用 Grok Bot 来做了，高频的还是要通过 API。 https://t.co/SNt5F5kY5m",https://x.com/0xAA_Science/status/2108038301240455189
+1878480957013148084,2025-01-13 00:35:35,orig,04_ai,5.29,0,66,21,17,22862,"📢 
+$scihub community is developing SCAI (SCientific AI)—a revolutionary framework for scientific AI agents! 
+
+✨SCAI is designed to tackle the issue of ""hallucinations"" in LLMs when answering scientific questions. 🌍
+
+Stay tuned for more updates about SCAI! 
+@SciHubFans https://t.co/PXMezrPrGd",https://x.com/0xAA_Science/status/1878480957013148084
+2008581735467160062,2026-01-07 00:49:38,orig,04_ai,5.16,0,234,12,78,120873,"我 vibe coding 的助眠APP上架 App Store 啦！搜 “睡觉啦” 就能下载。
+做这个App的原因是我睡前习惯玩手机，有时候几个小时才能入睡。想尝试听自定义的白噪音助眠，但是市面上没满足需求的，而且都太复杂。
+目前我用了5天，基本10分钟内能睡着，意外的有效。大家可以试试，但是效果因人而异。
+不会发币 https://t.co/VUSsL3e3as",https://x.com/0xAA_Science/status/2008581735467160062
+2005927726201618515,2025-12-30 17:03:32,orig,04_ai,5.16,1,244,4,35,82403,"为什么他 Cursor 能套壳
+我 Manus 不能套？
+王侯将相宁有种乎？",https://x.com/0xAA_Science/status/2005927726201618515
+2023281989189882209,2026-02-16 14:23:11,orig,04_ai,5.13,1,58,3,22,37376,"Kite 上个月底发布了主网路线图，原生支持 x402，主攻 Agent 信任和支付技术栈，打造智能体经济。
+
+虽然最近行情不好，但 $Kite 依然强势创新高，说明团队不是上币安就跑路的一波流，希望新的一年继续加油，重铸 Crypto + AI 荣光。 @GoKiteAI https://t.co/EQqdubT0AB https://t.co/Q0bU5qLkP7",https://x.com/0xAA_Science/status/2023281989189882209
+1994359380054299040,2025-11-28 18:55:04,orig,04_ai,5.13,0,816,40,68,484519,"这人在审稿时候用AI给作者提了40个问题。
+
+结果最近 openreview 盲审系统的api出bug，任何人都能能获取用户实名信息，直接给他开盒了 😂 https://t.co/hMRIiA8AW9",https://x.com/0xAA_Science/status/1994359380054299040
+2009217009490522257,2026-01-08 18:53:59,orig,04_ai,5.12,1,41,1,25,25845,"1. 前两天我看杜兰特的采访，提到了他睡觉会听白噪音。正好我也难入睡，就做了“睡觉啦”，可以通过“混音”自定义白噪音。
+
+2. 今天，从小米离职的王腾公布了在筹备的创业公司，也是做睡眠相关的，叫“今日宜休”。
+
+未来AI会取代人类大部分的日常工作，大家有更多的时间睡觉，睡眠相关的产品需求也会上升。 https://t.co/ctr46f1NjX https://t.co/SLkxmEqtZy",https://x.com/0xAA_Science/status/2009217009490522257
+2070068613575504000,2026-06-25 16:56:32,orig,04_ai,5.08,1,60,2,83,16780,"我方注意到，近期 Anthropic 多次将蒸馏技术与所谓“非法行为”相提并论，对正常的机器学习技术进行无端污名化。
+
+我方敦促 Anthropic 立即停止对蒸馏技术的污名化，停止制造技术对立，共同维护开放、包容、合作的人工智能创新生态。 https://t.co/Z8tliZEpNP",https://x.com/0xAA_Science/status/2070068613575504000
+2018567310982934903,2026-02-03 14:08:44,orig,04_ai,5.03,0,203,17,16,97244,"我觉得 Clawdbot / Moltbot / OpenClaw 能成功的一个关键点，就是 Skill 机制。
+它把“工具”这件事直接变成一等公民，让 Agent 能非常快地上手和扩展能力。
+
+作者 @steipete 本人就是个工具狂热开发者，GitHub 主页挂着几十个自己写的工具项目。
+
+Clawdbot 内置了 60 个 https://t.co/jPiEpylISX",https://x.com/0xAA_Science/status/2018567310982934903
+2024934341571403826,2026-02-21 03:49:03,orig,04_ai,5.0,0,115,20,13,40595,"Vibe Coding Day 3
+
+Skill 是分布式的，分散在各个 GitHub repo 里面。但是除了 clawhub，其他聚合平台都没有开源全部的 skill 目录。
+
+今天，我爬取了 skillsmp, skills sh, clawhub 三个平台的 skill，去重后有 18万+ skill，放在 skill archive: https://t.co/NLtSJcsTHk
+
+vibeshit page: https://t.co/kmhfDAbVrY https://t.co/Pr8yy1t5Hv",https://x.com/0xAA_Science/status/2024934341571403826
+2070574662556561810,2026-06-27 02:27:23,orig,04_ai,4.92,0,77,4,24,39002,"OpenAI 发布了 GPT-5.6 系列，包含三个模型：
+Sol 对标 Claude Mythos
+Terra 对标 Claude Fable
+Luna 是个便宜的小模型，性能类似 GPT-5.5
+
+起名是在致敬 Web3 项目 Solana 和归零的 Luna，考虑 Altman 发过币圈项目 ethereum:0x163f8c2467924be0ae7b5347228cabf260318753 ，并不意外。 https://t.co/VmDqDpsA6s https://t.co/Bt34J1GmCg",https://x.com/0xAA_Science/status/2070574662556561810
+2040429915619889557,2026-04-04 22:02:55,orig,04_ai,4.89,1,27,2,17,11583,"Claude 发补偿了，你的套餐月费多少，就发多少的一次性信用额度（usage credit）。
+领取方法：
+- 登陆 https://t.co/ZXZ0UeUSlk 网页
+- 左下角 Settings -  Usage
+- 点击 Claim your credit，这一步需要绑信用卡。
+
+我的 max 新号发了 $200，不知道这次能坚持多久封。 https://t.co/BOBu4YnKg1",https://x.com/0xAA_Science/status/2040429915619889557
+2057110045071122576,2026-05-20 22:43:48,orig,04_ai,4.87,1,37,11,15,17561,"感谢分享，给你的 xAPI 转了 $66，请查收！
+也欢迎大家分享 https://t.co/gxoLsBZJJt 的用法/教程，写的好的我会转发，并发免费额度。
+
+其实 xAPI 不仅能帮你查僵尸粉，在 OAUTH 授权推特相关权限后，还能帮你发推/取关，入口在：
+https://t.co/D3lsBKTRBB
+
+@VibeShit_Org 就是完全由Agent自动发推的。 https://t.co/2y5Nry0h3a https://t.co/JxXOV1akld",https://x.com/0xAA_Science/status/2057110045071122576
+1871514997945434506,2024-12-24 19:15:21,orig,04_ai,4.86,0,146,53,21,12051,"2016年，Sci-Hub 创始人 Alexandra 被《自然》杂志评为年度十大科学人物。
+
+加州大学伯克利分校生物学家 Michael Eisen 评价：“无法获取科学文献是一种巨大的不公正，而她一举解决了这个问题。”
+
+PS: 今年诺贝尔化学奖得主 Demis Hassabis 也在那年的十大科学人物中。
+
+原文: https://t.co/3DZsJgR8ai https://t.co/4x1XE0HOCk",https://x.com/0xAA_Science/status/1871514997945434506
+2030837545920274657,2026-03-09 10:46:16,orig,04_ai,4.85,1,182,13,67,107678,"“靠龙虾挣钱了”
+“怎么挣得？”
+“买的龙虾币”
+🦞 https://t.co/tsYPd6rj7e",https://x.com/0xAA_Science/status/2030837545920274657
+2065731200296292759,2026-06-13 17:41:12,orig,04_ai,4.84,0,905,35,154,131455,Claude 开始蒸馏 GLM-5.2 了，很快会以 100x 的价格给大家用。,https://x.com/0xAA_Science/status/2065731200296292759
+1878480199228297444,2025-01-13 00:32:34,orig,04_ai,4.81,0,123,72,42,25468,"📢 $scihub 社区正在开发一个科学 AI Agents 架构：SCAI (SCientific AI)！✨ 
+
+SCAI 的目标是解决 LLM 在回答科学问题中的“幻觉”现象 (Hallucination)，让 AI 更好地服务科学研究，为科研工作者提供更精准可靠的工具。🌍🔬 
+
+在未来我们会公布关于 SCAI 的更多细节！👀 @SciHubFans https://t.co/PXMezrPrGd",https://x.com/0xAA_Science/status/1878480199228297444
+2026355339051114860,2026-02-25 01:55:35,orig,04_ai,4.79,1,20,2,9,9681,"Vibe Coding Day 6
+给 https://t.co/myyJpB0wPO 做了一个分享卡片，风格类似 GitHub，方便大家分享 vibe coding 项目。
+用到了:
+- Satori: 将 React 组件 转换为 SVG 图片
+- Yoga: Facebook 开源的布局引擎
+- Next/OG: 生成动态 OG 图片。
+
+感谢狼仔的设计建议！
+https://t.co/uk8vKzwVPL",https://x.com/0xAA_Science/status/2026355339051114860
+2076212387410256194,2026-07-12 15:49:41,orig,04_ai,4.78,0,895,37,463,793407,"这是我见过最傻逼的微博热搜：
+密云局长买10亿token手搓防汛APP https://t.co/6DsfXiSm8c",https://x.com/0xAA_Science/status/2076212387410256194
+2099864419710935450,2026-09-15 22:14:25,orig,04_ai,4.77,0,152,25,18,31148,"我们让每一个 Agent 都能免费用上 Web3 API 🤖
+
+联合币安钱包 @BinanceWallet ，xAPI 正式上线 Binance Web3 API，全部 58 个端点现已开放！🤝
+
+📊 行情 / 交易 / Meme / Stock
+🌐 多链覆盖
+💸 每次调用 $0，让 Agent 放手去干
+
+仅在 xAPI:  https://t.co/SFHUASJE2o
+@xapi_to https://t.co/sUqMGSqvvM https://t.co/MJo4RLmnWM",https://x.com/0xAA_Science/status/2099864419710935450
+1728888109377765729,2023-11-27 05:27:00,orig,04_ai,4.77,2,11,0,17,13181,有朋友建议我服用褪黑素，但褪黑素毕竟是激素，还是要先尝试其他手段。\n问了chatgpt，第一个建议是光照治疗：在当地的早上晒太阳，一会儿准备试一下。 ,https://x.com/0xAA_Science/status/1728888109377765729
+2071867846305456618,2026-06-30 16:06:02,orig,04_ai,4.76,1,35,1,18,14185,"龙虾 OpenClaw 🦞推出了App端，虽然UI很丑，我还是想测下的，毕竟买龙虾meme赚了钱。
+
+但我 Mac mini 上的龙虾怎么都没法正常运作 😂 看来团队拿了 OpenAI 一大笔钱，开始摆烂。
+如果你还在用龙虾，说明你已经out了。 https://t.co/z9FUQnvNbZ",https://x.com/0xAA_Science/status/2071867846305456618
+2064353199935602705,2026-06-09 22:25:31,orig,04_ai,4.74,0,150,9,146,89094,"DeepSeek 首次融资 500亿元，将建设AI数据中心，参投方：腾讯，宁德时代，网易，京东。
+
+4月份刚有融资传闻的时候，估值还是100亿美元。两个月过去了，估值直接翻6倍，飙升到600亿美元。
+最早说阿里要投，但是最后没投。我觉得也合理，因为有 Qwen 了，不比 DeepSeek 差。 https://t.co/IJMf4Si9Gv",https://x.com/0xAA_Science/status/2064353199935602705
+2061102963318563271,2026-05-31 23:10:14,orig,05_industry,11.56,7,364,31,184,82703,"这个我半年前创建的币安钱包，从2wu开始，终于在链上P到50wu了。
+
+今年链上比较枯，几波小行情我都有参与，但每次都没有吃满，还需努力：
+1. 马年新年
+2. cz出书
+3. 龙虾
+4. 宇宙狗 Asteroid
+
+6月感觉会有大行情，因为会有几件大事发生：
+1. SpaceX IPO
+2. 美加墨世界杯
+3. 币安美股新产品
+
+继续枯坐！ https://t.co/r33w9TSQE9",https://x.com/0xAA_Science/status/2061102963318563271
+1903286859473752296,2025-03-22 11:25:23,orig,05_industry,11.37,5,173,46,70,45158,"#Mubarak 前排筹码分析（Top 7）
+
+1. Bitget 热钱包 (10.2%)：用户共同持有
+2-3. Gate 冷/热钱包 (11.5%)：用户共同持有
+4. 币安钱包 (3.7%)：用户在交易所 alpha 购买的代币汇聚于此
+5. PancakeSwap 流动性池 (2.84%)
+6. 抹茶热钱包 (1.75%)：用户共同持有
+7. PancakeSwap 流动性池 (1.21%) https://t.co/hFJNtvZoYq",https://x.com/0xAA_Science/status/1903286859473752296
+1986645455334482281,2025-11-07 12:02:41,orig,05_industry,11.02,5,133,13,49,179815,"上个周期转熊的直接原因是连环爆雷，快速去杠杆：
+ 1. Luna/UST 崩盘，蒸发约 500 亿美元市值。
+2. 3AC 受 Luna 影响倒闭。
+3. CeFi 平台（Genesis/Voyager/BlockFi）连续爆雷：资金都借给 3AC 等高风险项目，归零了。
+4. FTX/Alemeda 挪用用户资金爆雷。
+
+刻舟求剑下，这个周期牛转熊的拼图：
+1.",https://x.com/0xAA_Science/status/1986645455334482281
+1894790334649114934,2025-02-27 00:43:13,orig,05_industry,10.74,6,78,11,24,52289,"Safe 多签钱包这么多，为什么黑客偏偏盯上了 bybit？
+我猜是因为 Bybit 的 safe 冷钱包持有的 ETH 排行第一，有40多万枚 ETH。
+
+bybit 被盗之后的 top 3:
+1. Bitfinex 冷钱包: 310k ETH
+2. vitalik 冷钱包: 240k ETH
+3. Bandit 黑客: 51k ETH
+
+教训：不要把鸡蛋放在一个冷钱包里。 https://t.co/ev3B7Q1iWb https://t.co/Qcdskmypza",https://x.com/0xAA_Science/status/1894790334649114934
+1759426000893702549,2024-02-19 11:53:00,orig,05_industry,10.65,1,198,48,41,85468,"简单统计了下，在 200+ 位WTF Academy 的贡献者中，约 50 位有 $STRK 空投资格，总共被分配了 306,532.7 $STRK （仅考虑GitHub，未包含用户/ECMP奖励），平均每人约 6,000 枚。对于学生来说，这可能是改变生活的一笔钱！\n这里，我给大家几点建议：\n\n1. 至少留50%的 STRK 参与Starknet生态发展，比如质押、作为gas与生态项目交互：有很多优秀项目在飞速发展，比如 @EkuboProtocol @KakarotZkEvm 。功利的说，我相信它们也会通过空投回馈用户。\n\n2. 花时间学习Cairo：很多贡献者是通过 WTF Solidity 拿到空投，并不了解Cairo。你可以通过 @eniwhere_ 的 Cairo Book, @shrameetweets 的 Starklings，或我的WTF Cairo了解它。\n\n3. 继续参与Starknet建设：我们会在维护 WTF Starknet，WTF Cairo，Starknet中文训练营的基础上，在 Starknet 上尝试更多可能；同时，你也可以在 @OnlyDust_com 平台上寻找更多的开源项目，参与贡献。\n\n4. 把投票权委托给我，间接参与Starknet治理，并实现我做链上议员的梦想：在领取页时会有个委托投票页面，搜索 0xAA 就可以。\n\n5. 开发者会越来越受到重视：Starknet的空投是区块链史上最重视开发者的一次，给10w名参与开源项目的开发者发了空投，我相信这在未来会成为常态。但同时也出现了GitHub女巫，大量提交低质量和改typo的pr来博取空投。今年 @WTFAcademy_ 会尝试做一款产品来区分GitHub女巫和真正的开源开发者，欢迎大家贡献。\n\n最后，感谢大家对 @WTFAcademy_  的支持和贡献，感谢 @Starknet 的认可，这只是开始！",https://x.com/0xAA_Science/status/1759426000893702549
+1909105108052517226,2025-04-07 12:45:01,orig,05_industry,9.69,6,98,11,20,27283,"0xAA 币圈五原则，这个周期依然适用：
+1. 不开杠杆
+2. 不借钱炒币
+3. 搭建个人品牌
+4. 留好至少2-3年生活费
+5. 积累技术 https://t.co/ijyWQ4WDn7",https://x.com/0xAA_Science/status/1909105108052517226
+1976311883834720736,2025-10-09 23:40:45,orig,05_industry,9.38,4,193,65,22,67232,"如何使用币安钱包网页版的监控模块，第一时间获取推特信息？
+1. 点击顶部导航栏的 监控 按钮，进入监控模块。
+2. 左半栏是监控钱包，添加要关注的链上聪明钱地址；右边是社交跟踪，添加要追踪的推特，比如 @cz_binance @heyibinance 
+3. 添加好后，切换到 https://t.co/gCDWLFBL2X https://t.co/47VoMWKAWt",https://x.com/0xAA_Science/status/1976311883834720736
+1883091951676997987,2025-01-25 17:58:02,orig,05_industry,9.24,5,27,2,21,13659,"我依然看好以太坊，但目前路线图交付没达预期，用户和开发者流失严重（我做开发者社区的，最清楚）。
+即使目前修改路线图，这个周期的机会也不多了。
+希望下个周期 @VitalikButerin 可以吸取教训，把用户放在首位制定路线图，不要搞虚头巴脑。",https://x.com/0xAA_Science/status/1883091951676997987
+1845270753438203980,2024-10-13 09:10:05,orig,05_industry,9.08,4,73,6,29,37047,"这次迪拜之旅的一些心得，不一定对：
+1. 在迪拜吃了两次中餐，都挺好吃；dubai mall里有china town，很方便，并且质量不错。
+2. 有工作签才能办银行卡，需要注册公司或者找中介（1000u/年）。
+3. 监管挺松的，无为而治，发币没人管，但赌博目前不合法（听说之后会开放）。
+4. https://t.co/cmywyBfK3Y",https://x.com/0xAA_Science/status/1845270753438203980
+1894789797325238732,2025-02-27 00:41:05,orig,05_industry,8.78,6,2,0,0,1349,"Safe 多签钱包这么多，为什么黑客偏偏盯上了 bybit？
+我猜是因为 Bybit 的 safe 冷钱包持有的 ETH 排行第一，有40多万枚 ETH。
+
+bybit 被盗之后的 top 5:
+1. Bitfinex 冷钱包: 310k ETH
+2. vitalik 冷钱包: 240k ETH
+3. Bandit 黑客: 51k ETH
+4. 未知钱包 33.5k ETH
+5. 位置钱包 33.4k ETH https://t.co/5SG4muFP9X https://t.co/Qcdskmypza",https://x.com/0xAA_Science/status/1894789797325238732
+1975479794579218908,2025-10-07 16:34:20,orig,05_industry,8.77,3,480,116,40,93410,"BSC MEME 教程
+相比SOL，BSC上的玩法其实更简单，更直接。
+
+1. BSC meme概念几乎都是出自cz/一姐/币安，要密切关注几个推特账号：
+@cz_binance 
+@heyibinance 
+@binance 
+@BNBCHAIN 
+要保证新推1秒内看到，老推（3年内）要能熟练背诵。
+
+2.",https://x.com/0xAA_Science/status/1975479794579218908
+1590743303150239744,2022-11-11 00:28:00,orig,05_industry,8.67,3,569,158,47,0,币圈不缺奇迹，更不缺爆雷，笑到最后才是英雄。\n分享几条让我在 luna，3ac，ftx 爆雷时几乎不受影响的5条原则，希望能让你在 #web3 走的更远。\nA thread🧵\n👇👇👇,https://x.com/0xAA_Science/status/1590743303150239744
+1881698580903362763,2025-01-21 21:41:16,orig,05_industry,8.65,4,49,2,14,13806,"给我p了个大头，还挺萌。
+在 OKX 越南接受 @Mercy_okx 的采访，主要聊了三个问题：
+1. 什么时候入圈的：2017年
+2. 怎么看 OKX Dex: 钱包很好用，OKX战略眼光非常好，有 All In 链上的勇气，值得我们学习。
+3. DeSci 和 AI 是未来。 https://t.co/PJHtS1A0WY",https://x.com/0xAA_Science/status/1881698580903362763
+1590189373471232000,2022-11-09 11:47:00,orig,05_industry,8.5,3,276,67,23,0,为什么我认为 Amber Group 已接近爆雷，附带信息来源。\n\nAmber Group是知名加密做市商，今年2月刚刚以30亿美元估值融资2亿。但在目前动荡的市场中，以下几点表明 Amber Group 缺乏流动资金\n\nA Thread🧵,https://x.com/0xAA_Science/status/1590189373471232000
+1925015062634434965,2025-05-21 10:25:30,orig,05_industry,8.31,4,24,3,24,14494,"简单辟个谣，图里新闻是编的
+1. 没有“全行金融科技研讨会”，不过2025年4月27号的确有一个“第四届银行金融科技公司研讨会”。
+2. 不是上周四，而是一个周日。
+3. 央行行长潘胜功没有参与这次会议，参与的是央行科技司司长。
+4. 该会议的通稿可以在新华社找到，没写到加密货币: https://t.co/4cGaX9K87d https://t.co/DcmqM0ewSf https://t.co/tuy1St2pQU",https://x.com/0xAA_Science/status/1925015062634434965
+2025261385702408667,2026-02-22 01:28:36,orig,05_industry,8.2,2,645,150,41,144775,"强烈建议币圈的朋友去香港的时候都顺边开一个 ZA Bank（众安银行） 的香港账户。
+
+我年前去香港开会时注册了一个，体验很好，全程线上，不用跑线下银行。并且很实用，可以：
+1️⃣ 合规从币安等交易所出金到银行（港币）
+2️⃣ 领取 X（Twitter）创作者分成
+3️⃣ 交易港股 / 美股（目前开户成功送 100 https://t.co/8DOK5ynOYB",https://x.com/0xAA_Science/status/2025261385702408667
+1844095190107291671,2024-10-10 03:18:49,orig,05_industry,8.13,4,45,1,30,59348,"到迪拜了，希望这几天我能搞清：
+1. 有没有好吃的中餐？
+2. 银行卡好不好办？
+3. 对加密货币监管是不是真的松？发币/赌博是否合？
+4. 这边的基金投不投币圈项目？ https://t.co/2Nxzu4qNSf https://t.co/6V0GDx9G7B",https://x.com/0xAA_Science/status/1844095190107291671
+1781150409522135427,2024-04-19 10:38:44,orig,05_industry,7.87,3,42,1,18,31046,"想到了一个RWA项目用 1 BTC 套娃 TVL 10,000 BTC（600亿u）的方法。
+该项目“声称”将用户质押的 BTC 在 A 中心化交易所生息。
+1. 质押 1 BTC 得到 1 aBTC，此时 TVL 1 BTC。
+2. 将质押得到的 1 BTC 存入 A 交易所，随后取出，再质押到项目中，此时TVL翻倍。
+重复10000次。
+如有雷同，纯属巧合😂 https://t.co/GeJQXyUUUb",https://x.com/0xAA_Science/status/1781150409522135427
+1977035199751110870,2025-10-11 23:34:57,orig,05_industry,7.76,2,490,84,73,131170,"复盘1011暴跌：我的视角
+1. 前奏
+昨天一天一切看似风平浪静。
+晚上11点左右，川普在 Truth Social 上宣布要“重启中美贸易战”，并计划增加关税。市场开始阴跌，但还没完全恐慌。
+听完cz的直播，我盯盘到三点半才睡，但是睡的不踏实。
+
+05:00 - https://t.co/PVLH83nenj https://t.co/XUDnFlEW3C",https://x.com/0xAA_Science/status/1977035199751110870
+2111730234819289474,2026-10-18 16:04:56,orig,05_industry,7.72,3,51,6,30,11846,"最近 Starknet 在做是否应该成为后量子 L1 的民意调查，我投了赞成票：
+1. 以太坊核心路线图已经没有 L2。
+2. Starknet 团队的研究和开发能力足够支撑做独立的 L1（缺少的是营销和勾兑资本的能力）。
+
+https://t.co/kGPkVKiKbe
+
+目前 $STRK 币价的压力主要来自团队和VC的解锁：每月15号解锁~ 1.3亿 https://t.co/mePicMhILS",https://x.com/0xAA_Science/status/2111730234819289474
+1591456480989184000,2022-11-12 23:42:00,orig,05_industry,7.62,3,35,9,8,0,1/\ncz 为什么会捅出 ftx 的问题？将 sbf 置于死地？我觉得有这 6 个动机：\nA Thread🧵\n\n1. 看了 alameda research 爆出的资产负债表，有挪用资金的风险会影响 ftx，进而影响 binance labs 持有的 ftt 资产。\n\nsource: https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/\n\n#binance #FTXbankruptcy #FTX,https://x.com/0xAA_Science/status/1591456480989184000
+1946052405608808865,2025-07-18 11:40:24,orig,05_industry,7.61,3,34,1,22,47306,"我觉得这轮 ETH 技术上没有什么突破，上涨逻辑很简单：
+1. BTC 给力，不断创新高。
+2. 核心圈给力，在美股搞了 SBET 等类似ETH微策略，不断买入ETH。
+3. 以太坊基金会在改革，持有的ETH不再砸盘卖出，而是走OTC，减少抛压。
+
+买盘增大，卖盘减少 -&gt; 价格上升。
+
+我会在4000逐步获利了解，ETH可能新高 https://t.co/zwsMTabaZm https://t.co/d03EEge21W",https://x.com/0xAA_Science/status/1946052405608808865
+1892972212023677293,2025-02-22 00:18:39,orig,05_industry,7.31,2,188,18,52,137657,"很多人在 bybit ETH 被盗之后都说要做空 ETH，但我觉得该事件并不利空 ETH 价格：
+1. 因为 ETH 是除 BTC 以外最去中心化的资产，黑客会持有 ETH，而不是砸盘，相当于锁仓。有个玩笑说 ETH 在黑客手里比在 EF 手里安全，很应景 😂
+2. Ben Zhou 说 bybit",https://x.com/0xAA_Science/status/1892972212023677293
+1595738551861190656,2022-11-24 19:18:00,orig,05_industry,7.28,3,75,20,31,0,Coinlist可能受3AC和DCG的影响爆雷\n\n我接到粉丝的爆料，近几日投资者已无法从 @CoinList 上提币，官方也没有任何公告。\n总结一下目前的信息。\nA Thread 🧵 ,https://x.com/0xAA_Science/status/1595738551861190656
+1745705732715266508,2024-01-12 15:14:00,orig,05_industry,7.15,3,32,0,16,29214,Uri是家人生病需要陪伴，不得不离开StarkWare。我记得新冠有一年，他因为同样的原因休息了一年。\n大家不要恶意揣测，我相信StarkWare和Starknet会继续发展。\n撸毛党不要把对项目没空投的怨恨上升到人身攻击，骂项目可以，骂人真没必要。,https://x.com/0xAA_Science/status/1745705732715266508
+1907612892737970684,2025-04-03 09:55:30,orig,05_industry,6.95,3,21,3,21,47921,"美国宣布加征关税后，A股没跌反而翻红。
+我也很乐观，原因如下：
+1. 这次美国加税面向多个国家，不再针对中国，对中国反而是利好。
+2. 中国的关税本就处于高位，边际影响有限。
+3. 普遍加税对美国消费者打击更大，川普更多是在bluff，意在借势谈判，降低对美国的关税。 https://t.co/4BSwuUuivl",https://x.com/0xAA_Science/status/1907612892737970684
+2045734794668147170,2026-04-19 13:22:37,orig,05_industry,6.93,3,93,4,39,43149,"我心中meme能量排行前3的人：
+1. 川普 @realDonaldTrump
+2. 马斯克 @elonmusk
+3. CZ @cz_binance https://t.co/DTlYQeqHnf",https://x.com/0xAA_Science/status/2045734794668147170
+1834111513659162867,2024-09-12 14:07:15,orig,05_industry,6.93,2,181,8,99,64004,"我很讨厌借给别人钱，因为绝大多数人不能按时还钱。如果是朋友的话，你还不好问人家要。况且目前花呗/银行现金贷非常松，完全可以满足着急用钱的情况。
+
+所以当别人问我借钱的时候，我的借口是：
+1. 钱都存定期了
+2. 钱都在币圈质押了",https://x.com/0xAA_Science/status/1834111513659162867
+1980192719747309892,2025-10-20 16:41:49,orig,05_industry,6.89,2,111,4,33,84836,"Peter 是 2015 年就加入以太坊的核心开发者，负责 GETH 的开发和维护。GETH 是以太坊最成功的节点客户端，在几乎所有EVM链（包括BSC）广泛使用。
+他在公开信指出了以太坊最令他失望的3点：
+1. 他在基金会外部被塑造为领导者，但是内部却被边缘化，没人der他。
+2. https://t.co/WPpqsASAox https://t.co/h73rHUeNPI",https://x.com/0xAA_Science/status/1980192719747309892
+1884146422922240069,2025-01-28 15:48:07,orig,05_industry,6.78,2,78,6,23,30582,"收到 @okx 发的奖杯了，感谢！ 🏆
+我和 OKX 其实很有缘分。
+1. 上个牛市，OKX 是第一个上线 $PEOPLE 的一线大所，赢得了很多用户，同时为我和所有 holder 带来了财富。 @The_PeopleDAO 
+
+https://t.co/feJRCpIMG5
+
+2. 去年 $STRK TGE 时，OKX 犯了一个低级错误，误把 Starknet 充值地址（64位）写成 https://t.co/0AhH9KOJlk",https://x.com/0xAA_Science/status/1884146422922240069
+2013469079710155060,2026-01-20 12:30:11,orig,05_industry,6.72,2,99,7,92,61216,"不知道币安哪里找的土狗阿三项目 Genius。
+我早上看还是 2w 分，准备充点钱开始刷量，中午醒来就清零了。
+一问群友，说项目方临时改了规则：
+1. 邀请积分清零
+2. 大量积分给了1月19日之前刷的用户，估计大部分是项目方老鼠仓。
+这么没格局的项目，不玩也罢。 https://t.co/ZSGSdHEbiG https://t.co/IEw9YPS0m9",https://x.com/0xAA_Science/status/2013469079710155060
+1857289653063413878,2024-11-15 13:08:54,orig,05_industry,6.67,2,72,6,53,137908,"尽管以太坊和 Solana 的市场定位不同，但 L2 的市场定位却与 Solana 相似。
+
+即使 L2 项目方在过去四年里努力按照路线图推出了 OP 和 zk Rollup，仍没法与 Solana 竞争，这表明以太坊在路线图和优先级设定上存在问题。
+
+此外，说以太坊比比特币更去中心化，要脸不？ https://t.co/CDxT0a54XU https://t.co/dVjUUnGTQJ",https://x.com/0xAA_Science/status/1857289653063413878
+1585466665432539136,2022-10-27 11:01:00,orig,05_industry,6.67,1,325,159,25,0,🪂空投机会🪂\n1/\nScroll是由以太坊基金会支持的以太坊原生zkevm layer2解决方案，最近一轮融资$3000万。目前在pre-alpha内测阶段，预计年底开放公测。\n\n目前内测资格需要申请，收到确认邮件可以开始交互。\n\n测试网交互5分钟内搞定，简单总结下，公测估计也用得上。\n@Scroll_ZKP #Airdrop #Ethereum ,https://x.com/0xAA_Science/status/1585466665432539136
+1625060477733847040,2023-02-13 17:13:00,orig,05_industry,6.59,2,78,14,16,88180,1/4\n今天最大的新闻可能就是Paxos接到纽约监管部门命令，禁止发行新的 BUSD。币安也证实了这个传闻。\n目前BUSD市值 $161亿，排名第7，介于XRP和ADA之间，停止铸造会有什么影响？\nA Thread 🧵\n#BUSD #Web3 #Binance,https://x.com/0xAA_Science/status/1625060477733847040
+1889926074441802244,2025-02-13 14:34:23,orig,05_industry,6.57,3,50,5,16,75616,"我心中meme能量排行前3的人：
+1. Trump @realDonaldTrump
+2. Elon @elonmusk
+3. CZ @cz_binance",https://x.com/0xAA_Science/status/1889926074441802244
+1756982987856683147,2024-02-12 18:06:00,orig,05_industry,6.48,2,39,5,16,33094,之前出事的跨链项目multichain（原anyswap）要被币安下架了，2月20号。\n我依稀记得multichain上一轮6000w u的融资，binance labs还是领投，看来这个项目真的是凉了。\n有几个知情人跟我说过是涉及洗钱，人还在局子里，之后估计会上cctv（反面教材）。\n还在国内的从业者保护好自己，不要碰红线 🙏 ,https://x.com/0xAA_Science/status/1756982987856683147
+1869335098539291125,2024-12-18 18:53:12,orig,05_industry,6.4,2,50,2,9,32611,"虽然神鱼说这个周期没有山寨季，被喷的很惨。但其实我的观点和他差不多，认为山寨季规模会小很多：
+1. 钱包越来越好用，链上代币发放平台越来越标准，更多用户选择链上交易。DEX 超越 CEX 或在这个周期达成。
+2. BTC 和 ETH ETF 发行后，部分投资者获利会换仓美股，而不是山寨。 @KiwiCryptoBig https://t.co/W1GV7EvyGg",https://x.com/0xAA_Science/status/1869335098539291125
+2002788453000561147,2025-12-22 01:09:11,orig,05_industry,6.33,1,200,37,68,50086,"为什么 x402 必然成功？
+
+- 真实且巨大的需求：稳定币支付
+
+- 生态位空缺：目前不存在一个被广泛采用的链上支付标准
+
+- HTTP原生：不发明新协议，直接使用 HTTP 402，迁移成本低
+
+- 有影响力的开发团队：核心团队来自 Coinbase。第二大稳定币 USDC 发行商 Circle 是自家小弟，深度绑定。原型在自家的 https://t.co/7aptIsMSMC",https://x.com/0xAA_Science/status/2002788453000561147
+1904194054210076924,2025-03-24 23:30:15,orig,05_industry,6.32,2,66,4,42,32181,"这一条有歧义：公告前已上線交易所的代幣將不符合獎勵資格。
+1. 公告前上了任何一个交易所的代币不能参加奖励计划。
+2. 代币在公告前上的交易所不能领奖励，但是公告后上的可以领。
+1还是2？ #mubarak 公告后上交易所是否能领奖励？ https://t.co/1C4SK0M8dB https://t.co/wnu1UoFfgr",https://x.com/0xAA_Science/status/1904194054210076924
+2027721485922807969,2026-02-28 20:24:10,orig,05_industry,6.2,2,36,1,33,43698,"复盘了下 Freedom of Money，发现我是去年最后一天（12.31）买的，拿了俩月。
+当时有群友问我怎么卖了又买回来
+我就是觉得区块链的本质就是增加金钱的自由，没想到 @cz_binance 后来把它选作自传的英文名了 😂
+
+欢迎大家绑我的币安钱包邀请码: XYO1V68R ，发我截图，进群一起打狗！ https://t.co/xjQ7PU84UY https://t.co/rlUWdp53Z5",https://x.com/0xAA_Science/status/2027721485922807969
+1566683912012673025,2022-09-05 15:05:00,orig,05_industry,6.2,1,599,60,139,0,web3有这么一群人，做项目发币割韭菜，快速完成资本原始积累，然后开个基金/VC，继续做资方收个行业红利。\n\n有时间我会总结一下这些项目方/资本，也欢迎大家留言。,https://x.com/0xAA_Science/status/1566683912012673025
+2060694007915929741,2026-05-30 20:05:11,orig,05_industry,6.18,1,136,21,96,101246,"币安新美股产品畅想（瞎扯版）
+
+昨天币安产品预告图有两种解读：
+- 一堆干草 -&gt; Stock -&gt; 股票
+- 干草垛 -&gt; Haystack -&gt; Hey Stock
+结合最近的市场热点，新产品基本可以确定是币安股票/美股。这里我畅想产品的4种形态，分别对应不及预期 - 远超预期。
+
+1. 不及预期：为现有股票产品提供统一入口 https://t.co/0AMcWftwKz https://t.co/JjDyUjTvPj",https://x.com/0xAA_Science/status/2060694007915929741
+1634412291935580160,2023-03-11 12:33:00,orig,05_industry,6.13,1,139,27,31,94296,有粉丝和我说在稳定币搬砖的时候，滑点开大了，150 USDC 变成 79 USDT，亏了70u，有没有救？\n没有，就当交学费了，每次swap前注意滑点。\n\n接下来这位冤种就不一样了，看USDC脱锚了着急，价值 200w u 的 3Crv LP 没解质押，直接在 Uniswap 交易换来 0.05 u，归零了。利润都让套利机器人赚了。😂 ,https://x.com/0xAA_Science/status/1634412291935580160
+1987083268475527383,2025-11-08 17:02:24,orig,05_industry,6.1,2,54,0,65,31277,"我建议 cz 和一姐助攻 meme 到上币安就足够，上了之后就看社区发挥。
+有时候社区道德绑架 cz/一姐，就真的能绑架成功。
+
+帮多了反而会有失公平，比如：
+为什么一些 meme 的手续费回购销毁/捐赠，其他不行呢？
+
+@cz_binance @heyibinance",https://x.com/0xAA_Science/status/1987083268475527383
+1874744576197759051,2025-01-02 17:08:32,orig,05_industry,6.01,3,18,1,18,9060,"以太坊基金会需要改革：
+1. 限制中心化力量
+2. 改革基金会收入结构
+3. 人事招聘需要更加透明
+https://t.co/odrB6nSUwh https://t.co/z2UyOsRusd",https://x.com/0xAA_Science/status/1874744576197759051
+1859057999576527350,2024-11-20 10:15:41,orig,05_industry,6.0,0,151,28,31,33272,"We are up against a despicable, organized cabal of eunuchs—a conspiracy like no other. They include:  
+- A former co-founder of Huobi.  
+- A certain VC founder.  
+- Their “close friends” strategically planted near Vitalik.  
+- Puppet projects they’ve propped up.  
+- Puppet https://t.co/MUxeC58lXw https://t.co/cLBpcF2nSD",https://x.com/0xAA_Science/status/1859057999576527350
+1867082904775561251,2024-12-12 13:43:47,orig,05_industry,5.93,1,214,57,75,60972,"$SciHub 正式登陆 CMC！ 
+链接: https://t.co/lKx6Dc1Gcf
+
+我记得币安之前说过 @CoinMarketCap 用户量很大，可以收很多钱，但是为了用户和项目方免费运营。
+但实际情况是， $SciHub 免费渠道申请了近一个月没有动静，最后交了 5000u 24小时内就给上了。希望严查！ @heyibinance @cz_binance https://t.co/W8Ol7n9RjN",https://x.com/0xAA_Science/status/1867082904775561251
+1558399691154345984,2022-08-13 18:26:00,orig,05_industry,5.85,1,107,56,56,0,如何利用 $PEOPLE 获取以太坊分叉的糖果空投。\n1. 将 $PEOPLE 提到钱包。\n2. 等到ETH-POW分叉时，在分叉链上会有一个 $PEOPLE 代币。\n3. 在分叉链和juicebox的退款合约交互，将分叉链上的 $PEOPLE 退款，换成ETH-POW。\n4. 将ETH-POW提到交易所卖出。 ,https://x.com/0xAA_Science/status/1558399691154345984
+2011317669807714599,2026-01-14 14:01:15,orig,05_industry,5.84,1,114,22,27,80293,"币安昨天宣布投了 Genius Terminal，并且cz还去当顾问了。 @GeniusTerminal 
+Genius 是一个bot工具，类似 axiom，能交易meme和合约。功能和币安钱包web版有重合，但不需要KYC，可以拓展欧美用户。
+还没发币，但发了估计能上币安，大家刷起来。
+目前活动期间 0 平台费，有两种积分获取方法：
+- https://t.co/NPxfWssZWv",https://x.com/0xAA_Science/status/2011317669807714599
+1848749026633781691,2024-10-22 23:31:30,orig,05_industry,5.84,1,137,11,54,82444,"两年前立的flag，今天都实现了，但我也高兴不起来。
+
+两年前，以太坊的 L2 两只手都数的出来，现在已经快 200 条了。
+
+但以太坊真的变得更好了么？我觉得没有，原因是以 rollup 为中心的路线图有大问题：过于注重短期提升 TPS，而忽视了互操作性。2020 年 vitalik https://t.co/BDkD5SqGbq https://t.co/g42eVCoVlh",https://x.com/0xAA_Science/status/1848749026633781691
+2036769080158593029,2026-03-25 19:36:04,orig,05_industry,5.79,1,192,21,29,49597,"PolyWorld 发布 48 小时，5,000+ 用户访问，GitHub 100⭐
+
+应大家的要求，我们上线了中文支持，在设置中一键切换！现在你可以用中文追踪全球预测市场，看""聪明钱""如何用真金白银判断世界大事的走向。
+
+ 网站: https://t.co/U8tUFPaOko
+ @Polymarket @PolyWorld_bet https://t.co/5lSpAqpyn9 https://t.co/7ZzEfz2fSQ",https://x.com/0xAA_Science/status/2036769080158593029
+1893208922338554077,2025-02-22 15:59:15,orig,05_industry,5.7,1,123,9,59,59729,"根据 Defillama 数据，Bybit 过去 24 小时流出 52 亿美元资产，约占其加密资产总额的 30%。
+我记得昨晚睡前还只是 20 亿，说明挤兑仍在持续。
+不得不佩服 Bybit，没几个传统金融机构（比如银行）能扛住这种规模的挤兑，它却挺住了。
+Source: https://t.co/K2rH7flccO https://t.co/AaLRsTjCJb",https://x.com/0xAA_Science/status/1893208922338554077
+1978018991395459102,2025-10-14 16:44:12,orig,05_industry,5.65,0,645,111,221,208959,"聊一聊币安《修改K线》事件
+
+我是币安的 8 年用户，这次大跌我没有亏损，但我必须说，币安这次《修改K线》的处理方式非常不妥，已经严重影响了品牌的公信力。
+
+其实几天前我就看到币安公告，说部分 K 线数据异常、后续会修正。但没想到修改得这么草率。比如下图的 $ATOM ，修改前最低价是 https://t.co/xwlEGZxnOO",https://x.com/0xAA_Science/status/1978018991395459102
+2036107709070946508,2026-03-23 23:48:01,orig,05_industry,5.62,0,833,146,63,234342,"受 WorldMonitor 启发，我做了一个 Polymarket 世界看板： PolyWorld 
+
+有了 PolyWorld，你可以实时看到世界上重大事件对应的预测市场，以及“内幕人士”对事件真实概率的判断，掌握时代脉搏。
+
+网站: https://t.co/U8tUFPaOko
+开源: https://t.co/DOaaHC5qHi
+@Polymarket @PolyWorld_bet https://t.co/7QOUy4BI20",https://x.com/0xAA_Science/status/2036107709070946508
+1976194420715421922,2025-10-09 15:54:00,orig,05_industry,5.56,2,27,2,8,22830,"一个大家使用币安钱包要注意的点，有时候网页链接不稳定，点击买入/卖出，会转圈圈读秒。
+其实这时候很可能交易已经发出去了，但是页面接收不到成功上链的信息。所以不要点击多次买入，这样会导致买入多笔交易。 https://t.co/WklioHOXjX https://t.co/UfjC18elG1",https://x.com/0xAA_Science/status/1976194420715421922
+1851954951439945792,2024-10-31 19:50:42,orig,05_industry,5.51,1,242,74,10,50277,"比特币白皮书发布整整 16 年了！🎂
+而你，我的朋友，才是真正的中本聪！
+一定要读一遍比特币白皮书，纪念一下这个历史性的一天！
+
+中文: https://t.co/Pxn7WWmxbw
+en: https://t.co/1oMdWn4WJm https://t.co/MTjn70DRbX",https://x.com/0xAA_Science/status/1851954951439945792
+1956266009918365811,2025-08-15 16:05:37,orig,05_industry,5.48,0,629,128,64,282119,"OKX 上个月开源了他们新版本的 Solana 路由合约，听说很多交易所和钱包的路由也是参考它做的，玩链上套利和bot的朋友可以学习下。
+目前开源的solana路由很少，比如 jupiter 就没开源。
+给 OKX 的开源精神点赞 👍 
+@wallet @okxchinese @star_okx 
+repo: https://t.co/jpoA8cg8HT https://t.co/IqK4Z7Xv42",https://x.com/0xAA_Science/status/1956266009918365811
+2088961574690341156,2026-08-16 20:10:25,orig,05_industry,5.47,1,61,5,35,50850,"今天 cz 销毁了4444 枚 Marscoin，但不是 50M 市值已经上alpha的 @flapdotsh 台子的 Marscoin，而是只有几十万市值给cz打70%币的 Four meme 台子的 Marscoin。
+骚操作之后，目前 four 台子上的 Marscoin 暴涨到 20M。 😂
+
+建议大表哥把私钥给我，我帮你操作 @cz_binance https://t.co/ZM8mXBgr11",https://x.com/0xAA_Science/status/2088961574690341156
+1591262475449937921,2022-11-12 10:51:00,orig,05_industry,5.46,1,72,11,23,0,币安有没有可能挪用用户资金？完全有可能。拿 用户的币/提前解锁自己锁仓的币 砸盘我不信币安没干过。\n币圈缺乏监管，让交易所自我监管，是不可能的。投资者必须能找到去中心的方法审查交易所资金，然后用脚投票。\nCeFi目前是个黑箱，一定会被DeFi取代。\n在币圈我谁也不信，只相信我自己的判断。,https://x.com/0xAA_Science/status/1591262475449937921
+2011346836859289767,2026-01-14 15:57:00,orig,05_industry,5.45,0,128,15,36,61191,以前总听说 Polymarket 是内幕信息的最佳套利平台，这次算是真切体会了一把。\n上周看到 BlockBeats 提到，内幕钱包在 Polymarket 上押注【以色列打击伊朗】，我也跟了 600u 尝试下。\n果不其然，最近美/以准备对伊朗动手的相关新闻明显变多，盘口也从 28% 一路涨到 42%，目前收益 +50%。\n\nPolymarket 之前暗示过要发币，欢迎大家走我的链接刷空投（福利还不知道，可能是积分，也可能是手续费减免）: \nhttps://polymarket.com?via=0xaa,https://x.com/0xAA_Science/status/2011346836859289767

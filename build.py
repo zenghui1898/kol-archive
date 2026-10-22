@@ -64,6 +64,12 @@ details{margin:12px 0}summary{cursor:pointer;font-weight:600;color:var(--amberh)
 .twbar label{font-size:14px;color:var(--sub);cursor:pointer}.twbar button{font:inherit;font-size:13px;padding:4px 12px;border:1px solid var(--bd);border-radius:99px;background:#fff;color:var(--amberh);cursor:pointer}
 .twbar button:hover{border-color:var(--amber)}details.mon{border-top:1px solid var(--bdl);padding:6px 0;margin:0}details.mon>summary{font-family:var(--serif);font-size:17px;padding:4px 0}
 .kd{padding:0 7px;border-radius:99px;font-size:12px}.kd-orig{background:var(--amberl);color:var(--amberh)}.kd-reply{background:var(--bg2);color:var(--sub)}.kd-rt{background:#DCFCE7;color:var(--green)}
+.wrap.wide{max-width:1240px}.hbwrap{display:grid;grid-template-columns:230px 1fr;gap:22px}.toc{position:sticky;top:12px;align-self:start;max-height:94vh;overflow:auto;font-size:13px;background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px}.toc a{display:block;text-decoration:none;padding:2px 0}.toc .tv{font-weight:600;margin-top:6px}.toc .tt{color:var(--sub);padding-left:8px}
+.vk{font-family:var(--serif);color:var(--gold);font-size:13px;letter-spacing:2px}.topic{border-top:1px solid var(--bdl);padding:14px 0}.topic h4{font-size:14px;color:var(--amberh);margin:8px 0 4px}.topic ul{padding-left:20px}.rf{font-size:12px;text-decoration:none}
+blockquote.q{border-left:3px solid var(--amber);background:var(--card2);padding:8px 12px;margin:8px 0}blockquote.q p{white-space:pre-wrap}
+.brow{display:grid;grid-template-columns:50px 1fr 50px;gap:8px;align-items:center;margin:4px 0}.bar{display:flex;height:16px;border-radius:4px;overflow:hidden;background:var(--bg2)}.bar span{display:block;height:100%}.leg{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;margin-top:8px}.leg i{display:inline-block;width:10px;height:10px;margin-right:4px;border-radius:2px}
+#twd{font:inherit;font-size:13px;padding:4px 8px;border:1px solid var(--bd);border-radius:99px}
+@media(max-width:860px){.hbwrap{grid-template-columns:1fr}.toc{position:static;max-height:none}}
 footer{text-align:center;color:var(--mut);font-size:13px;padding:30px}"""
 FONTS = '<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Plus+Jakarta+Sans:wght@400;600&family=Noto+Serif+SC:wght@500;700;900&display=swap" rel="stylesheet">'
 
@@ -104,6 +110,7 @@ def tweets_html(d):
             '<label><input type="checkbox" class="twk" value="orig" checked> 原创</label>'
             '<label><input type="checkbox" class="twk" value="reply" checked> 回复</label>'
             '<label><input type="checkbox" class="twk" value="rt" checked> 转推</label>'
+            '<select id="twd"><option value="">全部领域</option><option value="01">Solidity/开发教育</option><option value="02">安全/救援</option><option value="03">Meme 实战</option><option value="04">AI/Agent</option><option value="05">交易所/行业</option><option value="06">抽奖/活动</option><option value="07">日常/回复</option></select>'
             '<button type="button" id="twexp">全部展开</button><button type="button" id="twcol">全部折叠</button>'
             '<span id="twn" class="mut"></span></div>')
     body = [f'<div id="tl" data-src="data/{name}">']
@@ -132,8 +139,8 @@ const kind=t=>{const ty=(t.referenced_tweets||[]).map(r=>r.type);if(t.is_retweet
 let byM={},data=[];
 const item=t=>{const k=t._k,pm=t.public_metrics||{},q=(t.is_quote||(t.referenced_tweets||[]).some(r=>r.type==='quoted'))?' · 引用':'';
  return `<div class="tw" data-k="${k}"><div class="mut">${bj(t.created_at)} 北京时间 · <span class="kd kd-${k}">${KL[k]}</span>${q} · ❤ ${pm.like_count||0} · 🔁 ${pm.retweet_count||0} · 👁 ${pm.impression_count||0} · <a href="https://x.com/i/status/${t.id}" target="_blank">原帖</a></div><p>${esc(t.text)}</p></div>`;};
-const state=()=>({q:document.getElementById('twq').value.trim().toLowerCase(),ks:[...document.querySelectorAll('.twk:checked')].map(x=>x.value)});
-const match=(t,s)=>s.ks.includes(t._k)&&(!s.q||t._l.includes(s.q));
+const DM={};const state=()=>({d:(document.getElementById('twd')||{}).value||'',q:document.getElementById('twq').value.trim().toLowerCase(),ks:[...document.querySelectorAll('.twk:checked')].map(x=>x.value)});
+const match=(t,s)=>s.ks.includes(t._k)&&(!s.d||DM[t.id]===s.d)&&(!s.q||t._l.includes(s.q));
 function render(det){const s=state(),m=det.dataset.m,list=(byM[m]||[]).filter(t=>match(t,s));
  det.querySelector('.mbody').innerHTML=list.length?list.map(item).join(''):'<p class="mut">（无匹配）</p>';det._r=1;}
 function apply(){const s=state();let n=0;
@@ -141,11 +148,11 @@ function apply(){const s=state();let n=0;
   det.querySelector('.mc').textContent=`（${c} 条）`;det.style.display=c?'':'none';det._r=0;
   if(s.q&&c&&!det.open)det.open=true;if(det.open)render(det);});
  document.getElementById('twn').textContent=`匹配 ${n} / ${data.length} 条`;}
-fetch(tl.dataset.src).then(r=>r.json()).then(j=>{data=j.data||[];data.sort((a,b)=>a.created_at<b.created_at?1:-1);
+fetch('data/domain_map.json').then(r=>r.ok?r.json():{}).catch(()=>({})).then(m=>Object.assign(DM,m)).then(()=>fetch(tl.dataset.src)).then(r=>r.json()).then(j=>{data=j.data||[];data.sort((a,b)=>a.created_at<b.created_at?1:-1);
  data.forEach(t=>{t._k=kind(t);t._l=(t.text||'').toLowerCase();const m=bj(t.created_at).slice(0,7);(byM[m]=byM[m]||[]).push(t);});
  tl.querySelectorAll('details.mon').forEach(det=>det.addEventListener('toggle',()=>{if(det.open&&!det._r)render(det);}));
  let tm;document.getElementById('twq').addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(apply,200);});
- document.querySelectorAll('.twk').forEach(x=>x.addEventListener('change',apply));
+ document.querySelectorAll('.twk').forEach(x=>x.addEventListener('change',apply));const sd=document.getElementById('twd');if(sd)sd.addEventListener('change',apply);
  document.getElementById('twexp').onclick=()=>tl.querySelectorAll('details.mon').forEach(d=>{if(d.style.display!=='none')d.open=true;});
  document.getElementById('twcol').onclick=()=>tl.querySelectorAll('details.mon').forEach(d=>d.open=false);
  apply();}).catch(e=>{document.getElementById('twn').textContent='推文数据加载失败（请通过 http 访问）：'+e;});
@@ -154,19 +161,27 @@ fetch(tl.dataset.src).then(r=>r.json()).then(j=>{data=j.data||[];data.sort((a,b)
 
 def build_kol(d, m):
     tw, tl = tweets_html(d)
+    toc, hb, nref = '', '', 0
+    if m.get('handbook'):
+        import sys; sys.path.insert(0, str(ROOT / 'tools')); import build_handbook
+        toc, hb, nref = build_handbook.render(d)
     docs = ''.join(f'<details{" open" if i == 0 else ""}><summary>{esc(n)}</summary><div class="md">{md((d/"docs"/n).read_text())}</div></details>'
                    for i, n in enumerate(m.get('docs', [])) if (d/'docs'/n).exists())
     wal = ''.join(f'<p><b>{esc(w["chain"])}</b> <code>{esc(w["address"])}</code><br><span class="mut">{esc(w.get("note",""))}</span></p>' for w in m.get('wallets', [])) or '<p class="mut">数据缺失</p>'
     cases = ''.join(f'<div class="case"><b>{esc(c["title"])}</b> <span class="mut">{esc(c.get("date",""))}</span><p>{inline(c["body"])}</p></div>' for c in m.get('cases', []))
-    body = f'''<div class="wrap"><div class="nav"><a href="../index.html">← 返回档案墙</a></div>
+    body = f'''<div class="wrap{' wide' if m.get('handbook') else ''}"><div class="nav"><a href="../index.html">← 返回档案墙</a></div>
 <div class="sec" style="display:flex;gap:20px;align-items:center"><img class="avatar" style="width:96px;height:96px" src="images/avatar.jpg" alt=""><div><h1>{esc(m["name"])}</h1><a href="https://x.com/{esc(m["handle"])}" target="_blank">@{esc(m["handle"])}</a><div>{badges(m)}</div></div></div>
+{hb}
+<div class="sec" id="cases"><h2>链上档案摘要（原版保留）</h2></div>
 <div class="sec"><h2>简介 / 身份</h2><p>{inline(m.get("bio",""))}</p>{ul(m.get("identity",[]))}</div>
 <div class="sec"><h2>主要打法</h2>{ul(m.get("playbook",[]))}</div>
 <div class="sec two"><div class="pro"><h3>优势</h3>{ul(m.get("strengths",[]))}</div><div class="con"><h3>劣势</h3>{ul(m.get("weaknesses",[]))}</div></div>
 <div class="sec"><h2>钱包</h2>{wal}</div>
 <div class="sec"><h2>核心案例</h2>{cases or '<p class="mut">数据缺失</p>'}</div>
 <div class="sec"><h2>分析报告</h2>{docs or '<p class="mut">暂无</p>'}</div>
-<div class="sec"><h2>推文时间线 <span class="mut">（{len(tw)} 条）</span></h2>{tl}</div></div>'''
+<div class="sec" id="timeline"><h2>推文时间线 <span class="mut">（{len(tw)} 条）</span></h2>{tl}</div></div>'''
+    if toc: body = f'<div class="hbwrap"><aside class="toc"><b>目录</b>{toc}</aside><main>{body}</main></div>'
+
     (d / 'index.html').write_text(page(f'{m["name"]} · KOL 档案', body, '../style.css'))
     return len(tw)
 
