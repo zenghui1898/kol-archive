@@ -4,7 +4,12 @@
   "handle": "0xAA_Science",
   "status": "发现池",
   "recommend": "不荐单",
-  "tags": ["技术型 KOL", "BSC meme 实盘", "币安生态", "AI Agent"],
+  "tags": [
+    "技术型 KOL",
+    "BSC meme 实盘",
+    "币安生态",
+    "AI Agent"
+  ],
   "bio": "大迪克科学家｜Cooking @xAPI_to @WTFAcademy_｜链上交易，首选 #Binance 钱包（X 简介原文）",
   "identity": [
     "X：@0xAA_Science（uid 1456122941192605705，2021-11-04 注册），位置 \"Dark Forest\"，主页 wtf.academy",
@@ -28,13 +33,36 @@
     "多数链上交易（如 .ai）推特不公开",
     "跟单价值：中；仓位小"
   ],
-  "wallets": [{"chain": "BSC", "address": "0x8d5624fa29526c879a1ca7560961e4c5a08089ae", "note": "来源：Macppro 交易时间节点分析；KOL 日常关注维护清单.xlsx 收录"}],
-  "cases": [
-    {"title": ".ai（Agentic Inu）凌晨交易", "date": "2026-10-21", "body": "03:05:45 买入 $732（市值约 $395K）→ 04:44:56 卖出一半 $795（市值约 $857K），+$428。推特从未提及；进场前已有 @yinghubnb 01:57 起的公开喊单。CA 0x7ffcf7b3b52adcc00c76f50ce2e37bf3c7e215dc"},
-    {"title": "小王子：推文与交易同步", "date": "2026-10-14", "body": "链上 22:23 买入、23:49 卖出，与 23:07 引用小王子页游推文同一时段——交易与发帖为同一人的证据。"},
-    {"title": "$STRK 公开持仓", "date": "2026-10-18", "body": "发帖支持 Starknet 转 L1，提到持仓（评论区称约 5.6M 枚）。CA：数据缺失。"}
+  "wallets": [
+    {
+      "chain": "BSC",
+      "address": "0x8d5624fa29526c879a1ca7560961e4c5a08089ae",
+      "note": "来源：Macppro 交易时间节点分析；KOL 日常关注维护清单.xlsx 收录"
+    }
   ],
-  "docs": ["0xAA_推特整理与凌晨交易异常_20261021.md", "20261021_0xAA_交易时间节点分析.md"],
+  "cases": [
+    {
+      "title": ".ai（Agentic Inu）凌晨交易",
+      "date": "2026-10-21",
+      "body": "03:05:45 买入 $732（市值约 $395K）→ 04:44:56 卖出一半 $795（市值约 $857K），+$428。推特从未提及；进场前已有 @yinghubnb 01:57 起的公开喊单。CA 0x7ffcf7b3b52adcc00c76f50ce2e37bf3c7e215dc"
+    },
+    {
+      "title": "小王子：推文与交易同步",
+      "date": "2026-10-14",
+      "body": "链上 22:23 买入、23:49 卖出，与 23:07 引用小王子页游推文同一时段——交易与发帖为同一人的证据。"
+    },
+    {
+      "title": "$STRK 公开持仓",
+      "date": "2026-10-18",
+      "body": "发帖支持 Starknet 转 L1，提到持仓（评论区称约 5.6M 枚）。CA：数据缺失。"
+    }
+  ],
+  "docs": [
+    "0xAA_推特整理与凌晨交易异常_20261021.md",
+    "20261021_0xAA_交易时间节点分析.md"
+  ],
   "followers": 181843,
-  "updated": "2026-10-22"
+  "updated": "2026-10-22",
+  "tweets_archived": 15372,
+  "tweets_range": "2021-11-11 ~ 2026-10-22"
 }
