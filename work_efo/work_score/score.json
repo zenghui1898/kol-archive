@@ -1,0 +1,362 @@
+[
+ {
+  "id": "2096131412525244698",
+  "date": "2026-09-05",
+  "asset": "PAIR/PONS",
+  "claim": "RH凉了论调下死拿Pair/Pons核心低估",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "9月Pair/Pons确有大行情（自述与高赞帖），其后回撤；「低估」时点依赖。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2096144025694994635",
+  "date": "2026-09-05",
+  "asset": "Par/nest",
+  "claim": "仿盘Par/nest做不起来",
+  "domain": "山寨与meme",
+  "result": "对",
+  "evidence": "随后他鞭尸帖称仿盘塌陷、Pair洗盘新高（2026-09-06自述）。约，未核实独立行情源。",
+  "src": ""
+ },
+ {
+  "id": "2096227311314227635",
+  "date": "2026-09-05",
+  "asset": "PAIR",
+  "claim": "PAIR相对PAR/nest走强",
+  "domain": "山寨与meme",
+  "result": "对",
+  "evidence": "同周他报道PAIR 2x新高、仿盘半死/腰斩。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2096483910473666787",
+  "date": "2026-09-06",
+  "asset": "PAIR",
+  "claim": "自动化回购后Pair将起飞；锁池AI打不过配对飞轮",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "短期有拉升（自述20x窗口），其后大幅回撤见10月fud帖；对AI锁池对比未独立验证。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2096530623146136046",
+  "date": "2026-09-06",
+  "asset": "PAIR",
+  "claim": "公开账4k→8wu/20x（结果陈述偏晒单，作战绩条）",
+  "domain": "山寨与meme",
+  "result": "不可验证",
+  "evidence": "自述截图战绩，无独立审计；记为不可验证。",
+  "src": ""
+ },
+ {
+  "id": "2102281400154308677",
+  "date": "2026-09-22",
+  "asset": "发射台",
+  "claim": "新发射台赢家通吃，飞轮未转则不行（CME）",
+  "domain": "行业事件",
+  "result": "部分对",
+  "evidence": "概念框架内洽；具体CME结局需链上核实。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2102557361449967712",
+  "date": "2026-09-23",
+  "asset": "RH",
+  "claim": "Robinhood纯增量，玩法或不同于旧Degen",
+  "domain": "宏观政策",
+  "result": "未到期",
+  "evidence": "2026-10仍在叙事中，美国证券用户迁移未验证。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2103667821633040479",
+  "date": "2026-09-26",
+  "asset": "发射台",
+  "claim": "赢家通吃格局延续",
+  "domain": "行业事件",
+  "result": "未到期",
+  "evidence": "寡头判断仍进行中。",
+  "src": ""
+ },
+ {
+  "id": "2097175404276793522",
+  "date": "2026-09-08",
+  "asset": "PONS",
+  "claim": "年化回购内做空会被教育，爆发力强",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "9月确有抗跌/拉升叙事；巨鲸做空结果未逐笔核实。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2095028847557378276",
+  "date": "2026-09-02",
+  "asset": "PAIR",
+  "claim": "日回购占比猛，对照Pons早期飞轮",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "短期飞轮叙事兑现一段后回撤。约，未核实回购数据。",
+  "src": ""
+ },
+ {
+  "id": "2094647591543914657",
+  "date": "2026-09-01",
+  "asset": "高回购币",
+  "claim": "90%回购或成下一Pons但飞轮未转风险高",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "风险提示方向对；「下一Pons」未证实。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2100439999774875961",
+  "date": "2026-09-17",
+  "asset": "PONS/PAIR",
+  "claim": "先信赚后信：等收入爆棚再追会挂顶",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "对追高者的描述有个案支持（自述）；非统计结论。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2098268400673849802",
+  "date": "2026-09-11",
+  "asset": "PAIR",
+  "claim": "左侧买入可能归零、耗时长",
+  "domain": "山寨与meme",
+  "result": "对",
+  "evidence": "跟帖被套是他自己承认的现象（2026-09-11）。",
+  "src": ""
+ },
+ {
+  "id": "2093309202630582419",
+  "date": "2026-08-28",
+  "asset": "PONS",
+  "claim": "打狗不如梭哈Pons",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "自述当月打狗6–7x不如拿Pons；属自我比较。The Block 2026-09-08 报道 Pons 推升 RH 费用与成交；具体交易结果仍约，未完全逐笔核实。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2100942038464430461",
+  "date": "2026-09-18",
+  "asset": "方法论",
+  "claim": "链上当天使投资可暴富（框架预测）",
+  "domain": "AI与其他",
+  "result": "不可验证",
+  "evidence": "方法论主张，非单点时限预测。",
+  "src": ""
+ },
+ {
+  "id": "2015296173901508931",
+  "date": "2026-01-25",
+  "asset": "Virtual打新",
+  "claim": "Unicorn机制可打（教程向）",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "他本人有打新盈亏参半自述；机制后改版。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "1944583683463323916",
+  "date": "2025-07-14",
+  "asset": "VIRTUAL",
+  "claim": "VIRTUAL有数倍空间（相对历史高点）",
+  "domain": "山寨与meme",
+  "result": "错",
+  "evidence": "给出历史高点倍数空间的鼓动帖；后续经历大回撤周期，时限内未稳定兑现「必须参与」收益承诺。约，未核实精确点位。",
+  "src": ""
+ },
+ {
+  "id": "2006639543072768016",
+  "date": "2026-01-01",
+  "asset": "年终",
+  "claim": "2025路径总结（非预测）",
+  "domain": "AI与其他",
+  "result": "不可验证",
+  "evidence": "复盘帖。",
+  "src": ""
+ },
+ {
+  "id": "2028814477911834950",
+  "date": "2026-03-03",
+  "asset": "美股",
+  "claim": "加密盈利后应配置美股学习",
+  "domain": "美股与其他",
+  "result": "不可验证",
+  "evidence": "建议向，非行情预测。",
+  "src": ""
+ },
+ {
+  "id": "2108408124424274043",
+  "date": "2026-10-09",
+  "asset": "信仰",
+  "claim": "对币圈能赚大钱保持信仰",
+  "domain": "心态",
+  "result": "不可验证",
+  "evidence": "价值主张。",
+  "src": ""
+ },
+ {
+  "id": "2102561862445625380",
+  "date": "2026-09-23",
+  "asset": "持有",
+  "claim": "拿不住RH币就换打法",
+  "domain": "心态",
+  "result": "不可验证",
+  "evidence": "纪律主张。",
+  "src": ""
+ },
+ {
+  "id": "2108543605975720150",
+  "date": "2026-10-09",
+  "asset": "OKX",
+  "claim": "OKX战略融资后地位（事件评论）",
+  "domain": "AI与其他",
+  "result": "部分对",
+  "evidence": "公开新闻有大额融资报道方向；估值数字以媒体为准。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2102408463129412087",
+  "date": "2026-09-22",
+  "asset": "RH",
+  "claim": "RH一定会成为第一L2",
+  "domain": "行业事件",
+  "result": "未到期",
+  "evidence": "2026-10仍看多，结论未到期。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2110360213950017881",
+  "date": "2026-10-14",
+  "asset": "PAIR",
+  "claim": "只要后续逻辑在仍看好Hardworking（对fud的反驳）",
+  "domain": "山寨与meme",
+  "result": "未到期",
+  "evidence": "2026-10仍在防守叙事，价格结果未到期。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2023425580230930924",
+  "date": "2026-02-16",
+  "asset": "VIRTUAL",
+  "claim": "公开地址打到10x/3w VIRTUAL封盘",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "自述接近目标后收官迁移RH；是否精确10x约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2018170343773589806",
+  "date": "2026-02-02",
+  "asset": "BTC",
+  "claim": "下跌中共识仍强、BTC仍是自己",
+  "domain": "大盘(BTC/ETH)",
+  "result": "部分对",
+  "evidence": "2026-02观点；其后BTC路径需对照，方向偏持有共识。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2002212173960130914",
+  "date": "2025-12-20",
+  "asset": "预测市场",
+  "claim": "明年看好预测市场和具身智能",
+  "domain": "AI与其他",
+  "result": "部分对",
+  "evidence": "预测市场赛道2026继续有热度；具身智能未在其主线兑现。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2030880434222256581",
+  "date": "2026-03-09",
+  "asset": "AI",
+  "claim": "即使再跌AI大趋势不变",
+  "domain": "AI与其他",
+  "result": "部分对",
+  "evidence": "宏观叙事偏对；具体代币结果分化。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2091458238755864631",
+  "date": "2026-08-23",
+  "asset": "PURR",
+  "claim": "Pons生态最看好潜力代币",
+  "domain": "山寨与meme",
+  "result": "错",
+  "evidence": "后续主线转向Pair/Pons本身，Purr未成为他持续主推龙头。约，未核实价格。",
+  "src": ""
+ },
+ {
+  "id": "2084462616827813953",
+  "date": "2026-08-04",
+  "asset": "FRONG",
+  "claim": "埋伏Frong（结果向晒单）",
+  "domain": "山寨与meme",
+  "result": "不可验证",
+  "evidence": "事后晒单，非事前预测。",
+  "src": ""
+ },
+ {
+  "id": "2097840989541130699",
+  "date": "2026-09-10",
+  "asset": "PONS",
+  "claim": "Pons与Long为龙1龙2",
+  "domain": "行业事件",
+  "result": "部分对",
+  "evidence": "Pons阶段性龙头叙事强；Long地位有争议。The Block 2026-09-08 报道 Pons 推升 RH 费用与成交；具体交易结果仍约，未完全逐笔核实。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2085674767588401205",
+  "date": "2026-08-07",
+  "asset": "RH链",
+  "claim": "未来半年或是RH结构性牛市开端",
+  "domain": "行业事件",
+  "result": "部分对",
+  "evidence": "8–9月确有热度，10月回落；结构性牛市未完全兑现。The Block 2026-09-08 报道 Pons 推升 RH 费用与成交；具体交易结果仍约，未完全逐笔核实。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2094084137380622500",
+  "date": "2026-08-30",
+  "asset": "SIRIUS",
+  "claim": "SIRIUS成现象级meme",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "自述阶段性倍数，未成持续现象级。约，未核实。",
+  "src": ""
+ },
+ {
+  "id": "2088294548627947580",
+  "date": "2026-08-14",
+  "asset": "PONS/Cashcat",
+  "claim": "不知选啥就抓Cashcat/Pons",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "Pons阶段性走强；Cashcat分化。The Block 2026-09-08 报道 Pons 推升 RH 费用与成交；具体交易结果仍约，未完全逐笔核实。",
+  "src": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+ },
+ {
+  "id": "2092611246965338494",
+  "date": "2026-08-26",
+  "asset": "Verdant",
+  "claim": "警示假Dev诈骗盘归0",
+  "domain": "山寨与meme",
+  "result": "对",
+  "evidence": "自述挂假Dev清仓归0并吃回头草。",
+  "src": ""
+ },
+ {
+  "id": "2086707440029176035",
+  "date": "2026-08-10",
+  "asset": "Cashcat",
+  "claim": "继续看好Cashcat",
+  "domain": "山寨与meme",
+  "result": "部分对",
+  "evidence": "后续主线更多转向Pons/Pair。约，未核实。",
+  "src": ""
+ }
+]
