@@ -1,0 +1,57 @@
+[
+ {
+  "id": "1941850917260705893",
+  "date": "2025-07-06",
+  "title": "聊聊气胸",
+  "text": "聊聊气胸\n\n我得过气胸，所以对“气胸”两字格外敏感，就像一种创伤反应，让我心头一紧。最近一年，我感觉“气胸”在新闻中出现的的格外频繁：",
+  "chars": 67,
+  "readMin": 1,
+  "full": false,
+  "note": "导出仅含文章开头摘录，全文未入档；请看原帖",
+  "url": "https://x.com/0xAA_Science/status/1941850917260705893"
+ },
+ {
+  "id": "2051315002137825432",
+  "date": "2026-05-04",
+  "title": "xAPI 教程1: 如何让你的 Agent 通过 xAPI 调用任意 API",
+  "text": "xAPI 教程1: 如何让你的 Agent 通过 xAPI 调用任意 API\n\n这一讲，我们用最少的步骤让你的 AI Agent 跑通 xAPI，调用 Twitter，Google搜索，Claude 等 API。\n1. 什么是 xAPI\nxAPI（xapi.to）是一个 Agent 友好的统一 API 平台：一个 API",
+  "chars": 161,
+  "readMin": 1,
+  "full": false,
+  "note": "导出仅含文章开头摘录，全文未入档；请看原帖",
+  "url": "https://x.com/0xAA_Science/status/2051315002137825432"
+ },
+ {
+  "id": "2056650011753210056",
+  "date": "2026-05-19",
+  "title": "xAPI 教程2: 制作推特监听Bot",
+  "text": "xAPI 教程2: 制作推特监听Bot\n\n上一讲我们让 Agent 跑通了 xAPI，一句话就能调 Twitter、Google 搜索、加密货币行情。这一讲，我们就用这套能力做点真正有用的东西——一个推特监听Bot：自动盯着 Elon Musk、何一、CZ",
+  "chars": 128,
+  "readMin": 1,
+  "full": false,
+  "note": "导出仅含文章开头摘录，全文未入档；请看原帖",
+  "url": "https://x.com/0xAA_Science/status/2056650011753210056"
+ },
+ {
+  "id": "2060755354867429826",
+  "date": "2026-05-31",
+  "title": "xAPI 教程3: 发推机器人",
+  "text": "xAPI 教程3: 发推机器人\n\n上一讲我们做了监听机器人，监听最新推文并推送到你的手机。这一讲我们做发推机器人，让 Agent 通过 xAPI 自动发推。\n1. 整体架构\n这一讲，我们会做一个Elon Musk 总结机器人，每天定时抓 @elonmusk 过去 24",
+  "chars": 134,
+  "readMin": 1,
+  "full": false,
+  "note": "导出仅含文章开头摘录，全文未入档；请看原帖",
+  "url": "https://x.com/0xAA_Science/status/2060755354867429826"
+ },
+ {
+  "id": "2080242529568706709",
+  "date": "2026-07-23",
+  "title": "存档: 梁文锋4小时内部交流全文",
+  "text": "存档: 梁文锋4小时内部交流全文\n\n昨天读了【梁文锋4小时投资者内部交流全文】很受启发，今天公众号和各大媒体开始删帖了，我就在这存档一份，大家各取所需。\n文字由 硅基观察Pro 整理。\n/ 01/\n愿景是我们组织的方式",
+  "chars": 109,
+  "readMin": 1,
+  "full": false,
+  "note": "导出仅含文章开头摘录，全文未入档；请看原帖",
+  "url": "https://x.com/0xAA_Science/status/2080242529568706709"
+ }
+]

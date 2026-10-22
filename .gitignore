@@ -1,1 +1,4 @@
 __pycache__/
+work/**/*.json
+!work/work_L01-18/lec_*.json
+work/**/*.txt
