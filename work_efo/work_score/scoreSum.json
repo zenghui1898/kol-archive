@@ -1,0 +1,42 @@
+{
+ "total": 36,
+ "verifiable": 29,
+ "right": 4,
+ "wrong": 2,
+ "partial": 19,
+ "pending": 4,
+ "unverifiable": 7,
+ "by_domain": {
+  "山寨与meme": {
+   "right": 4,
+   "wrong": 2,
+   "partial": 12,
+   "pending": 1
+  },
+  "行业事件": {
+   "right": 0,
+   "wrong": 0,
+   "partial": 3,
+   "pending": 2
+  },
+  "宏观政策": {
+   "right": 0,
+   "wrong": 0,
+   "partial": 0,
+   "pending": 1
+  },
+  "AI与其他": {
+   "right": 0,
+   "wrong": 0,
+   "partial": 3,
+   "pending": 0
+  },
+  "大盘(BTC/ETH)": {
+   "right": 0,
+   "wrong": 0,
+   "partial": 1,
+   "pending": 0
+  }
+ },
+ "insight": "机制对比/仿盘判死与左/右侧风险提示相对准；币种倍数与龙一/第一L2偏叙事，多部分对或未到期。公开账战绩不可验证。样本绑死RH顺风，Virtual鼓动帖易错。多数evidence标「约，未核实」。"
+}
