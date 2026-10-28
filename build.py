@@ -1,7 +1,19 @@
 #!/usr/bin/env python3
-"""KOL 档案库生成器：扫描每个含 meta.json 的子目录，生成 <slug>/index.html 与根 index.html。
-新增 KOL：建文件夹 <slug>/，放 meta.json、docs/*.md、images/avatar.jpg、可选 data/tweets.json，然后 python3 build.py。"""
-import json, re, html, pathlib, datetime
+"""KOL 档案库工具。
+
+线上门户是根目录 index.html：哈希路由（#home、#<slug>），运行时读取
+data/kols.json 与 data/<slug>.json。默认 `python3 build.py` 只校验这些数据，
+不改写 index.html。
+
+根因（不要再写回去）：main() 曾经无条件把「扫描 */meta.json 生成的卡片墙」
+写入根 index.html。仓库里只有 0xaa/meta.json，产物约 1.4KB，会盖掉约 17KB 的
+真门户，#0xaa / #efo / #bokaiixu 等路由全部失效。`--legacy` 仍会按 meta.json
+重建旧版 <slug>/index.html 与 style.css，但根 index.html 一律不动。
+
+新增门户档案：把 <slug>.json、_models.json、_articles.json、_tweets.csv 放进
+data/，在 data/kols.json 追加一条，再运行 python3 build.py。
+"""
+import json, re, html, pathlib, datetime, sys
 ROOT = pathlib.Path(__file__).parent
 TZ = datetime.timezone(datetime.timedelta(hours=8))
 esc = lambda s: html.escape(str(s))
@@ -185,15 +197,218 @@ def build_kol(d, m):
     (d / 'index.html').write_text(page(f'{m["name"]} · KOL 档案', body, '../style.css'))
     return len(tw)
 
-def main():
+def legacy_card_wall(kols):
+    """旧版首页 HTML。只供对照，禁止写入根 index.html。"""
+    cards = ''.join(f'<a class="card" href="{m["_slug"]}/index.html"><img src="{m["_slug"]}/images/avatar.jpg" alt=""><h3>{esc(m["name"])}</h3><div class="mut">@{esc(m["handle"])} · 粉丝 {m.get("followers","?"):,}</div><div>{badges(m)}</div></a>' for m in kols)
+    stats = [(len(kols), '收录 KOL'), (sum(m['_tw'] for m in kols), '归档推文'), (sum(len(m.get('docs', [])) for m in kols), '分析报告'), (sum(len(m.get('wallets', [])) for m in kols), '跟踪钱包')]
+    body = '<div class="wrap"><div class="hero"><h1>KOL 档案馆</h1><p>链上 KOL 研究记录 · 身份、打法、钱包与推文归档</p></div><div class="stats">' + ''.join(f'<div class="stat"><b>{v}</b><span>{k}</span></div>' for v, k in stats) + f'</div><div class="grid">{cards}</div></div>'
+    return page('KOL 档案馆', body, 'style.css')
+
+def build_legacy():
+    """按 */meta.json 重建旧版子站。不碰根目录门户。"""
     (ROOT / 'style.css').write_text(CSS)
     kols = []
     for mf in sorted(ROOT.glob('*/meta.json')):
         m = json.loads(mf.read_text()); m['_tw'] = build_kol(mf.parent, m); m['_slug'] = mf.parent.name; kols.append(m)
-    cards = ''.join(f'<a class="card" href="{m["_slug"]}/index.html"><img src="{m["_slug"]}/images/avatar.jpg" alt=""><h3>{esc(m["name"])}</h3><div class="mut">@{esc(m["handle"])} · 粉丝 {m.get("followers","?"):,}</div><div>{badges(m)}</div></a>' for m in kols)
-    stats = [(len(kols), '收录 KOL'), (sum(m['_tw'] for m in kols), '归档推文'), (sum(len(m.get('docs', [])) for m in kols), '分析报告'), (sum(len(m.get('wallets', [])) for m in kols), '跟踪钱包')]
-    body = '<div class="wrap"><div class="hero"><h1>KOL 档案馆</h1><p>链上 KOL 研究记录 · 身份、打法、钱包与推文归档</p></div><div class="stats">' + ''.join(f'<div class="stat"><b>{v}</b><span>{k}</span></div>' for v, k in stats) + f'</div><div class="grid">{cards}</div></div>'
-    (ROOT / 'index.html').write_text(page('KOL 档案馆', body, 'style.css'))
-    print(f'built {len(kols)} KOL(s)')
+    # 故意不写 ROOT/index.html。旧逻辑写的就是约 1.4KB 的卡片墙。
+    print(f'legacy: rebuilt {len(kols)} meta.json site(s); portal index.html left untouched')
+
+def _num(v):
+    return isinstance(v, (int, float)) and not isinstance(v, bool)
+
+def _has_text(v):
+    return isinstance(v, str)
+
+def check_archive(slug, doc):
+    """门户会直接取的字段。别名与 index.html 里的兼容分支一致，不改档案原文。"""
+    problems = []
+    for key in ('meta', 'outline', 'lec', 'tw', 'score', 'scoreSum', 'models', 'articles'):
+        if key not in doc:
+            problems.append(f'{slug}: 缺少顶层 {key}')
+    meta, outline = doc.get('meta') or {}, doc.get('outline') or {}
+    if not isinstance(meta, dict):
+        return problems + [f'{slug}: meta 不是对象']
+    for key in ('hero', 'handle', 'type', 'from', 'to', 'built', 'lede', 'note'):
+        if not _has_text(meta.get(key)):
+            problems.append(f'{slug}: meta.{key} 缺失')
+    for key in ('total', 'cand', 'good', 'core'):
+        if not _num(meta.get(key)):
+            problems.append(f'{slug}: meta.{key} 不是数字')
+    if not isinstance(meta.get('badges'), list):
+        problems.append(f'{slug}: meta.badges 不是数组')
+    else:
+        for i, b in enumerate(meta['badges']):
+            if not isinstance(b, dict) or not (_has_text(b.get('v')) or _has_text(b.get('value')) or _num(b.get('v')) or _num(b.get('value'))):
+                problems.append(f'{slug}: badges[{i}] 缺少 v/value')
+            if not isinstance(b, dict) or not (_has_text(b.get('k')) or _has_text(b.get('label'))):
+                problems.append(f'{slug}: badges[{i}] 缺少 k/label')
+    if not isinstance(meta.get('sugg'), list):
+        problems.append(f'{slug}: meta.sugg 不是数组')
+    vols = outline.get('vols') if isinstance(outline, dict) else None
+    if not isinstance(vols, list) or not vols:
+        problems.append(f'{slug}: outline.vols 为空')
+        vol_ids = set()
+    else:
+        vol_ids = set()
+        for v in vols:
+            if not isinstance(v, dict) or 'v' not in v or not isinstance(v.get('lec'), list):
+                problems.append(f'{slug}: 卷目录缺少 v/lec')
+                continue
+            vol_ids.add(v['v'])
+            for lec in v['lec']:
+                if not (isinstance(lec, list) and len(lec) >= 2):
+                    problems.append(f'{slug}: 卷{v["v"]} 讲条不是 [n, title, ...]')
+    if not isinstance(meta.get('loopDetail'), list):
+        problems.append(f'{slug}: meta.loopDetail 不是数组')
+    else:
+        for i, step in enumerate(meta['loopDetail']):
+            if not isinstance(step, dict) or not _has_text(step.get('name')) or not _has_text(step.get('desc')):
+                problems.append(f'{slug}: loopDetail[{i}] 缺少 name/desc')
+            elif step.get('vol') not in vol_ids:
+                problems.append(f'{slug}: loopDetail[{i}] 的 vol={step.get("vol")} 对不上目录')
+    ss = doc.get('scoreSum') or {}
+    if not isinstance(ss, dict):
+        problems.append(f'{slug}: scoreSum 不是对象')
+    else:
+        for key in ('total', 'verifiable', 'right', 'wrong', 'partial', 'pending', 'insight', 'by_domain'):
+            if key not in ss:
+                problems.append(f'{slug}: scoreSum 缺少 {key}')
+        if 'by_domain' in ss and not isinstance(ss['by_domain'], dict):
+            problems.append(f'{slug}: scoreSum.by_domain 不是对象')
+    lecs = doc.get('lec')
+    if not isinstance(lecs, list) or not lecs:
+        problems.append(f'{slug}: lec 为空')
+    else:
+        for lec in lecs:
+            if not isinstance(lec, dict):
+                problems.append(f'{slug}: lec 条目不是对象')
+                continue
+            n = lec.get('n')
+            for key in ('title', 'question', 'limits'):
+                if not _has_text(lec.get(key)):
+                    problems.append(f'{slug}: L{n} 缺少 {key}')
+            if not isinstance(lec.get('takeaways'), list):
+                problems.append(f'{slug}: L{n} takeaways 不是数组')
+            deep = lec.get('deep') if isinstance(lec.get('deep'), dict) else {}
+            if not _has_text(deep.get('phenomenon')) or not _has_text(deep.get('mechanism')) or not isinstance(deep.get('rules'), list):
+                problems.append(f'{slug}: L{n} deep 缺少 phenomenon/mechanism/rules')
+            gm = lec.get('gmgn') if isinstance(lec.get('gmgn'), dict) else {}
+            if not isinstance(gm.get('borrow'), list) or not isinstance(gm.get('filter'), list) or not _has_text(gm.get('guard')):
+                problems.append(f'{slug}: L{n} gmgn 缺少 borrow/filter/guard')
+            if not isinstance(lec.get('cases'), list) or not isinstance(lec.get('timeline'), list) or not isinstance(lec.get('lead'), list):
+                problems.append(f'{slug}: L{n} cases/timeline/lead 不是数组')
+            quote = lec.get('quote')
+            if isinstance(quote, dict):
+                if 'text' not in quote:
+                    problems.append(f'{slug}: L{n} quote 缺少 text')
+            elif not _has_text(quote):
+                problems.append(f'{slug}: L{n} quote 缺失')
+            for c in lec.get('cases') or []:
+                if not isinstance(c, dict) or any(k not in c for k in ('name', 'discover', 'entry', 'hold', 'exit', 'lesson', 'ids')):
+                    problems.append(f'{slug}: L{n} 案例字段不全')
+                    break
+    tw = doc.get('tw')
+    if not isinstance(tw, list):
+        problems.append(f'{slug}: tw 不是数组')
+    elif tw:
+        t0 = tw[0]
+        if isinstance(t0, dict):
+            for key in ('i', 't', 'k', 'x', 'q', 'lv', 'g', 'd', 's', 'l', 'v', 'r', 'm', 'f', 'L'):
+                if key not in t0:
+                    problems.append(f'{slug}: 推文对象缺少 {key}')
+                    break
+        elif not (isinstance(t0, list) and len(t0) >= 15):
+            problems.append(f'{slug}: 推文数组长度不足')
+    for m in doc.get('models') or []:
+        if not isinstance(m, dict) or not _has_text(m.get('name')) or not _has_text(m.get('desc')):
+            problems.append(f'{slug}: 思维模型缺少 name/desc')
+            break
+        q = m.get('quote')
+        if isinstance(q, dict):
+            if 'text' not in q:
+                problems.append(f'{slug}: 思维模型 quote 缺少 text')
+                break
+        elif not _has_text(q):
+            problems.append(f'{slug}: 思维模型 quote 缺失')
+            break
+        if not isinstance(m.get('lec') or m.get('lectures'), list):
+            problems.append(f'{slug}: 思维模型缺少 lec/lectures')
+            break
+    for a in doc.get('articles') or []:
+        if not isinstance(a, dict) or not _has_text(a.get('title')) or not _has_text(a.get('url')):
+            problems.append(f'{slug}: 长文缺少 title/url')
+            break
+        if not any(_has_text(a.get(k)) for k in ('text', 'body', 'excerpt')):
+            problems.append(f'{slug}: 长文缺少 text/body/excerpt')
+            break
+    for s in doc.get('score') or []:
+        if not isinstance(s, dict) or any(k not in s for k in ('date', 'asset', 'claim', 'id', 'result', 'evidence')):
+            problems.append(f'{slug}: 记分卡条目缺少 date/asset/claim/id/result/evidence')
+            break
+    return problems
+
+def check_portal():
+    """确认门户文件还在，且每个 kols.json 条目都能被页面加载。"""
+    index = ROOT / 'index.html'
+    text = index.read_text(encoding='utf-8') if index.exists() else ''
+    problems = []
+    if 'id="app"' not in text or 'data/kols.json' not in text or 'function route' not in text:
+        problems.append('根目录 index.html 不是哈希路由门户。已拒绝写回旧版卡片墙；请从版本库恢复 index.html。')
+    kols_path = ROOT / 'data' / 'kols.json'
+    try:
+        kols = json.loads(kols_path.read_text(encoding='utf-8'))
+    except (OSError, json.JSONDecodeError) as e:
+        print(f'门户校验失败：data/kols.json 无法读取 ({e})')
+        raise SystemExit(1)
+    if not isinstance(kols, list) or not kols:
+        problems.append('data/kols.json 应是非空数组')
+        kols = []
+    slugs = []
+    for k in kols:
+        if not isinstance(k, dict) or not k.get('slug'):
+            problems.append('kols.json 有条目缺少 slug')
+            continue
+        slug = k['slug']
+        slugs.append(slug)
+        for key in ('name', 'handle', 'type', 'intro', 'from', 'to'):
+            if not _has_text(k.get(key)):
+                problems.append(f'{slug}: kols.json 缺少 {key}')
+        for key in ('total', 'good', 'core', 'lectures'):
+            if not _num(k.get(key)):
+                problems.append(f'{slug}: kols.json.{key} 不是数字')
+        sc = k.get('score') if isinstance(k.get('score'), dict) else {}
+        for key in ('right', 'wrong', 'partial', 'pending'):
+            if key not in sc:
+                problems.append(f'{slug}: kols.json.score 缺少 {key}')
+        for suffix in ('.json', '_models.json', '_articles.json', '_tweets.csv'):
+            if not (ROOT / 'data' / f'{slug}{suffix}').exists():
+                problems.append(f'缺少 data/{slug}{suffix}')
+        arch = ROOT / 'data' / f'{slug}.json'
+        if arch.exists():
+            try:
+                doc = json.loads(arch.read_text(encoding='utf-8'))
+            except json.JSONDecodeError as e:
+                problems.append(f'{slug}.json 无法解析: {e}')
+                continue
+            problems.extend(check_archive(slug, doc))
+            if (doc.get('meta') or {}).get('slug') not in (None, slug):
+                problems.append(f'{slug}: meta.slug 与文件名不一致')
+    if problems:
+        print('门户校验失败：')
+        for p in problems:
+            print(' -', p)
+        raise SystemExit(1)
+    print(f'门户校验通过：{len(slugs)} 个档案（{", ".join(slugs)}）。未改写 index.html。')
+
+def main():
+    if '--legacy' in sys.argv[1:]:
+        build_legacy()
+        return
+    before = (ROOT / 'index.html').read_bytes() if (ROOT / 'index.html').exists() else None
+    check_portal()
+    after = (ROOT / 'index.html').read_bytes() if (ROOT / 'index.html').exists() else None
+    if before != after:
+        print('门户校验改动了 index.html，这不应该发生')
+        raise SystemExit(1)
 
 if __name__ == '__main__': main()
