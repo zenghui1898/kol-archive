@@ -1,62 +1,212 @@
 <!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#FAF8F3">
 <title>KOL 档案馆</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Noto+Serif+SC:wght@500;700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- Portal theme stays inline. style.css belongs to the legacy handbook; build.py --legacy rewrites it and must not replace this hash-routed page. -->
 <style>
-*{box-sizing:border-box}body{margin:0;font:15px/1.65 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:#0f1115;color:#e6e6e6;overflow-x:hidden}
-a{color:#7cc4ff;text-decoration:none}header{position:sticky;top:0;background:#151922;border-bottom:1px solid #262c38;z-index:5}
-nav{max-width:1100px;margin:auto;display:flex;flex-wrap:wrap;gap:6px 14px;padding:10px 14px;font-size:14px}nav b{margin-right:auto}
-main{overflow-wrap:anywhere;max-width:1100px;margin:auto;padding:16px 14px 60px}h1{font-size:26px;margin:.3em 0}h2{font-size:20px;margin:1.2em 0 .4em}h3{font-size:16px;margin:1em 0 .3em}
-.card{background:#171b24;border:1px solid #262c38;border-radius:10px;padding:14px;margin:10px 0;overflow-wrap:anywhere}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}.muted{color:#8b93a3;font-size:13px}
-.tag{display:inline-block;background:#232a38;border-radius:4px;padding:0 6px;margin:2px 3px 2px 0;font-size:12px}.f-ref,.f-fab{background:#5a2a2a}.f-own{background:#264d2e}.f-tpl,.f-tr{background:#4d4426}
-.badge{display:inline-block;background:#1f2633;border-radius:8px;padding:8px 12px;margin:4px}.badge b{display:block;font-size:20px;color:#ffd479}
-table{border-collapse:collapse;width:100%;font-size:13px}td,th{border-bottom:1px solid #262c38;padding:6px;text-align:left;vertical-align:top}.tbl{overflow-x:auto}
-.r-对{color:#6fdc8c}.r-错{color:#ff7a7a}.r-部分对{color:#ffd479}input,select,button{background:#1f2633;color:#e6e6e6;border:1px solid #333b4b;border-radius:6px;padding:6px 8px;font-size:14px;max-width:100%}
-.tw{overflow-wrap:anywhere;word-break:break-word;border-left:3px solid #333b4b;padding:6px 10px;margin:8px 0;white-space:pre-wrap}.tw.lv2{border-color:#ffd479}.tw.lv1{border-color:#7cc4ff}
-.thumbs img{height:84px;margin:4px 4px 0 0;border-radius:4px;cursor:zoom-in;max-width:100%;object-fit:cover}
-#lb{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;z-index:9}#lb img{max-width:96vw;max-height:94vh}
-.loop{display:flex;flex-wrap:wrap;gap:8px}.loop .card{flex:1 1 150px;margin:0}.funnel span{display:inline-block;margin-right:14px}
-blockquote{margin:8px 0;padding:6px 12px;border-left:3px solid #ffd479;background:#1a1f2a}
+:root{
+  --bg-page:#FAF8F3;
+  --bg-page-deep:#F3EFE4;
+  --bg-card:#FFFFFF;
+  --bg-card-alt:#FBF9F5;
+  --border-main:#EAE2D2;
+  --border-light:#F2ECE0;
+  --border-dark:#D8CDBC;
+  --text-main:#1F1B16;
+  --text-sub:#544D42;
+  --text-muted:#887E6E;
+  --brand-amber:#B45309;
+  --brand-amber-hover:#92400E;
+  --brand-amber-light:#FEF3C7;
+  --accent-green:#15803D;
+  --accent-red:#B91C1C;
+  --shadow-card:0 4px 20px rgba(31,27,22,.06);
+  --shadow-card-hover:0 12px 32px rgba(180,83,9,.12);
+  --font-sans:"Plus Jakarta Sans",-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  --font-serif:"Noto Serif SC","Songti SC",Georgia,serif;
+  --font-num:"Cinzel","Noto Serif SC",Georgia,serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:flex;flex-direction:column;background:var(--bg-page);color:var(--text-main);font:15.5px/1.75 var(--font-sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+main{flex:1 0 auto}
+a{color:var(--brand-amber);text-decoration:none}
+a:hover{color:var(--brand-amber-hover);text-decoration:underline}
+.top-announce{background:linear-gradient(90deg,#92400E,#B45309,#D97706);color:#fff;text-align:center;font-size:13px;font-weight:600;letter-spacing:.3px;padding:9px 16px}
+.top-announce a{color:#FEF3C7;font-weight:700;text-decoration:underline;margin-left:6px}
+header{position:sticky;top:0;z-index:20;background:rgba(250,248,243,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-main)}
+nav{max-width:1180px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:4px;padding:10px 18px}
+nav a{color:var(--text-sub);font-size:13.5px;font-weight:600;padding:6px 10px;border-radius:999px;text-decoration:none}
+nav a:hover{color:var(--brand-amber);background:rgba(180,83,9,.08);text-decoration:none}
+nav a.on{color:var(--brand-amber-hover);background:var(--brand-amber-light)}
+nav a.brand{font-family:var(--font-serif);font-weight:900;font-size:17px;color:var(--text-main);margin-right:auto;padding-left:2px;background:none}
+nav a.brand:hover{color:var(--brand-amber);background:none}
+main{max-width:1180px;margin:0 auto;padding:8px 22px 64px;overflow-wrap:anywhere}
+h1,h2,h3{font-family:var(--font-serif);font-weight:900;letter-spacing:-.02em}
+h1{font-size:clamp(28px,4vw,36px);line-height:1.28;margin:.25em 0 .4em}
+h2{display:flex;align-items:center;gap:10px;font-size:22px;margin:1.7em 0 .7em}
+h2::before{content:"";width:4px;height:1.05em;border-radius:2px;background:var(--brand-amber);flex:0 0 auto}
+h3{font-size:17px;margin:1.05em 0 .35em}
+p{margin:.45em 0}
+.muted{color:var(--text-muted);font-size:13px}
+.card{background:var(--bg-card);border:1px solid var(--border-main);border-radius:16px;padding:18px 20px;margin:14px 0;box-shadow:var(--shadow-card);overflow-wrap:anywhere}
+.card.muted{color:var(--text-sub);font-size:14px}
+.hero{text-align:center;padding:46px 8px 28px;margin-bottom:8px;border-bottom:1px solid var(--border-main);background:linear-gradient(180deg,rgba(254,243,199,.38),rgba(250,248,243,0))}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;padding:6px 14px;margin-bottom:16px;border-radius:999px;border:1px solid rgba(180,83,9,.25);background:rgba(180,83,9,.08);color:var(--brand-amber);font-size:13px;font-weight:700}
+.hero h1{font-size:clamp(36px,5vw,48px);margin:0 0 12px}
+.hero h1 span{color:var(--brand-amber)}
+.hero-desc{max-width:760px;margin:0 auto 28px;color:var(--text-sub);font-size:15.5px;line-height:1.8}
+.stats-strip{display:grid;grid-template-columns:repeat(5,1fr);gap:0;max-width:980px;margin:0 auto;background:var(--bg-card);border:1px solid var(--border-main);border-radius:12px;box-shadow:0 2px 12px rgba(31,27,22,.04);padding:8px 0}
+.stat-item{text-align:center;padding:12px 8px}
+.stat-item+.stat-item{box-shadow:inset 1px 0 0 var(--border-light)}
+.stat-val{font-family:var(--font-num);font-size:clamp(18px,2.2vw,26px);font-weight:700;color:var(--brand-amber);line-height:1.2}
+.stat-lbl{margin-top:4px;font-size:12px;font-weight:600;color:var(--text-muted)}
+.section-header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:36px 0 16px}
+.section-header h2{margin:0}
+.section-desc{margin:0;font-size:13.5px;color:var(--text-muted)}
+.kol-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;margin-bottom:12px}
+.kol-card{display:flex;flex-direction:column;height:100%;background:var(--bg-card);border:1px solid var(--border-main);border-radius:16px;padding:26px 26px 18px;box-shadow:var(--shadow-card);color:inherit;text-decoration:none;transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+.kol-card:hover{transform:translateY(-4px);border-color:var(--brand-amber);box-shadow:var(--shadow-card-hover);color:inherit;text-decoration:none}
+.kol-name-row{display:flex;align-items:flex-start;gap:8px;margin-bottom:2px}
+.kol-name{font-family:var(--font-serif);font-size:22px;font-weight:900;line-height:1.3}
+.kol-ribbon{margin-left:auto;flex:0 0 auto;font-size:11px;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--brand-amber-light);color:var(--brand-amber);border:1px solid rgba(180,83,9,.2)}
+.kol-card-top{display:flex;align-items:center;gap:14px;margin-bottom:14px}
+.kol-avatar{width:68px;height:68px;border-radius:50%;object-fit:cover;flex:0 0 auto;background:#EAE2D2;border:3px solid #fff;box-shadow:0 0 0 2px var(--brand-amber-light),0 4px 12px rgba(31,27,22,.08)}
+.kol-avatar.fallback{display:flex;align-items:center;justify-content:center;font-family:var(--font-serif);font-size:26px;font-weight:900;color:var(--brand-amber-hover);background:var(--brand-amber-light)}
+.kol-handle{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;color:var(--text-muted)}
+.kol-type{font-family:var(--font-serif);font-size:16px;font-weight:800;color:var(--brand-amber);line-height:1.45;margin-bottom:12px}
+.kol-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.kol-tag{font-size:11px;font-weight:600;padding:3px 8px;border-radius:6px;background:var(--bg-page-deep);color:var(--text-sub);border:1px solid var(--border-light)}
+.kol-summary{flex:1;margin:0 0 16px;font-size:14px;line-height:1.7;color:var(--text-sub)}
+.kol-key-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding:12px 8px;margin-bottom:12px;text-align:center;background:var(--bg-card-alt);border:1px solid var(--border-light);border-radius:10px}
+.ks-val{font-family:var(--font-num);font-size:16px;font-weight:700;color:var(--text-main);line-height:1.2}
+.ks-lbl{margin-top:2px;font-size:11px;color:var(--text-muted)}
+.kol-foot{display:flex;flex-wrap:wrap;gap:4px 14px;justify-content:space-between;padding-top:10px;border-top:1px solid var(--border-light);font-size:12.5px;color:var(--text-muted)}
+.hero-banner{position:relative;background:linear-gradient(135deg,#fff 0%,#FAF6EE 100%);border:1px solid var(--border-main);border-radius:16px;padding:32px 34px 26px;margin:18px 0 8px;box-shadow:var(--shadow-card);overflow:hidden}
+.hero-banner::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:linear-gradient(90deg,#B45309,#D97706,#F59E0B)}
+.hero-banner h1{margin-top:4px}
+.hero-banner .hero-desc{margin:8px 0 0;max-width:none}
+.kicker{font-size:12px;font-weight:800;letter-spacing:.12em;color:var(--brand-amber);margin-bottom:4px}
+.metric-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.badge{display:flex;flex-direction:column;gap:2px;min-width:108px;max-width:240px;margin:0;padding:12px 14px;background:#fff;border:1px solid var(--border-main);border-radius:12px;box-shadow:0 1px 3px rgba(31,27,22,.03)}
+.badge b{font-family:var(--font-num);font-size:18px;font-weight:700;color:var(--brand-amber);line-height:1.25}
+.loop{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.loop .card{margin:0}
+.loop .card b{font-family:var(--font-serif)}
+.vol-lec{padding:7px 0;border-top:1px dashed var(--border-light)}
+.vol-lec:first-of-type{margin-top:8px}
+.funnel{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:baseline}
+.funnel span b{font-family:var(--font-num);color:var(--brand-amber);font-size:20px;margin-left:4px}
+.tag{display:inline-block;background:var(--bg-page-deep);color:var(--text-sub);border:1px solid var(--border-light);border-radius:6px;padding:1px 8px;margin:2px 4px 2px 0;font-size:12px;font-weight:600}
+a.tag{color:var(--brand-amber-hover);background:#fff}
+a.tag:hover{background:var(--brand-amber-light);border-color:rgba(180,83,9,.35);text-decoration:none}
+.f-ref,.f-fab{background:#FEE2E2;color:var(--accent-red);border-color:#FECACA}
+.f-own{background:#DCFCE7;color:var(--accent-green);border-color:#BBF7D0}
+.f-tpl,.f-tr{background:var(--brand-amber-light);color:var(--brand-amber-hover);border-color:#FDE68A}
+.prose{max-width:860px}
+.prose .card h3:first-child{margin-top:0}
+ol,ul{padding-left:1.25em}
+li{margin:4px 0}
+blockquote{margin:16px 0;padding:12px 16px;border-left:3px solid var(--brand-amber);border-radius:0 12px 12px 0;background:var(--bg-card-alt);color:var(--text-sub);font-family:var(--font-serif)}
+.tw{background:#fff;border:1px solid var(--border-main);border-left:3px solid var(--border-dark);border-radius:12px;padding:12px 14px;margin:12px 0;white-space:pre-wrap;overflow-wrap:anywhere;word-break:break-word}
+.tw.lv1{border-left-color:#3F6212}
+.tw.lv2{border-left-color:var(--brand-amber);background:linear-gradient(90deg,rgba(254,243,199,.55),#fff 32%)}
+.thumbs img{height:84px;margin:6px 6px 0 0;border-radius:8px;border:1px solid var(--border-main);cursor:zoom-in;max-width:100%;object-fit:cover}
+.tl{padding:6px 0;border-bottom:1px dashed var(--border-light)}
+.tl:last-child{border-bottom:0}
+.pager{display:flex;justify-content:space-between;gap:16px;margin:28px 0 8px;font-weight:700}
+.tbl{overflow-x:auto;background:#fff;border:1px solid var(--border-main);border-radius:12px;box-shadow:var(--shadow-card)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+td,th{border-bottom:1px solid var(--border-light);padding:8px 10px;text-align:left;vertical-align:top}
+th{background:#F6EFE2;color:var(--brand-amber-hover);font-size:12.5px;font-weight:700}
+tbody tr:nth-child(even) td{background:#FBF9F5}
+tbody tr:hover td{background:rgba(254,243,199,.4)}
+.tbl.cmp table{min-width:960px}
+.tbl.cmp th,.tbl.cmp td:first-child{white-space:nowrap}
+.tbl.cmp td:first-child,.tbl.cmp th:first-child{font-weight:700}
+.tbl:not(.cmp) td:first-child,.tbl:not(.cmp) th:first-child{white-space:nowrap;width:1%}
+.r-对{color:var(--accent-green);font-weight:700}
+.r-错{color:var(--accent-red);font-weight:700}
+.r-部分对{color:var(--brand-amber);font-weight:700}
+.filters{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center}
+input,select,button{background:#fff;color:var(--text-main);border:1px solid var(--border-main);border-radius:999px;padding:8px 12px;font:inherit;font-size:14px;max-width:100%}
+input:focus,select:focus{outline:none;border-color:var(--brand-amber);box-shadow:0 0 0 3px rgba(180,83,9,.15)}
+button{background:var(--brand-amber);color:#fff;font-weight:700;border:none;cursor:pointer}
+button:hover{background:var(--brand-amber-hover)}
+#aq{width:min(240px,100%)}
+#mq{width:min(420px,100%)}
+.dl-row{padding:10px 0;border-bottom:1px dashed var(--border-light)}
+.dl-row:last-child{border-bottom:0;padding-bottom:0}
+.dl-row b{font-family:var(--font-serif)}
+#lb{position:fixed;inset:0;background:rgba(31,27,22,.88);display:none;align-items:center;justify-content:center;z-index:40}
+#lb img{max-width:96vw;max-height:94vh;border-radius:8px}
+.site-foot{margin-top:auto;border-top:1px solid var(--border-main);background:var(--bg-page-deep);padding:28px 16px 32px;text-align:center;color:var(--text-sub);font-size:13px}
+.site-foot .sig{font-family:var(--font-serif);font-weight:900;color:var(--brand-amber);margin-bottom:4px}
+@media(max-width:860px){
+  .kol-grid{grid-template-columns:1fr}
+  .stats-strip{grid-template-columns:repeat(2,1fr);padding:4px 0}
+  .stat-item+.stat-item{box-shadow:none}
+  .stat-item:nth-child(n+3){border-top:1px solid var(--border-light)}
+  .stat-item:last-child:nth-child(odd){grid-column:1 / -1}
+  .hero-banner{padding:22px 18px 18px}
+  .kol-card{padding:20px 16px 14px}
+  .ks-val{font-size:14px}
+  main{padding:4px 14px 48px}
+}
+@media(prefers-reduced-motion:reduce){.kol-card{transition:none}}
 </style></head><body>
-<header><nav id="nav"></nav></header><main id="app">加载中…</main><div id="lb" onclick="this.style.display='none'"><img id="lbi" alt=""></div>
+<div class="top-announce">KOL 档案馆 · 仅作研究记录，不构成任何投资建议</div>
+<header><nav id="nav"></nav></header>
+<main id="app">加载中…</main>
+<footer class="site-foot"><div class="sig">KOL 档案馆</div>研究记录，不构成任何投资建议。统计由脚本从档案数据生成。</footer>
+<div id="lb" onclick="this.style.display='none'"><img id="lbi" alt=""></div>
 <script>
 const $=s=>document.querySelector(s),E=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const C={};function norm(D){if(!D||!D.meta)return D;if(Array.isArray(D.tw)&&D.tw[0]&&!Array.isArray(D.tw[0]))D.tw=D.tw.map(t=>[t.i,t.t,t.k,t.x,t.q,t.lv,t.g||[],t.d,t.s,t.l,t.v,t.r,t.m,t.f||[],t.L||[],t.im||[]]);if(!D.meta.flags)D.meta.flags={};if(!D.meta.years){const y={};for(const t of D.tw||[]){const yr=String(t[1]||'').slice(0,4);if(/^\d{4}$/.test(yr))y[yr]=(y[yr]||0)+1}D.meta.years=y}if(D.meta.tagging==null)D.meta.tagging='';return D}async function J(u){if(!C[u]){const r=await fetch('./'+u);C[u]=norm(await r.json())}return C[u]}
 const pad=n=>String(n).padStart(2,'0');const X=i=>'https://x.com/0xAA_Science/status/'+i;
 function lb(src){$('#lbi').src=src;$('#lb').style.display='flex'}
-function nav(slug){$('#nav').innerHTML=`<b><a href="#home">KOL 档案馆</a></b><a href="#home">首页</a>`+(slug?`<a href="#${slug}">总览</a><a href="#${slug}.L01">讲义</a><a href="#${slug}.models">模型</a><a href="#${slug}.articles">长文</a><a href="#${slug}.score">记分卡</a><a href="#${slug}.archive">检索</a><a href="#${slug}.mentor">AI导师</a>`:'')+`<a href="#compare">横向对比</a><a href="#download">下载</a>`}
+function nav(slug){const h=(location.hash||'#home').slice(1)||'home';const sub=h.includes('.')?h.slice(h.indexOf('.')+1):'';
+const on=href=>{const id=href.slice(1);if(id==='home')return h==='home';if(id==='compare'||id==='download')return h===id;if(/\.L01$/.test(id))return /^L\d+$/.test(sub);return h===id};
+const a=(href,label)=>`<a class="${on(href)?'on':''}" href="${href}">${label}</a>`;
+$('#nav').innerHTML=`<a class="brand" href="#home">KOL 档案馆</a>`+a('#home','首页')+(slug?a('#'+slug,'总览')+a('#'+slug+'.L01','讲义')+a('#'+slug+'.models','模型')+a('#'+slug+'.articles','长文')+a('#'+slug+'.score','记分卡')+a('#'+slug+'.archive','检索')+a('#'+slug+'.mentor','AI导师'):'')+a('#compare','横向对比')+a('#download','下载')}
 function twHTML(t,D){const[i,tm,k,x,q,lv,g,d,s,l,v,r,m,f,L,im]=t;return `<div class="tw lv${lv}"><div class="muted">${E(tm)} · ${E(k)} · ♥${l} 阅${v} · L${lv} ${g.map(a=>`<span class="tag">${E(a)}</span>`).join('')}${f.map(a=>`<span class="tag f-${a}">${a}</span>`).join('')}${L.length?' · 讲'+L.join(','):''} · <a href="${X(i)}" target="_blank" rel="noopener">原帖</a></div>${s?`<div><b>${E(s)}</b></div>`:''}${E(x)}${q?`<div class="muted">[引用] ${E(q.slice(0,300))}</div>`:''}${im&&im.length?`<div class="thumbs">${im.map(p=>`<img loading="lazy" src="images/0xaa/${p}" onclick="lb(this.src)" alt="截图">`).join('')}</div>`:''}</div>`}
 async function home(){const K=await J('data/kols.json'),X2=await J('data/external.json');
-return `<h1>KOL 档案馆</h1><p class="muted">把 KOL 推文做成可检索、可核对的讲义库。所有统计由脚本生成。</p><div class="grid">${K.map(k=>`<a class="card" href="#${k.slug}"><h3>${E(k.name)} <span class="muted">@${E(k.handle)}</span></h3><div class="muted">${E(k.type)}</div><p>${E(k.intro)}</p><div class="muted">${k.total.toLocaleString()} 条 · 干货 ${k.good} · 核心 ${k.core} · ${k.lectures} 讲 · 记分 对${k.score.right}/错${k.score.wrong}/部分${k.score.partial}/待${k.score.pending}</div><div class="muted">${k.from} → ${k.to}</div></a>`).join('')}</div>
-<h2>外部档案（仅外链）</h2>${X2.map(s=>`<div class="card"><b>${E(s.source)}</b> <span class="muted">by ${E(s.by)}</span><p class="muted">${E(s.intro)}</p>${s.items.map(it=>`<a class="tag" href="${it.url}" target="_blank" rel="noopener">${E(it.name)} @${E(it.handle)}</a>`).join('')}</div>`).join('')}${await dl()}`}
-async function dl(){const K=await J('data/kols.json');return `<h2 id="download">数据湖下载</h2><div class="card">${K.map(k=>`<div><b>${E(k.name)}</b>：<a href="data/${k.slug}_tweets.csv" download>清洗推文 CSV</a> · <a href="data/${k.slug}_models.json" download>思维模型 JSON</a> · <a href="data/${k.slug}_articles.json" download>长文 JSON</a> · <a href="data/${k.slug}.json" download>全量档案 JSON</a></div>`).join('')}</div>`}
+const sum=fn=>K.reduce((a,k)=>a+(+fn(k)||0),0);
+const scored=sum(k=>((k.score||{}).right||0)+((k.score||{}).wrong||0)+((k.score||{}).partial||0)+((k.score||{}).pending||0));
+const stat=(v,l)=>`<div class="stat-item"><div class="stat-val">${v}</div><div class="stat-lbl">${l}</div></div>`;
+const card=k=>{const sc=k.score||{};const av=k.avatar?`<img class="kol-avatar" src="${E(k.avatar)}" alt="">`:`<div class="kol-avatar fallback" aria-hidden="true">${E(String(k.name||'').slice(0,1))}</div>`;
+return `<a class="kol-card" href="#${k.slug}"><div class="kol-card-top">${av}<div><div class="kol-name-row"><div class="kol-name">${E(k.name)}</div><span class="kol-ribbon">${k.lectures} 讲</span></div><div class="kol-handle">@${E(k.handle)}</div></div></div><div class="kol-type">${E(k.type)}</div><div class="kol-tags">${(k.loop||[]).map(t=>`<span class="kol-tag">${E(t)}</span>`).join('')}</div><p class="kol-summary">${E(k.intro)}</p><div class="kol-key-stats"><div><div class="ks-val">${k.total.toLocaleString()}</div><div class="ks-lbl">收录</div></div><div><div class="ks-val">${k.good.toLocaleString()}</div><div class="ks-lbl">干货</div></div><div><div class="ks-val">${k.core.toLocaleString()}</div><div class="ks-lbl">核心</div></div></div><div class="kol-foot"><span>${E(k.from)} → ${E(k.to)}</span><span>记分 对${sc.right}/错${sc.wrong}/部分${sc.partial}/待${sc.pending}</span></div></a>`};
+return `<section class="hero"><div class="hero-badge">研究记录 · 可检索 · 可核对</div><h1>KOL <span>档案馆</span></h1><p class="hero-desc">把 KOL 推文做成可检索、可核对的讲义库。所有统计由脚本生成。</p><div class="stats-strip">${stat(K.length,'已收录')}${stat(sum(k=>k.total).toLocaleString(),'总推')}${stat(sum(k=>k.lectures).toLocaleString(),'讲义')}${stat(sum(k=>k.good).toLocaleString(),'干货')}${stat(scored.toLocaleString(),'记分')}</div></section><div class="section-header"><h2>收录名录</h2><p class="section-desc">点击卡片进入该 KOL 的档案总览</p></div><div class="kol-grid">${K.map(card).join('')}</div><h2>外部档案（仅外链）</h2>${X2.map(s=>`<div class="card"><b>${E(s.source)}</b> <span class="muted">by ${E(s.by)}</span><p class="muted">${E(s.intro)}</p>${s.items.map(it=>`<a class="tag" href="${it.url}" target="_blank" rel="noopener">${E(it.name)} @${E(it.handle)}</a>`).join('')}</div>`).join('')}${await dl()}`}
+async function dl(){const K=await J('data/kols.json');return `<h2 id="download">数据湖下载</h2><div class="card">${K.map(k=>`<div class="dl-row"><b>${E(k.name)}</b>：<a href="data/${k.slug}_tweets.csv" download>清洗推文 CSV</a> · <a href="data/${k.slug}_models.json" download>思维模型 JSON</a> · <a href="data/${k.slug}_articles.json" download>长文 JSON</a> · <a href="data/${k.slug}.json" download>全量档案 JSON</a></div>`).join('')}</div>`}
 async function overview(slug){const D=await J(`data/${slug}.json`),M=D.meta,S=D.scoreSum;
-return `<h1>${E(M.hero)}</h1><p class="muted">@${E(M.handle)} · ${E(M.type)} · ${M.from} → ${M.to} · 构建 ${M.built}</p><p>${E(M.lede)}</p>
-<div>${M.badges.map(b=>`<span class="badge"><b>${E(b.v??b.value)}</b>${E(b.k??b.label)}</span>`).join('')}</div>
+return `<section class="hero-banner"><h1>${E(M.hero)}</h1><p class="muted">@${E(M.handle)} · ${E(M.type)} · ${M.from} → ${M.to} · 构建 ${M.built}</p><p class="hero-desc">${E(M.lede)}</p><div class="metric-row">${M.badges.map(b=>`<span class="badge"><b>${E(b.v??b.value)}</b>${E(b.k??b.label)}</span>`).join('')}</div></section>
 <h2>决策闭环</h2><div class="loop">${M.loopDetail.map((x,n)=>`<div class="card"><b>${n+1}. ${E(x.name)}</b><div class="muted">${E(x.desc)}</div><a href="#${slug}.L${pad(D.outline.vols.find(v=>v.v==x.vol).lec[0][0])}">→ 第${x.vol}卷</a></div>`).join('')}</div>
-<h2>卷 / 讲目录</h2>${D.outline.vols.map(v=>`<div class="card"><b>第${v.v}卷 · ${E(v.name)}</b> <span class="muted">${v.step?'闭环第'+v.step+'步':'背景'}</span>${v.lec.map(([n,t,k])=>`<div><a href="#${slug}.L${pad(n)}">L${pad(n)} ${E(t)}</a> <span class="muted">${E(k)}</span></div>`).join('')}</div>`).join('')}
+<h2>卷 / 讲目录</h2>${D.outline.vols.map(v=>`<div class="card"><b>第${v.v}卷 · ${E(v.name)}</b> <span class="muted">${v.step?'闭环第'+v.step+'步':'背景'}</span>${v.lec.map(([n,t,k])=>`<div class="vol-lec"><a href="#${slug}.L${pad(n)}">L${pad(n)} ${E(t)}</a> <span class="muted">${E(k)}</span></div>`).join('')}</div>`).join('')}
 <h2>数据漏斗</h2><div class="card funnel"><span>全部 <b>${M.total.toLocaleString()}</b></span><span>预筛 <b>${M.cand.toLocaleString()}</b></span><span>干货 lv≥1 <b>${M.good}</b></span><span>核心 lv2 <b>${M.core}</b></span><div class="muted">可信度标记占比：${Object.entries(M.flags).map(([k,v])=>k+' '+v+'%').join(' · ')}</div><div class="muted">${E(M.tagging)}</div></div>
 <h2>记分卡摘要</h2><div class="card">共 ${S.total} 条，可验证 ${S.verifiable}：对 ${S.right} · 错 ${S.wrong} · 部分对 ${S.partial} · 未到期 ${S.pending}<p>${E(S.insight)}</p><a href="#${slug}.score">查看全部 →</a></div>
 <div class="card muted">${E(M.note)}</div>`}
 async function lecture(slug,n){const D=await J(`data/${slug}.json`),T=Object.fromEntries(D.tw.map(t=>[t[0],t]));const l=D.lec.find(x=>x.n==n);if(!l)return '<p>无此讲</p>';
 const v=D.outline.vols.find(v=>v.lec.some(x=>x[0]==n));const nx=D.lec.find(x=>x.n==n+1),pv=D.lec.find(x=>x.n==n-1);
 const sec=s=>E(s).replace(/【([^】]+)】/g,'</p><h3>【$1】</h3><p>');
-return `<div class="muted">第${v.v}卷 · ${E(v.name)}</div><h1>L${pad(n)} ${E(l.title)}</h1><div class="muted">⏱️ 研读约 ${l.readMin??l.readMinutes??''} 分钟 · 📝 关联原推 ${l.relCount??l.relatedTweets??''} 篇</div>
+return `<article class="prose"><div class="kicker">第${v.v}卷 · ${E(v.name)}</div><h1>L${pad(n)} ${E(l.title)}</h1><div class="muted">⏱️ 研读约 ${l.readMin??l.readMinutes??''} 分钟 · 📝 关联原推 ${l.relCount??l.relatedTweets??''} 篇</div>
 <div class="card"><b>核心问题：</b>${E(l.question)}<ol>${l.takeaways.map(t=>`<li>${E(t)}</li>`).join('')}</ol></div>
 <h2>深度拆解</h2><div class="card"><h3>现象</h3><p>${sec(l.deep.phenomenon)}</p><h3>机制</h3><p>${sec(l.deep.mechanism)}</p><h3>规则</h3><ul>${l.deep.rules.map(r=>`<li>${E(r)}</li>`).join('')}</ul></div>
 ${l.cases.length?`<h2>案例</h2>${l.cases.map(c=>`<div class="card"><b>${E(c.name)}</b><div>发现：${E(c.discover)}</div><div>进场：${E(c.entry)}</div><div>持有：${E(c.hold)}</div><div>退出：${E(c.exit)}</div><div>教训：${E(c.lesson)}</div>${c.ids.map(i=>`<a href="${X(i)}" target="_blank" rel="noopener">原帖</a>`).join(' ')}</div>`).join('')}`:''}
-<h2>时间证据链</h2><div class="card">${l.timeline.map(t=>`<div><span class="muted">${t.date}</span> ${E(t.note)} <a href="${X(t.id)}" target="_blank" rel="noopener">↗</a></div>`).join('')}</div>
+<h2>时间证据链</h2><div class="card">${l.timeline.map(t=>`<div class="tl"><span class="muted">${t.date}</span> ${E(t.note)} <a href="${X(t.id)}" target="_blank" rel="noopener">↗</a></div>`).join('')}</div>
 <h2>必读原推</h2>${l.lead.map(x=>T[x.id]?twHTML(T[x.id],D):'').join('')}
 <h2>GMGN 对照</h2><div class="card"><b>借鉴</b><ul>${l.gmgn.borrow.map(x=>`<li>${E(x)}</li>`).join('')}</ul><b>过滤</b><ul>${l.gmgn.filter.map(x=>`<li>${E(x)}</li>`).join('')}</ul><b>护栏</b><p>${E(l.gmgn.guard)}</p></div>
 <h2>局限与翻车</h2><div class="card">${E(l.limits)}</div><blockquote>「${E(l.quote.text)}」 <a href="${X(l.quote.id)}" target="_blank" rel="noopener">原帖</a></blockquote>
-<p>${pv?`<a href="#${slug}.L${pad(pv.n)}">← L${pad(pv.n)}</a>`:''} &nbsp; ${nx?`<a href="#${slug}.L${pad(nx.n)}">L${pad(nx.n)} →</a>`:''}</p>`}
+<p class="pager">${pv?`<a href="#${slug}.L${pad(pv.n)}">← L${pad(pv.n)}</a>`:'<span></span>'} ${nx?`<a href="#${slug}.L${pad(nx.n)}">L${pad(nx.n)} →</a>`:''}</p></article>`}
 const Q=m=>typeof m.quote==='string'?{text:m.quote,id:m.quoteId||''}:(m.quote||{text:'',id:''});const LE=m=>m.lec||m.lectures||[];const AT=a=>a.text??a.body??a.excerpt??'';
-async function models(slug){const D=await J(`data/${slug}.json`);return `<h1>核心思维模型</h1>${D.models.map(m=>{const q=Q(m);return `<div class="card"><b>${m.id} ${E(m.name)}</b><p>${E(m.desc)}</p><blockquote>「${E(q.text)}」 <a href="${X(q.id)}" target="_blank" rel="noopener">原帖</a></blockquote><div class="muted">关联讲：${LE(m).map(n=>`<a href="#${slug}.L${pad(n)}">L${pad(n)}</a>`).join(' ')}</div></div>`}).join('')}`}
-async function articles(slug){const D=await J(`data/${slug}.json`);return `<h1>长文研报</h1><p class="muted">X Article 共 ${D.articles.length} 篇；导出未含全文的只列标题+摘录+原帖链接。</p>${D.articles.map(a=>`<div class="card"><b>${E(a.title)}</b> <span class="muted">${a.date} · ${a.chars??a.words??''} 字 · 约 ${a.readMin??a.readMinutes??''} 分钟 · ${a.full?'全文':E(a.note??a.summary??'')}</span><div class="tw">${E(AT(a))}</div><a href="${a.url}" target="_blank" rel="noopener">原帖</a></div>`).join('')}`}
+async function models(slug){const D=await J(`data/${slug}.json`);return `<article class="prose"><h1>核心思维模型</h1>${D.models.map(m=>{const q=Q(m);return `<div class="card"><b>${m.id} ${E(m.name)}</b><p>${E(m.desc)}</p><blockquote>「${E(q.text)}」 <a href="${X(q.id)}" target="_blank" rel="noopener">原帖</a></blockquote><div class="muted">关联讲：${LE(m).map(n=>`<a href="#${slug}.L${pad(n)}">L${pad(n)}</a>`).join(' ')}</div></div>`}).join('')}</article>`}
+async function articles(slug){const D=await J(`data/${slug}.json`);return `<article class="prose"><h1>长文研报</h1><p class="muted">X Article 共 ${D.articles.length} 篇；导出未含全文的只列标题+摘录+原帖链接。</p>${D.articles.map(a=>`<div class="card"><b>${E(a.title)}</b> <span class="muted">${a.date} · ${a.chars??a.words??''} 字 · 约 ${a.readMin??a.readMinutes??''} 分钟 · ${a.full?'全文':E(a.note??a.summary??'')}</span><div class="tw">${E(AT(a))}</div><a href="${a.url}" target="_blank" rel="noopener">原帖</a></div>`).join('')}</article>`}
 async function score(slug){const D=await J(`data/${slug}.json`),S=D.scoreSum;return `<h1>预测记分卡</h1><div class="card">共 ${S.total} · 可验证 ${S.verifiable} · 对 ${S.right} · 错 ${S.wrong} · 部分对 ${S.partial} · 未到期 ${S.pending}<p>${E(S.insight)}</p><div class="muted">${Object.entries(S.by_domain).map(([k,v])=>k+'：'+(Object.entries(v).map(([a,b])=>a+b).join(' ')||'—')).join('　')}</div></div>
-<div class="tbl"><table><tr><th>日期</th><th>标的</th><th>预测</th><th>结果</th><th>证据</th></tr>${D.score.map(s=>`<tr><td>${s.date}</td><td>${E(s.asset)}</td><td>${E(s.claim)} <a href="${X(s.id)}" target="_blank" rel="noopener">↗</a></td><td class="r-${s.result}">${s.result}</td><td>${E(s.evidence)} ${s.src?`<a href="${E(s.src)}" target="_blank" rel="noopener">出处</a>`:''}</td></tr>`).join('')}</table></div>`}
+<div class="tbl"><table><thead><tr><th>日期</th><th>标的</th><th>预测</th><th>结果</th><th>证据</th></tr></thead><tbody>${D.score.map(s=>`<tr><td>${s.date}</td><td>${E(s.asset)}</td><td>${E(s.claim)} <a href="${X(s.id)}" target="_blank" rel="noopener">↗</a></td><td class="r-${s.result}">${s.result}</td><td>${E(s.evidence)} ${s.src?`<a href="${E(s.src)}" target="_blank" rel="noopener">出处</a>`:''}</td></tr>`).join('')}</tbody></table></div>`}
 let AQ={q:'',lv:'',g:'',y:'',f:'',p:0};
 async function archive(slug){const D=await J(`data/${slug}.json`);const tags=[...new Set(D.tw.flatMap(t=>t[6]))].sort(),yrs=Object.keys(D.meta.years);
-setTimeout(()=>arun(slug),0);return `<h1>全文检索</h1><div class="card"><input id="aq" placeholder="关键词" value="${E(AQ.q)}" style="width:220px"> <select id="alv"><option value="">层级</option><option value="2">L2 核心</option><option value="1">L1+ 干货</option><option value="0">L0</option></select> <select id="ag"><option value="">主题</option>${tags.map(t=>`<option>${E(t)}</option>`).join('')}</select> <select id="ay"><option value="">年份</option>${yrs.map(y=>`<option>${y}</option>`).join('')}</select> <select id="af"><option value="">可信度</option><option>ref</option><option>tpl</option><option>tr</option><option>fab</option><option>own</option><option value="clean">无标记</option></select> <label class="muted"><input type="checkbox" id="ai"> 仅含截图</label></div><div id="ares"></div>`}
+setTimeout(()=>arun(slug),0);return `<h1>全文检索</h1><div class="card filters"><input id="aq" placeholder="关键词" value="${E(AQ.q)}"> <select id="alv"><option value="">层级</option><option value="2">L2 核心</option><option value="1">L1+ 干货</option><option value="0">L0</option></select> <select id="ag"><option value="">主题</option>${tags.map(t=>`<option>${E(t)}</option>`).join('')}</select> <select id="ay"><option value="">年份</option>${yrs.map(y=>`<option>${y}</option>`).join('')}</select> <select id="af"><option value="">可信度</option><option>ref</option><option>tpl</option><option>tr</option><option>fab</option><option>own</option><option value="clean">无标记</option></select> <label class="muted"><input type="checkbox" id="ai"> 仅含截图</label></div><div id="ares"></div>`}
 function arun(slug){const D=C[`data/${slug}.json`];const g=id=>$('#'+id);if(!g('aq'))return;const up=()=>{AQ={q:g('aq').value.trim(),lv:g('alv').value,g:g('ag').value,y:g('ay').value,f:g('af').value,im:g('ai').checked,p:0};render()};
 ['aq','alv','ag','ay','af','ai'].forEach(id=>g(id).oninput=up);g('alv').value=AQ.lv;g('ag').value=AQ.g;g('ay').value=AQ.y;g('af').value=AQ.f;
 function render(){const q=AQ.q.toLowerCase();let R=D.tw.filter(t=>(!q||t[3].toLowerCase().includes(q)||t[8].toLowerCase().includes(q))&&(AQ.lv===''||(AQ.lv==='1'?t[5]>=1:t[5]==AQ.lv))&&(!AQ.g||t[6].includes(AQ.g))&&(!AQ.y||t[1].startsWith(AQ.y))&&(!AQ.f||(AQ.f==='clean'?!t[13].length:t[13].includes(AQ.f)))&&(!AQ.im||t[15].length));
@@ -66,9 +216,9 @@ const sc=x=>terms.reduce((a,w)=>a+(x.toLowerCase().includes(w.toLowerCase())?1:0
 const mm=D.models.map(m=>[sc(m.name+m.desc+Q(m).text),m]).filter(a=>a[0]).sort((a,b)=>b[0]-a[0]).slice(0,2);const ar=D.articles.map(a=>[sc(a.title+AT(a)),a]).filter(a=>a[0]).slice(0,1);
 const tw=D.tw.filter(t=>t[5]>=1).map(t=>[sc(t[3])+t[5]*0.5,t]).filter(a=>a[0]>=1).sort((a,b)=>b[0]-a[0]).slice(0,6);
 $('#mres').innerHTML=(mm.length?'<h3>相关思维模型</h3>'+mm.map(([_,m])=>`<div class="card"><b>${m.id} ${E(m.name)}</b> ${E(m.desc)}</div>`).join(''):'')+(ar.length?'<h3>相关长文</h3>'+ar.map(([_,a])=>`<div class="card">${E(a.title)}</div>`).join(''):'')+'<h3>档案原推（出处）</h3>'+(tw.length?tw.map(([_,t])=>twHTML(t,D)).join(''):'<p>档案里没谈过。</p>')};$('#mgo').onclick=go;$('#mq').onkeydown=e=>{if(e.key==='Enter')go()}},0);
-return `<h1>AI 导师 · 本地检索版</h1><div class="card muted">大模型问答暂不可用（不在前端放任何 API Key）。当前为本地检索：只从档案推文、思维模型、长文中找出处返回，不生成观点。${E(D.meta.note)}</div><div class="card"><input id="mq" placeholder="例如：翻倍 回本" style="width:70%"> <button id="mgo">检索</button><div class="muted">推荐：${D.meta.sugg.map(s=>E(s)).join(' / ')}</div></div><div id="mres"></div>`}
+return `<h1>AI 导师 · 本地检索版</h1><div class="card muted">大模型问答暂不可用（不在前端放任何 API Key）。当前为本地检索：只从档案推文、思维模型、长文中找出处返回，不生成观点。${E(D.meta.note)}</div><div class="card"><input id="mq" placeholder="例如：翻倍 回本"> <button id="mgo">检索</button><div class="muted">推荐：${D.meta.sugg.map(s=>E(s)).join(' / ')}</div></div><div id="mres"></div>`}
 async function compare(){const K=await J('data/kols.json');const Ds=await Promise.all(K.map(k=>J(`data/${k.slug}.json`)));const tags=[...new Set(Ds.flatMap(D=>D.tw.flatMap(t=>t[6])))].sort();
-return `<h1>横向对比</h1><p class="muted">按公共主题词表统计各 KOL 干货（lv≥1）条数；目前仅收录 ${K.length} 位，其他 KOL 待接入。外部档案不参与对比。</p><div class="tbl"><table><tr><th>主题</th>${K.map(k=>`<th>${E(k.name)}</th>`).join('')}</tr>${tags.map(g=>`<tr><td>${E(g)}</td>${Ds.map((D,j)=>{const n=D.tw.filter(t=>t[5]>=1&&t[6].includes(g)).length;const l=D.lec.filter(l=>(l.kw||[]).includes(g.slice(0,2))).map(l=>l.n);return `<td>${n}${l.length?' · '+l.map(x=>`<a href="#${K[j].slug}.L${pad(x)}">L${pad(x)}</a>`).join(' '):''}</td>`}).join('')}</tr>`).join('')}</table></div>`}
+return `<h1>横向对比</h1><p class="muted">按公共主题词表统计各 KOL 干货（lv≥1）条数；目前仅收录 ${K.length} 位，其他 KOL 待接入。外部档案不参与对比。</p><div class="tbl cmp"><table><thead><tr><th>主题</th>${K.map(k=>`<th>${E(k.name)}</th>`).join('')}</tr></thead><tbody>${tags.map(g=>`<tr><td>${E(g)}</td>${Ds.map((D,j)=>{const n=D.tw.filter(t=>t[5]>=1&&t[6].includes(g)).length;const l=D.lec.filter(l=>(l.kw||[]).includes(g.slice(0,2))).map(l=>l.n);return `<td>${n}${l.length?' · '+l.map(x=>`<a href="#${K[j].slug}.L${pad(x)}">L${pad(x)}</a>`).join(' '):''}</td>`}).join('')}</tr>`).join('')}</tbody></table></div>`}
 async function route(){$('#lb').style.display='none';const h=(location.hash||'#home').slice(1);const[slug,sub]=h.split('.');let html;
 try{if(h==='home'||!h){nav();html=await home()}else if(h==='compare'){nav();html=await compare()}else if(h==='download'){nav();html=await dl()}
 else{const K=await J('data/kols.json');if(!K.some(k=>k.slug===slug)){nav();html='<p>未找到该档案</p>'}else{nav(slug);
